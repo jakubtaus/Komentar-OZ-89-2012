@@ -1,0 +1,674 @@
+# Kapitola 10 — Část první, Hlava IV: Věci a jejich rozdělení (§ 489—544)
+
+## Přehled
+
+Hlava IV vymezuje **pojem věci v právním smyslu** a její dělení. Tato úprava je **stavebním kamenem věcného práva** (Část třetí — vlastnické právo, věcná práva, dědění) i **závazkového práva** (Část čtvrtá — kupní smlouva, darování, nájem). Bez pochopení toho, co je „věc" a jak se dělí, nelze správně aplikovat ustanovení o nabývání vlastnictví, o vadách věci nebo o převodu věcných práv.
+
+| Díl | Paragrafy | Téma |
+|---|---|---|
+| 1 | § 489—495 | **Všeobecná ustanovení** — věc, plody/užitky, hodnota a cena, vyloučení lidského těla a zvířete |
+| 2 | § 496—504 | **Rozdělení věcí** — hmotné/nehmotné, movité/nemovité, zastupitelné, zuživatelné, hromadná věc, obchodní závod, obchodní tajemství |
+| 3 | § 505—513 | **Součást a příslušenství** — *superficies solo cedit*, stroje, liniové stavby, příslušenství věci a pohledávky |
+| 4 | § 514—544 | **Cenné papíry** — listinné i zaknihované, kupóny, hromadná listina, přeměna |
+
+**Návrat k tradičnímu pojetí**: OZ z roku 2014 přinesl **revoluci v pojmu věci** oproti 40/1964 Sb. — zejména obnovu zásady **stavba je součástí pozemku** (*superficies solo cedit* — § 506), opuštění socialistického dělení věcí na „spotřební" a „výrobní" a začlenění **nehmotných věcí** (zejména práv) pod pojem věci.
+
+---
+
+## Díl 1 — Všeobecná ustanovení (§ 489—495)
+
+### § 489 — Definice věci
+
+Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby a slouží potřebě lidí.
+
+**Výklad:**
+
+**Definice věci** je **velmi široká** — paralela k římské *res*. **Dvě podmínky:**
+
+1. **Rozdílnost od osoby** — vylučuje FO i PO (osoba není věcí; § 17 — práva mají jen osoby);
+2. **Slouží potřebě lidí** — utilitární kritérium (musí mít užitkovou hodnotu).
+
+**Co je věc:**
+- **Hmotné objekty** (auto, kniha, nemovitost, jídlo);
+- **Práva** (pohledávky, věcná práva, autorská práva — § 496 odst. 2);
+- **Ovladatelné přírodní síly** (elektřina, plyn — § 497);
+- **Soubor věcí** (hromadná věc — § 501);
+- **Obchodní závod** jako organizovaný soubor jmění (§ 502);
+- **Cenné papíry** (§ 514).
+
+**Co NENÍ věc:**
+- **Lidské tělo** ani jeho části (§ 493) — výjimka pro vlasy/nehty (§ 112);
+- **Živé zvíře** (§ 494 — analogická aplikace pravidel o věcech);
+- **Lidé** jako osoby (§ 17);
+- **Voda v přirozeném korytě** (do oddělení — § 980 a násl.);
+- **Atmosféra** (jen jako součást nemovitosti);
+- **Veřejný statek** v plném významu (§ 490 — věc určená k obecnému užívání).
+
+**Praktický význam široké definice**: do oboru věcného práva (vlastnické právo, držba) se zahrnují i **práva** — lze hovořit o „vlastnictví pohledávky", „vlastnictví autorského práva". To zjednodušuje úpravu a umožňuje analogické aplikace.
+
+### § 490 — Veřejný statek
+
+Věc určená k obecnému užívání je veřejný statek.
+
+**Výklad:**
+
+**Veřejný statek** (*res publica*) — věc určená k **obecnému užívání** veřejností. Příklady:
+- Veřejné komunikace (silnice, chodníky, mosty);
+- Veřejná prostranství (náměstí, parky);
+- Veřejné vodní toky a vodní plochy přístupné veřejnosti;
+- Veřejně přístupná zařízení (např. veřejné WC, lavičky).
+
+**Právní režim**:
+- **Vlastnictví** veřejných statků mají typicky **stát**, **obec** nebo jiná PO veřejného práva;
+- **Užívání** je každému veřejnosti **bezúplatné a bez zvláštního souhlasu**;
+- Vlastník nemůže veřejné užívání svévolně zakázat;
+- Speciální zákony: zákon č. 13/1997 Sb. o pozemních komunikacích; zákon č. 254/2001 Sb. o vodách.
+
+### § 491 — Plody a užitky
+
+(1) Plod je to, co věc pravidelně poskytuje ze své přirozené povahy, jak je dáno jejím obvyklým účelovým určením a přiměřeně k němu, ať s přičiněním člověka nebo bez něho.
+
+(2) Užitky jsou to, co věc pravidelně poskytuje ze své právní povahy.
+
+**Výklad:**
+
+**Klasické dělení** (*fructus*):
+
+| Kategorie | Definice | Příklady |
+|---|---|---|
+| **Plody** (*fructus naturales*) | Přirozený výnos věci | Ovoce, mléko, vlna, mladá zvířata, dřevo z lesa, úroda na poli |
+| **Užitky** (*fructus civiles*) | Právní výnos věci | Nájemné, pacht, úroky z pohledávky, dividenda z akcie |
+
+**Praktický význam:**
+- **Vlastnictví plodů a užitků** přechází **na vlastníka věci** ipso iure (§ 1066 — plody patří vlastníkovi);
+- **Při dispozici s věcí** (prodej, dar) plody a užitky **náleží novému vlastníkovi** od okamžiku přechodu vlastnictví, ledaže je ujednáno jinak (§ 1067);
+- **Poctivý držitel** má nárok na plody a užitky **odebrané** během držby (§ 996); nepoctivý nemá (§ 1000);
+- **Užitky pohledávky** (úroky) — viz § 1808 a násl. (úroky z prodlení), § 513 (úroky jako příslušenství pohledávky).
+
+### § 492 — Hodnota a cena
+
+(1) Hodnota věci, lze-li ji vyjádřit v penězích, je její cena. Cena věci se určí jako cena obvyklá, ledaže je něco jiného ujednáno nebo stanoveno zákonem.
+
+(2) Mimořádná cena věci se stanoví, má-li se její hodnota nahradit, s přihlédnutím ke zvláštním poměrům nebo ke zvláštní oblibě vyvolané náhodnými vlastnostmi věci.
+
+**Výklad:**
+
+**Tři pojmy:**
+
+| Pojem | Použití |
+|---|---|
+| **Hodnota** | Obecná ekonomická kategorie (i nepeněžitá — užitková) |
+| **Cena obvyklá** (*pretium commune*) | Default — cena, za kterou by se věc prodala mezi nezávislými subjekty na trhu |
+| **Mimořádná cena** (*pretium affectionis*) | Speciální — při náhradě újmy s ohledem na zvláštní poměry nebo oblibu |
+
+**§ 492 odst. 1 — cena obvyklá** — východisko pro:
+- Náhradu škody (§ 2952 — nahrazuje se v penězích);
+- Bezdůvodné obohacení (§ 2999 — peněžitá restituce);
+- Vypořádání spoluvlastnictví (§ 1147);
+- Dědické vypořádání (§ 1693).
+
+**§ 492 odst. 2 — mimořádná cena** — zohledňuje:
+- **Zvláštní poměry** (například specifický komerční využití pro konkrétní podnikatele, jedinečné umístění);
+- **Zvláštní obliba** (sentimentální hodnota — fotografie, památky); platí jen **při náhradě**.
+
+**Praktický význam**: u věcí zvláštní obliby (§ 459) je hodnota při náhradě **vyšší** než tržní (zohlednění citového vztahu).
+
+### § 493 — Lidské tělo
+
+Lidské tělo ani jeho části, třebaže byly od těla odděleny, nejsou věcí.
+
+**Výklad:**
+
+**Lidské tělo NENÍ věc** — ani po oddělení částí. Tato kogentní zásada chrání **lidskou důstojnost** (čl. 10 LZPS) a brání komercializaci lidského těla.
+
+**Důsledky:**
+- Krev, sperma, vajíčka, orgány **nejsou věc** ve smyslu OZ — řídí se speciálními zákony (zákon č. 285/2002 Sb. o transplantacích, zákon č. 296/2008 Sb. o tkáních, zákon č. 373/2011 Sb. o specifických zdravotních službách);
+- **Nelze prodat** orgány (komercializace zakázána);
+- **Nelze zatížit** zástavou.
+
+**Výjimka — vlasy, nehty a podobné**: § 112 OZ — obnovující se části těla, které lze bezbolestně odejmout, jsou **movitou věcí** (vlasy lze prodat parukáři).
+
+### § 494 — Zvíře
+
+Živé zvíře má zvláštní význam a hodnotu již jako smysly nadaný živý tvor. Živé zvíře není věcí a ustanovení o věcech se na živé zvíře použijí obdobně jen v rozsahu, ve kterém to neodporuje jeho povaze.
+
+**Výklad:**
+
+**Klíčová změna oproti 40/1964 Sb.**: zvíře už **není věc**. Toto vyjadřuje **etický posun** — uznání zvířete jako **cítící bytosti** (analogie německého § 90a BGB, francouzského čl. 515-14 CC).
+
+**Praktické důsledky:**
+- **Obdobná aplikace** pravidel o věcech (lze koupit zvíře, darovat, zdědit, převést, zastavit — to není v rozporu s povahou zvířete);
+- **Vyloučení aplikace tam, kde to odporuje povaze**:
+  - Zákaz nakládání protibližujícího se týrání (zákon č. 246/1992 Sb. na ochranu zvířat);
+  - Specifické ochranné instituty (§ 1395 — zvláštní pravidla pro vrácení ztraceného zvířete; § 1396 — nálezce zvířete v zájmovém chovu);
+  - Limitace náhrady škody — ne jen obvyklou cenu, ale i náklady na léčbu (§ 2970).
+- **Speciální úprava** v § 2970 — náhrada škody na zvířeti zahrnuje **náklady na léčbu**, i pokud jsou vyšší než cena zvířete (zohlednění citového vztahu).
+
+### § 495 — Majetek a jmění
+
+Souhrn všeho, co osobě patří, tvoří její majetek. Jmění osoby tvoří souhrn jejího majetku a jejích dluhů.
+
+**Výklad:**
+
+**Klíčové pojmové rozlišení:**
+
+| Pojem | Definice | Praktický význam |
+|---|---|---|
+| **Majetek** | Souhrn věcí osoby (aktiv) | Měřítko bonity, předmět dispozic |
+| **Jmění** (*Vermögen*) | **Majetek + dluhy** = aktiva + pasiva | Předmět dědictví, ekonomická bilance |
+
+**Rozdíly:**
+- **Majetek** ≠ **jmění** (běžně používané synonymně, právně se liší!);
+- **Pozůstalost** = jmění zůstavitele (§ 1475 — aktiva i pasiva);
+- **Manželské majetkové společenství** (SJM) — společné jmění zahrnuje aktiva i dluhy (§ 708 a násl.);
+- **Likvidační podstata** PO v likvidaci = aktiva (majetek), z nichž se hradí dluhy (§ 187).
+
+---
+
+## Díl 2 — Rozdělení věcí (§ 496—504)
+
+### § 496 — Hmotné a nehmotné věci
+
+(1) Hmotná věc je ovladatelná část vnějšího světa, která má povahu samostatného předmětu.
+
+(2) Nehmotné věci jsou práva, jejichž povaha to připouští, a jiné věci bez hmotné podstaty.
+
+**Výklad:**
+
+**Hmotná věc** (*res corporales*):
+- **Ovladatelná** část vnějšího světa (lze ji zachytit, držet, ovládat);
+- **Samostatný předmět** (oddělená od jiných).
+
+**Nehmotná věc** (*res incorporales*):
+- **Práva** s povahou věci (pohledávky, věcná práva, autorská práva, ochranné známky, patenty);
+- **Jiné** věci bez hmotné podstaty (např. doménová jména, kryptoaktiva — k těm se rozsáhle hovoří v rozhodnutí ÚS Pl. ÚS 47/22).
+
+**Praktický význam:**
+- **Vlastnictví nehmotných věcí** — možné, ale s **omezeným režimem** (např. nelze fyzicky držet, převést z místa na místo);
+- **Cenné papíry** (§ 514) — hybrid: listina (hmotná) + právo (nehmotné);
+- **Zaknihované cenné papíry** (§ 525) — zcela nehmotné (jen záznam v evidenci).
+
+### § 497 — Ovladatelné přírodní síly
+
+Na ovladatelné přírodní síly, se kterými se obchoduje, se použijí přiměřeně ustanovení o věcech hmotných.
+
+**Výklad:**
+
+**Elektřina, plyn, teplo, voda** (v rozvodech), případně **kapacita datového přenosu** — to vše jsou **přírodní síly, s nimiž lze obchodovat**. Aplikuje se na ně **obdobně režim hmotných věcí** — lze je prodávat (kupní smlouva), pronajímat, dodávat (smlouva o dodávce energií).
+
+**Speciální úpravy:**
+- Zákon č. 458/2000 Sb. o energetice — elektrika, plyn, teplo;
+- Zákon č. 274/2001 Sb. o vodovodech a kanalizacích.
+
+### § 498 — Nemovité a movité věci
+
+(1) Nemovité věci jsou pozemky a podzemní stavby se samostatným účelovým určením, jakož i věcná práva k nim, a práva, která za nemovité věci prohlásí zákon. Stanoví-li zákon, že určitá věc není součástí pozemku, a nelze-li takovou věc přenést z místa na místo bez porušení její podstaty, je i tato věc nemovitá.
+
+(2) Veškeré další věci, ať je jejich podstata hmotná nebo nehmotná, jsou movité.
+
+**Výklad:**
+
+**Nemovité věci** (*res immobiles*):
+
+| Kategorie | Příklady |
+|---|---|
+| **Pozemky** | Stavební, zemědělské, lesní pozemky |
+| **Podzemní stavby se samostatným účelovým určením** | Metro, garáže pod jinou stavbou, sklepy mimo dům |
+| **Věcná práva k nemovitostem** | Právo stavby (§ 1240), věcné břemeno (§ 1257), zástavní právo na nemovitosti |
+| **Práva prohlášená zákonem za nemovité** | Zatím v OZ málo, ale např. patenty mohou mít zvláštní režim |
+| **Pevně spojené věci nepřenositelné** | Pokud zákon stanoví, že nejsou součástí pozemku — typicky **liniové stavby** (§ 509) |
+
+**Movité věci** (*res mobiles*) — všechno ostatní, **bez ohledu na hmotnou/nehmotnou podstatu**. Tj. movitými jsou:
+- Hmotné věci (auto, kniha, počítač);
+- Nehmotné věci (pohledávky, autorská práva, podíly v PO).
+
+**Praktický význam dichotomie**:
+- **Nabývání vlastnictví** — nemovitosti **vkladem do katastru** (§ 1105), movité věci **předáním** (§ 1099);
+- **Forma smluv** — převod věcného práva k nemovitosti vyžaduje **písemnou formu** (§ 560);
+- **Předpisy** — KatZ (256/2013 Sb.) pro nemovitosti.
+
+### § 499 — Zastupitelná věc
+
+Movitá věc, která může být nahrazena jinou věcí téhož druhu, je zastupitelná; ostatní věci jsou nezastupitelné. V pochybnostech se případ posoudí podle zvyklostí.
+
+**Výklad:**
+
+**Zastupitelné věci** (*res fungibiles*):
+- Lze nahradit jinou věcí **téhož druhu** (rod-věc);
+- Příklady: peníze, obilí, ropa, standardní spotřební zboží.
+
+**Nezastupitelné věci** (*res non fungibiles*):
+- Individualizované, nezaměnitelné;
+- Příklady: nemovitost (každá unikátní lokalitou), originální umělecké dílo, použité auto s konkrétním VIN.
+
+**Praktický význam:**
+- **Plnění** — u zastupitelných věcí stačí dodat **stejný druh a kvalitu**; u nezastupitelných **přesně tu věc** (§ 1908 — splnění závazku);
+- **Zápůjčka vs. výpůjčka** (§ 2390 vs. § 2193) — zápůjčka je **jen pro zastupitelné věci**;
+- **Smíšení a sloučení** věcí (§ 1078) — relevantní jen u zastupitelných.
+
+### § 500 — Zuživatelná věc
+
+Movitá věc, jejíž běžné použití spočívá v jejím spotřebování, zpracování nebo zcizení, je zuživatelná; zuživatelné jsou i ty movité věci, které náleží ke skladu nebo k jinému souboru, pokud jejich běžné užití spočívá v tom, že jsou prodávány jednotlivě. Ostatní věci jsou nezuživatelné.
+
+**Výklad:**
+
+**Zuživatelné věci** (*res consumptibiles*):
+- Běžné použití = **spotřebování / zpracování / zcizení**;
+- Příklady: potraviny, palivo, elektřina, suroviny.
+- **Zboží ve skladu** určené k jednotlivému prodeji.
+
+**Nezuživatelné věci**:
+- Užívání **bez snížení podstaty** (auto, počítač, nemovitost).
+
+**Praktický význam:**
+- **Užívací právo** (úžitek — § 1283 a násl.) — primárně pro nezuživatelné věci; u zuživatelných se aplikuje **kvazi-úžitek** (§ 1290) s povinností nahradit;
+- **Nájem vs. zápůjčka** — nájem se týká nezuživatelných věcí; zápůjčka zuživatelných (peníze, suroviny);
+- **Výhrada vlastnického práva** (§ 2132) — typická pro nezuživatelné věci.
+
+### § 501 — Hromadná věc
+
+Soubor jednotlivých věcí náležejících téže osobě, považovaný za jeden předmět a jako takový nesoucí společné označení, pokládá se za celek a tvoří hromadnou věc.
+
+**Výklad:**
+
+**Hromadná věc** (*universitas rerum*) — **soubor věcí téhož vlastníka**, který se **právně považuje za jeden předmět**. Příklady:
+- **Knihovna** (sbírka knih);
+- **Sbírka mincí, známek, obrazů**;
+- **Stádo skotu**;
+- **Sklad** určitého druhu zboží.
+
+**Klíčové vlastnosti**:
+- Skládá se z **jednotlivých věcí**, ale obrací se s ní jako s celkem;
+- **Společné označení** (např. „sbírka Smetanových rukopisů");
+- **Změna členů** souboru (přidávání/odebírání) **neovlivňuje identitu** hromadné věci.
+
+**Praktický význam:**
+- **Hromadný převod** (jednou smlouvou — efektivnější);
+- **Hromadná zástava** (§ 1346 — zástavní právo na hromadné věci);
+- **Pojištění** souboru věcí jednou smlouvou.
+
+### § 502 — Obchodní závod
+
+Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
+
+**Výklad:**
+
+**Obchodní závod** (*Unternehmen*, *business*) — **klíčový institut pro převody podnikání**. Charakteristika:
+
+- **Organizovaný soubor jmění** — aktiva (majetek) + dluhy + zaměstnanci + know-how + goodwill;
+- **Vytvořený podnikatelem** — výsledek jeho podnikatelské činnosti;
+- **Slouží k provozování činnosti** — funkční účel.
+
+**Vyvratitelná domněnka rozsahu** (věta druhá): závod tvoří **vše, co zpravidla slouží k jeho provozu**. To zahrnuje:
+- Nemovitosti (provozovny, sklady);
+- Movitý majetek (stroje, vybavení, vozidla, zásoby);
+- Pohledávky a dluhy z provozu;
+- **Zaměstnanci** (jejich pracovní poměry přecházejí podle § 338 zákoníku práce);
+- **Klientela / goodwill** (nehmotný majetek);
+- **Práva duševního vlastnictví** (značky, patenty);
+- **Smlouvy** s dodavateli/odběrateli.
+
+**Praktický význam — koupě závodu** (§ 2175 a násl.):
+- Lze prodat **celý závod jednou smlouvou** — efektivnější než převody jednotlivých složek;
+- **Univerzální sukcese** ohledně pohledávek, dluhů a smluv (s ochranou věřitelů — § 2177);
+- **Přechod zaměstnanců** (§ 338—342 ZP);
+- **Notářský zápis** pro převod závodu obchodní korporace.
+
+### § 503 — Pobočka a odštěpný závod
+
+(1) Pobočka je taková část závodu, která vykazuje hospodářskou a funkční samostatnost a o které podnikatel rozhodl, že bude pobočkou.
+
+(2) Je-li pobočka zapsána do obchodního rejstříku, jedná se o odštěpný závod; to platí i o jiné organizační složce, pokud o ní jiný právní předpis stanoví, že se zapíše do obchodního rejstříku. Vedoucí odštěpného závodu je oprávněn zastupovat podnikatele ve všech záležitostech týkajících se odštěpného závodu ode dne, ke kterému byl jako vedoucí odštěpného závodu zapsán do obchodního rejstříku.
+
+**Výklad:**
+
+**Tři pojmy:**
+
+| Pojem | Charakteristika |
+|---|---|
+| **Pobočka** | Hospodářsky a funkčně samostatná část závodu; **rozhodnutí podnikatele** |
+| **Odštěpný závod** | **Pobočka zapsaná v OR** |
+| **Jiná organizační složka** | Jiný typ, pokud se zapisuje do OR (např. organizační složka zahraniční osoby) |
+
+**Klíčové: VEDOUCÍ ODŠTĚPNÉHO ZÁVODU** je **ze zákona oprávněn zastupovat** podnikatele ve všech záležitostech týkajících se odštěpného závodu — bez plné moci, na základě zápisu v OR. To je důležitá implicitní zástupčí oprávnění (paralela k § 166 — zastoupení zaměstnanci, ale silnější).
+
+### § 504 — Obchodní tajemství
+
+Obchodní tajemství tvoří konkurenčně významné, určitelné, ocenitelné a v příslušných obchodních kruzích běžně nedostupné skutečnosti, které souvisejí se závodem a jejichž vlastník zajišťuje ve svém zájmu odpovídajícím způsobem jejich utajení.
+
+**Výklad:**
+
+**Obchodní tajemství** (*trade secret*, *Geschäftsgeheimnis*) — **kvalifikovaný typ nehmotné věci** s ochranou. **Pět kumulativních podmínek:**
+
+1. **Konkurenčně významné** — informace s ekonomickou hodnotou pro konkurenci;
+2. **Určitelné** — definovatelné, vymezitelné;
+3. **Ocenitelné** — peněžně vyjádřitelná hodnota;
+4. **V obchodních kruzích běžně nedostupné** — není veřejně známé v odvětví;
+5. **Vlastník aktivně utajuje** — odpovídajícím způsobem (NDA, šifrování, omezený přístup).
+
+**Typické příklady:**
+- Recepty (Coca-Cola, KFC);
+- Výrobní postupy a know-how;
+- Seznam klientů s kontakty;
+- Cenové strategie;
+- Software-zdrojový kód;
+- Marketingové plány.
+
+**Ochrana**:
+- **§ 2985 OZ** — ochrana proti porušení obchodního tajemství v nekalé soutěži;
+- **Zákon č. 221/2006 Sb. o vymáhání práv z průmyslového vlastnictví**;
+- **Trestní právo § 248 TZ** — porušení obchodního tajemství.
+
+**Vazba na § 2985** (nekalá soutěž) — žaloba: zápůrčí + restitutivní + náhrada škody + bezdůvodné obohacení.
+
+---
+
+## Díl 3 — Součást věci a příslušenství věci (§ 505—513)
+
+### Součást věci (§ 505—509)
+
+#### § 505 — Definice součásti
+
+Součást věci je vše, co k ní podle její povahy náleží a co nemůže být od věci odděleno, aniž se tím věc znehodnotí.
+
+**Výklad:**
+
+**Součást věci** (*pars rei*) — **právně neoddělitelná část** věci. **Test:**
+
+1. **Náleží k věci podle povahy** (přirozená integrace);
+2. **Nelze oddělit bez znehodnocení** — buď fyzicky nemožné, nebo by oddělení podstatně snížilo hodnotu.
+
+**Praktický důsledek**: součást **sleduje právní osud hlavní věci** — při převodu vlastnictví přechází automaticky, není potřeba zvláštní dispozice.
+
+**Příklady součástí:**
+- **Stavba na pozemku** (§ 506 — *superficies solo cedit*);
+- **Rostliny na pozemku** (§ 507);
+- **Okna, dveře v bytě**;
+- **Motor v autě**;
+- **Pevně zabudované kuchyňské vybavení** (typicky obklad, vestavěné spotřebiče);
+- **Sklepní kóje patřící k bytové jednotce**.
+
+### § 506 — *Superficies solo cedit* (návrat zásady)
+
+(1) Součástí pozemku je prostor nad povrchem i pod povrchem, stavby zřízené na pozemku a jiná zařízení (dále jen „stavba") s výjimkou staveb dočasných, včetně toho, co je zapuštěno v pozemku nebo upevněno ve zdech.
+
+(2) Není-li podzemní stavba nemovitou věcí, je součástí pozemku, i když zasahuje pod jiný pozemek.
+
+**Výklad:**
+
+**§ 506 — Klíčové ustanovení v OZ**. Návrat k římskoprávní zásadě **„povrch ustupuje pozemku"** (*superficies solo cedit*) po 50 letech socialistického separace.
+
+**Implikace:**
+
+- **Stavba není samostatnou věcí** — je **součástí pozemku** a sleduje jeho osud;
+- **Vlastník pozemku = vlastník stavby** (s výjimkami: dočasné stavby, podzemní stavby s nemovitým charakterem, právo stavby);
+- **Pozemek zahrnuje:** prostor nad povrchem (až do výšky odpovídající užívání), prostor pod povrchem, stavby, technická zařízení;
+- **Výjimky** ze zásady:
+  - **Dočasné stavby** (§ 506 odst. 1) — např. zahrádkářské chatky, plné staveniště;
+  - **Podzemní stavby s nemovitou povahou** (§ 498 — metro, kolektory);
+  - **Liniové stavby** (§ 509);
+  - **Stavby na základě práva stavby** (§ 1240 a násl.) — stavba je součástí práva stavby, ne pozemku;
+  - **Stavba zřízená do 31. 12. 2013** s odlišným vlastníkem než pozemek — přetrvávající separace (§ 3055 — *přechodné ustanovení*).
+
+**Historický a praktický kontext**:
+- Před 1. 1. 2014: stavba **samostatná věc**, často s jiným vlastníkem než pozemek (přežitek socialismu);
+- Po 1. 1. 2014: nové stavby jsou součástí pozemku;
+- **Přechod**: § 3054—3061 — postupné sjednocení vlastnictví; právo přednosti pro vlastníka pozemku k odkupu stavby a opačně.
+
+### § 507 — Rostlinstvo
+
+Součástí pozemku je rostlinstvo na něm vzešlé.
+
+**Výklad:**
+
+**Rostliny vzcházející na pozemku** (stromy, keře, plodiny) jsou **součástí pozemku** a patří jeho vlastníkovi. Nelze je prodat odděleně od pozemku, dokud nejsou sklizené (potom plody — § 491 — samostatné věci).
+
+**Praktický význam:**
+- Vlastník pozemku má vlastnictví všeho rostlinstva;
+- Sousední větve / kořeny — § 1016 (právo vlastníka odstranit);
+- Nálezový režim u plodů z cizího pozemku — § 1051;
+- **Padlé plody** patří vlastníkovi pozemku, kam dopadly (§ 1015).
+
+### § 508 — Stroje s výhradou
+
+(1) Stroj nebo jiné upevněné zařízení (dále jen „stroj") není součástí nemovité věci zapsané do veřejného seznamu, byla-li se souhlasem jejího vlastníka zapsána do téhož seznamu výhrada, že stroj jeho vlastnictvím není...
+
+**Výklad:**
+
+**Mechanismus oddělení vlastnictví stroje** od vlastnictví nemovitosti — typicky pro **leasing**, **úvěrovou financování stroje**, kdy banka / leasingová společnost chce udržet vlastnické právo k stroji i v rámci fixní instalace.
+
+**Postup:**
+1. Vlastník nemovitosti dá **souhlas se zápisem výhrady** v katastru;
+2. **Výhrada se zapíše**: „stroj X není ve vlastnictví vlastníka nemovitosti, ale ve vlastnictví Y";
+3. Stroj zůstává **samostatnou movitou věcí**, lze ho odebrat / převést samostatně.
+
+**§ 508 odst. 2 — nahrazení stroje**: pokud má být nahrazen stávající stroj (součást nemovitosti) novým s výhradou, lze to **bez odporu** osob ve výhodnějším pořadí (zástavních věřitelů, jejichž zájem zápis výhrady ohrožuje), nebo bez práva odporu pro osoby, jejichž pohledávka je splněna / nedotčena.
+
+### § 509 — Liniové stavby
+
+Liniové stavby, zejména vodovody, kanalizace nebo energetická či jiná vedení, a jiné předměty, které ze své povahy pravidelně zasahují více pozemků, nejsou součástí pozemku. Má se za to, že součástí liniových staveb jsou i stavby a technická zařízení, která s nimi provozně souvisí.
+
+**Výklad:**
+
+**Výjimka z § 506** pro liniové stavby — **nejsou součástí pozemku**:
+- Důvod: prochází více pozemky, nelze je smysluplně rozdělit mezi vlastníky pozemků;
+- Vlastníkem je **provozovatel** (typicky veřejnoprávní PO — vodárny, plynárny, elektrárny);
+- Přístup je zajištěn **věcným břemenem** nebo zákonnou licencí (zákon č. 458/2000 Sb.).
+
+**Co patří k liniové stavbě** (vyvratitelná domněnka): **provozně související** stavby a zařízení — transformační stanice, čerpací stanice, šachty.
+
+### Příslušenství věci (§ 510—513)
+
+#### § 510 — Definice příslušenství
+
+(1) Příslušenství věci je vedlejší věc vlastníka u věci hlavní, je-li účelem vedlejší věci, aby se jí trvale užívalo společně s hlavní věcí v rámci jejich hospodářského určení. Byla-li vedlejší věc od hlavní věci přechodně odloučena, nepřestává být příslušenstvím.
+
+(2) Má se za to, že se právní jednání a práva i povinnosti týkající se hlavní věci týkají i jejího příslušenství.
+
+**Výklad:**
+
+**Příslušenství** (*pertinentia*, *accessoria*) — **samostatná věc** spojená s hlavní věcí účelem trvalého společného užívání.
+
+**Rozdíl součást vs. příslušenství:**
+
+| Vlastnost | Součást (§ 505) | Příslušenství (§ 510) |
+|---|---|---|
+| **Samostatná věc?** | Ne — neoddělitelná | **Ano** — samostatná věc |
+| **Společný účel** | Přirozený | Hospodářský |
+| **Oddělitelnost** | Nemožná bez znehodnocení | **Možná**, ale zpravidla se užívá společně |
+| **Příklad** | Motor v autě, okna v domě | Náhradní kolo v autě, příborník v jídelně |
+
+**Vyvratitelná domněnka přechodu** (odst. 2): právní jednání ohledně hlavní věci **se týká i příslušenství**. Příklady:
+- Prodej domu zahrnuje příslušenství (klíče, instalované spotřebiče);
+- Hypotéka na nemovitost se vztahuje i na příslušenství;
+- Dědění zahrnuje příslušenství.
+
+**Lze ujednat opak** — strany v kupní smlouvě mohou vyjmout konkrétní příslušenství.
+
+**Přechodné odloučení** (odst. 1 věta druhá) — pokud je příslušenství dočasně odděleno (např. odvezení nábytku do opravy), **nepřestává být příslušenstvím** — vrátí se k hlavní věci.
+
+#### § 511 — Pochybnosti
+
+Jsou-li pochybnosti, zda je něco příslušenstvím věci, posoudí se případ podle zvyklostí.
+
+**Výklad:**
+
+**Subsidiární kritérium** při sporu — **zvyklosti** v daném oboru / místě / typu věci. Soud zkoumá: co se v podobných případech obvykle považuje za příslušenství.
+
+#### § 512 — Příslušenství stavby v rámci pozemku
+
+Je-li stavba součástí pozemku, jsou vedlejší věci vlastníka u stavby příslušenstvím pozemku, je-li jejich účelem, aby se jich se stavbou nebo pozemkem v rámci jejich hospodářského účelu trvale užívalo.
+
+**Výklad:**
+
+**Návaznost na § 506**: pokud je stavba součástí pozemku, příslušenství stavby je **příslušenstvím pozemku**. Při prodeji pozemku → automatický přechod stavby + jejího příslušenství.
+
+#### § 513 — Příslušenství pohledávky
+
+Příslušenstvím pohledávky jsou úroky, úroky z prodlení a náklady spojené s jejím uplatněním.
+
+**Výklad:**
+
+**Klíčové ustanovení pro pohledávky:**
+
+| Příslušenství | Definice |
+|---|---|
+| **Úroky** | Smluvní úroky (např. úroky z půjčky) |
+| **Úroky z prodlení** | Zákonné nebo smluvní (§ 1970, NV 351/2013 Sb.) |
+| **Náklady uplatnění** | Soudní poplatky, advokátní odměna, exekuční náklady |
+
+**Praktické důsledky:**
+- Postoupení pohledávky (§ 1879) **zahrnuje i příslušenství** (default);
+- Promlčení pohledávky **zahrnuje promlčení příslušenství** (s některými výjimkami — § 614);
+- Při uspokojení pohledávky se **plní nejdříve příslušenství** (default — § 1932; lze ujednat jinak).
+
+---
+
+## Díl 4 — Cenné papíry (§ 514—544)
+
+### Oddíl 1 — Obecná ustanovení (§ 514—524)
+
+#### § 514 — Definice cenného papíru
+
+Cenný papír je listina, se kterou je právo spojeno takovým způsobem, že je po vydání cenného papíru nelze bez této listiny uplatnit ani převést.
+
+**Výklad:**
+
+**Cenný papír** (*Wertpapier*, *security*) — **listinný nosič práva** s **úzkou vazbou** mezi listinou a právem:
+- **Bez listiny nelze právo uplatnit** (např. nelze žalovat dlužníka ze směnky bez její předložení);
+- **Bez listiny nelze právo převést** (převod jen s předáním listiny).
+
+**Typy cenných papírů podle úpravy:**
+
+| Typ | Hlavní úprava |
+|---|---|
+| **Akcie** | ZOK § 256 a násl. |
+| **Dluhopisy** | Zákon č. 190/2004 Sb. o dluhopisech |
+| **Směnky** | Zákon č. 191/1950 Sb. směnečný a šekový |
+| **Šeky** | Zákon č. 191/1950 Sb. |
+| **Investiční certifikáty** | ZKT — zákon č. 256/2004 Sb. |
+| **Skladištní listy** | OZ § 2417 a násl. |
+| **Náložní listy** | OZ § 2572 a násl. |
+| **Podílové listy** | Zákon č. 240/2013 Sb. |
+
+#### § 515—517 — Náležitosti, zastupitelnost, odpovědnost
+
+**§ 515 — Obsah listiny**: pokud cenný papír není standardní druh, musí obsahovat **odkaz na emisní podmínky** + **údaj o emitentovi**.
+
+**§ 516 — Zastupitelnost**: cenné papíry **téhož druhu, emitenta, formy, se stejnými právy** jsou **zastupitelné** (např. všechny akcie téže emise). **Podpis lze nahradit otiskem** + ochranné prvky.
+
+**§ 517 — Odpovědnost emitenta** za třetí osobu (např. ručitele) zavázanou z cenného papíru.
+
+#### § 518 — Forma cenného papíru
+
+(1) Cenný papír může mít formu cenného papíru na doručitele, na řad, nebo na jméno.
+(2) Obsahuje-li cenný papír jméno oprávněné osoby, má se za to, že se jedná o cenný papír na řad. Neobsahuje-li cenný papír jméno oprávněné osoby, platí, že se jedná o cenný papír na doručitele.
+
+**Výklad:**
+
+**Tři formy cenných papírů:**
+
+| Forma | Charakter | Převod |
+|---|---|---|
+| **Na doručitele** (*au porteur*) | Bez identifikace | Pouhým **předáním** (tradicí) |
+| **Na řad** (*au ordre*) | Se jménem prvního oprávněného | **Indosamentem** (rubopisem) + předání |
+| **Na jméno** (*au nom*) | Se jménem oprávněného (rektapapír) | **Cese** (postoupení pohledávky) + předání |
+
+**Vyvratitelné domněnky** (odst. 2):
+- **Obsahuje jméno** → presumpce **na řad**;
+- **Neobsahuje jméno** → presumpce **na doručitele**.
+
+#### § 519—521 — Emise a vydání
+
+**§ 519 — Datum emise**: den, kdy může být cenný papír vydán prvnímu nabyvateli. **Emisní podmínky** vymezují práva, povinnosti, údaje o emisi.
+
+**§ 520 — Vydání**: den, kdy cenný papír splní náležitosti **A** stane se vlastnictvím prvého nabyvatele. **Emisní kurs** = cena, za kterou emitent vydává.
+
+**§ 521 — Vady postupu při vydání**:
+- **Ochrana nabyvatele v dobré víře** — cenný papír je **vydán i přes vady**;
+- Poškozený má **nárok na náhradu škody** vůči emitentovi a osobám jednajícím za něj.
+
+#### § 522—524 — Stejnopisy, kupóny, hromadná listina
+
+**§ 522 — Stejnopisy**: musí být **číslovány**, jinak každý je samostatným cenným papírem. **Plnění na jeden = zánik všech**.
+
+**§ 523 — Kupón** = cenný papír na doručitele pro uplatnění **výnosu** (typicky dividenda u akcií, úroky u dluhopisů). **Talón** v kupónovém archu **není cenný papír** — slouží k vystavení nového kupónového archu.
+
+**§ 524 — Hromadná listina**: může nahradit více zastupitelných cenných papírů (typicky pro velké akcionáře — místo 10 000 jednotlivých akcií jedna hromadná listina). **Právo na výměnu** za jednotlivé. **Nelze dělit na podíly** (kromě imobilizace v hromadné úschově).
+
+### Oddíl 2 — Zaknihované cenné papíry (§ 525—528)
+
+#### § 525 — Definice
+
+(1) Je-li cenný papír nahrazen zápisem do příslušné evidence a nelze-li jej převést jinak než změnou zápisu v této evidenci, jedná se o zaknihovaný cenný papír...
+
+**Výklad:**
+
+**Zaknihovaný cenný papír** (*book-entry security*) — moderní forma bez fyzické listiny. Existuje **jen jako záznam** v evidenci. Převod = **přesun záznamu**.
+
+**Výhody:**
+- Nelze ztratit / zničit (chybí fyzická listina);
+- Rychlejší převody (elektronicky);
+- Vhodné pro velké objemy obchodů na burze.
+
+**Použití**: zejména **akcie obchodovaných společností**, **veřejně obchodované dluhopisy**, **podílové listy**.
+
+#### § 526—528 — Evidence
+
+**§ 526 — Evidence**: vedena na **majetkových účtech** — buď **účet vlastníka**, nebo **účet zákazníků**.
+
+**§ 527 — Účet vlastníka**: vlastnictví zaknihovaného CP — vyvratitelná domněnka.
+
+**§ 528 — Účet zákazníků**: typicky účet **obchodníka s cennými papíry** vedoucího CP **pro klienty**. Vlastníkem **nejsou** zákazníci jednotlivě, ale **majitel účtu zákazníků není vlastníkem**.
+
+**Centrální depozitář cenných papírů** (CDCP) — vede centrální evidenci pro veřejně obchodované cenné papíry (zákon č. 256/2004 Sb. o podnikání na kapitálovém trhu).
+
+### Oddíl 3 — Přeměna cenného papíru (§ 529—544)
+
+**Velmi technická úprava** přeměny **listinného CP na zaknihovaný** a opačně. Klíčové body:
+
+**Přeměna listinného na zaknihovaný (§ 529—535):**
+- Rozhodnutí emitenta + zveřejnění;
+- Lhůta k odevzdání: **2—6 měsíců**;
+- Vlastník sdělí číslo účtu;
+- Při nesdělení účtu / neodevzdání → emitent vyhlásí dodatečnou lhůtu, pak prohlásí CP za neplatný a zaknihovaný CP **prodá** (výtěžek vyplatí vlastníkovi po odečtení nákladů).
+
+**Přeměna zaknihovaného na listinný (§ 536—544):**
+- Rozhodnutí emitenta + zveřejnění;
+- CDCP vyhotoví výpis evidence do 30 dnů;
+- Zrušení evidence;
+- Vlastníkovi vzniká právo na odevzdání listinného CP;
+- Speciální pravidla pro pozastavená a zastavená CP.
+
+---
+
+## Shrnutí kapitoly
+
+Kapitola 10 představuje **základní pojem věci** v OZ a klíčová pravidla nakládání s ní.
+
+**Klíčové instituty:**
+
+1. **Definice věci** (§ 489) — vše rozdílné od osoby sloužící potřebám lidí; široký pojem zahrnující i práva;
+2. **Lidské tělo a zvíře nejsou věc** (§ 493—494) — etický posun, ochrana důstojnosti a živé bytosti;
+3. **Plody vs. užitky** (§ 491) — přirozené vs. právní výnosy;
+4. **Hodnota a cena** (§ 492) — cena obvyklá vs. mimořádná (*pretium affectionis*);
+5. **Majetek vs. jmění** (§ 495) — aktiva vs. aktiva + pasiva;
+6. **Hmotné a nehmotné věci** (§ 496) — práva také mohou být věcí;
+7. **Movité a nemovité věci** (§ 498) — klíčová dichotomie pro nabývání vlastnictví a formu smluv;
+8. **Zastupitelné a zuživatelné** (§ 499—500) — pro plnění závazků, zápůjčku, nájem;
+9. **Hromadná věc** (§ 501) — soubor jako jeden předmět;
+10. **OBCHODNÍ ZÁVOD** (§ 502) — organizovaný soubor jmění; **vyvratitelná domněnka rozsahu** = vše, co zpravidla slouží provozu; koupě závodu jednou smlouvou (§ 2175 a násl.) s univerzální sukcesí;
+11. **Odštěpný závod** (§ 503) — vedoucí ze zákona zastupuje podnikatele;
+12. **Obchodní tajemství** (§ 504) — 5 kumulativních podmínek; ochrana z nekalé soutěže (§ 2985);
+13. ***SUPERFICIES SOLO CEDIT*** (§ 506) — návrat zásady; stavba je součástí pozemku; přechodná pravidla §§ 3054—3061;
+14. **Stroje s výhradou** (§ 508) — možnost zachovat vlastnictví stroje při zabudování do nemovitosti (leasing, úvěr);
+15. **Liniové stavby** (§ 509) — výjimka z § 506; vlastnictví provozovatele;
+16. **Součást** (§ 505) vs. **příslušenství** (§ 510) — neoddělitelnost vs. samostatná věc společně užívaná; vyvratitelná domněnka přechodu příslušenství;
+17. **Příslušenství pohledávky** (§ 513) — úroky, úroky z prodlení, náklady uplatnění;
+18. **Cenný papír** (§ 514) — listina + právo; **bez listiny nelze uplatnit ani převést**;
+19. **Formy cenných papírů** (§ 518) — na doručitele / na řad / na jméno; rozdílné způsoby převodu;
+20. **Zaknihované cenné papíry** (§ 525) — nahrazení listiny záznamem v evidenci (CDCP).
+
+---
+
+> Konec kapitoly 10. Pokračování: kapitola 11 — Hlava V Díl 1—2 (§ 545—599): Právní jednání — vznik, výklad, forma, neplatnost, zdánlivé jednání.
