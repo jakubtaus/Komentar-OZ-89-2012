@@ -184,10 +184,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 >
 >
 
-> (1) Je-li poručníkem člověk, který o dítě osobně pečuje, a péče o jmění dítěte je značně obtížná, zejména pro rozsáhlost či rozmanitost majetkového souboru, může poručník navrhnout, aby soud jmenoval pro správu jmění dítěte opatrovníka; součástí návrhu je soupis jmění dítěte ke dni podání návrhu.
->
-> (2) Jmenuje-li soud opatrovníka podle odstavce 1, vymezí zároveň vzájemné povinnosti a práva poručníka a tohoto opatrovníka.
-
 **§ 938 — Předání po skončení**: do **6 měsíců** předat soudu vše + závěrečná zpráva + účet ze správy jmění. Při smrti — dědic nebo držitel věcí.
 
 **§ 939 — Pečující poručník**: pokud osobně pečuje o dítě jako pěstoun → **hmotné zabezpečení jako pěstoun** (státní příspěvky podle z. 359/1999 Sb.).

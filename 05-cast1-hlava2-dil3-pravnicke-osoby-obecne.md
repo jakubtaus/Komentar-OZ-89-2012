@@ -226,8 +226,7 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 
 **§ 131**:
 > Prohlášení právnické osoby za neplatnou nemá vliv na práva a povinnosti, jichž nabyla.
->
-§ 130: Před rozhodnutím podle § 129 poskytne soud právnické osobě přiměřenou lhůtu k zjednání nápravy, jedná-li se o závadu, kterou lze odstranit.
+**§ 130**:
 
 § 131: Prohlášení právnické osoby za neplatnou nemá vliv na práva a povinnosti, jichž nabyla.
 
@@ -271,9 +270,6 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 >
 > (2) Stejná ochrana náleží právnické osobě proti tomu, kdo bez zákonného důvodu zasahuje do její pověsti nebo soukromí, ledaže se jedná o účely vědecké či umělecké nebo o tiskové, rozhlasové, televizní nebo obdobné zpravodajství; ani takový zásah však nesmí být v rozporu s oprávněnými zájmy právnické osoby.
 
-> (2) Název musí odlišit právnickou osobu od jiné osoby a obsahovat označení její právní formy. Název nesmí být klamavý.
-
-> (2) Název musí odlišit právnickou osobu od jiné osoby a obsahovat označení její právní formy. Název nesmí být klamavý.
 **Výklad:**
 
 **§ 132 — tři požadavky názvu**:
@@ -351,12 +347,6 @@ Tato úprava chrání právní jistotu: kdo doručuje na zapsanou adresu, je chr
 
 **§ 142**:
 > Přemístění sídla je účinné ode dne zápisu jeho adresy do příslušného veřejného rejstříku.
-
-> Právnická osoba, která má sídlo v České republice, může přemístit své sídlo do zahraničí, pokud to neodporuje veřejnému pořádku a pokud to připouští právní řád státu, do něhož má být sídlo právnické osoby přemístěno.
-
-> (1) Právnická osoba, která hodlá přemístit sídlo do zahraničí, zveřejní tento záměr s uvedením adresy nového sídla a právní formy po přemístění sídla alespoň tři měsíce přede dnem předpokládaného přemístění sídla. Věřitelé mají právo požadovat dostatečné zajištění svých dosud nesplatných pohledávek do dvou měsíců od zveřejnění, dojde-li po přemístění sídla ke zhoršení dobytnosti jejich pohledávek v České republice.
->
-> (2) Nedojde-li k dohodě o způsobu a rozsahu zajištění, rozhodne o dostatečném zajištění a o jeho rozsahu soud s ohledem na druh a výši pohledávky. Neposkytne-li právnická osoba zajištění podle rozhodnutí soudu, ručí za dluhy, které nebyly zajištěny, členové statutárního orgánu vyjma těch, kteří prokáží, že vyvinuli dostatečné úsilí, aby rozhodnutí bylo splněno.
 
 § 138: (1) Právnická osoba, která má sídlo v zahraničí, může přemístit sídlo na území České republiky. To neplatí, pokud to nepřipouští právní řád státu, ve kterém má právnická osoba sídlo, nebo pokud jde o právnickou osobu zakázanou podle § 145.
 
@@ -637,10 +627,7 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 
 **§ 167**:
 > Právnickou osobu zavazuje protiprávní čin, kterého se při plnění svých úkolů dopustil člen voleného orgánu, zaměstnanec nebo jiný její zástupce vůči třetí osobě.
->
-
-> Statutárnímu orgánu náleží veškerá působnost, kterou zakladatelské právní jednání, zákon nebo rozhodnutí orgánu veřejné moci nesvěří jinému orgánu právnické osoby.
-§ 167: Právnickou osobu zavazuje protiprávní čin, kterého se při plnění svých úkolů dopustil člen voleného orgánu, zaměstnanec nebo jiný její zástupce vůči třetí osobě.
+**§ 167**:
 
 **Výklad:**
 
@@ -701,7 +688,6 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 > (2) Byl-li osvědčen úpadek právnické osoby, zrušuje se bez likvidace zrušením konkursu po splnění rozvrhového usnesení, nebo zrušením konkursu proto, že majetek je zcela nepostačující; do likvidace však vstoupí, objeví-li se po skončení insolvenčního řízení nějaký majetek.
 >
 
-> (2) O dobrovolném zrušení právnické osoby rozhoduje její příslušný orgán.
 **Výklad:**
 
 **Čtyři způsoby zrušení** (§ 168):
@@ -810,9 +796,7 @@ Klíčové instituty:
 
 **§ 186**:
 > Právnická osoba, která nepodléhá zápisu do veřejného rejstříku, zaniká skončením likvidace.
->
-
-§ 185: Právnická osoba zapsaná do veřejného rejstříku zaniká dnem výmazu z veřejného rejstříku.
+**§ 185**:
 § 186: Právnická osoba, která nepodléhá zápisu do veřejného rejstříku, zaniká skončením likvidace.
 
 **Výklad:**

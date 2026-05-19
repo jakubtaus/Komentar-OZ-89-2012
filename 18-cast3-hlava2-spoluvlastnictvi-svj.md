@@ -141,9 +141,6 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 > Převede-li se vlastnické právo k nemovité věci zapsané ve veřejném seznamu, nabývá se věc do vlastnictví zápisem do takového seznamu.
 >
 
-> Převede-li se vlastnické právo k nemovité věci zapsané ve veřejném seznamu, nabývá se věc do vlastnictví zápisem do takového seznamu.
->
-
 **§ 1101 — Druhové movité věci**: nabytí **okamžikem dostatečného odlišení** (typicky oddělení ze skladu).
 
 **§ 1102 — Movité věci v VR**: zápis (typicky vozidla — § 4 z. č. 56/2001 Sb. o podmínkách provozu vozidel).

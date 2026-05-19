@@ -85,9 +85,8 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 **§ 44**:
 > Je-li prohlášení nebo jeho odvolání neplatné, soud k nim přihlédne, není-li příčiny pochybovat o vůli toho, kdo je učinil.
->
-
-§ 41: K výslovnému odvolání prohlášení se vyžaduje projev vůle učiněný ve formě předepsané v § 39 odst. 1. Zničí-li listinu obsahující prohlášení ten, kdo je učinil, má to účinky odvolání.
+**§ 41**:
+> K výslovnému odvolání prohlášení se vyžaduje projev vůle učiněný ve formě předepsané v § 39 odst. 1. Zničí-li listinu obsahující prohlášení ten, kdo je učinil, má to účinky odvolání.
 
 § 42: Týká-li se prohlášení jiné záležitosti než povolání opatrovníka a je-li účinnost prohlášení vázána na podmínku, rozhodne o splnění podmínky soud.
 

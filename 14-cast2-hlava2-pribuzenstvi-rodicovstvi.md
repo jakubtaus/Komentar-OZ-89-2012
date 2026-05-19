@@ -437,18 +437,6 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 
 #### § 843—845 — Zrušení osvojení
 
-> Osvojenec může být opětovně osvojen, jen
->
-> - a) bylo-li dřívější osvojení zrušeno,
->
-> - b) má-li být osvojen pozdějším manželem osvojitele poté, co předchozí manžel, který byl společným osvojitelem, zemřel, nebo
->
-> - c) zemřel-li ten, kdo byl jediným osvojitelem, anebo ti, kdo byli společnými osvojiteli.
-
-> Je-li to v souladu se zájmy dítěte, může soud na návrh osvojitele rozhodnout i před uplynutím doby tří let od rozhodnutí o osvojení, že je osvojení nezrušitelné.
-
-> Nezrušitelné osvojení nebrání tomu, aby osvojenec byl opětovně osvojen.
-
 **§ 843 — Zrušení**:
 - **Důvody zvláštního zřetele hodné** (typicky závažné porušení povinností osvojitelem, zájem dítěte na návratu k biologickým rodičům);
 - **Do 3 let** od pravomoci rozhodnutí o osvojení;

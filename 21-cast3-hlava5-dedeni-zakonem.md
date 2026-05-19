@@ -676,7 +676,8 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 ### § 1674—1684 — Výhrada soupisu
 
-> § 1674: Dědic, který uplatnil výhradu soupisu (inventarii benefitium), hradí dluhy zůstavitele jen do výše ceny nabytého dědictví.
+**§ 1674**:
+> Dědic, který uplatnil výhradu soupisu (inventarii benefitium), hradí dluhy zůstavitele jen do výše ceny nabytého dědictví.
 
 **§ 1675**:
 > Dědic má právo vyhradit si soupis pozůstalosti, uplatní-li je do jednoho měsíce ode dne, kdy ho soud o tomto právu vyrozuměl. Jsou-li pro to důležité důvody, soud lhůtu dědici prodlouží.

@@ -248,26 +248,6 @@ Vznik = **den zápisu do veřejného rejstříku** (nadační rejstřík). Návr
 > Určil-li zakladatel v nadační listině výslovně, že je nezměnitelná nebo že nelze měnit její určitou část, nelze ji změnit ani rozhodnutím soudu.
 >
 
-> Nevylučuje-li to nadační listina, může správní rada po předchozím vyjádření dozorčí rady změnit sídlo nadace. K rozhodnutí o přemístění sídla nadace do zahraničí se vyžaduje schválení soudu; soud přemístění sídla neschválí, není-li pro to vážný důvod nebo ohrozila-li by změna sídla oprávněné zájmy osob, kterým mají být poskytovány nadační příspěvky.
->
-
-> Po vzniku nadace lze nadační listinu změnit v rozsahu a způsobem, který zakladatel v nadační listině výslovně vyhradil pro sebe nebo některému z orgánů nadace.
-
-> (1) Změní-li se po vzniku nadace okolnosti natolik, že vyvolají v zájmu nadace rozumnou potřebu změny jejích vnitřních poměrů, může zakladatel nadační listinu změnit, třebaže si takové právo v nadační listině nevyhradil; k platnosti změny se vyžaduje, aby s ní souhlasila správní rada a aby se změna nedotkla práv třetích osob.
->
-> (2) Změnu nadační listiny nadace zveřejní; účinnosti změna nabývá uplynutím tří měsíců ode dne zveřejnění. Navrhne-li soudu v této lhůtě ten, kdo tvrdí, že jeho práva byla změnou nadační listiny dotčena, aby rozhodl o neplatnosti změny, může soud rozhodnout, že se účinnost změny nadační listiny odkládá až do jeho rozhodnutí.
->
-> (3) Ustanovení odstavců 1 a 2 se nepoužijí, pokud by se změna nadační listiny měla týkat její části, o které zakladatel v nadační listině určil, že je nezměnitelná.
-
-> (1) Není-li tu již zakladatel a změní-li se po vzniku okolnosti natolik, že vyvolají v zájmu nadace rozumnou potřebu změny jejích vnitřních poměrů, může o změně nadační listiny rozhodnout na návrh nadace soud; s podáním návrhu musí souhlasit správní rada.
->
-> (2) Soud návrhu vyhoví, pokud se navrhovaná změna nadační listiny nedotkne práv třetích osob; současně musí být co nejvíce šetřen úmysl zakladatele zřejmý z nadační listiny a splněny podmínky, které zakladatel pro takový případ v nadační listině případně určil.
->
-> (3) Soud při rozhodování o změně nadační listiny přihlédne ke stanovisku dozorčí rady a vezme zřetel na zájmy třetích osob hodné právní ochrany.
-
-> Určil-li zakladatel v nadační listině výslovně, že je nezměnitelná nebo že nelze měnit její určitou část, nelze ji změnit ani rozhodnutím soudu.
->
-
 Pokud zakladatel **výslovně určí**, že nadační listina (nebo její část) je **nezměnitelná**, **nelze ji změnit ani rozhodnutím soudu**. Tato klauzule chrání vůli zakladatele s absolutní platností.
 
 ### Změna účelu nadace (§ 321—326)

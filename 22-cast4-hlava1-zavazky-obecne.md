@@ -296,7 +296,8 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 ### § 1813—1817 — Zákaz zneužívajících ustanovení
 
-> § 1813: Má se za to, že zakázána jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele.
+**§ 1813**:
+> Má se za to, že zakázána jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele.
 
 **§ 1814**:
 > (1) Zneužívající jsou vždy ujednání, která
@@ -814,7 +815,8 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 
 ### § 2053—2054 — Uznání dluhu
 
-> § 2053: Uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá.
+**§ 2053**:
+> Uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá.
 
 **§ 2054**:
 > (1) Placení úroků se považuje za uznání dluhu ohledně částky, z níž se úroky platí.

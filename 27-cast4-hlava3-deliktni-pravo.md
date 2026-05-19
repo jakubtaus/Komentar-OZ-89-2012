@@ -75,7 +75,8 @@
 
 ### § 2900—2903 — Prevence
 
-> § 2900: Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, je každý povinen počínat si při svém konání tak, aby nedošlo k nedůvodné újmě na svobodě, životě, zdraví nebo na vlastnictví jiného.
+**§ 2900**:
+> Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, je každý povinen počínat si při svém konání tak, aby nedošlo k nedůvodné újmě na svobodě, životě, zdraví nebo na vlastnictví jiného.
 
 **§ 2901**:
 > Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, má povinnost zakročit na ochranu jiného každý, kdo vytvořil nebezpečnou situaci nebo kdo nad ní má kontrolu, anebo odůvodňuje-li to povaha poměru mezi osobami. Stejnou povinnost má ten, kdo může podle svých možností a schopností snadno odvrátit újmu, o níž ví nebo musí vědět, že hrozící závažností zjevně převyšuje, co je třeba k zákroku vynaložit.
@@ -88,7 +89,7 @@
 >
 > (2) Při vážném ohrožení může ohrožený požadovat, aby soud uložil vhodné a přiměřené opatření k odvrácení hrozící újmy.
 
-> Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, má povinnost zakročit na ochranu jiného každý, kdo vytvořil nebezpečnou situaci nebo kdo nad ní má kontrolu, anebo odůvodňuje-li to povaha poměru mezi osobami. Stejnou povinnost má ten, kdo může podle svých možností a schopností snadno odvrátit újmu, o níž ví nebo musí vědět, že hrozící závažností zjevně převyšuje, co je třeba k zákroku vynaložit.**Generální prevenční povinnost** (*Verkehrssicherungspflicht*):
+**Generální prevenční povinnost** (*Verkehrssicherungspflicht*):
 - **Každý** je povinen předcházet újmě;
 - **§ 2901** — Aktivní povinnost zakročit u **toho, kdo vytvořil nebezpečnou situaci** nebo má nad ní kontrolu;
 - **§ 2902** — Oznamovací povinnost při hrozícím porušení;

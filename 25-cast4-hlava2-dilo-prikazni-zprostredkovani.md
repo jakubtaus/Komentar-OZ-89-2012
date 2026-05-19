@@ -473,8 +473,6 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **§ 2454**:
 > Právu zprostředkovatele na provizi není na újmu, byla-li smlouva, k níž se vztahovala činnost zprostředkovatele, uzavřena nebo splněna až po zániku závazku ze zprostředkovatelské smlouvy.
 
-> Bylo-li ujednáno, že zprostředkovateli vznikne právo na provizi, až třetí osoba splní povinnost ze zprostředkované smlouvy, zaplatí zájemce provizi i tehdy, oddálilo-li se, či zmařilo-li se splnění této povinnosti z důvodů, za něž zájemce odpovídá. Má-li být výše provize určena podle rozsahu plnění třetí osoby, započte se do základu i plnění neuskutečněné z důvodů, za něž odpovídá zájemce.
-
 **§ 2447 — Provize**:
 - Smluvní;
 - Bez ujednání: obvyklá;
@@ -526,7 +524,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### Smlouva o obchodním zastoupení (§ 2483—2520)
 
-> § 2483: Smlouvou o obchodním zastoupení se obchodní zástupce jako nezávislý podnikatel zavazuje vyvíjet pro zastoupeného soustavně činnost směřující k uzavírání určitého druhu obchodů s třetími osobami a zastoupený se zavazuje zaplatit obchodnímu zástupci provizi.
+**§ 2483**:
+> Smlouvou o obchodním zastoupení se obchodní zástupce jako nezávislý podnikatel zavazuje vyvíjet pro zastoupeného soustavně činnost směřující k uzavírání určitého druhu obchodů s třetími osobami a zastoupený se zavazuje zaplatit obchodnímu zástupci provizi.
 
 **Obchodní zastoupení** (*Handelsvertretung*) — **trvalý vztah**:
 - **Obchodní zástupce** = nezávislý podnikatel;
@@ -737,8 +736,6 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 **§ 2606**:
 > Provádí-li se dílo postupně a lze-li jednotlivé stupně odlišit, může být předáno a převzato i po částech.
 
-> Nabyl-li zhotovitel zpracováním vlastnické právo k věci a zmaří-li se dílo z důvodu, za nějž zhotovitel odpovídá, poskytne objednateli peněžitou náhradu za jeho zpracovanou věc, anebo mu vrátí věc téhož druhu.
-
 **§ 2599 — Lhůta** — splnění v ujednané době; **pokud bez určení** → **přiměřená** doba.
 
 **§ 2600 — Materiál**:
@@ -810,7 +807,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ## Jednatelství bez příkazu (§ 3006—3014)
 
-> § 3006: Kdo, ač není povinen, sám se ujme záležitosti jiného, aby odvrátil hrozící škodu, je jednatelem bez příkazu.
+**§ 3006**:
+> Kdo, ač není povinen, sám se ujme záležitosti jiného, aby odvrátil hrozící škodu, je jednatelem bez příkazu.
 
 **Jednatelství bez příkazu** (*negotiorum gestio*) — **jednání ve prospěch jiného bez pověření**:
 - **Bez příkazu**, ale **v jeho zájmu**;

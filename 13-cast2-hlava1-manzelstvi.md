@@ -212,27 +212,8 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 >
 >
 
-> Manželství nemůže uzavřít osoba, která již dříve uzavřela manželství, ani osoba, která již dříve vstoupila do registrovaného partnerství nebo jiného obdobného svazku uzavřeného v zahraničí, a toto manželství, registrované partnerství nebo jiný obdobný svazek uzavřený v zahraničí trvá.
-
-> Manželství nemůže být uzavřeno mezi poručníkem a poručencem, mezi dítětem a osobou, do jejíž péče bylo dítě svěřeno, nebo pěstounem a svěřeným dítětem.
-
 >
 >
-
-> Manželství může uzavřít každý, pokud mu v tom nebrání zákonná překážka podle § 672 až 676.
->
-
-> (1) Manželství nemůže uzavřít nezletilý, který není plně svéprávný.
->
-> (2) Soud může ve výjimečných případech povolit uzavření manželství nezletilému, který není plně svéprávný a dovršil šestnácti let věku, jsou-li pro to důležité důvody.
-
-> Manželství nemůže uzavřít osoba, jejíž svéprávnost byla v této oblasti omezena.
-
-> Manželství nemůže uzavřít osoba, která již dříve uzavřela manželství, ani osoba, která již dříve vstoupila do registrovaného partnerství nebo jiného obdobného svazku uzavřeného v zahraničí, a toto manželství, registrované partnerství nebo jiný obdobný svazek uzavřený v zahraničí trvá.
-
-> Manželství nemůže být uzavřeno mezi předky a potomky, ani mezi sourozenci; totéž platí o osobách, jejichž příbuzenství vzniklo osvojením.
-
-> Manželství nemůže být uzavřeno mezi poručníkem a poručencem, mezi dítětem a osobou, do jejíž péče bylo dítě svěřeno, nebo pěstounem a svěřeným dítětem.
 
 >
 >
@@ -312,32 +293,6 @@ Tato kapitola pokrývá **Hlavu I — Manželství** — kompletní úpravu od v
 
 >
 >
-
-> Manželství nelze prohlásit za neplatné, pokud bylo uzavřeno nezletilým, který není plně svéprávný, nebo osobou, jejíž svéprávnost byla v této oblasti omezena, a bylo počato dítě, které se narodilo živé.
-
-> Soud prohlásí manželství za neplatné i bez návrhu, a to i v případě, že již zaniklo, pokud bylo uzavřeno
->
-> - a) osobou, která již dříve uzavřela manželství, nebo která již dříve vstoupila do registrovaného partnerství nebo jiného obdobného svazku uzavřeného v zahraničí, pokud takové manželství, partnerství nebo jiný obdobný svazek trvá,
->
-> - b) mezi předkem a potomkem, mezi sourozenci nebo mezi osobami, jejichž příbuzenství vzniklo osvojením.
-
-> Došlo-li k uzavření manželství, přestože tomu bránila zákonná překážka, soud prohlásí manželství za neplatné na návrh každého, kdo na tom má právní zájem, ledaže manželství bránila překážka omezené svéprávnosti.
-
-> Manželství se považuje za platné, dokud není prohlášeno za neplatné. Bylo-li manželství prohlášeno za neplatné, považuje se za neuzavřené.
-
-> Manželství nelze prohlásit za neplatné, pokud zaniklo, nebo pokud již došlo k nápravě.
-
-> Manželství nelze prohlásit za neplatné, pokud bylo uzavřeno nezletilým, který není plně svéprávný, nebo osobou, jejíž svéprávnost byla v této oblasti omezena, a bylo počato dítě, které se narodilo živé.
-
-> (1) Soud prohlásí manželství za neplatné na návrh manžela, jehož projev vůle o vstupu do manželství byl učiněn pod nátlakem spočívajícím v užití násilí nebo vyhrožováním násilím nebo jehož projev vůle o vstupu do manželství byl učiněn jen v důsledku omylu o totožnosti snoubence nebo o povaze sňatečného právního jednání. Návrh lze podat nejpozději do jednoho roku ode dne, kdy tak manžel mohl vzhledem k okolnostem nejdříve učinit, popřípadě kdy se dozvěděl o pravém stavu věcí.
->
-> (2) V případě stanoveném v odstavci 1 prohlásí soud manželství za neplatné, třebaže zaniklo smrtí manžela dříve, než skončilo řízení o neplatnost manželství zahájené na návrh druhého manžela, nebo pokud potomci manžela, který podal návrh na prohlášení manželství za neplatné, navrhnou do jednoho roku po jeho smrti, aby soud prohlásil manželství za neplatné.
-
-> Soud prohlásí manželství za neplatné i bez návrhu, a to i v případě, že již zaniklo, pokud bylo uzavřeno
->
-> - a) osobou, která již dříve uzavřela manželství, nebo která již dříve vstoupila do registrovaného partnerství nebo jiného obdobného svazku uzavřeného v zahraničí, pokud takové manželství, partnerství nebo jiný obdobný svazek trvá,
->
-> - b) mezi předkem a potomkem, mezi sourozenci nebo mezi osobami, jejichž příbuzenství vzniklo osvojením.
 
 **§ 684 — Hrozba / omyl o totožnosti** (na návrh): manželství uzavřené **pod nátlakem** (násilí, hrozba) nebo **v omylu o totožnosti** snoubence / povaze obřadu — soud prohlásí za neplatné. **Lhůta: 1 rok** od možnosti uplatnit nárok.
 

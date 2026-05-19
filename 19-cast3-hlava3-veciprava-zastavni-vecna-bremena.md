@@ -197,11 +197,12 @@ Lze **smluvně vyloučit nebo modifikovat** — zápis do katastru je nutný pro
 
 ### § 1255—1256 — Náhrada při zániku
 
-> § 1255: Není-li nic jiného ujednáno, dá vlastník stavebního pozemku stavebníkovi při zániku práva stavby uplynutím doby, na kterou bylo zřízeno, za stavbu náhradu. Náhrada činí polovinu hodnoty stavby v době zániku práva stavby, ledaže si strany ujednají jinak.
-> § 1256: Zástavní a jiná práva váznoucí na právu stavby postihují náhradu.
-
+**§ 1255**:
+> Není-li nic jiného ujednáno, dá vlastník stavebního pozemku stavebníkovi při zániku práva stavby uplynutím doby, na kterou bylo zřízeno, za stavbu náhradu. Náhrada činí polovinu hodnoty stavby v době zániku práva stavby, ledaže si strany ujednají jinak.
 **§ 1256**:
 > Zástavní a jiná práva váznoucí na právu stavby postihují náhradu.
+
+**§ 1256**:
 
 >
 >
@@ -480,7 +481,8 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 
 ### § 1285—1296 — Požívací právo (ususfructus)
 
-> § 1285: Služebností požívacího práva se poživateli poskytuje právo užívat cizí věc a brát z ní plody a užitky; poživatel má právo i na mimořádný výnos z věci.
+**§ 1285**:
+> Služebností požívacího práva se poživateli poskytuje právo užívat cizí věc a brát z ní plody a užitky; poživatel má právo i na mimořádný výnos z věci.
 
 **§ 1286**:
 > Na skrytou věc nalezenou v pozemku poživatel právo nemá.
@@ -542,7 +544,8 @@ Vlastník bere **užitky, které zbývají** po uspokojení uživatele. **Nákla
 
 ### Služebnost bytu (§ 1297—1298)
 
-> § 1297: Je-li zřízena služebnost bytu, má se za to, že byla zřízena jako služebnost užívání.
+**§ 1297**:
+> Je-li zřízena služebnost bytu, má se za to, že byla zřízena jako služebnost užívání.
 
 **Domněnka**: služebnost bytu = **užívací právo** (užší), ne požívací. Pokud strany chtějí požívací (možnost pronájmu, plody), **musí to výslovně ujednat**.
 
@@ -763,13 +766,6 @@ Lze zajistit **jakýkoliv dluh**:
 > Určí-li tak zástavní smlouva, vznikne zástavní právo k movité věci tím, že zástavce nebo zástavní věřitel odevzdá věc třetí osobě, aby ji opatrovala pro zástavního věřitele a zástavního dlužníka. Není-li jinak ujednáno, hradí zástavce náklady s tím spojené.
 
 **§ 1319**:
-> (1) Určí-li tak zástavní smlouva, vznikne zástavní právo k movité věci zápisem do rejstříku zástav.
->
-> (2) Zástavní právo k nemovité věci nezapisované do veřejného seznamu, k závodu a movité věci hromadné vznikne zápisem do rejstříku zástav.
->
-> (3) Zápis do rejstříku zástav provede notář, který sepsal zástavní smlouvu, bez zbytečného odkladu po uzavření zástavní smlouvy.
->
-
 > (1) Určí-li tak zástavní smlouva, vznikne zástavní právo k movité věci zápisem do rejstříku zástav.
 >
 > (2) Zástavní právo k nemovité věci nezapisované do veřejného seznamu, k závodu a movité věci hromadné vznikne zápisem do rejstříku zástav.

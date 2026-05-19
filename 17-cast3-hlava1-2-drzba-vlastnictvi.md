@@ -93,31 +93,13 @@ Hlava II se vztahuje na:
 >
 > (3) Nebyl-li žadatel o zápisu cizího práva řádně vyrozuměn, prodlužuje se lhůta podle odstavce 2 na tři roky; lhůta počne běžet ode dne, kdy byl popíraný zápis proveden.
 
-> Je-li do veřejného seznamu zapsáno věcné právo k cizí věci, má přednost před věcným právem, které není z veřejného seznamu zjevné.
-
-> Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, může se osoba, jejíž věcné právo je dotčeno, domáhat odstranění nesouladu; prokáže-li, že své právo uplatnila, zapíše se to na její žádost do veřejného seznamu. Rozhodnutí vydané o jejím věcném právu působí vůči každému, jehož právo bylo zapsáno do veřejného seznamu poté, co dotčená osoba o zápis požádala.
-
 > (1) Je-li do veřejného seznamu zapsáno právo k věci, neomlouvá nikoho neznalost zapsaného údaje. Stanoví-li to právní předpis, zapíše se do veřejného seznamu kromě věcného práva i právo užívání nebo požívání, jakož i omezení rozsahu nebo způsobu užívání nebo požívání věci spoluvlastníky.
 
 > (2) Je-li právo k věci zapsáno do veřejného seznamu, má se za to, že bylo zapsáno v souladu se skutečným právním stavem. Bylo-li právo k věci z veřejného seznamu vymazáno, má se za to, že neexistuje.
 
-> Je-li do veřejného seznamu zapsáno věcné právo k cizí věci, má přednost před věcným právem, které není z veřejného seznamu zjevné.
-
-> (1) Pro pořadí věcných práv k cizí věci rozhoduje doba podání návrhu na zápis práva. Práva zapsaná na základě návrhů podaných v téže době mají stejné pořadí.
->
-> (2) Zřizuje-li vlastník věcné právo k vlastní věci, může před tímto právem vyhradit a do veřejného seznamu zapsat přednostní pořadí pro jiné právo; má-li být výhrada do veřejného seznamu zapsána až po zřízení věcného práva, vyžaduje se souhlas osoby, jejíž právo má být dotčeno. K zápisu práva, pro něž bylo vyhrazeno lepší pořadí, se nevyžaduje souhlas osoby, jejíž právo je výhradou omezeno, ledaže má být právo, jemuž svědčí výhrada lepšího pořadí, zapsáno do veřejného seznamu v širším rozsahu, než jak to z výhrady vyplývá.
-
 > (1) Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, svědčí zapsaný stav ve prospěch osoby, která nabyla věcné právo za úplatu v dobré víře od osoby k tomu oprávněné podle zapsaného stavu. Dobrá víra se posuzuje k době, kdy k právnímu jednání došlo; vzniká-li však věcné právo až zápisem do veřejného seznamu, pak k době podání návrhu na zápis.
 
 > (2) Pro nezbytnou cestu, výměnek a pro věcné právo vznikající ze zákona bez zřetele na stav zápisů ve veřejném seznamu se věta první odstavce 1 nepoužije.
-
-> Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, může se osoba, jejíž věcné právo je dotčeno, domáhat odstranění nesouladu; prokáže-li, že své právo uplatnila, zapíše se to na její žádost do veřejného seznamu. Rozhodnutí vydané o jejím věcném právu působí vůči každému, jehož právo bylo zapsáno do veřejného seznamu poté, co dotčená osoba o zápis požádala.
-
-> (1) Kdo tvrdí, že je ve svém právu dotčen zápisem provedeným do veřejného seznamu bez právního důvodu ve prospěch jiného, může se domáhat výmazu takového zápisu a žádat, aby to bylo ve veřejném seznamu poznamenáno. Orgán, který veřejný seznam vede, vymaže poznámku spornosti zápisu, nedoloží-li žadatel ani do dvou měsíců od doručení žádosti, že své právo uplatnil u soudu.
->
-> (2) Požádal-li žadatel o poznamenání spornosti zápisu do jednoho měsíce ode dne, kdy se o zápisu dozvěděl, působí jeho právo vůči každému, komu popíraný zápis svědčí nebo kdo na jeho základě dosáhl dalšího zápisu; po uplynutí této lhůty však jen vůči tomu, kdo dosáhl zápisu, aniž byl v dobré víře.
->
-> (3) Nebyl-li žadatel o zápisu cizího práva řádně vyrozuměn, prodlužuje se lhůta podle odstavce 2 na tři roky; lhůta počne běžet ode dne, kdy byl popíraný zápis proveden.
 
 **§ 985**: nesoulad zapsaného a skutečného stavu — žádost o **odstranění nesouladu**; rozhodnutí má účinky proti osobám, které nabyly po žádosti.
 
@@ -380,46 +362,9 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 > (2) Z takového užívání cizího prostoru nemůže nikdo odvodit právo, jehož by se mohl někdo dovolávat po odpadnutí důvodu, který k užívání opravňoval; pokud však v důsledku tohoto užívání vzniklo úředně schválené zařízení, může vlastník žádat náhradu škody.
 >
 
-> Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel zřizování stavby na sousedním pozemku v těsné blízkosti společné hranice pozemků.
-
 > (1) Vlastník se zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat. Zakazuje se přímo přivádět imise na pozemek jiného vlastníka bez ohledu na míru takových vlivů a na stupeň obtěžování souseda, ledaže se to opírá o zvláštní právní důvod.
 
 > (2) Jsou-li imise důsledkem provozu závodu nebo podobného zařízení, který byl úředně schválen, má soused právo jen na náhradu újmy v penězích, i když byla újma způsobena okolnostmi, k nimž se při úředním projednávání nepřihlédlo. To neplatí, pokud se při provádění provozu překračuje rozsah, v jakém byl úředně schválen.
-
-> (1) Ocitne-li se na pozemku cizí movitá věc, vydá ji vlastník pozemku bez zbytečného odkladu jejímu vlastníku, popřípadě tomu, kdo ji měl u sebe; jinak mu umožní vstoupit na svůj pozemek a věc si vyhledat a odnést. Stejně tak může vlastník stíhat na cizím pozemku chované zvíře nebo roj včel; vletí-li však roj včel do cizího obsazeného úlu, nabývá vlastník úlu vlastnické právo k roji, aniž je povinen k náhradě.
->
-> (2) Způsobí-li věc, zvíře, roj včel nebo výkon práva podle odstavce 1 na pozemku škodu, má vlastník pozemku právo na její náhradu.
-
-> Způsobila-li movitá věc na cizím pozemku škodu, může ji vlastník pozemku zadržet, dokud neobdrží jinou jistotu nebo náhradu škody.
-
-> (1) Plody spadlé ze stromů a keřů na sousední pozemek náleží vlastníkovi sousedního pozemku. To neplatí, je-li sousední pozemek veřejným statkem.
->
-> (2) Neučiní-li to vlastník v přiměřené době poté, co ho o to soused požádal, smí soused šetrným způsobem a ve vhodné roční době odstranit kořeny nebo větve stromu přesahující na jeho pozemek, působí-li mu to škodu nebo jiné obtíže převyšující zájem na nedotčeném zachování stromu. Jemu také náleží, co z odstraněných kořenů a větví získá.
->
-> (3) Části jiných rostlin přesahující na sousední pozemek může soused odstranit šetrným způsobem bez dalších omezení.
-
-> (1) Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel sázení stromů v těsné blízkosti společné hranice pozemků, a vysadil-li je nebo nechal-li je vzrůst, aby je odstranil. Nestanoví-li jiný právní předpis nebo neplyne-li z místních zvyklostí něco jiného, platí pro stromy dorůstající obvykle výšky přesahující 3 m jako přípustná vzdálenost od společné hranice pozemků 3 m a pro ostatní stromy 1,5 m.
->
-> (2) Ustanovení odstavce 1 se nepoužije, je-li na sousedním pozemku les nebo sad, tvoří-li stromy rozhradu nebo jedná-li se o strom zvlášť chráněný podle jiného právního předpisu.
-
-> Pozemek nesmí být upraven tak, aby sousední pozemek ztratil náležitou oporu, ledaže se provede jiné dostatečné upevnění.
-
-> (1) Vlastník pozemku má právo požadovat, aby soused upravil stavbu na sousedním pozemku tak, aby ze stavby nestékala voda nebo nepadal sníh nebo led na jeho pozemek. Stéká-li však na pozemek přirozeným způsobem z výše položeného pozemku voda, zejména pokud tam pramení či v důsledku deště nebo oblevy, nemůže soused požadovat, aby vlastník tohoto pozemku svůj pozemek upravil.
->
-> (2) Je-li pro níže položený pozemek nutný přítok vody, může soused na vlastníku výše položeného pozemku požadovat, aby odtoku vody nebránil v rozsahu, ve kterém vodu sám nepotřebuje.
-
-> Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel zřizování stavby na sousedním pozemku v těsné blízkosti společné hranice pozemků.
-
-> Vlastník umožní sousedovi vstup na svůj pozemek v době, rozsahu a způsobem, které jsou nezbytné k údržbě sousedního pozemku nebo k hospodaření na něm, nelze-li tohoto účelu dosáhnout jinak; soused však nahradí vlastníku pozemku škodu tím způsobenou.
-
-> (1) Nemůže-li se stavba stavět nebo bourat, nebo nemůže-li se opravit nebo obnovit jinak než užitím sousedního pozemku, má vlastník právo po sousedovi požadovat, aby za přiměřenou náhradu snášel, co je pro tyto práce potřebné.
->
-> (2) Žádosti nelze vyhovět, převyšuje-li sousedův zájem na nerušeném užívání pozemku zájem na provedení prací.
-
-> (1) Vlastník pozemku musí snášet užívání prostoru nad pozemkem nebo pod pozemkem, je-li pro to důležitý důvod a děje-li se to takovým způsobem, že vlastník nemůže mít rozumný důvod tomu bránit.
->
-> (2) Z takového užívání cizího prostoru nemůže nikdo odvodit právo, jehož by se mohl někdo dovolávat po odpadnutí důvodu, který k užívání opravňoval; pokud však v důsledku tohoto užívání vzniklo úředně schválené zařízení, může vlastník žádat náhradu škody.
->
 
 **§ 1014 — Cizí věc na pozemku**: vrácení / možnost vyhledat. Cizí zvíře / roj včel — analogicky. **Roj včel do cizího obsazeného úlu** = nabytí vlastníkem úlu.
 

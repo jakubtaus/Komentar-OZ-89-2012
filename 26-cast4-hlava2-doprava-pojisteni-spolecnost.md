@@ -316,8 +316,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 >
 >
 
-> Podnikatel vydá tichému společníkovi bez zbytečného odkladu po zániku tiché společnosti vklad upravený o podíl na výsledku svého podnikání podle stavu ke dni zániku tiché společnosti.
-
 >
 >
 
@@ -563,8 +561,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 >
 
 >
-
-> Ustanovení o sázce se nepoužijí, byla-li smlouva uzavřena na komoditní burze, na regulovaném trhu, v mnohostranném obchodním systému anebo jedná-li se o smlouvu mezi podnikateli a jejím předmětem je investiční nástroj podle zákona upravujícího podnikání na kapitálovém trhu.
 
 **KLÍČOVÉ PRAVIDLO**: závazky ze sázky/hry/losu jsou **NEVYMAHATELNÉ** soudně (*obligatio naturalis*):
 - **§ 2877 — Splněný závazek** lze ponechat (nelze žádat zpět jako bezdůvodné obohacení);

@@ -393,8 +393,18 @@ Typický případ: závěť pořízená vlastnoručně bez data v 2010 — nepla
 > Komentář **není autoritativní právní názor** — slouží jako interpretační pomůcka.
 >
 > **Doktrína klíčová pro praktickou aplikaci**:
-> - **Hulmák, M. a kol.**: *Občanský zákoník — Velké komentáře (I—VII).* C. H. Beck — vícedílná řada, stěžejní praktický komentář;
-> - **Lavický, P. a kol.**: *Občanský zákoník — Beckova edice komentované zákony.* C. H. Beck;
-> - **Švestka, J., Dvořák, J., Fiala, J. a kol.**: *Občanský zákoník — Komentář.* Wolters Kluwer;
-> - **Melzer, F., Tégl, P.**: *Občanský zákoník — Velký komentář.* Leges;
-> - **Eliáš, K. a kol.**: *Nový občanský zákoník s aktualizovanou důvodovou zprávou.* Sagit.
+> - **Hulmák, M. a kol.
+
+**: *Občanský zákoník — Velké komentáře (I—VII).* C. H. Beck — vícedílná řada, stěžejní praktický komentář;
+> - **Lavický, P. a kol.
+
+**: *Občanský zákoník — Beckova edice komentované zákony.* C. H. Beck;
+> - **Švestka, J., Dvořák, J., Fiala, J. a kol.
+
+**: *Občanský zákoník — Komentář.* Wolters Kluwer;
+> - **Melzer, F., Tégl, P.
+
+**: *Občanský zákoník — Velký komentář.* Leges;
+> - **Eliáš, K. a kol.
+
+**: *Nový občanský zákoník s aktualizovanou důvodovou zprávou.* Sagit.

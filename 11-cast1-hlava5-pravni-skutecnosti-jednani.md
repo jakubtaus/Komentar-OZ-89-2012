@@ -100,8 +100,7 @@ Vnitřní struktura Dílu 1:
 
 **§ 550**:
 > Je-li k účinnosti právního jednání určena počáteční doba, použijí se obdobně § 548 a 549 o odkládací podmínce. Omezí-li se účinnost právního jednání konečnou dobou, použijí se obdobně § 548 a 549 o rozvazovací podmínce.
->
-§ 550: Je-li k účinnosti právního jednání určena počáteční doba, použijí se obdobně § 548 a 549 o odkládací podmínce. Omezí-li se účinnost právního jednání konečnou dobou, použijí se obdobně § 548 a 549 o rozvazovací podmínce.
+**§ 550**:
 
 **Výklad:**
 
@@ -475,16 +474,6 @@ Praktický význam: usnadňuje důkaz dojití bez nutnosti dokládat doručenku.
 > (2) Kdo způsobil neplatnost právního jednání, nahradí škodu z toho vzniklou straně, která o neplatnosti nevěděla.
 >
 
-> Na právní jednání je třeba spíše hledět jako na platné než jako na neplatné.
-
-> Má-li neplatné právní jednání náležitosti jiného právního jednání, které je platné, platí toto jiné právní jednání, pokud je z okolností zřejmé, že vyjadřuje vůli jednající osoby.
-
-> Týká-li se důvod neplatnosti jen takové části právního jednání, kterou lze od jeho ostatního obsahu oddělit, je neplatnou jen tato část, lze-li předpokládat, že by k právnímu jednání došlo i bez neplatné části, rozpoznala-li by strana neplatnost včas.
-
-> Je-li důvod neplatnosti jen v nezákonném určení množstevního, časového, územního nebo jiného rozsahu, soud rozsah změní tak, aby odpovídal spravedlivému uspořádání práv a povinností stran; návrhy stran přitom vázán není, ale uváží, zda by strana k právnímu jednání vůbec přistoupila, rozpoznala-li by neplatnost včas.
-
-> Chyby v psaní nebo v počtech nejsou právnímu jednání na újmu, je-li jeho význam nepochybný.
-
 > (1) Způsobil-li někdo neplatnost právního jednání, nemá právo namítnout neplatnost nebo uplatnit z neplatného právního jednání pro sebe výhodu.
 
 > (2) Kdo způsobil neplatnost právního jednání, nahradí škodu z toho vzniklou straně, která o neplatnosti nevěděla.
@@ -513,8 +502,6 @@ Typický příklad: prodávající úmyslně neuvede podstatnou informaci o nemo
 > (1) Neplatné je právní jednání, které se příčí dobrým mravům, jakož i právní jednání, které odporuje zákonu, pokud to smysl a účel zákona vyžaduje.
 
 > (2) Neplatné je právní jednání, pokud má být podle něho plněno něco nemožného.
-
-> Není-li osoba plně svéprávná, je neplatné právní jednání, ke kterému není způsobilá. Neplatné je i právní jednání osoby jednající v duševní poruše, která ji činí neschopnou právně jednat.
 
 > (1) Není-li právní jednání učiněno ve formě ujednané stranami nebo stanovené zákonem, je neplatné, ledaže strany vadu dodatečně zhojí. Zahrnuje-li projev vůle současně více právních jednání, nepůsobí nedostatek formy vyžadované pro některé z nich sám o sobě neplatnost ostatních.
 
@@ -545,13 +532,10 @@ Toto je **proautonomní pravidlo** — chrání plnění proti formálnímu napa
 > Vyvolala-li omyl jednajícího osoba třetí, je právní jednání platné. Měla-li však osoba, s níž se právně jednalo, na činu třetí osoby podíl, anebo o něm věděla či alespoň musela vědět, považuje se i tato osoba za původce omylu.
 >
 
-> Jednal-li někdo v omylu o rozhodující okolnosti a byl-li v omyl uveden druhou stranou, je právní jednání neplatné.
-
 > (1) Týká-li se omyl vedlejší okolnosti, kterou ani strany neprohlásily za rozhodující, je právní jednání platné, ale osoba uvedená v omyl má vůči původci omylu právo na přiměřenou náhradu.
 
 > (2) Bylo-li právně jednáno v omylu vyvolaném lstí, je právní jednání neplatné, třebaže se omyl týká jen vedlejší okolnosti.
 
-> Vyvolala-li omyl jednajícího osoba třetí, je právní jednání platné. Měla-li však osoba, s níž se právně jednalo, na činu třetí osoby podíl, anebo o něm věděla či alespoň musela vědět, považuje se i tato osoba za původce omylu.
 **Výklad:**
 
 **Default**: omyl vyvolaný **třetí osobou** (mimo strany jednání) **nezakládá neplatnost**.
@@ -583,7 +567,6 @@ Příklad: kupující koupil obraz na základě falešného posudku znalce. Posu
 
 > (2) Kdo přivedl jiného k právnímu jednání hrozbou nebo lstí, nahradí vždy újmu z toho vzniklou.
 
-> Soud přihlédne i bez návrhu k neplatnosti právního jednání, které se zjevně příčí dobrým mravům, anebo které odporuje zákonu a zjevně narušuje veřejný pořádek. To platí i v případě, že právní jednání zavazuje k plnění od počátku nemožnému.
 **Výklad:**
 
 **Tři důvody absolutní neplatnosti** (k níž soud přihlíží i bez návrhu):
