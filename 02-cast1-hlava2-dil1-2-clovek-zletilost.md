@@ -21,8 +21,8 @@ V této kapitole zpracujeme **Díl 1 a začátek Dílu 2** (Oddíl 1 — obecná
 
 ### § 15 — Právní osobnost a svéprávnost
 
-(1) Právní osobnost je způsobilost mít v mezích právního řádu práva a povinnosti.
-(2) Svéprávnost je způsobilost nabývat pro sebe vlastním právním jednáním práva a zavazovat se k povinnostem (právně jednat).
+> (1) Právní osobnost je způsobilost mít v mezích právního řádu práva a povinnosti.
+> (2) Svéprávnost je způsobilost nabývat pro sebe vlastním právním jednáním práva a zavazovat se k povinnostem (právně jednat).
 
 **Výklad:**
 
@@ -42,6 +42,9 @@ V této kapitole zpracujeme **Díl 1 a začátek Dílu 2** (Oddíl 1 — obecná
 
 ### § 16 — Nezcizitelnost právní osobnosti a svéprávnosti
 
+> Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát ani zčásti; učiní-li tak, nepřihlíží se k tomu.
+
+
 Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát ani zčásti; učiní-li tak, nepřihlíží se k tomu.
 
 **Výklad:**
@@ -59,8 +62,8 @@ K takovému ujednání **se nepřihlíží** (§ 554 — zdánlivé právní jed
 
 ### § 17 — Práva a povinnosti náleží jen osobám
 
-(1) Práva může mít a vykonávat jen osoba. Povinnost lze uložit jen osobě a jen vůči ní lze plnění povinnosti vymáhat.
-(2) Zřídí-li někdo právo nebo uloží-li povinnost tomu, co osobou není, přičte se právo nebo povinnost osobě, které podle povahy právního případu náleží.
+> (1) Práva může mít a vykonávat jen osoba. Povinnost lze uložit jen osobě a jen vůči ní lze plnění povinnosti vymáhat.
+> (2) Zřídí-li někdo právo nebo uloží-li povinnost tomu, co osobou není, přičte se právo nebo povinnost osobě, které podle povahy právního případu náleží.
 
 **Výklad:**
 
@@ -80,6 +83,9 @@ V takových případech se právo / povinnost **přičte té osobě, které podl
 
 ### § 18 — Dichotomie fyzických a právnických osob
 
+> Osoba je fyzická, nebo právnická.
+
+
 Osoba je fyzická, nebo právnická.
 
 **Výklad:**
@@ -96,8 +102,8 @@ Osoba je fyzická, nebo právnická.
 
 ### § 19 — Přirozená práva člověka
 
-(1) Každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu. Zákon stanoví jen meze uplatňování přirozených práv člověka a způsob jejich ochrany.
-(2) Přirozená práva spojená s osobností člověka nelze zcizit a nelze se jich vzdát; stane-li se tak, nepřihlíží se k tomu. Nepřihlíží se ani k omezení těchto práv v míře odporující zákonu, dobrým mravům nebo veřejnému pořádku.
+> (1) Každý člověk má vrozená, již samotným rozumem a citem poznatelná přirozená práva, a tudíž se považuje za osobu. Zákon stanoví jen meze uplatňování přirozených práv člověka a způsob jejich ochrany.
+> (2) Přirozená práva spojená s osobností člověka nelze zcizit a nelze se jich vzdát; stane-li se tak, nepřihlíží se k tomu. Nepřihlíží se ani k omezení těchto práv v míře odporující zákonu, dobrým mravům nebo veřejnému pořádku.
 
 **Výklad:**
 
@@ -117,8 +123,8 @@ Osoba je fyzická, nebo právnická.
 
 ### § 20 — Právnická osoba
 
-(1) Právnická osoba je organizovaný útvar, o kterém zákon stanoví, že má právní osobnost, nebo jehož právní osobnost zákon uzná. Právnická osoba může bez zřetele na předmět své činnosti mít práva a povinnosti, které se slučují s její právní povahou.
-(2) Právnické osoby veřejného práva podléhají zákonům, podle nichž byly zřízeny; ustanovení tohoto zákona se použijí jen tehdy, slučuje-li se to s právní povahou těchto osob.
+> (1) Právnická osoba je organizovaný útvar, o kterém zákon stanoví, že má právní osobnost, nebo jehož právní osobnost zákon uzná. Právnická osoba může bez zřetele na předmět své činnosti mít práva a povinnosti, které se slučují s její právní povahou.
+> (2) Právnické osoby veřejného práva podléhají zákonům, podle nichž byly zřízeny; ustanovení tohoto zákona se použijí jen tehdy, slučuje-li se to s právní povahou těchto osob.
 
 **Výklad:**
 
@@ -145,6 +151,9 @@ Pro PO veřejného práva platí podle § 20 odst. 2 zásada **subsidiarity OZ**
 
 ### § 21 — Stát jako právnická osoba
 
+> Stát se v oblasti soukromého práva považuje za právnickou osobu. Jiný právní předpis stanoví, jak stát právně jedná.
+
+
 Stát se v oblasti soukromého práva považuje za právnickou osobu. Jiný právní předpis stanoví, jak stát právně jedná.
 
 **Výklad:**
@@ -169,9 +178,9 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 
 ### § 22 — Osoba blízká
 
-(1) Osoba blízká je příbuzný v řadě přímé, sourozenec a manžel nebo partner podle jiného zákona upravujícího registrované partnerství (dále jen „partner"); jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké, pokud by újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní. Má se za to, že osobami blízkými jsou i osoby sešvagřené nebo osoby, které spolu trvale žijí.
+> (1) Osoba blízká je příbuzný v řadě přímé, sourozenec a manžel nebo partner podle jiného zákona upravujícího registrované partnerství (dále jen „partner"); jiné osoby v poměru rodinném nebo obdobném se pokládají za osoby sobě navzájem blízké, pokud by újmu, kterou utrpěla jedna z nich, druhá důvodně pociťovala jako újmu vlastní. Má se za to, že osobami blízkými jsou i osoby sešvagřené nebo osoby, které spolu trvale žijí.
 
-(2) Stanoví-li zákon k ochraně třetích osob zvláštní podmínky nebo omezení pro převody majetku, pro jeho zatížení nebo přenechání k užití jinému mezi osobami blízkými, platí tyto podmínky a omezení i pro obdobná právní jednání mezi právnickou osobou a členem jejího statutárního orgánu nebo tím, kdo právnickou osobu podstatně ovlivňuje jako její člen nebo na základě dohody či jiné skutečnosti.
+> (2) Stanoví-li zákon k ochraně třetích osob zvláštní podmínky nebo omezení pro převody majetku, pro jeho zatížení nebo přenechání k užití jinému mezi osobami blízkými, platí tyto podmínky a omezení i pro obdobná právní jednání mezi právnickou osobou a členem jejího statutárního orgánu nebo tím, kdo právnickou osobu podstatně ovlivňuje jako její člen nebo na základě dohody či jiné skutečnosti.
 
 **Výklad:**
 
@@ -200,6 +209,9 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 
 ### § 23 — Právní osobnost člověka
 
+> Člověk má právní osobnost od narození až do smrti.
+
+
 Člověk má právní osobnost od narození až do smrti.
 
 **Výklad:**
@@ -215,6 +227,9 @@ Právní osobnost je **automatická a nedělitelná** — vzniká samým narozen
 ---
 
 ### § 24 — Odpovědnost za vlastní jednání
+
+> Každý člověk odpovídá za své jednání, je-li s to posoudit je a ovládnout. Kdo se vlastní vinou přivede do stavu, v němž by jinak za své jednání odpovědný nebyl, odpovídá za jednání v tomto stavu učiněná.
+
 
 Každý člověk odpovídá za své jednání, je-li s to posoudit je a ovládnout. Kdo se vlastní vinou přivede do stavu, v němž by jinak za své jednání odpovědný nebyl, odpovídá za jednání v tomto stavu učiněná.
 
@@ -241,6 +256,9 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 
 ### § 25 — Nasciturus (počaté dítě)
 
+> Na počaté dítě se hledí jako na již narozené, pokud to vyhovuje jeho zájmům. Má se za to, že se dítě narodilo živé. Nenarodí-li se však živé, hledí se na ně, jako by nikdy nebylo.
+
+
 Na počaté dítě se hledí jako na již narozené, pokud to vyhovuje jeho zájmům. Má se za to, že se dítě narodilo živé. Nenarodí-li se však živé, hledí se na ně, jako by nikdy nebylo.
 
 **Výklad:**
@@ -261,8 +279,8 @@ Na počaté dítě se hledí jako na již narozené, pokud to vyhovuje jeho záj
 
 ### § 26 — Důkaz smrti
 
-(1) Smrt člověka se prokazuje veřejnou listinou vystavenou po prohlédnutí těla mrtvého stanoveným způsobem.
-(2) Nelze-li tělo mrtvého prohlédnout stanoveným způsobem, prohlásí člověka za mrtvého i bez návrhu soud, pokud byl člověk účasten takové události, že se jeho smrt vzhledem k okolnostem jeví jako jistá. V rozhodnutí určí soud den, který platí za den smrti.
+> (1) Smrt člověka se prokazuje veřejnou listinou vystavenou po prohlédnutí těla mrtvého stanoveným způsobem.
+> (2) Nelze-li tělo mrtvého prohlédnout stanoveným způsobem, prohlásí člověka za mrtvého i bez návrhu soud, pokud byl člověk účasten takové události, že se jeho smrt vzhledem k okolnostem jeví jako jistá. V rozhodnutí určí soud den, který platí za den smrti.
 
 **Výklad:**
 
@@ -285,6 +303,9 @@ Na počaté dítě se hledí jako na již narozené, pokud to vyhovuje jeho záj
 
 ### § 27 — Současné úmrtí
 
+> Závisí-li právní následek na skutečnosti, že určitý člověk přežil jiného člověka, a není-li jisto, který z nich zemřel jako první, má se za to, že všichni zemřeli současně.
+
+
 Závisí-li právní následek na skutečnosti, že určitý člověk přežil jiného člověka, a není-li jisto, který z nich zemřel jako první, má se za to, že všichni zemřeli současně.
 
 **Výklad:**
@@ -302,8 +323,8 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 ### § 28 — Místo úmrtí
 
-(1) Není-li známo, kde člověk zemřel, má se za to, že se tak stalo tam, kde bylo nalezeno jeho tělo.
-(2) Za místo, kde zemřel člověk prohlášený za mrtvého, platí to, kde naposledy pobýval živý.
+> (1) Není-li známo, kde člověk zemřel, má se za to, že se tak stalo tam, kde bylo nalezeno jeho tělo.
+> (2) Za místo, kde zemřel člověk prohlášený za mrtvého, platí to, kde naposledy pobýval živý.
 
 **Výklad:**
 
@@ -316,8 +337,8 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 ### § 29 — Změna pohlaví
 
-(1) Má se za to, že dnem změny pohlaví je den uvedený v potvrzení vydaném poskytovatelem zdravotních služeb.
-(2) Změna pohlaví nemá vliv na osobní stav člověka, ani na jeho osobní a majetkové poměry; manželství nebo registrované partnerství však zaniká. O povinnostech a právech muže a ženy, jejichž manželství zaniklo, ke společnému dítěti a o jejich majetkových povinnostech a právech v době po zániku manželství platí obdobně ustanovení o povinnostech a právech rozvedených manželů ke společnému dítěti a o jejich majetkových povinnostech a právech v době po rozvodu; soud rozhodne, a to i bez návrhu, jak bude každý z rodičů napříště o společné dítě pečovat.
+> (1) Má se za to, že dnem změny pohlaví je den uvedený v potvrzení vydaném poskytovatelem zdravotních služeb.
+> (2) Změna pohlaví nemá vliv na osobní stav člověka, ani na jeho osobní a majetkové poměry; manželství nebo registrované partnerství však zaniká. O povinnostech a právech muže a ženy, jejichž manželství zaniklo, ke společnému dítěti a o jejich majetkových povinnostech a právech v době po zániku manželství platí obdobně ustanovení o povinnostech a právech rozvedených manželů ke společnému dítěti a o jejich majetkových povinnostech a právech v době po rozvodu; soud rozhodne, a to i bez návrhu, jak bude každý z rodičů napříště o společné dítě pečovat.
 
 **Výklad:**
 
@@ -340,8 +361,8 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 
 ### § 30 — Zletilost
 
-(1) Plně svéprávným se člověk stává zletilostí. Zletilosti se nabývá dovršením osmnáctého roku věku.
-(2) Před nabytím zletilosti se plné svéprávnosti nabývá přiznáním svéprávnosti, nebo uzavřením manželství. Svéprávnost nabytá uzavřením manželství se neztrácí ani zánikem manželství, ani prohlášením manželství za neplatné.
+> (1) Plně svéprávným se člověk stává zletilostí. Zletilosti se nabývá dovršením osmnáctého roku věku.
+> (2) Před nabytím zletilosti se plné svéprávnosti nabývá přiznáním svéprávnosti, nebo uzavřením manželství. Svéprávnost nabytá uzavřením manželství se neztrácí ani zánikem manželství, ani prohlášením manželství za neplatné.
 
 **Výklad:**
 
@@ -358,6 +379,9 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 ---
 
 ### § 31 — Způsobilost nezletilých k právním jednáním
+
+> Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je způsobilý k právním jednáním co do povahy přiměřeným rozumové a volní vyspělosti nezletilých jeho věku.
+
 
 Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je způsobilý k právním jednáním co do povahy přiměřeným rozumové a volní vyspělosti nezletilých jeho věku.
 
@@ -385,9 +409,9 @@ Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je zp
 
 ### § 32 — Souhlas zákonného zástupce s určitým jednáním
 
-(1) Udělil-li zákonný zástupce nezletilému, který nenabyl plné svéprávnosti, ve shodě se zvyklostmi soukromého života souhlas k určitému právnímu jednání nebo k dosažení určitého účelu, je nezletilý schopen v mezích souhlasu sám právně jednat, pokud to není zákonem zvlášť zakázáno; souhlas může být následně omezen i vzat zpět.
+> (1) Udělil-li zákonný zástupce nezletilému, který nenabyl plné svéprávnosti, ve shodě se zvyklostmi soukromého života souhlas k určitému právnímu jednání nebo k dosažení určitého účelu, je nezletilý schopen v mezích souhlasu sám právně jednat, pokud to není zákonem zvlášť zakázáno; souhlas může být následně omezen i vzat zpět.
 
-(2) Je-li zákonných zástupců více, postačí, projeví-li vůči třetí osobě vůli alespoň jeden z nich; to neplatí, pokud třetí osoba věděla, že si zástupci odporují.
+> (2) Je-li zákonných zástupců více, postačí, projeví-li vůči třetí osobě vůli alespoň jeden z nich; to neplatí, pokud třetí osoba věděla, že si zástupci odporují.
 
 **Výklad:**
 
@@ -411,11 +435,11 @@ Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je zp
 
 ### § 33 — Souhlas k samostatnému provozování závodu
 
-(1) Udělí-li zákonný zástupce nezletilého, který nenabyl plné svéprávnosti, souhlas k samostatnému provozování obchodního závodu nebo k jiné obdobné výdělečné činnosti, stává se nezletilý způsobilý k jednáním, jež jsou s touto činností spojena. K platnosti souhlasu se vyžaduje přivolení soudu.
+> (1) Udělí-li zákonný zástupce nezletilého, který nenabyl plné svéprávnosti, souhlas k samostatnému provozování obchodního závodu nebo k jiné obdobné výdělečné činnosti, stává se nezletilý způsobilý k jednáním, jež jsou s touto činností spojena. K platnosti souhlasu se vyžaduje přivolení soudu.
 
-(2) Přivolení soudu nahrazuje podmínku určitého věku, je-li stanovena pro výkon určité výdělečné činnosti jiným právním předpisem.
+> (2) Přivolení soudu nahrazuje podmínku určitého věku, je-li stanovena pro výkon určité výdělečné činnosti jiným právním předpisem.
 
-(3) Souhlas může zákonný zástupce odvolat jen s přivolením soudu.
+> (3) Souhlas může zákonný zástupce odvolat jen s přivolením soudu.
 
 **Výklad:**
 
@@ -435,11 +459,13 @@ Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je zp
 
 ### § 34—35 — Práce nezletilých
 
-§ 34: (1) Závislá práce nezletilých mladších než patnáct let nebo nezletilých, kteří neukončili povinnou školní docházku, je zakázána. Tito nezletilí mohou vykonávat jen uměleckou, kulturní, reklamní nebo sportovní činnost za podmínek stanovených jiným právním předpisem.
-(2) Odchylně od odstavce 1 může nezletilý, který dovršil čtrnáct let, vykonávat závislou práci v období hlavních prázdnin za podmínek stanovených jiným právním předpisem.
+**§ 34**:
+> (1) Závislá práce nezletilých mladších než patnáct let nebo nezletilých, kteří neukončili povinnou školní docházku, je zakázána. Tito nezletilí mohou vykonávat jen uměleckou, kulturní, reklamní nebo sportovní činnost za podmínek stanovených jiným právním předpisem.
+> (2) Odchylně od odstavce 1 může nezletilý, který dovršil čtrnáct let, vykonávat závislou práci v období hlavních prázdnin za podmínek stanovených jiným právním předpisem.
 
-§ 35: (1) Nezletilý, který dovršil patnáct let, se může zavázat k výkonu závislé práce podle jiného právního předpisu. Jako den nástupu do práce nesmí být sjednán den, který by předcházel dni, kdy nezletilý ukončí povinnou školní docházku.
-(2) K výkonu závislé práce v období hlavních prázdnin se nezletilý podle § 34 odst. 2 může zavázat jen s písemným souhlasem zákonného zástupce.
+**§ 35**:
+> (1) Nezletilý, který dovršil patnáct let, se může zavázat k výkonu závislé práce podle jiného právního předpisu. Jako den nástupu do práce nesmí být sjednán den, který by předcházel dni, kdy nezletilý ukončí povinnou školní docházku.
+> (2) K výkonu závislé práce v období hlavních prázdnin se nezletilý podle § 34 odst. 2 může zavázat jen s písemným souhlasem zákonného zástupce.
 
 **Výklad:**
 
@@ -463,9 +489,9 @@ Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je zp
 
 ### § 36 — Negativní omezení samostatného jednání
 
-(1) Nezletilý, který nenabyl plné svéprávnosti, není nikdy, bez ohledu na obsah ostatních ustanovení, způsobilý jednat samostatně v těch záležitostech, k nimž by i jeho zákonný zástupce potřeboval přivolení soudu.
+> (1) Nezletilý, který nenabyl plné svéprávnosti, není nikdy, bez ohledu na obsah ostatních ustanovení, způsobilý jednat samostatně v těch záležitostech, k nimž by i jeho zákonný zástupce potřeboval přivolení soudu.
 
-(2) I když je nezletilý, který nenabyl plné svéprávnosti, způsobilý jednat v určité záležitosti samostatně, lze podmínit, že následky právního jednání nastanou až souhlasem zákonného zástupce nezletilého uděleným v určené lhůtě, jinak ve lhůtě dvou týdnů od vyžádání; to neplatí pro právní jednání osobní povahy a právní jednání podle § 33.
+> (2) I když je nezletilý, který nenabyl plné svéprávnosti, způsobilý jednat v určité záležitosti samostatně, lze podmínit, že následky právního jednání nastanou až souhlasem zákonného zástupce nezletilého uděleným v určené lhůtě, jinak ve lhůtě dvou týdnů od vyžádání; to neplatí pro právní jednání osobní povahy a právní jednání podle § 33.
 
 **Výklad:**
 
@@ -486,9 +512,9 @@ V těchto věcech **nezletilý nemůže jednat samostatně**, ani s předchozím
 
 ### § 37 — Přiznání svéprávnosti
 
-(1) Navrhne-li nezletilý, který není plně svéprávný, aby mu soud přiznal svéprávnost, soud návrhu vyhoví, pokud nezletilý dosáhl věku šestnácti let, pokud je osvědčena jeho schopnost sám se živit a obstarat si své záležitosti a pokud s návrhem souhlasí zákonný zástupce nezletilého. V ostatních případech soud vyhoví návrhu, je-li to z vážných důvodů v zájmu nezletilého.
+> (1) Navrhne-li nezletilý, který není plně svéprávný, aby mu soud přiznal svéprávnost, soud návrhu vyhoví, pokud nezletilý dosáhl věku šestnácti let, pokud je osvědčena jeho schopnost sám se živit a obstarat si své záležitosti a pokud s návrhem souhlasí zákonný zástupce nezletilého. V ostatních případech soud vyhoví návrhu, je-li to z vážných důvodů v zájmu nezletilého.
 
-(2) Za podmínek stanovených v odstavci 1 soud přizná nezletilému svéprávnost i na návrh jeho zákonného zástupce, pokud nezletilý s návrhem souhlasí.
+> (2) Za podmínek stanovených v odstavci 1 soud přizná nezletilému svéprávnost i na návrh jeho zákonného zástupce, pokud nezletilý s návrhem souhlasí.
 
 **Výklad:**
 

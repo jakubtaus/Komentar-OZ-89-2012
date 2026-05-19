@@ -21,8 +21,8 @@ Strukturálně se Oddíl dělí na:
 
 ### § 210 — Definice korporace
 
-(1) Korporaci vytváří jako právnickou osobu společenství osob.
-(2) Na právnickou osobu tvořenou jediným členem se hledí jako na korporaci.
+> (1) Korporaci vytváří jako právnickou osobu společenství osob.
+> (2) Na právnickou osobu tvořenou jediným členem se hledí jako na korporaci.
 
 **Výklad:**
 
@@ -36,9 +36,9 @@ Strukturálně se Oddíl dělí na:
 
 ### § 211 — Jediný a nedostatečný počet členů
 
-(1) Korporace může mít jediného člena, připouští-li to zákon. V takovém případě jediný člen korporace v ní nemůže z vlastní vůle ukončit členství, ledaže v důsledku toho na jeho místo vstoupí nová osoba.
+> (1) Korporace může mít jediného člena, připouští-li to zákon. V takovém případě jediný člen korporace v ní nemůže z vlastní vůle ukončit členství, ledaže v důsledku toho na jeho místo vstoupí nová osoba.
 
-(2) Klesne-li počet členů korporace pod počet stanovený zákonem, soud ji i bez návrhu zruší a rozhodne o její likvidaci. Nejprve jí však poskytne přiměřenou lhůtu ke zjednání nápravy.
+> (2) Klesne-li počet členů korporace pod počet stanovený zákonem, soud ji i bez návrhu zruší a rozhodne o její likvidaci. Nejprve jí však poskytne přiměřenou lhůtu ke zjednání nápravy.
 
 **Výklad:**
 
@@ -55,9 +55,9 @@ Příklad: spolek klesne ze 3 členů na 2. Soud vyzve k doplnění do 3 měsíc
 
 ### § 212 — Povinnost čestnosti, zneužití hlasu
 
-(1) Přijetím členství v korporaci se člen vůči ní zavazuje chovat se čestně a zachovávat její vnitřní řád. Korporace nesmí svého člena bezdůvodně zvýhodňovat ani znevýhodňovat a musí šetřit jeho členská práva i oprávněné zájmy.
+> (1) Přijetím členství v korporaci se člen vůči ní zavazuje chovat se čestně a zachovávat její vnitřní řád. Korporace nesmí svého člena bezdůvodně zvýhodňovat ani znevýhodňovat a musí šetřit jeho členská práva i oprávněné zájmy.
 
-(2) Zneužije-li člen soukromé korporace hlasovací právo k újmě celku, rozhodne soud na návrh toho, kdo prokáže právní zájem, že k hlasu tohoto člena nelze pro určitý případ přihlížet. Toto právo zaniká, pokud návrh není podán do tří měsíců ode dne, kdy k zneužití hlasu došlo.
+> (2) Zneužije-li člen soukromé korporace hlasovací právo k újmě celku, rozhodne soud na návrh toho, kdo prokáže právní zájem, že k hlasu tohoto člena nelze pro určitý případ přihlížet. Toto právo zaniká, pokud návrh není podán do tří měsíců ode dne, kdy k zneužití hlasu došlo.
 
 **Výklad:**
 
@@ -87,7 +87,7 @@ Tato pravidla jsou **kogentní** a tvoří **základ vztahu mezi korporací a č
 
 ### § 213 — Derivativní žaloba
 
-Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který zakládá jeho povinnost k náhradě a kterým byl poškozen i jiný člen korporace na hodnotě své účasti, a domáhá-li se náhrady jen tento člen, může soud škůdci i bez zvláštního návrhu uložit povinnost nahradit způsobenou škodu jen korporaci, pokud to odůvodňují okolnosti případu, zejména pokud je dostatečně zřejmé, že se takovým opatřením vyrovná i škoda na znehodnocené účasti.
+> Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který zakládá jeho povinnost k náhradě a kterým byl poškozen i jiný člen korporace na hodnotě své účasti, a domáhá-li se náhrady jen tento člen, může soud škůdci i bez zvláštního návrhu uložit povinnost nahradit způsobenou škodu jen korporaci, pokud to odůvodňují okolnosti případu, zejména pokud je dostatečně zřejmé, že se takovým opatřením vyrovná i škoda na znehodnocené účasti.
 
 **Výklad:**
 
@@ -123,8 +123,8 @@ Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který 
 
 #### § 214 — Definice spolku
 
-(1) Alespoň tři osoby vedené společným zájmem mohou založit k jeho naplňování spolek jako samosprávný a dobrovolný svazek členů a spolčovat se v něm.
-(2) Vytvoří-li spolky k uplatňování společného zájmu nový spolek jako svůj svaz, vyjádří v názvu nového spolku jeho svazovou povahu.
+> (1) Alespoň tři osoby vedené společným zájmem mohou založit k jeho naplňování spolek jako samosprávný a dobrovolný svazek členů a spolčovat se v něm.
+> (2) Vytvoří-li spolky k uplatňování společného zájmu nový spolek jako svůj svaz, vyjádří v názvu nového spolku jeho svazovou povahu.
 
 **Výklad:**
 
@@ -137,8 +137,8 @@ Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který 
 
 #### § 215 — Dobrovolnost a vyloučení ručení
 
-(1) Nikdo nesmí být nucen k účasti ve spolku a nikomu nesmí být bráněno vystoupit z něho.
-(2) Členové spolku neručí za jeho dluhy.
+> (1) Nikdo nesmí být nucen k účasti ve spolku a nikomu nesmí být bráněno vystoupit z něho.
+> (2) Členové spolku neručí za jeho dluhy.
 
 **Výklad:**
 
@@ -150,7 +150,7 @@ Poškodí-li korporaci její člen nebo člen jejího orgánu způsobem, který 
 
 #### § 216 — Název spolku
 
-Název spolku musí obsahovat slova „spolek" nebo „zapsaný spolek", postačí však zkratka „z. s.".
+> Název spolku musí obsahovat slova „spolek" nebo „zapsaný spolek", postačí však zkratka „z. s.".
 
 **Výklad:**
 
@@ -158,11 +158,11 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 
 #### § 217 — Hlavní a vedlejší činnost
 
-(1) Hlavní činností spolku může být jen uspokojování a ochrana těch zájmů, k jejichž naplňování je spolek založen. Podnikání nebo jiná výdělečná činnost hlavní činností spolku být nemůže.
+> (1) Hlavní činností spolku může být jen uspokojování a ochrana těch zájmů, k jejichž naplňování je spolek založen. Podnikání nebo jiná výdělečná činnost hlavní činností spolku být nemůže.
 
-(2) Vedle hlavní činnosti může spolek vyvíjet též vedlejší hospodářskou činnost spočívající v podnikání nebo jiné výdělečné činnosti, je-li její účel v podpoře hlavní činnosti nebo v hospodárném využití spolkového majetku.
+> (2) Vedle hlavní činnosti může spolek vyvíjet též vedlejší hospodářskou činnost spočívající v podnikání nebo jiné výdělečné činnosti, je-li její účel v podpoře hlavní činnosti nebo v hospodárném využití spolkového majetku.
 
-(3) Zisk z činnosti spolku lze použít pouze pro spolkovou činnost včetně správy spolku.
+> (3) Zisk z činnosti spolku lze použít pouze pro spolkovou činnost včetně správy spolku.
 
 **Výklad:**
 
@@ -185,6 +185,27 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 
 #### § 218—221 — Stanovy
 
+> Zakladatelé založí spolek, shodnou-li se na obsahu stanov; stanovy obsahují alespoň
+>
+> - a) název a sídlo spolku,
+>
+> - b) účel spolku,
+>
+> - c) práva a povinnosti členů vůči spolku, popřípadě určení způsobu, jak jim budou práva a povinnosti vznikat,
+>
+> - d) určení statutárního orgánu.
+
+> Stanovy mohou založit pobočný spolek jako organizační jednotku spolku nebo určit, jakým způsobem se pobočný spolek zakládá a který orgán rozhoduje o založení, zrušení nebo přeměně pobočného spolku.
+
+> (1) Určí-li stanovy, že členství je různého druhu, vymezí zároveň práva a povinnosti spojené s jednotlivými druhy členství.
+>
+> (2) Omezit práva nebo rozšířit povinnosti spojené s určitým druhem členství lze jen za podmínek určených předem ve stanovách, jinak se souhlasem většiny dotčených členů. To neplatí, má-li spolek k omezení práv nebo rozšíření povinností spravedlivý důvod.
+
+> Stanovy musí být uloženy v úplném znění v sídle spolku.
+>
+> ###### Ustavující schůze
+
+
 § 218 stanoví **minimální obsah stanov**:
 - a) Název a sídlo;
 - b) Účel;
@@ -197,6 +218,25 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 
 #### § 222—225 — Ustavující schůze
 
+> (1) Spolek lze založit i usnesením ustavující schůze tvořícího se spolku. Na ustavující schůzi se obdobně použijí ustanovení o členské schůzi.
+>
+> (2) Návrh stanov vypracuje a další zájemce o založení spolku svolá vhodným způsobem k ustavující schůzi svolavatel. Správnost a úplnost listiny přítomných ověří svolavatel nebo osoba jím pověřená.
+
+> Každý, kdo se dostaví na ustavující schůzi a splňuje podmínky pro členství ve spolku, se zapíše do listiny přítomných, podepíše se k údaji o svém jménu a bydlišti nebo sídlu. Správnost a úplnost listiny přítomných ověří svolatel nebo osoba jím pověřená. Platí, že osoby zapsané v listině přítomných podaly řádnou přihlášku do spolku.
+
+> (1) Ustavující schůzi zahájí svolavatel nebo osoba jím pověřená. Sdělí ustavující schůzi počet přítomných a seznámí ji s jednáními, která svolavatel v zájmu spolku již učinil. Dále navrhne ustavující schůzi pravidla pro její jednání a volbu předsedajícího i případných dalších činovníků.
+>
+> (2) Ustavující schůze volí členy těch orgánů, které podle určení zákona a stanov zvolit má.
+>
+> (3) Ustavující schůze přijímá usnesení většinou hlasů přítomných v době hlasování.
+>
+> (4) Kdo hlasoval proti přijetí návrhu stanov, může od přihlášky do spolku odstoupit. O tom musí být učiněn záznam v listině přítomných opatřený podpisy odstupujícího a toho, kdo záznam učinil.
+
+> Účastní-li se ustavující schůze alespoň tři osoby, mohou schválit stanovy podle § 218.
+>
+> ###### Vznik spolku
+
+
 § 222—225 upravují **alternativní způsob založení** — usnesením ustavující schůze. Svolavatel:
 - Připraví návrh stanov;
 - Svolá zájemce o členství;
@@ -205,6 +245,17 @@ Povinné označení formy. **Zkratka „z. s."** je standardní volba (úspora z
 Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval proti stanovám, může od přihlášky **odstoupit**.
 
 #### § 226—227 — Vznik a nezdařený vznik
+
+> (1) Spolek vzniká dnem zápisu do veřejného rejstříku.
+>
+> (2) Návrh na zápis spolku do veřejného rejstříku podávají zakladatelé nebo osoba určená ustavující schůzí.
+>
+> (3) Není-li spolek do veřejného rejstříku zapsán do třiceti dnů od podání návrhu na zápis a není-li v této lhůtě ani vydáno rozhodnutí o odmítnutí zápisu, považuje se spolek za zapsaný do veřejného rejstříku třicátým dnem od podání návrhu.
+
+> Pokračuje-li spolek v činnosti i poté, co byl jeho zápis do veřejného rejstříku odmítnut, použijí se ustanovení o společnosti.
+>
+> ###### Pobočný spolek
+
 
 **§ 226 — Vznik spolku** = den zápisu do spolkového rejstříku. **Fikce zápisu** — pokud rejstřík nerozhodne do **30 dnů**, spolek se považuje za zapsaný (silná procesní záruka).
 
@@ -228,6 +279,29 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 
 #### § 232—236 — Vznik členství, druhy, seznam
 
+> (1) Neurčí-li stanovy jinak, váže se členství ve spolku na osobu člena a nepřechází na jeho právního nástupce.
+>
+> (2) Je-li členem spolku právnická osoba, zastupuje ji statutární orgán, ledaže právnická osoba určí jiného zástupce.
+
+> (1) Po vzniku spolku může členství v něm vzniknout přijetím za člena nebo jiným způsobem určeným stanovami.
+>
+> (2) Kdo se uchází o členství ve spolku, projevuje tím vůli být vázán stanovami od okamžiku, kdy se stane členem spolku.
+>
+> (3) O přijetí za člena rozhoduje orgán určený stanovami, jinak nejvyšší orgán spolku.
+
+> Má se za to, že vznikem členství v pobočném spolku vzniká i členství v hlavním spolku; to platí i o zániku členství.
+
+> Stanovy mohou určit výši a splatnost členského příspěvku nebo určí, který orgán spolku určí výši a splatnost členského příspěvku a jakým způsobem.
+
+> (1) Vede-li spolek seznam členů, stanovy určí, jakým způsobem provádí v seznamu členů zápisy a výmazy týkající se členství osob ve spolku. Stanovy dále určí, jak bude seznam členů zpřístupněn, anebo že zpřístupněn nebude.
+>
+> (2) Každý člen, a to i bývalý, obdrží na svou žádost od spolku na jeho náklady potvrzení s výpisem ze seznamu členů obsahující údaje o své osobě, popřípadě potvrzení, že tyto údaje byly vymazány. Namísto zemřelého člena může o potvrzení požádat jeho manžel, dítě nebo rodič, a není-li žádný z nich, může o vydání potvrzení žádat jiná osoba blízká nebo dědic, prokáží-li zájem hodný právní ochrany.
+>
+> (3) Seznam členů může být uveřejněn se souhlasem všech členů, kteří jsou v něm zapsáni; při uveřejnění neúplného seznamu členů musí být z něho patrné, že je neúplný.
+>
+> ###### Zánik členství
+
+
 **§ 232 — Vázanost na osobu**: členství je **vázáno na osobu** a **nepřechází na nástupce** (dědice). Stanovy mohou určit jinak (např. spolek vlastníků kulturních památek — členství spojené s nemovitostí).
 
 **§ 233 — Vznik členství**:
@@ -248,13 +322,36 @@ Ustavující schůze rozhoduje **většinou hlasů přítomných**. Kdo hlasoval
 
 #### § 237 — Způsoby zániku
 
+> Členství ve spolku zaniká vystoupením, vyloučením, nebo dalšími způsoby uvedenými ve stanovách nebo v zákoně.
+
+
 Členství zaniká **vystoupením, vyloučením, nebo dalšími způsoby uvedenými ve stanovách nebo v zákoně**.
 
 #### § 238 — Zánik pro nezaplacení příspěvku
 
+> Neurčí-li stanovy jinak, zanikne členství, pokud člen nezaplatí členský příspěvek ani v přiměřené lhůtě určené spolkem dodatečně ve výzvě k zaplacení, ačkoli byl na tento následek ve výzvě upozorněn.
+
+
 Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přiměřené dodatečné lhůtě** ve výzvě k zaplacení (s upozorněním na následek).
 
 #### § 239—242 — Vyloučení a jeho přezkum
+
+> (1) Neurčí-li stanovy něco jiného, může spolek vyloučit člena, který závažně porušil povinnost vyplývající z členství a v přiměřené lhůtě nápravu nezjednal ani po výzvě spolku. Výzva se nevyžaduje, nelze-li porušení povinnosti odčinit nebo způsobilo-li spolku zvlášť závažnou újmu.
+>
+> (2) Rozhodnutí o vyloučení se doručí vyloučenému členu.
+
+> (1) Neurčí-li stanovy jiný orgán, rozhoduje o vyloučení člena statutární orgán.
+>
+> (2) Neurčí-li stanovy jinak, může návrh na vyloučení podat v písemné formě kterýkoli člen; v návrhu se uvedou okolnosti osvědčující důvod pro vyloučení. Člen, proti kterému návrh směřuje, musí mít příležitost se s návrhem na vyloučení seznámit, žádat o jeho vysvětlení a uvést i doložit vše, co mu je k prospěchu.
+
+> (1) Člen může do patnácti dnů od doručení rozhodnutí v písemné formě navrhnout, aby rozhodnutí o jeho vyloučení přezkoumala rozhodčí komise, ledaže stanovy určí jiný orgán.
+>
+> (2) Příslušný orgán zruší rozhodnutí o vyloučení člena, odporuje-li vyloučení zákonu nebo stanovám; rozhodnutí o vyloučení člena může zrušit i v jiných odůvodněných případech.
+
+> Vyloučený člen může do tří měsíců od doručení konečného rozhodnutí spolku o svém vyloučení navrhnout soudu, aby rozhodl o neplatnosti vyloučení; jinak toto právo zaniká. Nebylo-li mu rozhodnutí doručeno, může člen návrh podat do tří měsíců ode dne, kdy se o něm dozvěděl, nejdéle však do jednoho roku ode dne, kdy byl po vydání rozhodnutí zánik jeho členství vyloučením zapsán do seznamu členů; jinak toto právo zaniká.
+>
+> ###### Organizace spolku
+
 
 **§ 239 — Důvod vyloučení** (default — modifikovatelný stanovami):
 - **Závažné porušení povinnosti** vyplývající z členství;
@@ -271,17 +368,33 @@ Default: členství zaniká, pokud člen nezaplatí příspěvek ani v **přimě
 
 #### § 243 — Orgány
 
+> Orgány spolku jsou statutární orgán a nejvyšší orgán, případně kontrolní komise, rozhodčí komise a další orgány určené ve stanovách. Stanovy mohou orgány spolku pojmenovat libovolně, nevzbudí-li tím klamný dojem o jejich povaze.
+
+
 Povinné: **statutární orgán** + **nejvyšší orgán**. Volitelné (podle stanov): kontrolní komise, rozhodčí komise, další. Stanovy mohou pojmenovat libovolně (bez klamavosti).
 
 #### § 244 — Typ statutárního orgánu
+
+> Stanovy určí, je-li statutární orgán kolektivní (výbor) nebo individuální (předseda). Neurčí-li stanovy jinak, volí a odvolává členy statutárního orgánu nejvyšší orgán spolku.
+
 
 Stanovy určí: **kolektivní (výbor)** nebo **individuální (předseda)**. Default voličem: nejvyšší orgán spolku.
 
 #### § 245 — Zdánlivá usnesení
 
+> Na usnesení členské schůze nebo jiného orgánu, které se příčí dobrým mravům, nebo mění stanovy tak, že jejich obsah odporuje donucujícím ustanovením zákona, se hledí, jako by nebylo přijato. To platí i v případě, že bylo přijato usnesení v záležitosti, o které tento orgán nemá působnost rozhodnout.
+
+
 Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti **donucujícím ustanovením zákona**, se hledí, jako by nebylo přijato (zdánlivé právní jednání — § 554). Totéž platí pro usnesení v záležitosti **mimo působnost** daného orgánu (*ultra vires*).
 
 #### § 246 — Funkční období, kooptace, postup
+
+> (1) Neurčí-li stanovy funkční období členů volených orgánů spolku, je toto období pětileté.
+>
+> (2) Neurčí-li stanovy jinak, mohou členové volených orgánů spolku, jejichž počet neklesl pod polovinu, kooptovat náhradní členy do nejbližšího zasedání orgánu příslušného k volbě.
+>
+> (3) Neurčí-li stanovy jinak, použijí se pro svolání, zasedání a rozhodování kolektivních orgánů spolku § 156 a § 159 odst. 2 a přiměřeně též ustanovení o členské schůzi.
+
 
 - Default funkční období: **5 let**;
 - **Kooptace**: pokud počet členů orgánu neklesl pod polovinu, mohou ostatní kooptovat náhradní (do nejbližšího zasedání volícího orgánu);
@@ -290,6 +403,15 @@ Na usnesení, které je v **rozporu s dobrými mravy** nebo mění stanovy proti
 ### Nejvyšší orgán (členská schůze)
 
 #### § 247 — Pojem
+
+> (1) Stanovy určí, který orgán je nejvyšším orgánem spolku; do jeho působnosti zpravidla náleží určit hlavní zaměření činnosti spolku, rozhodovat o změně stanov, schválit výsledek hospodaření spolku, hodnotit činnost dalších orgánů spolku i jejich členů a rozhodnout o zrušení spolku s likvidací nebo o jeho přeměně.
+>
+> (2) Je-li podle stanov statutární orgán spolku i jeho nejvyšším orgánem a není-li s to vykonávat působnost po dobu delší než jeden měsíc, může alespoň pětina členů spolku svolat shromáždění všech členů spolku; na shromáždění přechází působnost nejvyššího orgánu spolku. To neplatí, určí-li stanovy něco jiného.
+>
+> (3) Neurčí-li stanovy jinak, je nejvyšším orgánem spolku členská schůze; ustanovení § 248 až 257 se na členskou schůzi použijí, pokud stanovy neurčí něco jiného.
+>
+> ###### Členská schůze
+
 
 Default: **členská schůze**. Působnost:
 - Hlavní zaměření činnosti;
@@ -302,6 +424,23 @@ Default: **členská schůze**. Působnost:
 
 #### § 248—251 — Svolávání a účast
 
+> (1) Členskou schůzi svolává k zasedání statutární orgán spolku nejméně jedenkrát do roka.
+>
+> (2) Statutární orgán spolku svolá zasedání členské schůze z podnětu alespoň třetiny členů spolku nebo kontrolního orgánu spolku. Nesvolá-li statutární orgán spolku zasedání členské schůze do třiceti dnů od doručení podnětu, může ten, kdo podnět podal, svolat zasedání členské schůze na náklady spolku sám.
+
+> (1) Zasedání členské schůze se svolá vhodným způsobem ve lhůtě určené stanovami, jinak nejméně třicet dnů před jeho konáním. Z pozvánky musí být zřejmé místo, čas a pořad zasedání.
+>
+> (2) Je-li zasedání svoláno podle § 248, může být pořad zasedání proti návrhu uvedenému v podnětu změněn jen se souhlasem toho, kdo podnět podal.
+>
+> (3) Místo a čas zasedání se určí tak, aby co nejméně omezovaly možnost členů se ho účastnit.
+
+> (1) Kdo zasedání svolal, může je odvolat nebo odložit stejným způsobem, jakým bylo svoláno. Stane-li se tak méně než týden před oznámeným datem zasedání, nahradí spolek členům, kteří se na zasedání dostavili podle pozvánky, účelně vynaložené náklady.
+>
+> (2) Je-li zasedání svoláno podle § 248, může být odvoláno či odloženo jen na návrh nebo se souhlasem toho, kdo k němu dal podnět.
+
+> Každý člen je oprávněn účastnit se zasedání a požadovat i dostat na něm vysvětlení záležitostí spolku, vztahuje-li se požadované vysvětlení k předmětu zasedání členské schůze. Požaduje-li člen na zasedání sdělení o skutečnostech, které zákon uveřejnit zakazuje nebo jejichž prozrazení by spolku způsobilo vážnou újmu, nelze mu je poskytnout.
+
+
 **§ 248**: SO svolává členskou schůzi **min. 1× ročně**. Na podnět **1/3 členů** nebo kontrolního orgánu — SO musí svolat do 30 dnů, jinak může svolat sám podnětující (na náklady spolku).
 
 **§ 249**: **Lhůta 30 dnů** předem (default; stanovy mohou určit jinak). Pozvánka musí obsahovat **místo, čas, pořad**.
@@ -312,6 +451,23 @@ Default: **členská schůze**. Působnost:
 
 #### § 252—254 — Usnášení, zápis
 
+> (1) Členská schůze je schopna usnášet se za účasti většiny členů spolku. Usnesení přijímá většinou hlasů členů přítomných v době usnášení; každý člen má jeden hlas.
+>
+> (2) Určí-li stanovy při úpravě různých druhů členství ve spolku, že je s určitým druhem členství spojen pouze hlas poradní, nepřihlíží se k tomuto hlasu pro účely odstavce 1.
+
+> (1) Kdo zasedání zahájí, ověří, zda je členská schůze schopna se usnášet. Poté zajistí volbu předsedy zasedání a případně i dalších činovníků, vyžadují-li jejich volbu stanovy.
+>
+> (2) Předseda vede zasedání tak, jak byl jeho pořad ohlášen, ledaže se členská schůze usnese na předčasném ukončení zasedání.
+>
+> (3) Záležitost, která nebyla zařazena na pořad zasedání při jeho ohlášení, lze rozhodnout jen za účasti a se souhlasem všech členů spolku oprávněných o ní hlasovat.
+
+> (1) Statutární orgán spolku zajistí vyhotovení zápisu ze zasedání do třiceti dnů od jejího ukončení. Není-li to možné, vyhotoví zápis ten, kdo zasedání předsedal nebo koho tím pověřila členská schůze.
+>
+> (2) Ze zápisu musí být patrné, kdo zasedání svolal a jak, kdy se konalo, kdo je zahájil, kdo mu předsedal, jaké případné další činovníky členská schůze zvolila, jaká usnesení přijala a kdy byl zápis vyhotoven.
+>
+> (3) Každý člen spolku může nahlížet do zápisů ze zasedání za podmínek určených stanovami. Neurčí-li stanovy jinak, lze toto právo vykonat v sídle spolku.
+
+
 **§ 252 — Usnášeníschopnost**: **většina členů spolku**. Usnesení: **většina hlasů přítomných**. **Jeden hlas na člena** (default). Druhy členství s poradním hlasem se nepočítají.
 
 **§ 253 — Předsedání**: kdo zahájil, ověří usnášeníschopnost a zajistí volbu předsedy. **Záležitost mimo ohlášený pořad** lze rozhodnout jen za **účasti a souhlasu všech členů** s hlasovacím právem.
@@ -320,11 +476,27 @@ Default: **členská schůze**. Působnost:
 
 #### § 255—256 — Dílčí členské schůze a shromáždění delegátů
 
+> Stanovy mohou určit, že se zasedání členské schůze bude konat formou dílčích členských schůzí, případně též, o kterých záležitostech tímto způsobem rozhodnout nelze. Připustí-li stanovy zasedání dílčích členských schůzí, určí rovněž období, v němž se všechna zasedání musí konat. Pro schopnost usnášet se a pro přijímání usnesení se zúčastnění členové a odevzdané hlasy sčítají.
+
+> (1) Stanovy mohou určit, že působnost členské schůze plní shromáždění delegátů.
+>
+> (2) Každý delegát musí být volen stejným počtem hlasů. Není-li to dobře možné, mohou stanovy určit pro volbu delegátů rozumnou odchylku.
+
+
 **§ 255 — Dílčí ČS**: stanovy mohou určit, že ČS se koná **formou dílčích schůzí** (např. v různých městech). Hlasy se **sčítají**.
 
 **§ 256 — Shromáždění delegátů**: pro velké spolky (např. tělovýchovné svazy s tisíci členy). Každý delegát zastupuje **stejný počet členů** (s rozumnou odchylkou).
 
 #### § 257 — Náhradní zasedání
+
+> (1) Není-li členská schůze na svém zasedání schopna usnášet se, může statutární orgán nebo ten, kdo původní zasedání svolal, svolat novou pozvánkou ve lhůtě patnácti dnů od předchozího zasedání členskou schůzi na náhradní zasedání. Z pozvánky musí být zřejmé, že se jedná o náhradní zasedání členské schůze. Náhradní zasedání členské schůze se musí konat nejpozději do šesti týdnů ode dne, na který bylo zasedání členské schůze předtím svoláno.
+>
+> (2) Na náhradním zasedání může členská schůze jednat jen o záležitostech zařazených na pořad předchozího zasedání. Usnesení může přijmout za účasti libovolného počtu členů, ledaže stanovy určí něco jiného.
+>
+> (3) Rozhoduje-li členská schůze na zasedání dílčích členských schůzí nebo rozhoduje-li namísto ní shromáždění delegátů, postupuje se podle odstavců 1 a 2 obdobně.
+>
+> ###### Neplatnost rozhodnutí orgánu spolku
+
 
 Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zasedání** (max. 6 týdnů od původního). Pozvánka musí výslovně označit „náhradní zasedání". **Usnáší se libovolným počtem členů** (default, modifikovatelné).
 
@@ -332,13 +504,24 @@ Pokud ČS není usnášeníschopná, lze do **15 dnů** svolat **náhradní zase
 
 #### § 258 — Žaloba na neplatnost
 
+> Každý člen spolku nebo ten, kdo na tom má zájem hodný právní ochrany, může navrhnout soudu, aby rozhodl o neplatnosti rozhodnutí orgánu spolku pro jeho rozpor se zákonem nebo se stanovami, pokud se neplatnosti nelze dovolat u orgánů spolku.
+
+
 **Aktivní legitimace**: každý člen + osoba se **zájmem hodným právní ochrany**. **Důvod**: rozpor se zákonem nebo stanovami. **Subsidiarita**: jen pokud se nelze dovolat u orgánů spolku.
 
 #### § 259 — Lhůta
 
+> Právo dovolat se neplatnosti rozhodnutí zaniká do tří měsíců ode dne, kdy se navrhovatel o rozhodnutí dozvěděl nebo mohl dozvědět, nejpozději však do jednoho roku od přijetí rozhodnutí.
+
+
 **3 měsíce** od vědomosti (nebo možnosti dozvědět se) o rozhodnutí. **Subsidiární maximum 1 rok** od přijetí rozhodnutí. **Prekluzivní lhůty** — po uplynutí právo zaniká.
 
 #### § 260 — Důvody nevyslovení neplatnosti
+
+> (1) Soud neplatnost rozhodnutí nevysloví, došlo-li k porušení zákona nebo stanov, aniž to mělo závažné právní následky, a je-li v zájmu spolku hodném právní ochrany neplatnost rozhodnutí nevyslovit.
+>
+> (2) Soud neplatnost rozhodnutí nevysloví ani tehdy, bylo-li by tím podstatně zasaženo do práva třetí osoby nabytého v dobré víře.
+
 
 Soud neplatnost **nevysloví**:
 - Porušení **bez závažných právních následků** a je v zájmu spolku;

@@ -64,7 +64,7 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 
 ### § 2992 — Vyloučení nároku
 
-> Byl-li splněn dluh, a to i předčasně, nebylo-li uplatněno právo, ač uplatněno být mohlo, nebo učinila-li jedna osoba něco ve svém výlučném a osobním zájmu či na vlastní nebezpečí, nevzniká povinnost obohacení vydat...
+> Byl-li splněn dluh, a to i předčasně, nebylo-li uplatněno právo, ač uplatněno být mohlo, nebo učinila-li jedna osoba něco ve svém výlučném a osobním zájmu či na vlastní nebezpečí, nevzniká povinnost obohacení vydat; to platí i v případě, že jedna osoba obohatí druhou s úmyslem ji obdarovat nebo obohatit bez úmyslu právně se vázat.
 
 **Negativní výčet** — kdy NEVZNIKÁ nárok na vydání:
 - **Splnění dluhu** (i předčasné);
@@ -75,7 +75,7 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 
 ### § 2993 — Plnění bez platného závazku
 
-> Plnila-li strana, aniž tu byl platný závazek, má právo na vrácení toho, co plnila. Plnily-li obě strany, může každá ze stran požadovat, aby jí druhá strana vydala, co získala...
+> Plnila-li strana, aniž tu byl platný závazek, má právo na vrácení toho, co plnila. Plnily-li obě strany, může každá ze stran požadovat, aby jí druhá strana vydala, co získala; právo druhé strany namítnout vzájemné plnění tím není dotčeno. To platí i v případě, byl-li závazek zrušen.
 
 **Vzájemné vrácení** (*restitutio in integrum*):
 - Při **neplatné** nebo **zrušené smlouvě** → každá strana vrací **co dostala**;
@@ -88,6 +88,17 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 **Případ neoprávněného propůjčení** — vlastník má nárok na náhradu vůči **nedobrověrnému uživateli**.
 
 ### § 2995—2998 — Specifické situace
+
+> Vedlo-li plnění k obohacení třetí osoby, vydá je ochuzenému, jen pokud byl ochuzený k plnění přiveden lstí, donucen hrozbou či zneužitím závislosti nebo pokud nebyl svéprávný.
+
+> Měl-li dlužník plnit jedno z více volitelných plnění a poskytl-li jich omylem více, záleží na jeho vůli, co bude žádat zpět. Měl-li však právo volby věřitel, může se dlužník domáhat toho, aby věřitel provedl volbu; neprovede-li věřitel volbu bez zbytečného odkladu, lze se domáhat, aby prohlášení jeho vůle nahradil soud.
+
+> (1) Dlužník, který plnil dluh nežalovatelný nebo promlčený nebo takový, který je neplatný pro nedostatek formy, nemá právo na vrácení toho, co plnil. Právo na vrácení nemá ani ten, kdo jiného obohatil s vědomím, že k tomu není povinen, ledaže plnil z právního důvodu, který později nenastal nebo odpadl.
+>
+> (2) Plnila-li osoba proto, že k tomu byla přivedena lstí, donucena hrozbou nebo zneužitím závislosti, ustanovení odstavce 1 se nepoužije. To platí i v případě, že plnila osoba nesvéprávná.
+
+> Plnila-li strana vědomě proto, aby druhá strana něco vykonala za účelem zakázaným nebo zcela nemožným, nemá právo požadovat, aby jí to bylo vráceno. Dal-li však někdo, aby zabránil protiprávnímu činu, něco tomu, kdo se chtěl činu dopustit, může požadovat vrácení.
+
 
 **§ 2995 — Obohacení třetí osoby**: pokud bylo plnění **třetí osobě** (omylem nebo donucením), pak třetí osoba vrací jen tehdy:
 - Donucení **lstí, hrozbou, zneužitím závislosti**;
@@ -102,6 +113,23 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 **§ 2998 — Nezákonný účel**: pokud někdo plnil **za účelem zakázaným nebo nemožným** → **bez práva** na vrácení. **Výjimka**: kdo plnil **k zabránění protiprávnímu činu** (např. úplatek policistovi k odhalení korupce).
 
 ### § 2999—3002 — Výše náhrady
+
+> (1) Není-li vydání předmětu bezdůvodného obohacení dobře možné, má ochuzený právo na peněžitou náhradu ve výši obvyklé ceny. Bylo-li plněno na základě neplatného nebo zrušeného právního jednání, právo na peněžitou náhradu však nevznikne v rozsahu, v jakém se to příčí účelu pravidla vylučujícího platnost právního jednání.
+>
+> (2) Plnil-li ochuzený za úplatu, poskytne se náhrada ve výši této úplaty; to neplatí, zakládá-li výše úplaty důvod neplatnosti smlouvy nebo důvod pro zrušení závazku, anebo byla-li výše úplaty takovým důvodem podstatně ovlivněna.
+>
+> (3) Nelze-li předmět bezdůvodného obohacení vydat proto, že došlo k jeho zkáze, ztrátě nebo zhoršení z příčin, které jdou k tíži ochuzeného, nahradí obohacený nanejvýš tolik, co ušetřil na vlastním majetku.
+
+> Poctivý příjemce vydá, co nabyl, nanejvýš však v rozsahu, v jakém obohacení při uplatnění práva trvá.
+
+> (1) Zcizil-li poctivý příjemce předmět bezdůvodného obohacení za úplatu, může podle své volby vydat buď peněžitou náhradu, anebo co utržil. Zcizil-li jej poctivý příjemce bezúplatně, nemá vůči němu ochuzený právo na náhradu; může ji však požadovat po osobě, která předmět od obohaceného nabyla a nebyla v dobré víře.
+>
+> (2) Získal-li obohacený předmět obohacení v dobré víře nebo bez svého svolení a nelze-li jej dobře vydat, není povinen k náhradě, ledaže by tím vznikl stav zjevně odporující dobrým mravům.
+
+> (1) Plnila-li strana podle úplatné smlouvy, byť nebyla platná, není její právo na peněžitou náhradu vůči druhé straně ustanoveními § 3000 a 3001 dotčeno. To platí i v případě, že byl závazek z takové smlouvy zrušen.
+>
+> (2) Užíval-li věc nabytou podle úplatné smlouvy poctivý příjemce a je-li smlouva neplatná, poskytne druhé straně náhradu za užívání, avšak jen do výše odpovídající jeho prospěchu.
+
 
 **§ 2999 — Peněžitá náhrada** (pokud nelze vydat věc):
 - Výše **obvyklé ceny** předmětu obohacení;
@@ -127,6 +155,17 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 - **Speciální pravidlo pro zásah do osobnosti** (odst. 2): **dvojnásobek obvyklé odměny** za udělení souhlasu (typicky neoprávněné použití fotografie, jména, podoby).
 
 ### § 3005 — Náklady obohaceného
+
+> Kdo předmět bezdůvodného obohacení vydává, má právo na náhradu nutných nákladů, které na věc vynaložil, a může od věci oddělit vše, čím ji na svůj náklad zhodnotil, je-li to možné bez zhoršení podstaty věci.
+>
+> #### Díl 2
+>
+> ##### Nepřikázané jednatelství a upotřebení cizí věci k prospěchu jiného
+>
+> ##### Oddíl 1
+>
+> ###### Nepřikázané jednatelství
+
 
 Obohacený, který vydává předmět, má právo na:
 - **Náhradu nutných nákladů**;
@@ -174,6 +213,13 @@ Obohacený, který vydává předmět, má právo na:
 
 ### § 3009 — Jednání k užitku jiné osoby
 
+> (1) Ujme-li se někdo záležitosti ve prospěch jiné osoby bez jejího svolení, nahradí mu tato osoba účelně vynaložené náklady, zařídil-li záležitost k jejímu převážnému užitku. Zda byla záležitost provedena k užitku jiného, se neposoudí podle obecných hledisek, ale se zřetelem k jeho pochopitelným zájmům a záměrům.
+>
+> (2) Není-li užitek převážný, nemá nepřikázaný jednatel právo na náhradu nákladů. Osoba, jejíž záležitost na sebe vzal, může po nepřikázaném jednateli požadovat, aby vše uvedl do předešlého stavu, a není-li to dobře možné, aby nahradil škodu.
+>
+> ###### Společná ustanovení
+
+
 **Pravidlo**:
 - Pokud někdo **bez svolení** zařídí cizí záležitost **k převážnému užitku** → **náhrada nákladů**;
 - **Subjektivní hledisko**: dle **pochopitelných zájmů** druhé osoby, ne objektivních;
@@ -182,6 +228,15 @@ Obohacený, který vydává předmět, má právo na:
 **Praktický příklad**: oprava cizího auta, aniž majitel požádal — pokud "rozumný" majitel by to chtěl → náhrada; pokud ne → bez náhrady + zaplatí škodu za neoprávněnou opravu.
 
 ### § 3010—3011 — Společná ustanovení
+
+> Kdo se ujal cizí záležitosti bez příkazu, dovede ji až do konce a podá o ní vyúčtování a převede vše, co při tom získal, osobě, jejíž záležitost obstaral.
+
+> Nemá-li nepřikázaný jednatel právo na náhradu nákladů, může si vzít, co pořídil na vlastní náklady, je-li to možné a nezhorší-li se tím podstata věci nebo neztíží-li se nepřiměřeně její užívání.
+>
+> ##### Oddíl 2
+>
+> ###### Upotřebení cizí věci k prospěchu jiného
+
 
 **§ 3010 — Dokončení**: jednatel **dovede záležitost do konce** + **vyúčtování**.
 

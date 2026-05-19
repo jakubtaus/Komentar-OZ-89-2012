@@ -88,7 +88,7 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 > (1) Domácím násilím se rozumí násilné jednání vůči oběti v jakékoli formě, při kterém zpravidla dochází ke zneužívání moci nebo nerovného postavení a kterým
 > a) bylo nebo mělo být neoprávněně zasaženo do její tělesné integrity,
-> b) bylo nebo mělo být neoprávněně opakovaně nebo vážně zasaženo do její duševní integrity, svobody nebo důstojnosti...
+> b) bylo nebo mělo být neoprávněně opakovaně nebo vážně zasaženo do její duševní integrity, svobody nebo důstojnosti, zejména v intimní oblasti, do její vážnosti, cti nebo soukromí nebo
 > c) byla vážně ohrožena nebo narušena její schopnost uspokojovat své základní potřeby nebo základní potřeby členů společné domácnosti.
 
 **Legislativní definice domácího násilí**:
@@ -139,8 +139,8 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 ### § 3028 — KLÍČOVÉ PRAVIDLO PŘECHODU
 
 > (1) Tímto zákonem se řídí práva a povinnosti vzniklé ode dne nabytí jeho účinnosti.
-> (2) Není-li dále stanoveno jinak, řídí se ustanoveními tohoto zákona i právní poměry týkající se práv osobních, rodinných a věcných...
-> (3) Není-li dále stanoveno jinak, řídí se jiné právní poměry vzniklé přede dnem nabytí účinnosti tohoto zákona... dosavadními právními předpisy.
+> (2) Není-li dále stanoveno jinak, řídí se ustanoveními tohoto zákona i právní poměry týkající se práv osobních, rodinných a věcných; jejich vznik, jakož i práva a povinnosti z nich vzniklé přede dnem nabytí účinnosti tohoto zákona se však posuzují podle dosavadních právních předpisů.
+> (3) Není-li dále stanoveno jinak, řídí se jiné právní poměry vzniklé přede dnem nabytí účinnosti tohoto zákona, jakož i práva a povinnosti z nich vzniklé, včetně práv a povinností z porušení smluv uzavřených přede dnem nabytí účinnosti tohoto zákona, dosavadními právními předpisy. To nebrání ujednání stran, že se tato jejich práva a povinnosti budou řídit tímto zákonem ode dne nabytí jeho účinnosti.
 
 **Tři režimy**:
 1. **Nově vzniklé poměry (od 1. 1. 2014)** → **vždy nový OZ**;
@@ -263,8 +263,15 @@ Typický případ: závěť pořízená vlastnoručně bez data v 2010 — nepla
 
 > Zrušuje se:
 > 1. Zákon č. 40/1964 Sb., občanský zákoník.
-> 2. Zákon č. 131/1982 Sb...
-> ...
+> 2. Zákon č. 131/1982 Sb., kterým se mění a doplňuje občanský zákoník a upravují některé další majetkové vztahy.
+> 3. Zákon č. 188/1988 Sb., kterým se mění a doplňuje zákoník práce.
+> 4. Zákon č. 87/1990 Sb., kterým se mění a doplňuje občanský zákoník.
+> 5. § 33 zákona č. 87/1991 Sb., o mimosoudních rehabilitacích.
+> 6. Zákon č. 509/1991 Sb., kterým se mění, doplňuje a upravuje občanský zákoník.
+> 7. Čl. I a IV zákona č. 264/1992 Sb., kterým se mění a doplňuje občanský zákoník, zrušuje zákon o státním notářství a o řízení před státním notářstvím (notářský řád) a mění a doplňují některé další zákony.
+> 8. Zákon č. 267/1994 Sb., kterým se mění a doplňuje občanský zákoník.
+>
+> *(...následuje výčet celkem 232 zrušených předpisů — pro úplný seznam viz Sbírka zákonů, částka 33/2012.)*
 
 **Zrušeno celkem 232 právních předpisů** — nejrozsáhlejší zrušovací ustanovení v dějinách českého práva. Mezi klíčovými:
 - **Zákon č. 40/1964 Sb.** — starý OZ;

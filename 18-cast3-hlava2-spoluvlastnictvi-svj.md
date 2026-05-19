@@ -19,8 +19,8 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 ### § 1091 — Vydržecí lhůty
 
-(1) K vydržení vlastnického práva k movité věci je potřebná nepřerušená držba trvající tři roky.
-(2) K vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let.
+> (1) K vydržení vlastnického práva k movité věci je potřebná nepřerušená držba trvající tři roky.
+> (2) K vydržení vlastnického práva k nemovité věci je potřebná nepřerušená držba trvající deset let.
 
 **Výklad:**
 
@@ -32,6 +32,13 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 ### § 1092—1094 — Započtení, přerušení, ochrana
 
+> Do vydržecí doby se ve prospěch vydržitele započte i doba řádné a poctivé držby jeho předchůdce.
+
+> Držba se přeruší, nevykonával-li ji držitel v průběhu vydržecí doby déle než jeden rok.
+
+> Vyžaduje-li se, aby osoba měla zákonného zástupce nebo opatrovníka, počne vydržecí doba běžet ohledně práva proti ní až ode dne, kdy zákonného zástupce nebo opatrovníka získá. Již započatá doba běží dále, avšak neskončí dříve, než uplyne jeden rok po odpadnutí překážky.
+
+
 **§ 1092 — Započtení doby předchůdce**: poctivému + řádnému předchůdci se započítává.
 
 **§ 1093 — Přerušení**: pokud držitel nevykonává déle než **1 rok** → držba se přeruší (lhůta běží od počátku).
@@ -40,7 +47,7 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 ### § 1095 — Mimořádné vydržení
 
-Uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydrží držitel vlastnické právo, i když neprokáže právní důvod, na kterém se jeho držba zakládá. To neplatí, pokud se mu prokáže nepoctivý úmysl.
+> Uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydrží držitel vlastnické právo, i když neprokáže právní důvod, na kterém se jeho držba zakládá. To neplatí, pokud se mu prokáže nepoctivý úmysl.
 
 **Výklad:**
 
@@ -54,6 +61,19 @@ Uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydr
 
 ### § 1096—1098 — Specifika
 
+> (1) Nabyl-li někdo poctivě držbu od poctivého držitele, jehož držba se zakládá na právním důvodu, který by postačil ke vzniku vlastnického práva (§ 1090 odst. 1), započítává se mu vydržecí doba jeho předchůdce.
+>
+> (2) Při mimořádném vydržení se nástupci započte vydržecí doba poctivého předchůdce bez dalšího.
+
+> Vydržet vlastnické právo nemůže zákonný zástupce proti zastoupenému, ani zastoupený proti svému zákonnému zástupci. To platí obdobně i pro opatrovníka a opatrovance a pro poručníka a poručence.
+
+> Mezi manžely nepočne vydržecí doba běžet ani neběží, dokud manželství trvá. To platí obdobně i pro osoby žijící ve společné domácnosti, zákonného zástupce a zastoupeného, opatrovníka a opatrovance i pro poručníka a poručence.
+>
+> ###### Pododdíl 6
+>
+> ###### Převod vlastnického práva
+
+
 **§ 1096 — Započtení**: poctivý nástupce se má právo započítat dobu poctivého předchůdce s řádným titulem. U mimořádného — bez dalšího.
 
 **§ 1097 — Zákaz vydržení**: zákonný zástupce × zastoupený (vzájemně); opatrovník × opatrovanec; poručník × poručenec. Anti-fraud klauzule.
@@ -66,7 +86,7 @@ Uplyne-li doba dvojnásobně dlouhá, než jaké by bylo jinak zapotřebí, vydr
 
 ### § 1099 — Princip převodu samotnou smlouvou
 
-Vlastnické právo k věci určené jednotlivě se převádí už samotnou smlouvou k okamžiku její účinnosti, ledaže je jinak ujednáno nebo stanoveno zákonem.
+> Vlastnické právo k věci určené jednotlivě se převádí už samotnou smlouvou k okamžiku její účinnosti, ledaže je jinak ujednáno nebo stanoveno zákonem.
 
 **Výklad:**
 
@@ -80,9 +100,9 @@ Vlastnické právo k věci určené jednotlivě se převádí už samotnou smlou
 
 ### § 1100 — Postupný převod různým osobám
 
-(1) Převede-li strana postupně uzavřenými smlouvami různým osobám vlastnické právo k věci nezapsané ve veřejném seznamu, nabývá vlastnické právo osoba, které převodce vydal věc nejdříve. Není-li nikdo takový, nabývá vlastnické právo osoba, s níž byla uzavřena smlouva, která nabyla účinnosti jako první.
+> (1) Převede-li strana postupně uzavřenými smlouvami různým osobám vlastnické právo k věci nezapsané ve veřejném seznamu, nabývá vlastnické právo osoba, které převodce vydal věc nejdříve. Není-li nikdo takový, nabývá vlastnické právo osoba, s níž byla uzavřena smlouva, která nabyla účinnosti jako první.
 
-(2) Převede-li strana vlastnické právo k věci zapsané ve veřejném seznamu postupně několika osobám, stane se vlastníkem osoba, která je v dobré víře a jejíž vlastnické právo bylo do veřejného seznamu zapsáno jako první, a to i v případě, že její právo vzniklo později.
+> (2) Převede-li strana vlastnické právo k věci zapsané ve veřejném seznamu postupně několika osobám, stane se vlastníkem osoba, která je v dobré víře a jejíž vlastnické právo bylo do veřejného seznamu zapsáno jako první, a to i v případě, že její právo vzniklo později.
 
 **Výklad:**
 
@@ -96,6 +116,27 @@ Vlastnické právo k věci určené jednotlivě se převádí už samotnou smlou
 → **U nemovitostí katastr rozhoduje** (princip materiální publicity — § 980 + ochrana dobré víry § 984).
 
 ### § 1101—1105 — Specifika podle typu věci
+
+> Vlastnické právo k movité věci určené podle druhu se nabývá nejdříve okamžikem, kdy lze věc určit dostatečným odlišením od jiných věcí téhož druhu.
+
+> Převede-li se vlastnické právo k movité věci zapsané ve veřejném seznamu, nabývá se věc do vlastnictví zápisem do takového seznamu, ledaže jiný právní předpis stanoví jinak.
+
+> (1) Vlastnické právo k cennému papíru na doručitele se převádí smlouvou k okamžiku jeho předání.
+>
+> (2) Vlastnické právo k cennému papíru na řad se převádí rubopisem a smlouvou k okamžiku jeho předání. O náležitostech rubopisu a jeho přijetí, jakož i o tom, kdo je z rubopisu oprávněn a jak toto oprávnění prokazuje, platí ustanovení právního předpisu upravujícího směnky; převodce cenného papíru však ručí za uspokojení práv z cenného papíru, jen je-li k tomu zvlášť zavázán.
+>
+> (3) Vlastnické právo k cennému papíru na jméno se převádí už samotnou smlouvou k okamžiku její účinnosti.
+
+> (1) Vlastnické právo k zaknihovanému cennému papíru se nabývá zápisem zaknihovaného cenného papíru na účet vlastníka.
+>
+> (2) Zapisuje-li se zaknihovaný cenný papír i na účet zákazníků, nabývá se vlastnické právo k němu zápisem na účet zákazníků.
+>
+> (3) Na nabývání vlastnického práva k imobilizovanému cennému papíru podle § 2413 odst. 1 se použijí obdobně ustanovení o nabývání vlastnictví k zaknihovaným cenným papírům.
+
+> Převede-li se vlastnické právo k nemovité věci zapsané ve veřejném seznamu, nabývá se věc do vlastnictví zápisem do takového seznamu.
+>
+> ###### Společná ustanovení o převodu vlastnického práva
+
 
 **§ 1101 — Druhové movité věci**: nabytí **okamžikem dostatečného odlišení** (typicky oddělení ze skladu).
 
@@ -111,6 +152,19 @@ Vlastnické právo k věci určené jednotlivě se převádí už samotnou smlou
 **§ 1105 — Nemovitosti**: **vklad do VR** (katastru) konstitutivně.
 
 ### § 1106—1108 — Práva a závady spojené s věcí
+
+> Kdo nabude vlastnické právo, nabude také práva a povinnosti s věcí spojená.
+
+> (1) Kdo nabude vlastnické právo, přejímá také závady váznoucí na věci, které jsou zapsány ve veřejném seznamu; jiné závady přejímá, měl-li a mohl-li je z okolností zjistit nebo bylo-li to ujednáno, anebo stanoví-li tak zákon.
+>
+> (2) Závady, které nepřejdou, zanikají.
+
+> Ustanovení § 1106 a 1107 platí obdobně také při nabytí vlastnického práva jinak než převodem.
+>
+> ###### Pododdíl 7
+>
+> ###### Nabytí vlastnického práva od neoprávněného
+
 
 **§ 1106**: kdo nabývá vlastnické právo, **nabývá také práva a povinnosti** s věcí spojená.
 
@@ -129,13 +183,13 @@ Vlastnické právo k věci určené jednotlivě se převádí už samotnou smlou
 
 ### § 1109 — Šest situací nabytí
 
-Vlastníkem věci se stane ten, kdo získal věc, která není zapsána ve veřejném seznamu, a byl vzhledem ke všem okolnostem v dobré víře v oprávnění druhé strany vlastnické právo převést na základě řádného titulu, pokud k nabytí došlo
-- a) ve veřejné dražbě,
-- b) od podnikatele při jeho podnikatelské činnosti v rámci běžného obchodního styku,
-- c) za úplatu od někoho, komu vlastník věc svěřil,
-- d) od neoprávněného dědice, jemuž bylo nabytí dědictví potvrzeno,
-- e) při obchodu s investičním nástrojem, cenným papírem nebo listinou vystavenými na doručitele, nebo
-- f) při obchodu na komoditní burze.
+> Vlastníkem věci se stane ten, kdo získal věc, která není zapsána ve veřejném seznamu, a byl vzhledem ke všem okolnostem v dobré víře v oprávnění druhé strany vlastnické právo převést na základě řádného titulu, pokud k nabytí došlo
+> - a) ve veřejné dražbě,
+> - b) od podnikatele při jeho podnikatelské činnosti v rámci běžného obchodního styku,
+> - c) za úplatu od někoho, komu vlastník věc svěřil,
+> - d) od neoprávněného dědice, jemuž bylo nabytí dědictví potvrzeno,
+> - e) při obchodu s investičním nástrojem, cenným papírem nebo listinou vystavenými na doručitele, nebo
+> - f) při obchodu na komoditní burze.
 
 **Výklad:**
 
@@ -157,7 +211,7 @@ Vlastníkem věci se stane ten, kdo získal věc, která není zapsána ve veře
 
 ### § 1110 — Použité věci od podnikatele
 
-Získal-li někdo v dobré víře za úplatu použitou movitou věc od podnikatele, který při své podnikatelské činnosti v rámci běžného obchodního styku obchoduje takovými věcmi, vydá ji vlastníku, který prokáže, že věc pozbyl ztrátou nebo že mu věc byla odňata svémocně a že od ztráty nebo odnětí věci uplynuly nejvýše tři roky.
+> Získal-li někdo v dobré víře za úplatu použitou movitou věc od podnikatele, který při své podnikatelské činnosti v rámci běžného obchodního styku obchoduje takovými věcmi, vydá ji vlastníku, který prokáže, že věc pozbyl ztrátou nebo že mu věc byla odňata svémocně a že od ztráty nebo odnětí věci uplynuly nejvýše tři roky.
 
 **Výklad:**
 
@@ -170,7 +224,7 @@ Získal-li někdo v dobré víře za úplatu použitou movitou věc od podnikate
 
 ### § 1111 — Mimo § 1109 a 1110
 
-Získal-li někdo movitou věc za jiných okolností, než které stanoví § 1109 nebo 1110, stane se vlastníkem věci, pokud prokáže dobrou víru v oprávnění převodce převést vlastnické právo k věci. To neplatí, pokud vlastník prokáže, že věc pozbyl ztrátou nebo činem povahy úmyslného trestného činu.
+> Získal-li někdo movitou věc za jiných okolností, než které stanoví § 1109 nebo 1110, stane se vlastníkem věci, pokud prokáže dobrou víru v oprávnění převodce převést vlastnické právo k věci. To neplatí, pokud vlastník prokáže, že věc pozbyl ztrátou nebo činem povahy úmyslného trestného činu.
 
 **Výklad:**
 
@@ -181,6 +235,15 @@ Získal-li někdo movitou věc za jiných okolností, než které stanoví § 11
 V těchto případech vlastník vždy vindikuje (§ 1040).
 
 ### § 1112—1113 — Vyloučení a CP
+
+> Vlastnického práva ani dobré víry svého předchůdce se nemůže k svému prospěchu dovolat ten, kdo získal movitou věc s vědomím, že vlastnické právo bylo nabyto od neoprávněného.
+
+> Ustanovení § 1110 až 1112 se nepoužijí, pokud se jedná o investiční nástroj, cenný papír nebo listinu vystavené na doručitele nebo o věci nabyté ve veřejné dražbě, v dražbě při výkonu rozhodnutí nebo při provádění exekuce prodejem movitých věcí nebo o věci nabyté při obchodu na komoditní burze.
+>
+> ###### Pododdíl 8
+>
+> ###### Nabytí vlastnického práva rozhodnutím orgánu veřejné moci
+
 
 **§ 1112**: kdo věděl, že vlastnické právo bylo nabyto od neoprávněného → **nemůže se dovolat** dobré víry předchůdce. Anti-fraud řetězce.
 
@@ -194,7 +257,7 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 
 ### § 1114 — Nabytí rozhodnutím orgánu VM
 
-Rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen. Není-li v rozhodnutí takový den určen, nabývá se vlastnického práva dnem právní moci rozhodnutí.
+> Rozhodnutím soudu nebo jiného orgánu veřejné moci se vlastnického práva nabývá dnem, který je v něm určen. Není-li v rozhodnutí takový den určen, nabývá se vlastnického práva dnem právní moci rozhodnutí.
 
 **Výklad:**
 
@@ -228,6 +291,19 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 **§ 1123**: nakládání podílem **nesmí být na újmu právům ostatních**.
 
 #### § 1124—1125 — Předkupní právo spoluvlastníků
+
+> (1) Bylo-li spoluvlastnictví založeno pořízením pro případ smrti nebo jinou právní skutečností tak, že spoluvlastníci nemohli svá práva a povinnosti od počátku ovlivnit, a převádí-li některý ze spoluvlastníků svůj podíl, mají ostatní spoluvlastníci k podílu po dobu šesti měsíců ode dne vzniku spoluvlastnictví předkupní právo, ledaže spoluvlastník podíl převádí jinému spoluvlastníku nebo svému manželu, sourozenci nebo příbuznému v řadě přímé. Neujednají-li si spoluvlastníci, jak předkupní právo vykonají, mají právo vykoupit podíl poměrně podle velikosti podílů.
+>
+> (2) Předkupní právo mají spoluvlastníci i v případě, že některý ze spoluvlastníků převádí podíl bezúplatně; tehdy mají spoluvlastníci právo podíl vykoupit za obvyklou cenu. To platí i v jiných případech zákonného předkupního práva.
+
+> (1) Vzniklo-li spoluvlastnictví k zemědělskému závodu pořízením pro případ smrti nebo jinou právní skutečností tak, že spoluvlastníci nemohli svá práva a povinnosti od počátku ovlivnit, a převádí-li některý ze spoluvlastníků svůj podíl, mají ostatní spoluvlastníci k podílu předkupní právo; předkupní právo se vztahuje i na dědický podíl. Neujednají-li si spoluvlastníci nebo spoludědicové, jak předkupní právo vykonají, mají právo vykoupit podíl poměrně podle velikosti podílů.
+>
+> (2) Převádí-li spoluvlastník svůj podíl osobě, která by byla jeho dědicem podle ustanovení o zákonné posloupnosti dědiců, nebo jinému spoluvlastníku, odstavec 1 se nepoužije. To platí i v případě, že se spoluvlastník předkupního práva v písemné formě vzdal.
+>
+> ##### Oddíl 3
+>
+> ###### Správa společné věci
+
 
 **§ 1124 — Předkupní právo z původu** (pořízení pro případ smrti / jiná skutečnost, kde neměli vliv):
 - **6 měsíců** od vzniku spoluvlastnictví;
@@ -266,9 +342,9 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 
 #### § 1140 — Zákaz nuceného setrvání
 
-(1) Nikdo nemůže být nucen ve spoluvlastnictví setrvat.
+> (1) Nikdo nemůže být nucen ve spoluvlastnictví setrvat.
 
-(2) Každý ze spoluvlastníků může kdykoli žádat o své oddělení ze spoluvlastnictví, lze-li předmět spoluvlastnictví rozdělit, nebo o zrušení spoluvlastnictví. Nesmí tak ale žádat v nevhodnou dobu nebo jen k újmě některého ze spoluvlastníků.
+> (2) Každý ze spoluvlastníků může kdykoli žádat o své oddělení ze spoluvlastnictví, lze-li předmět spoluvlastnictví rozdělit, nebo o zrušení spoluvlastnictví. Nesmí tak ale žádat v nevhodnou dobu nebo jen k újmě některého ze spoluvlastníků.
 
 **Výklad:**
 
@@ -277,6 +353,39 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 - **Pouze k újmě** některého spoluvlastníka (šikana).
 
 #### § 1141—1149 — Způsoby a postup vypořádání
+
+> (1) Spoluvlastnictví se zrušuje dohodou všech spoluvlastníků; dohoda musí obsahovat ujednání o způsobu vypořádání. Jedná-li se o spoluvlastnictví nemovité věci nebo závodu, vyžaduje dohoda písemnou formu.
+>
+> (2) Spoluvlastníci se vypořádají rozdělením společné věci, jejím prodejem z volné ruky nebo ve veřejné dražbě s rozdělením výtěžku, anebo převedením vlastnického práva jednomu nebo více spoluvlastníkům s vyplacením ostatních.
+
+> (1) Jedná-li se o společnou věc, která má jako celek sloužit k určitému účelu, není její rozdělení možné.
+>
+> (2) Zemědělský pozemek může být rozdělen jen tak, aby dělením vznikly pozemky účelně obdělávatelné jak vzhledem k rozloze, tak i k možnosti stálého přístupu. To neplatí, pokud má být pozemek rozdělen za účelem zřízení stavby nebo za takovým účelem, pro který lze pozemek vyvlastnit.
+
+> Nedohodnou-li se spoluvlastníci o zrušení spoluvlastnictví, rozhodne o něm na návrh některého ze spoluvlastníků soud. Rozhodne-li soud o zrušení spoluvlastnictví, rozhodne zároveň o způsobu vypořádání spoluvlastníků.
+
+> (1) Je-li to možné, rozhodne soud o rozdělení společné věci; věc ale nemůže rozdělit, snížila-li by se tím podstatně její hodnota.
+>
+> (2) Rozdělení věci však nebrání nemožnost rozdělit věc na díly odpovídající přesně podílům spoluvlastníků, vyrovná-li se rozdíl v penězích.
+
+> Při zrušení spoluvlastnictví rozdělením společné věci může soud zřídit služebnost nebo jiné věcné právo, vyžaduje-li to řádné užívání nově vzniklé věci bývalým spoluvlastníkem.
+
+> Společné listiny nelze dělit. Nedohodnou-li se spoluvlastníci, u koho se uloží společné listiny, uloží je u nejstaršího spoluvlastníka, není-li tomu jinak nic na závadu. Ostatní spoluvlastníci obdrží na společný náklad úředně ověřené opisy nebo kopie.
+
+> Není-li rozdělení společné věci dobře možné, přikáže ji soud za přiměřenou náhradu jednomu nebo více spoluvlastníkům. Nechce-li věc žádný ze spoluvlastníků, nařídí soud prodej věci ve veřejné dražbě; v odůvodněném případě může soud rozhodnout, že věc bude dražena jen mezi spoluvlastníky.
+
+> (1) Při zrušení spoluvlastnictví si spoluvlastníci vzájemně vypořádají pohledávky a dluhy, které souvisejí se spoluvlastnictvím nebo se společnou věcí.
+>
+> (2) Každý ze spoluvlastníků může žádat úhradu splatné pohledávky, jakož i pohledávky, jejíž splatnost nastane do jednoho roku po účinnosti dohody o zrušení spoluvlastnictví nebo po zahájení řízení o zrušení spoluvlastnictví.
+>
+> (3) Prodá-li se věc, uhradí se po stržení nákladů prodeje všechny dluhy podle předchozích odstavců ještě předtím, než se mezi spoluvlastníky rozdělí výtěžek.
+
+> (1) Bývalí spoluvlastníci si doručí na žádost některého z nich potvrzení, jak se vypořádali, pokud dohodu o zrušení spoluvlastnictví k movité věci neuzavřeli v písemné formě.
+>
+> (2) Při vypořádání spoluvlastnictví k nemovité věci zapsané do veřejného seznamu vznikají nová vlastnická práva zápisem do tohoto veřejného seznamu.
+>
+> ###### Ochrana třetích osob při rozdělení společné věci
+
 
 **§ 1141 — Dohoda**: vyžaduje **písemnou formu** u nemovitostí / závodu. **Tři způsoby vypořádání**:
 1. **Rozdělení** věci;
@@ -299,6 +408,47 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 
 #### § 1150—1157 — Ochrana třetích osob, odklad
 
+> Rozdělení společné věci není na újmu osobě, která má věcné právo ke společné věci.
+
+> Při rozdělení panující věci trvá věcné břemeno pro všechny díly zpravidla nadále, nesmí však být rozšířeno, ani se stát obtížnějším. Prospívá-li věcné břemeno jen některým dílům, zanikne vzhledem k dílům ostatním.
+
+> Rozdělí-li se zatížená věc a postihuje-li věcné břemeno jen některý díl, zaniká na dílech ostatních.
+
+> (1) Poskytuje-li právo ze služebnosti nebo jiné zatížení právo k plodům nebo užitkům, může
+>
+> - a) každá z oprávněných osob, pokud se dělí věc panující, nebo
+>
+> - b) každá z obtížených osob, pokud se dělí věc obtížená,
+>
+> navrhnout, aby vykonávání upravil soud.
+>
+> (2) Soud vykonávání upraví s ohledem na povahu a účel zatížení, jakož i s ohledem na hospodářské zvláštnosti jednotlivých dílů tak, aby výsledek odpovídal zásadám slušnosti a aby se zatížení nezvětšilo.
+>
+> ###### Odklad zrušení spoluvlastnictví
+
+> (1) Ujednají-li si spoluvlastníci, že nebudou žádat zrušení spoluvlastnictví po určitou dobu, nejvýše však po dobu deseti let, nemůže tím být vyloučeno jakékoli jiné pozdější ujednání. Byl-li odklad zrušení spoluvlastnictví ujednán na dobu delší deseti let, považuje se za ujednaný na deset let. Odklad zrušení spoluvlastnictví lze ujednat i opakovaně.
+>
+> (2) Má-li ujednání odkladu zrušení spoluvlastnictví zavazovat i právní nástupce spoluvlastníků, jejichž právní nástupnictví vznikne jinak než děděním nebo přeměnou právnické osoby, musí to být výslovně ujednáno.
+>
+> (3) Ujednání o odkladu zrušení spoluvlastnictví vyžaduje formu veřejné listiny; týká-li se ujednání nemovité věci zapsané do veřejného seznamu, zapíše se odklad zrušení spoluvlastnictví do veřejného seznamu.
+
+> (1) Na návrh spoluvlastníka může soud zrušení spoluvlastnictví odložit, má-li tím být zabráněno majetkové ztrátě nebo vážnému ohrožení oprávněného zájmu některého spoluvlastníka, a prodloužit tak trvání spoluvlastnictví, nejdéle však o dva roky.
+>
+> (2) Zrušení spoluvlastnictví může být odloženo také pořízením pro případ smrti.
+
+> Odklad zrušení spoluvlastnictví lze později změnit dohodou spoluvlastníků, a nedojde-li k ní, rozhodnutím soudu vydaným na návrh spoluvlastníka, který prokáže, že na něm nelze spravedlivě požadovat, aby ve spoluvlastnictví setrval, anebo že se podstatně změnily okolnosti, pro něž k odkladu spoluvlastnictví došlo.
+
+> Pro oddělení ze spoluvlastnictví platí § 1154 až 1156 obdobně.
+>
+> ##### Oddíl 5
+>
+> ###### Bytové spoluvlastnictví
+>
+> ###### Pododdíl 1
+>
+> ###### Obecná ustanovení
+
+
 **§ 1150**: rozdělení **není na újmu** osobě s věcným právem ke společné věci.
 
 **§ 1151—1153**: úprava věcných břemen při rozdělení.
@@ -320,6 +470,15 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 ### Pododdíl 1 — Obecná ustanovení (§ 1158—1162)
 
 #### § 1158—1159 — Definice
+
+> (1) Bytové spoluvlastnictví je spoluvlastnictví nemovité věci založené vlastnictvím jednotek. Bytové spoluvlastnictví může vzniknout, pokud je součástí nemovité věci dům alespoň s dvěma byty.
+>
+> (2) Co je stanoveno v tomto oddílu o bytu, platí také pro nebytový prostor, jakož i pro soubor bytů nebo nebytových prostorů.
+
+> Jednotka zahrnuje byt jako prostorově oddělenou část domu a podíl na společných částech nemovité věci vzájemně spojené a neoddělitelné. Jednotka je věc nemovitá.
+>
+> ###### Společné části
+
 
 **§ 1158**: spoluvlastnictví nemovité věci založené **vlastnictvím jednotek**. Vyžaduje **dům s alespoň 2 byty**. Jednotka zahrnuje **byt + podíl na společných částech**. Jednotka je **nemovitá věc**.
 

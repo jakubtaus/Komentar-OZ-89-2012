@@ -59,17 +59,42 @@
 
 ### § 1477—1478 — Odkaz, budoucí PO
 
+> (1) Odkazem se odkazovníku zřizuje pohledávka na vydání určité věci, popřípadě jedné či několika věcí určitého druhu, nebo na zřízení určitého práva.
+>
+> (2) Odkazovník není dědicem.
+
+> Za dědice nebo odkazovníka lze povolat i právnickou osobu, která má teprve vzniknout. Tato právnická osoba je způsobilým dědicem nebo odkazovníkem, pokud vznikne do jednoho roku od smrti zůstavitele.
+>
+> ##### Dědický nápad
+
+
 **§ 1477** — **Odkaz** ≠ dědictví. Odkazovník (*legatarius*) **není dědic** — má jen **obligační nárok** vůči dědicům na **vydání věci** nebo zřízení práva.
 
 **§ 1478** — Dědicem může být i **PO, která má teprve vzniknout** (např. nadace zřízená závětí), pokud vznikne **do 1 roku** od smrti zůstavitele.
 
 ### § 1479—1480 — Dědický nápad
 
+> Dědické právo vzniká smrtí zůstavitele. Kdo zemře před zůstavitelem, nebo současně s ním, nedědí.
+
+> Dědického práva, které má teprve vzniknout, se lze jen zříci; nelze je převést ani s ním jinak naložit.
+>
+> ##### Dědická nezpůsobilost
+
+
 **§ 1479** — Dědické právo vzniká **smrtí zůstavitele** (*delatio hereditatis*). Komorientní pravidlo: **kdo zemře současně se zůstavitelem, nedědí**. (Doplňující pravidla v § 27 — domněnka současné smrti).
 
 **§ 1480** — **Zákaz dispozice budoucím dědickým právem** — pouze možnost **zříci se** smlouvou se zůstavitelem (§ 1484). Mezi živými nelze postoupit/prodat.
 
 ### § 1481—1483 — Dědická nezpůsobilost
+
+> Z dědického práva je vyloučen, kdo se dopustil činu povahy úmyslného trestného činu proti zůstaviteli, jeho předku, potomku nebo manželu nebo zavrženíhodného činu proti zůstavitelově poslední vůli, zejména tím, že zůstavitele k projevu poslední vůle donutil nebo lstivě svedl, projev poslední vůle zůstaviteli překazil nebo jeho poslední pořízení zatajil, zfalšoval, podvrhl nebo úmyslně zničil, ledaže mu zůstavitel tento čin výslovně prominul.
+
+> (1) Probíhá-li v den zůstavitelovy smrti řízení o rozvod manželství zahájené na zůstavitelův návrh podaný v důsledku toho, že se manžel vůči zůstaviteli dopustil činu naplňujícího znaky domácího násilí, je zůstavitelův manžel vyloučen z dědického práva jako zákonný dědic.
+>
+> (2) Byl-li rodič zbaven rodičovské odpovědnosti proto, že ji či její výkon zneužíval nebo že výkon rodičovské odpovědnosti z vlastní viny závažným způsobem zanedbával, je vyloučen z dědického práva po dítěti podle zákonné dědické posloupnosti.
+
+> Potomek toho, kdo je vyloučen z dědického práva, nastupuje při zákonné dědické posloupnosti na jeho místo, i když vyloučený přežije zůstavitele. To neplatí v případě stanoveném v § 1482 odst. 1.
+
 
 **§ 1481 — Vyloučení z dědického práva**:
 - Čin povahy **úmyslného trestného činu** proti zůstaviteli, jeho předku, potomku, manželu;
@@ -108,6 +133,19 @@
 **§ 1488** — Smrt dědice před uplynutím lhůty → právo odmítnout **přechází na jeho dědice**.
 
 ### § 1490 — Vzdání se dědictví
+
+> (1) Dědic, který dědictví neodmítl, se jej může před soudem v řízení o dědictví vzdát ve prospěch druhého dědice; učiní-li tak nepominutelný dědic, vzdává se tím také práva na povinný díl s účinností i pro své potomky. Souhlasí-li i druhý dědic, použijí se obdobně ustanovení § 1714 až 1720; nesouhlasí-li však, k vzdání se dědictví se nepřihlíží.
+>
+> (2) Byl-li dědic, který se dědictví vzdal, obtížen příkazem, nařízením odkazu nebo jiným opatřením, které podle zůstavitelovy vůle může a má splnit jen osobně, nezbavuje se tím povinnosti splnit takové opatření.
+>
+> #### Díl 2
+>
+> ##### Pořízení pro případ smrti
+>
+> ##### Oddíl 1
+>
+> ###### Všeobecná ustanovení
+
 
 **Vzdání se dědictví** ≠ odmítnutí:
 - **Před soudem v dědickém řízení**;
@@ -250,6 +288,11 @@
 
 ### § 1582 — Definice dědické smlouvy
 
+> (1) Dědickou smlouvou povolává zůstavitel druhou smluvní stranu nebo třetí osobu za dědice nebo odkazovníka a druhá strana to přijímá.
+>
+> (2) Dědická smlouva vyžaduje formu veřejné listiny.
+
+
 **Dědická smlouva** (*Erbvertrag*, *contract of inheritance*) — **dvoustranná** smlouva o dědictví:
 - Strany: **zůstavitel** + **dědic (smluvní dědic)**;
 - **Nejsilnější** dědický titul (vyšší než závěť i zákon);
@@ -259,6 +302,47 @@
 **Klíčový rozdíl od závěti**: dědická smlouva **je závazná** — zůstavitel **nemůže** ji jednostranně odvolat (jen za omezených podmínek).
 
 ### § 1585—1593 — Specifika
+
+> (1) Dědickou smlouvou nelze pořídit o celé pozůstalosti. Čtvrtina pozůstalosti musí zůstat volná, aby o ní zůstavitel mohl pořídit podle své zvlášť projevené vůle. Chce-li zůstavitel zanechat smluvnímu dědici i tuto čtvrtinu, může tak učinit závětí.
+>
+> (2) Kdo byl ve svéprávnosti omezen pro chorobnou závislost na požívání alkoholu, užívání psychotropních látek nebo podobných přípravků či jedů nebo chorobnou závislost na hráčské vášni představující závažnou duševní poruchu, může pořídit dědickou smlouvou jen o majetku, o němž je způsobilý pořídit závětí. Z tohoto majetku se počítá čtvrtina vyhrazená pořízení podle jeho zvlášť projevené vůle.
+
+> Byla-li dědická smlouva uzavřena s tím, že se ostatní dědici zřekli svého dědického práva, pozbývá zřeknutí se dědictví účinky, nedědí-li dědic povolaný v dědické smlouvě.
+
+> O podmínkách v dědické smlouvě platí § 548 a 549.
+
+> (1) Dědická smlouva zůstaviteli nebrání, aby se svým majetkem nakládal za svého života podle libosti. Není-li ujednáno něco jiného, nemůže strana povolaná za dědice převést své právo na jinou osobu.
+>
+> (2) Pořídí-li však zůstavitel pro případ smrti nebo uzavře-li darovací smlouvu tak, že to s dědickou smlouvou není slučitelné, může se smluvní dědic dovolat neúčinnosti těchto právních jednání.
+
+> (1) Dohodnou-li se strany, že zůstavitel převede na smluvního dědice majetek již za svého života, může být tento majetek sepsán ve formě veřejné listiny. V takovém případě, nepřevede-li zůstavitel všechen svůj majetek, anebo získá-li po převodu další majetek, se dědická smlouva vztahuje jen na majetek takto sepsaný, ledaže bylo ujednáno něco jiného.
+>
+> (2) Uskutečnilo-li se odevzdání ještě za života, přecházejí práva a povinnosti z dědické smlouvy na dědice smluvního dědice, ledaže bylo ujednáno něco jiného.
+
+> Své povinnosti z dědické smlouvy může zůstavitel zrušit i pořízením závěti. K účinnosti zrušení se vyžaduje souhlas smluvního dědice učiněný ve formě veřejné listiny.
+
+> Dědická smlouva neplatná pro nedostatek formy nebo neplatná pro nesplnění podmínek v § 1584 a 1585 nebo proto, že nevyhovuje ustanovením o smlouvách podle části čtvrté tohoto zákona, může mít přesto platnost závěti, má-li jinak všechny náležitosti závěti.
+>
+> ###### Zvláštní ustanovení o dědické smlouvě uzavřené mezi manželi
+
+> (1) Manželé mohou uzavřít dědickou smlouvu, podle níž jedna strana povolává druhou za dědice nebo za odkazovníka a druhá strana toto povolání přijímá, anebo se takto za dědice nebo za odkazovníky povolávají navzájem.
+>
+> (2) Takovou smlouvu mohou pro případ vzniku manželství uzavřít i snoubenci, ale smlouva se stane účinnou až vznikem manželství.
+
+> (1) Rozvodem manželství se neruší práva a povinnosti z dědické smlouvy, ledaže dědická smlouva určí něco jiného. Po rozvodu manželství se každá strana může domáhat, aby dědickou smlouvu zrušil soud. Soud návrhu nevyhoví, směřuje-li proti tomu, kdo nezapříčinil rozvrat manželství a s rozvodem nesouhlasil.
+>
+> (2) Prohlášením manželství za neplatné se ruší práva a povinnosti z dědické smlouvy, ledaže takové manželství již dříve zaniklo smrtí jednoho z manželů.
+>
+> #### Díl 3
+>
+> ##### Odkaz
+>
+> ##### Oddíl 1
+>
+> ###### Obecná ustanovení
+>
+> ###### Zřízení odkazu
+
 
 **§ 1585** — Lze povolat dědice **na nejvýše 3/4 pozůstalosti** — čtvrtina musí zůstat pro zůstavitelovu volnou dispozici (závětí nebo zákonem).
 
@@ -282,6 +366,29 @@
 
 ### § 1597—1602 — Zřízení a obtížení odkazem
 
+> Odkazy připadají k tíži všem dědicům podle poměru jejich podílů, a to i tehdy, byla-li odkázána věc náležející jednomu ze spoludědiců. To neplatí, pokud zůstavitel zvlášť přikáže splnění odkazu jednotlivému spoludědici nebo odkazovníku.
+
+> Každému z dědiců musí zůstat z hodnoty dědictví alespoň čtvrtina odkazy nezatížená. Zatíží-li zůstavitel dědice více, má dědic právo na poměrné zkrácení odkazu.
+
+> (1) Přikáže-li zůstavitel odkazovníku splnění dalšího odkazu, nezbavuje odkazovníka povinnosti splnit další odkaz ani skutečnost, že hodnota dalšího odkazu přesahuje hodnotu odkazu.
+>
+> (2) Nenabude-li odkazovník odkaz, splní další odkaz ten, komu odkaz připadl. Této povinnosti se zprostí, přenechá-li odkaz, který mu připadl, osobě, které byl další odkaz zůstaven.
+
+> Zůstavitel, který odkazem pamatuje na určitou skupinu osob, jako jsou zejména příbuzní či chudí, nebo na veřejně prospěšný, dobročinný či podobný účel, může ponechat dědici nebo někomu jinému, aby určil, jak a které z těchto osob nebo účelů mají být poděleny. Nevysloví-li se o tom zůstavitel, má volbu dědic. Nemůže-li dědic volbu vykonat, určí odkazovníky soud.
+
+> Zůstavitel může při odkazu nařídit náhradnictví nebo svěřenské nástupnictví. Pro takové případy se přiměřeně použijí ustanovení § 1507 až 1524.
+>
+> ###### Odvolání odkazu
+
+> Má se za to, že odkaz byl odvolán, jestliže zůstavitel
+>
+> - a) odkázanou věc zničí, nebo ji zcizí a znovu nenabude,
+>
+> - b) odkázanou věc změní takovým způsobem, že to je již věc jiná, nebo
+>
+> - c) odkázanou pohledávku vymůže a vybere.
+
+
 - **§ 1598 — Obtížení odkazem**: dědic přijímá pozůstalost s povinností splnit odkaz;
 - **§ 1599 — Pododkaz** (*sublegatum*): odkazovník obtížený dalším odkazem;
 - **§ 1600 — Náhradnictví při odkazech** (substituce);
@@ -304,6 +411,47 @@
 
 ### § 1624—1632 — Nabytí odkazu
 
+> (1) Odkaz jednotlivých věcí z pozůstalosti a odkaz práv vztahujících se k takovým věcem může být požadován ihned. To platí i pro odkaz menších odměn pro zaměstnance a odkazy veřejně prospěšné, dobročinné a podobné. Jiné odkazy jsou splatné za rok po smrti zůstavitele.
+>
+> (2) Ustanovení odstavce 1 se použije, není-li zřejmá jiná vůle zůstavitele.
+
+> Při odkazu jednotlivé věci náleží odkazovníku ode dne splatnosti odkazu plody a užitky i vše, co k věci přibude, včetně práv s věcí spojených. Od téhož dne postihují odkazovníka i závady na odkázané věci, jakož i její zhoršení nebo zkáza vzniklé ze skutečností, za které nikdo neodpovídá.
+
+> (1) Při odkazu dávek splatných ročně, měsíčně nebo jinak nabude odkazovník právo k částce, která připadá na celou dobu, dožije-li se jejího počátku; splátka se však stane splatnou až v určenou dobu splatnosti.
+>
+> (2) Při odkazu výživného platí obdobně § 922.
+
+> (1) Při odkazu opakovaného plnění nebo při odkazu, jehož plnění se ještě nelze domáhat vzhledem k zákonné lhůtě nebo vzhledem k lhůtě či podmínce určené zůstavitelem, má odkazovník vůči osobě obtížené odkazem právo na poskytnutí dostatečné jistoty. To neplatí, je-li zřejmé, že zajištění není potřeba.
+>
+> (2) Jinak má odkazovník vůči osobě obtížené odkazem stejná práva jako každý jiný věřitel.
+>
+> ###### Uvolněný odkaz
+
+> (1) Nemůže-li odkazovník přijmout odkaz nebo odmítne-li jej, připadne odkaz náhradníkovi. Není-li náhradník a je-li celým odkazem pamatováno na několik osob buď bez určení podílů, anebo všeobecným výrazem znamenajícím rovné podělení, přibude uvolněný podíl poměrně ostatním podílníkům.
+>
+> (2) Je-li odkazovníku zůstaven určitý podíl, nemá právo na přírůstek podle odstavce 1, ledaže je zřejmá vůle zůstavitele zanechat vyjmenovaným odkazovníkům celý odkaz a že určením podílů nechtěl nic jiného než omezit odkazovníky navzájem.
+>
+> (3) V ostatních případech povinnost splnit odkaz zanikne.
+
+> Kdo má prospěch z uvolnění odkazu nebo z toho, že povinnost splnit odkaz zanikne, toho postihují i břemena s odkazem spojená. To neplatí, jedná-li se jen o osobní úkony osoby odkazem původně obtížené.
+>
+> ###### Práva dědice vyhradivšího si soupis
+
+> (1) Je-li čistá pozůstalost odkazy obtížena tak, že je téměř vyčerpána a dědic neuplatní právo podle § 1598, má dědic právo jen na náhradu nákladů učiněných při splnění odkazů a na přiměřenou odměnu za svou námahu. Nestačí-li pozůstalost k jejich úhradě, hradí náklady i odměnu odkazovníci poměrně podle hodnoty odkazů a dědic má k zajištění svého práva k odkázaným předmětům zadržovací právo; bez dostatečného zajištění není dědic povinen odkazy vyřizovat.
+>
+> (2) Pokud však odkazovník odkaz již obdržel, provede se srážka podle hodnoty, jakou měl odkaz v době přijetí, a podle užitků, které již z něho získal. Odkazovník se zbaví povinnosti příspěvku tím, že vydá dědici odkaz i s užitky nebo jejich cenu. V ostatním se na odkazovníka hledí jako na poctivého držitele.
+
+> (1) Nestačí-li čistá pozůstalost k úhradě všech dluhů a jiných povinných výdajů, odkazy se poměrně sníží.
+>
+> (2) Nestačí-li čistá pozůstalost k vyřízení všech odkazů, uspokojí se přede všemi ostatními odkaz zaopatření, výchovy a výživy; ostatní odkazy se poměrně sníží.
+
+> Nebyl-li určen vykonavatel závěti a nechce-li dědic věnovat splnění poslední vůle svůj čas a námahu, soud na jeho návrh za tím účelem jmenuje správce pozůstalosti, nebo uloží splnění poslední vůle správci pozůstalosti již povolanému.
+>
+> #### Díl 4
+>
+> ##### Zákonná posloupnost
+
+
 **§ 1624** — Nabytí odkazu **smrtí zůstavitele** (přímo, ne přes dědice). Odkazovník má od smrti pohledávku.
 
 **§ 1625 — Právo odkazovníka na zajištění** — pokud dědic váhá s plněním.
@@ -322,6 +470,29 @@
 
 ### § 1635—1640 — Šest dědických tříd
 
+> (1) V první třídě dědiců dědí zůstavitelovy děti a jeho manžel, každý z nich stejným dílem.
+>
+> (2) Nedědí-li některé dítě, nabývají jeho dědický podíl stejným dílem jeho děti; totéž platí o vzdálenějších potomcích téhož předka.
+
+> (1) Nedědí-li zůstavitelovi potomci, dědí ve druhé třídě manžel, zůstavitelovi rodiče a dále ti, kteří žili se zůstavitelem nejméně po dobu jednoho roku před jeho smrtí ve společné domácnosti a kteří z tohoto důvodu pečovali o společnou domácnost nebo byli odkázáni výživou na zůstavitele.
+>
+> (2) Dědici druhé třídy dědí stejným dílem, manžel však vždy nejméně polovinu pozůstalosti.
+
+> (1) Nedědí-li manžel ani žádný z rodičů, dědí ve třetí třídě stejným dílem zůstavitelovi sourozenci a ti, kteří žili se zůstavitelem nejméně po dobu jednoho roku před jeho smrtí ve společné domácnosti a kteří z tohoto důvodu pečovali o společnou domácnost nebo byli odkázáni výživou na zůstavitele.
+>
+> (2) Nedědí-li některý ze sourozenců zůstavitele, nabývají jeho dědický podíl stejným dílem jeho děti.
+
+> Nedědí-li žádný dědic ve třetí třídě, dědí ve čtvrté třídě stejným dílem prarodiče zůstavitele.
+
+> (1) Nedědí-li žádný z dědiců čtvrté třídy, dědí v páté třídě jen prarodiče rodičů zůstavitele. Prarodičům zůstavitelova otce připadá polovina dědictví, prarodičům zůstavitelovy matky druhá polovina. Obě dvojice prarodičů se dělí rovným dílem o polovinu, která na ně připadá.
+>
+> (2) Nedědí-li jednotlivý člen dvojice, připadne uvolněná osmina druhému členu. Nedědí-li dvojice, připadne tato čtvrtina druhé dvojici téže strany. Nedědí-li ani jedna dvojice téže strany, připadá dědictví dvojicím druhé strany ve stejném poměru, v jakém se dělí o polovinu dědictví, která jim připadá přímo.
+
+> (1) Nedědí-li žádný z dědiců páté třídy, dědí v šesté třídě děti dětí sourozenců zůstavitele a děti prarodičů zůstavitele, každý stejným dílem.
+>
+> (2) Nedědí-li některé z dětí prarodičů zůstavitele, dědí jeho děti.
+
+
 | Třída | Dědici | Rozsah |
 |---|---|---|
 | **1.** § 1635 | **Děti + manžel/partner** zůstavitele | Rovným dílem; potomci zemřelého dítěte na jeho místo |
@@ -338,6 +509,19 @@
 - **Šest tříd ≠ 4 jako 1964** — výrazné rozšíření dědického okruhu.
 
 ### § 1641 — Několikeré příbuzenství
+
+> Je-li někdo se zůstavitelem příbuzný z více než z jedné strany, má z každé strany dědické právo, které by mu náleželo jako příbuznému z této strany.
+>
+> #### Díl 5
+>
+> ##### Povinný díl
+>
+> ##### Započtení na povinný díl a na dědický podíl
+>
+> ##### Oddíl 1
+>
+> ###### Nepominutelný dědic
+
 
 Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z poloviční pokrevní linie), **dědí z každého titulu zvlášť**.
 
@@ -366,6 +550,21 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 ### Oddíl 2 — Vydědění (§ 1646—1649)
 
 ### § 1646 — Důvody vydědění
+
+> (1) Ze zákonných důvodů lze nepominutelného dědice vyděděním z jeho práva na povinný díl vyloučit, anebo jej v jeho právu zkrátit. Zůstavitel může vydědit nepominutelného dědice, který
+>
+> - a) mu neposkytl potřebnou pomoc v nouzi,
+>
+> - b) o zůstavitele neprojevuje opravdový zájem, jaký by projevovat měl,
+>
+> - c) byl odsouzen pro trestný čin spáchaný za okolností svědčících o jeho zvrhlé povaze nebo
+>
+> - d) vede trvale nezřízený život.
+>
+> (2) Zůstavitel může vydědit i nepominutelného dědice, který je nezpůsobilý dědit, a proto je z dědického práva vyloučen.
+>
+> (3) Přežije-li vyděděný potomek zůstavitele, nedědí ani potomci vyděděného potomka, ledaže zůstavitel projeví jinou vůli. Nedožije-li se vyděděný potomek smrti zůstavitele, pak jeho potomci dědí vyjma těch, kteří jsou samostatně vyloučeni z práva dědického.
+
 
 **Taxativní výčet důvodů**:
 - (a) **Neposkytnutí pomoci v nouzi** zůstaviteli;
@@ -404,12 +603,36 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 ### § 1666—1667 — Manžel a další osoby
 
+> (1) Pozůstalý manžel má právo na slušnou výživu z pozůstalosti po dobu šesti týdnů po smrti manžela. Je-li vdova těhotná, má právo na slušnou výživu až do konce šestého týdne po porodu; totéž právo má i matka zůstavitelova dítěte, která nebyla za zůstavitele provdána.
+>
+> (2) Byl-li pozůstalému manželu zákonný dědický podíl odepřen nebo zkrácen, má pozůstalý manžel právo na nutné zaopatření až do uzavření nového manželství, pokud se mu takového zaopatření jinak nedostává a pokud není schopen sám se živit; takto však nemůže dostat z pozůstalosti více, než kolik by činila polovina jeho zákonného dědického podílu. Právo na nutné zaopatření však nenáleží manželu, který bez vážných důvodů nesdílel se zůstavitelem rodinnou domácnost, manželu nezpůsobilému být dědicem ani manželu, který se dědictví zřekl nebo je odmítl.
+>
+> (3) Bylo-li by právem na slušnou výživu podle odstavce 1 zkráceno právo na nutnou výživu podle § 1665, zkrátí se všechna tato práva tak, aby se všem oprávněným dostalo stejně. Nutné zaopatření podle odstavce 2 nelze poskytnout, zkrátilo-li by se tím právo na nutnou výživu podle § 1665.
+
+> Pozůstalý manžel nabývá vlastnické právo k movitým věcem, které tvoří základní vybavení rodinné domácnosti, i když není dědicem. To neplatí, pokud pozůstalý manžel bez vážných důvodů nesdílel se zůstavitelem rodinnou domácnost.
+
+
 - **Manžel** má právo na **zaopatření z pozůstalosti** (zaopatřovací dávky), pokud:
   - Není nepominutelným dědicem;
   - Byl odkázán na zůstavitelův příjem;
   - Nemůže se nyní sám živit.
 
 ### § 1668—1669 — Rozsah a způsob plnění
+
+> (1) Byl-li pozůstalému rodiči zákonný dědický podíl odepřen nebo zkrácen, má pozůstalý rodič právo na nutné zaopatření, pokud se mu takového zaopatření jinak nedostává a pokud není schopen sám se živit; takto však nemůže dostat z pozůstalosti více, než kolik by činila třetina jeho zákonného dědického podílu. Právo na nutné zaopatření nenáleží rodiči nezpůsobilému být dědicem, rodiči, který se dědictví zřekl nebo je odmítl, ani rodiči, který se dopustil činu zakládajícího důvod k vydědění.
+>
+> (2) Nutné zaopatření nelze rodiči poskytnout, zkrátilo-li by se tím právo na nutnou výživu podle § 1665.
+
+> Osobám, které požívaly až do smrti zůstavitele bezplatné zaopatření v jeho domácnosti, přísluší stejné zaopatření ještě tři týdny po smrti zůstavitele.
+>
+> #### Díl 7
+>
+> ##### Přechod pozůstalosti na dědice
+>
+> ##### Oddíl 1
+>
+> ###### Nabytí dědictví
+
 
 - **Sluší** zaopatření **přiměřené** majetkové situaci pozůstalosti;
 - Forma: **jednorázová** nebo **periodická** platba (renta);

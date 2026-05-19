@@ -27,9 +27,9 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 ### § 928 — Vznik poručenství
 
-(1) Není-li tu žádný z rodičů, který má a vůči svému dítěti vykonává rodičovskou odpovědnost v plném rozsahu, soud jmenuje dítěti poručníka.
+> (1) Není-li tu žádný z rodičů, který má a vůči svému dítěti vykonává rodičovskou odpovědnost v plném rozsahu, soud jmenuje dítěti poručníka.
 
-(2) Poručník má vůči dítěti zásadně všechny povinnosti a práva jako rodič, ale nemá k dítěti vyživovací povinnost. S ohledem na osobu poručníka nebo poměry dítěte... může být výjimečně okruh povinností a práv poručníka vymezen jinak.
+> (2) Poručník má vůči dítěti zásadně všechny povinnosti a práva jako rodič, ale nemá k dítěti vyživovací povinnost. S ohledem na osobu poručníka nebo poměry dítěte... může být výjimečně okruh povinností a práv poručníka vymezen jinak.
 
 **Výklad:**
 
@@ -54,13 +54,24 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 ### § 929 — Veřejný poručník (OSPOD)
 
-Nastane-li situace uvedená v § 928 odst. 1, vykonává poručenství orgán sociálně-právní ochrany dětí jako veřejný poručník, a to až do doby, kdy soud jmenuje dítěti poručníka nebo dokud se poručník neujme funkce.
+> Nastane-li situace uvedená v § 928 odst. 1, vykonává poručenství orgán sociálně-právní ochrany dětí jako veřejný poručník, a to až do doby, kdy soud jmenuje dítěti poručníka nebo dokud se poručník neujme funkce.
 
 **Výklad:**
 
 **Veřejný poručník** = OSPOD (orgán sociálně-právní ochrany dětí — typicky obec s rozšířenou působností, zákon č. 359/1999 Sb.). **Funguje automaticky** v mezidobí mezi vznikem situace a jmenováním soudem. Bez tohoto institutu by dítě bylo bez zákonného zástupce.
 
 ### § 930—931 — Procesní postup, výběr poručníka
+
+> (1) Soud jmenuje dítěti poručníka neprodleně poté, kdy zjistí, že jde o dítě, jemuž je třeba poručníka jmenovat.
+>
+> (2) Zemře-li poručník, ztratí-li schopnost nebo způsobilost poručenství vykonávat, anebo je své funkce zproštěn nebo z funkce odvolán a jiná osoba dosud nebyla do funkce poručníka jmenována, platí ustanovení § 929 obdobně.
+>
+> (3) Soud neprodleně poté, co nastala situace uvedená v § 928, nebo v odstavci 1, zjišťuje, zda tu je vhodný člověk, který by mohl poručenství vykonávat. Nepodaří-li se takovou osobu najít, jmenuje soud do funkce poručníka orgán sociálně-právní ochrany dětí.
+
+> (1) Není-li to v rozporu se zájmy dítěte, jmenuje soud poručníkem toho, koho naznačili rodiče, ledaže tato osoba poručenství odmítne. Jinak soud jmenuje poručníkem některou z osob příbuzných nebo blízkých dítěti nebo jeho rodině, ledaže rodič takovou osobu výslovně vyloučil. Není-li takové osoby, jmenuje soud poručníkem jiného vhodného člověka.
+>
+> (2) Fyzická osoba, kterou soud jmenoval, může své jmenování do funkce poručníka odmítnout. Soud pak jmenuje jinou osobu.
+
 
 **§ 930 — Neprodlené jmenování**:
 - Soud jmenuje **neprodleně** po zjištění potřeby;
@@ -77,9 +88,9 @@ Nastane-li situace uvedená v § 928 odst. 1, vykonává poručenství orgán so
 
 ### § 932 — Způsobilost poručníka
 
-(1) Poručníkem lze jmenovat jen plně svéprávnou osobu, která způsobem života zaručuje, že je schopna funkci poručníka řádně vykonávat. Před jejím jmenováním do funkce poručníka soud zjistí, zda její jmenování není v rozporu se zájmem dítěte.
+> (1) Poručníkem lze jmenovat jen plně svéprávnou osobu, která způsobem života zaručuje, že je schopna funkci poručníka řádně vykonávat. Před jejím jmenováním do funkce poručníka soud zjistí, zda její jmenování není v rozporu se zájmem dítěte.
 
-(2) Do funkce poručníka může soud jmenovat i dvě osoby; budou jimi zpravidla manželé.
+> (2) Do funkce poručníka může soud jmenovat i dvě osoby; budou jimi zpravidla manželé.
 
 **Výklad:**
 
@@ -91,6 +102,17 @@ Nastane-li situace uvedená v § 928 odst. 1, vykonává poručenství orgán so
 **Dva poručníci**: typicky **manželé** (paralelně k rodičovskému párovému výkonu).
 
 ### § 933—934 — Výkon a dohled soudu
+
+> (1) Poručník odpovídá za řádné plnění své funkce a podléhá stálému dozoru soudu.
+>
+> (2) Poručník se ujímá své funkce dnem jmenování.
+>
+> (3) Do devadesáti dnů po svém jmenování předloží poručník soudu soupis jmění dítěte; soud může tuto lhůtu na žádost poručníka prodloužit, nejdéle však o šedesát dnů.
+
+> (1) Každé rozhodnutí poručníka v nikoli běžné záležitosti týkající se dítěte musí být schváleno soudem. K právnímu jednání poručníka, k němuž schází potřebný souhlas soudu, se nepřihlíží.
+>
+> (2) Poručník podává soudu pravidelně zprávy o osobě dítěte a o jeho vývoji a předkládá účty ze správy jeho jmění, a to alespoň jednou za rok, neurčí-li soud období kratší. Soud může poručníka zprostit povinnosti podávat podrobné vyúčtování spravovaného jmění, nepřesahují-li výnosy majetku pravděpodobné náklady na zachování majetku a na výchovu a výživu dítěte.
+
 
 **§ 933**:
 - **Odpovědnost** za řádné plnění;
@@ -106,6 +128,17 @@ Nastane-li situace uvedená v § 928 odst. 1, vykonává poručenství orgán so
 **Tvrdší režim než u rodiče**: u rodiče bez souhlasu soudu **relativní neplatnost s testem újmy** (§ 898 odst. 4); u poručníka **zdánlivé jednání** (§ 934 odst. 1).
 
 ### § 935—937 — Zánik a odvolání
+
+> (1) Poručenství zaniká, nabude-li alespoň jeden z rodičů poručence rodičovskou odpovědnost, popřípadě nabude-li schopnost ji vykonávat. Poručenství rovněž zaniká, nabude-li dítě svéprávnosti, nebo je-li osvojeno.
+>
+> (2) Poručenská funkce zaniká smrtí poručníka, nebo rozhodnutím soudu o zproštění poručníka jeho funkce, nebo o odvolání poručníka.
+
+> Soud zprostí poručníka funkce, požádá-li o to z důležitých důvodů, nebo stane-li se osoba, která funkci poručníka vykonávala, pro výkon funkce poručníka nezpůsobilou.
+
+> (1) Soud odvolá poručníka, který porušuje své poručnické povinnosti.
+>
+> (2) Soud zváží odvolání poručníka, zjistí-li důvody, pro které není vhodné, aby poručník svou funkci nadále vykonával.
+
 
 **§ 935 — Zánik poručenství**:
 - **Rodič nabude rodičovskou odpovědnost** (návrat rodiče);
@@ -125,6 +158,29 @@ Nastane-li situace uvedená v § 928 odst. 1, vykonává poručenství orgán so
 
 ### § 938—942 — Závěr funkce + speciální situace
 
+> (1) Po skončení výkonu funkce poručníka postoupí ten, kdo funkci vykonával, bez zbytečného odkladu, nejpozději však do šesti měsíců, soudu všechno, co měl z důvodu své funkce u sebe, a předloží mu závěrečnou zprávu o výkonu poručenské funkce; její součástí je závěrečný účet ze správy jmění dítěte.
+>
+> (2) Zemře-li ten, kdo vykonával funkci poručníka, postoupí jeho dědic soudu všechno, co měl zemřelý u sebe z důvodu výkonu své poručenské funkce. Není-li dědiců, má tuto povinnost každý, kdo má přístup k tomu, co měl zemřelý z důvodu výkonu své poručenské funkce u sebe.
+
+> Je-li poručníkem člověk, který o dítě osobně pečuje tak, jako by mu bylo dítě svěřeno trvale do péče, náleží mu hmotné zabezpečení jako pěstounovi.
+
+> Pečuje-li poručník o dítě osobně spolu se svým manželem, použijí se ustanovení o poměru rodiče a jeho manžela k dítěti obdobně.
+
+> (1) Je-li poručníkem člověk, který o dítě osobně pečuje, a péče o jmění dítěte je značně obtížná, zejména pro rozsáhlost či rozmanitost majetkového souboru, může poručník navrhnout, aby soud jmenoval pro správu jmění dítěte opatrovníka; součástí návrhu je soupis jmění dítěte ke dni podání návrhu.
+>
+> (2) Jmenuje-li soud opatrovníka podle odstavce 1, vymezí zároveň vzájemné povinnosti a práva poručníka a tohoto opatrovníka.
+
+> Nebyl-li opatrovník pro správu jmění jmenován, použijí se ustanovení týkající se opatrovníka pro správu jmění obdobně pro poručníka, který pečuje o jmění dítěte, ledaže je v ustanoveních týkajících se poručníka stanoveno jinak.
+>
+> #### Díl 2
+>
+> ##### Opatrovnictví dítěte
+>
+> ##### Oddíl 1
+>
+> ###### Opatrovník
+
+
 **§ 938 — Předání po skončení**: do **6 měsíců** předat soudu vše + závěrečná zpráva + účet ze správy jmění. Při smrti — dědic nebo držitel věcí.
 
 **§ 939 — Pečující poručník**: pokud osobně pečuje o dítě jako pěstoun → **hmotné zabezpečení jako pěstoun** (státní příspěvky podle z. 359/1999 Sb.).
@@ -143,7 +199,7 @@ Nastane-li situace uvedená v § 928 odst. 1, vykonává poručenství orgán so
 
 ### § 943 — Důvody jmenování
 
-Soud jmenuje dítěti opatrovníka, hrozí-li střet zájmů dítěte na straně jedné a jiné osoby na straně druhé, nehájí-li zákonný zástupce dostatečně zájmy dítěte, nebo je-li toho v zájmu dítěte zapotřebí z jiného důvodu, anebo stanoví-li tak zákon. Jmenovaný opatrovník má právo podat návrh na zahájení řízení vždy, je-li z hlediska zájmu dítěte zapotřebí, aby soud nebo jiný orgán veřejné moci v záležitosti dítěte rozhodl.
+> Soud jmenuje dítěti opatrovníka, hrozí-li střet zájmů dítěte na straně jedné a jiné osoby na straně druhé, nehájí-li zákonný zástupce dostatečně zájmy dítěte, nebo je-li toho v zájmu dítěte zapotřebí z jiného důvodu, anebo stanoví-li tak zákon. Jmenovaný opatrovník má právo podat návrh na zahájení řízení vždy, je-li z hlediska zájmu dítěte zapotřebí, aby soud nebo jiný orgán veřejné moci v záležitosti dítěte rozhodl.
 
 **Výklad:**
 
@@ -159,6 +215,19 @@ Soud jmenuje dítěti opatrovníka, hrozí-li střet zájmů dítěte na straně
 **Aktivní legitimace opatrovníka**: má **vlastní právo navrhovat zahájení řízení**, je-li to v zájmu dítěte.
 
 ### § 944—947 — Subsidiární aplikace pravidel o poručenství
+
+> Pro opatrovnictví, opatrovníka a opatrovance platí ustanovení o poručenství, poručníkovi a poručenci přiměřeně.
+
+> V rozhodnutí o jmenování opatrovníkem soud uvede zejména, proč je opatrovník jmenován, zda a jak je omezena doba, po niž má funkci vykonávat, jaká jsou jeho práva a povinnosti, a to i ve vztahu k dalším osobám, zda k některému právnímu jednání potřebuje souhlas soudu, zda a jak podává zprávy soudu, zda má právo na náhradu všech nebo některých nákladů a právo na odměnu.
+
+> Dříve než opatrovník přistoupí v zastoupení dítěte k právnímu jednání, k jehož provedení byl jmenován, zjistí stanovisko rodiče, popřípadě poručníka, je-li to možné, i stanovisko dítěte, a je-li to vhodné, rovněž stanoviska dalších osob.
+
+> Opatrovníka, který nebyl jmenován jen k určitému právnímu jednání, zprostí soud jeho funkce i tehdy, netrvá-li již potřeba, která vedla k jeho jmenování.
+>
+> ##### Oddíl 2
+>
+> ###### Opatrovník pro správu jmění dítěte
+
 
 **§ 944**: pro opatrovnictví dítěte platí **přiměřeně** ustanovení o poručenství.
 
@@ -181,13 +250,36 @@ Soud jmenuje dítěti opatrovníka, hrozí-li střet zájmů dítěte na straně
 
 ### § 948 — Rozsah a způsob
 
-V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsah jmění, které bude tento opatrovník spravovat; rovněž zpravidla určí, jakým způsobem má s jednotlivými částmi jmění nakládat, popřípadě, jaký způsob nakládání se mu zakazuje.
+> V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsah jmění, které bude tento opatrovník spravovat; rovněž zpravidla určí, jakým způsobem má s jednotlivými částmi jmění nakládat, popřípadě, jaký způsob nakládání se mu zakazuje.
 
 **Výklad:**
 
 **Diferencovaný rozsah správy** — opatrovník nespravuje **celé** jmění dítěte, jen **vymezený rozsah**. Příklad: dítě zdědí nemovitost v zahraničí → opatrovník pro správu této nemovitosti (zatímco ostatní jmění spravují rodiče).
 
 ### § 949—952 — Standardy a vyúčtování
+
+> Opatrovník pro správu jmění postupuje při výkonu své funkce s péčí řádného hospodáře a nesmí podstupovat nepřiměřená rizika.
+
+> (1) Opatrovník pro správu jmění odpovídá za řádné plnění své funkce soudu a podléhá jeho stálému dozoru.
+>
+> (2) Pro právní jednání opatrovníka pro správu jmění platí ustanovení o tom, jak rodiče vykonávají správu jmění dítěte obdobně; soud určí, považuje-li to za potřebné, která právní jednání opatrovníka pro správu jmění musejí být schválena soudem.
+>
+> (3) Opatrovník pro správu jmění předkládá soudu pravidelně zprávy a účty ze správy jmění, a to vždy za dobu, jejíž délku soud stanoví; tato doba nesmí být delší než jeden rok.
+
+> (1) Opatrovník pro správu jmění má právo odečíst si z výnosu jmění dítěte potřebné náklady souvisící se správou jmění dítěte. Nestačí-li výnos, může soud rozhodnout, že náklady budou uhrazeny z majetku.
+>
+> (2) Opatrovník pro správu jmění má právo na přiměřenou odměnu z výnosu jmění dítěte; odstavec 1 platí obdobně. Výši odměny a dobu, za kterou má být odměna opatrovníkovi pro správu jmění stanovena, určí soud s ohledem na povahu výnosu jmění dítěte. Ustanovení § 903 odst. 2 platí obdobně.
+
+> Zanikne-li opatrovnictví pro správu jmění, platí o povinnostech toho, kdo vykonával funkci opatrovníka, ustanovení § 938 odst. 1 obdobně. Zemřel-li opatrovník, použije se obdobně ustanovení § 938 odst. 2.
+>
+> #### Díl 3
+>
+> ##### Svěření dítěte do péče jiné osoby a pěstounství
+>
+> ##### Oddíl 1
+>
+> ###### Svěření dítěte do péče jiné osoby
+
 
 **§ 949 — Péče řádného hospodáře** + zákaz nepřiměřených rizik.
 
@@ -210,9 +302,9 @@ V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsa
 
 ### § 953 — Pečující osoba
 
-(1) Nemůže-li o dítě osobně pečovat žádný z rodičů ani poručník, může soud svěřit dítě do osobní péče jiného člověka (dále jen „pečující osoba"). Rozhodnutí o svěření dítěte do péče musí být v souladu se zájmy dítěte.
+> (1) Nemůže-li o dítě osobně pečovat žádný z rodičů ani poručník, může soud svěřit dítě do osobní péče jiného člověka (dále jen „pečující osoba"). Rozhodnutí o svěření dítěte do péče musí být v souladu se zájmy dítěte.
 
-(2) Svěření dítěte do osobní péče pečující osoby nenahrazuje pěstounskou péči, předpěstounskou péči ani péči, která musí předcházet osvojení. Má přednost před péčí o dítě v ústavní výchově.
+> (2) Svěření dítěte do osobní péče pečující osoby nenahrazuje pěstounskou péči, předpěstounskou péči ani péči, která musí předcházet osvojení. Má přednost před péčí o dítě v ústavní výchově.
 
 **Výklad:**
 
@@ -223,6 +315,23 @@ V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsa
 - **Není náhradou** pěstounské péče (ta je více formalizovaná a financovaná).
 
 ### § 954—957 — Podmínky a financování
+
+> (1) Pečující osoba musí skýtat záruky řádné péče, mít bydliště na území České republiky a souhlasit se svěřením dítěte do osobní péče.
+>
+> (2) Ujala-li se osobní péče o dítě osoba příbuzná nebo dítěti blízká, dá jí soud přednost před jinou osobou, ledaže to není v souladu se zájmy dítěte.
+
+> Povinnosti a práva pečující osoby vymezí soud; jinak se přiměřeně použijí ustanovení o pěstounství.
+
+> (1) Soud stanoví rodičům rozsah výživného s ohledem na jejich možnosti, schopnosti a majetkové poměry a povinnost platit výživné k rukám pečující osoby.
+>
+> (2) Pečující osoba má právo vymáhat výživné stanovené rodičům na dítě, které má v péči, jakož i právo s výživným pro dítě hospodařit v zájmu dítěte podle jeho potřeb a v souladu s jeho zájmy. Soud může způsob hospodaření s výživným dítěte upravit, zejména určit, jaká část bude určena na spotřebu a jaká část bude dítěti spořena.
+
+> Pokud není možné rodičům nebo ostatním příbuzným uložit vyživovací povinnost k dítěti, ustanovení § 953 až 956 se nepoužijí.
+>
+> ##### Oddíl 2
+>
+> ###### Pěstounství
+
 
 **§ 954**: pečující osoba musí:
 - **Skýtat záruky** řádné péče;
@@ -246,11 +355,11 @@ V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsa
 
 ### § 958 — Vznik pěstounské péče
 
-(1) Nemůže-li o dítě osobně pečovat žádný z rodičů ani poručník, může soud svěřit dítě do osobní péče pěstounovi.
+> (1) Nemůže-li o dítě osobně pečovat žádný z rodičů ani poručník, může soud svěřit dítě do osobní péče pěstounovi.
 
-(2) Pěstounská péče má přednost před péčí o dítě v ústavní výchově.
+> (2) Pěstounská péče má přednost před péčí o dítě v ústavní výchově.
 
-(3) Soud může svěřit dítě do pěstounské péče i na přechodnou dobu. Podrobnosti stanoví jiný zákon.
+> (3) Soud může svěřit dítě do pěstounské péče i na přechodnou dobu. Podrobnosti stanoví jiný zákon.
 
 **Výklad:**
 
@@ -263,6 +372,15 @@ V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsa
 
 ### § 959—960 — Doba a vztah s rodiči
 
+> (1) O pěstounské péči může soud rozhodnout na dobu, po kterou trvá překážka bránící rodičům v osobní péči o dítě.
+>
+> (2) Rodič může požadovat dítě zpět do své osobní péče. Soud návrhu vyhoví, pokud je to v souladu se zájmy dítěte.
+
+> (1) Rodiče mají vůči dítěti povinnosti a práva vyplývající z rodičovské odpovědnosti, s výjimkou práv a povinností, které zákon stanoví pěstounovi, ledaže soud z důvodů hodných zvláštního zřetele rozhodne jinak.
+>
+> (2) Rodiče mají právo se s dítětem pravidelně stýkat i právo na informace o dítěti, ledaže soud z důvodů hodných zvláštního zřetele rozhodne jinak.
+
+
 **§ 959**: soud rozhoduje **na dobu trvání překážky** bránící rodičům. **Rodič může požadovat dítě zpět**; soud vyhoví, je-li to v souladu se zájmy dítěte.
 
 **§ 960 — Vztah s rodiči**:
@@ -271,9 +389,9 @@ V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsa
 
 ### § 961 — Výživné v pěstounské péči
 
-(1) Svěření dítěte do pěstounské péče nemá vliv na trvání vyživovací povinnosti rodičů k dítěti. Soud stanoví rodičům rozsah výživného s ohledem na jejich možnosti, schopnosti a majetkové poměry a odůvodněné potřeby dítěte.
+> (1) Svěření dítěte do pěstounské péče nemá vliv na trvání vyživovací povinnosti rodičů k dítěti. Soud stanoví rodičům rozsah výživného s ohledem na jejich možnosti, schopnosti a majetkové poměry a odůvodněné potřeby dítěte.
 
-(2) Náleží-li dítěti příspěvek na úhradu jeho potřeb podle jiného zákona, přechází právo dítěte na stát. Je-li výživné vyšší než tento příspěvek, náleží rozdíl dítěti...
+> (2) Náleží-li dítěti příspěvek na úhradu jeho potřeb podle jiného zákona, přechází právo dítěte na stát. Je-li výživné vyšší než tento příspěvek, náleží rozdíl dítěti. Soud rozhodne o způsobu platby a o hospodaření s výživným.
 
 **Výklad:**
 
@@ -286,6 +404,25 @@ V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsa
 **Praktický důsledek**: rodič nemůže přesunout svou povinnost na stát; výživné se vymáhá ve prospěch státu nebo dítěte.
 
 ### § 962—965 — Předpoklady, manželé, předpěstounská péče
+
+> (1) Kdo se má stát pěstounem, musí skýtat záruky řádné péče, mít bydliště na území České republiky a musí souhlasit se svěřením dítěte do pěstounské péče.
+>
+> (2) Ujala-li se osobní péče o dítě osoba příbuzná nebo dítěti blízká, dá jí soud přednost před jinou osobou, ledaže to není v souladu se zájmy dítěte.
+
+> Soud může dítě svěřit zájemcům o pěstounskou péči do předpěstounské péče; její délku stanoví se zřetelem k okolnostem případu. Nad průběhem a úspěšností předpěstounské péče vykonává dohled.
+
+> (1) Dítě může být svěřeno do společné pěstounské péče společným pěstounům, pokud jsou manželé.
+>
+> (2) Soud, který rozhoduje o rozvodu manželství společných pěstounů, toto manželství nerozvede, dokud nebudou upraveny povinnosti a práva pěstounů pro dobu po rozvodu. Rozvodem manželství společná pěstounská péče manželů zaniká.
+>
+> (3) Zemře-li jeden ze společných pěstounů, zůstává dítě v pěstounské péči pozůstalého manžela.
+
+> (1) Se souhlasem druhého manžela může být dítě svěřeno do pěstounské péče jen jednoho z manželů.
+>
+> (2) Souhlasu druhého manžela ke svěření dítěte do pěstounské péče není třeba, jestliže druhý z manželů není plně svéprávný nebo je-li opatření jeho souhlasu spojeno s těžko překonatelnou překážkou.
+>
+> (3) Na osobní péči o dítě v pěstounské péči se podílí i manžel pěstouna, pokud žije v rodinné domácnosti.
+
 
 **§ 962**: pěstoun musí:
 - **Skýtat záruky** řádné péče;
@@ -305,6 +442,17 @@ V rozhodnutí o jmenování opatrovníkem pro správu jmění soud vymezí rozsa
 
 ### § 966—968 — Práva a povinnosti pěstouna
 
+> (1) Pěstoun je povinen a oprávněn o dítě osobně pečovat.
+>
+> (2) Pěstoun při výchově dítěte vykonává přiměřeně povinnosti a práva rodičů. Je povinen a oprávněn rozhodovat jen o běžných záležitostech dítěte, v těchto záležitostech dítě zastupovat a spravovat jeho jmění. Má povinnost informovat rodiče dítěte o jeho podstatných záležitostech. Vyžadují-li to okolnosti, stanoví další povinnosti a práva pěstouna soud.
+>
+> (3) Odstavce 1 a 2 platí obdobně pro zájemce o pěstounskou péči, kterému bylo dítě svěřeno do předpěstounské péče.
+
+> Pěstoun má povinnost udržovat, rozvíjet a prohlubovat sounáležitost dítěte s jeho rodiči, dalšími příbuznými a osobami dítěti blízkými. Má povinnost umožnit styk rodičů s dítětem v pěstounské péči, ledaže soud stanoví jinak.
+
+> Dítě svěřené do pěstounské péče pomáhá podle svých možností a schopností v pěstounově domácnosti; má-li vlastní příjem, přispívá i na úhradu společných potřeb rodiny.
+
+
 **§ 966**:
 - **Osobní péče** povinná i oprávněná;
 - **Přiměřené uplatnění práv rodiče** (kromě výhradních pravomocí rodičů);
@@ -321,6 +469,15 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 **§ 968 — Podíl dítěte**: dítě **pomáhá v domácnosti** podle možností; má-li příjem, přispívá.
 
 ### § 969—970 — Změny a zánik
+
+> Dojde-li k podstatné změně poměrů nebo k neshodě mezi rodiči a pěstounem v podstatné záležitosti týkající se dítěte, může dítě, rodič nebo pěstoun navrhnout soudu změnu práv a povinností, zrušení pěstounské péče, nebo jiné rozhodnutí.
+
+> Pěstounská péče zaniká nejpozději, nabude-li dítě plné svéprávnosti, jinak jeho zletilostí.
+>
+> #### Díl 4
+>
+> ##### Ústavní výchova
+
 
 **§ 969 — Změna poměrů**:
 - Podstatná změna / neshoda rodič × pěstoun → návrh soudu na **změnu / zrušení** péče;
@@ -368,11 +525,11 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 
 ### § 972 — Doba a prodloužení
 
-(1) Ústavní výchovu lze nařídit nejdéle na dobu tří let. Ústavní výchovu lze před uplynutím tří let od jejího nařízení prodloužit, jestliže důvody pro nařízení ústavní výchovy stále trvají. Trvání ústavní výchovy lze prodloužit opakovaně, vždy však nejdéle na dobu tří let...
+> (1) Ústavní výchovu lze nařídit nejdéle na dobu tří let. Ústavní výchovu lze před uplynutím tří let od jejího nařízení prodloužit, jestliže důvody pro nařízení ústavní výchovy stále trvají. Trvání ústavní výchovy lze prodloužit opakovaně, vždy však nejdéle na dobu tří let. Po dobu, než soud rozhodne o zrušení nebo o prodloužení ústavní výchovy, dítě zůstává v ústavní výchově, i když už uběhla doba dříve rozhodnutím soudu stanovená.
 
-(2) Pominou-li důvody, pro které byla ústavní výchova nařízena, nebo je-li možné zajistit dítěti jinou než ústavní péči, soud neprodleně ústavní výchovu zruší a zároveň rozhodne podle okolností o tom, komu bude napříště dítě svěřeno do péče.
+> (2) Pominou-li důvody, pro které byla ústavní výchova nařízena, nebo je-li možné zajistit dítěti jinou než ústavní péči, soud neprodleně ústavní výchovu zruší a zároveň rozhodne podle okolností o tom, komu bude napříště dítě svěřeno do péče.
 
-(3) Ústavní výchova zaniká rozhodnutím soudu o osvojení. Bylo-li rozhodnuto o svěření dítěte do péče budoucího osvojitele... ústavní výchova se přerušuje.
+> (3) Ústavní výchova zaniká rozhodnutím soudu o osvojení. Bylo-li rozhodnuto o svěření dítěte do péče budoucího osvojitele... ústavní výchova se přerušuje.
 
 **Výklad:**
 
@@ -388,10 +545,10 @@ Toto je **explicitní zákaz** odebírat děti pro chudobu — odpověď na hist
 
 ### § 973 — Pravidelný přezkum
 
-Bylo-li soudem rozhodnuto podle § 971, je soud povinen nejméně jednou za šest měsíců přezkoumat, zda trvají důvody pro nařízení tohoto opatření nebo zda není možné zajistit dítěti náhradní rodinnou péči. Za tím účelem zejména
-- a) si vyžádá zprávy příslušného orgánu sociálně-právní ochrany dětí,
-- b) si opatří vyjádření názoru dítěte, je-li dítě schopno si jej vytvořit a sdělit poté, co jej soud, s ohledem na jeho věk a rozumovou vyspělost, řádně poučí, a
-- c) vyzve rodiče dítěte k vyjádření jejich stanoviska.
+> Bylo-li soudem rozhodnuto podle § 971, je soud povinen nejméně jednou za šest měsíců přezkoumat, zda trvají důvody pro nařízení tohoto opatření nebo zda není možné zajistit dítěti náhradní rodinnou péči. Za tím účelem zejména
+> - a) si vyžádá zprávy příslušného orgánu sociálně-právní ochrany dětí,
+> - b) si opatří vyjádření názoru dítěte, je-li dítě schopno si jej vytvořit a sdělit poté, co jej soud, s ohledem na jeho věk a rozumovou vyspělost, řádně poučí, a
+> - c) vyzve rodiče dítěte k vyjádření jejich stanoviska.
 
 **Výklad:**
 
