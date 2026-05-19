@@ -83,18 +83,21 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 
 ### § 1726—1729 — Předsmluvní fáze
 
+**§ 1726**:
 > Považují-li strany smlouvu za uzavřenou, ač si ve skutečnosti neujednaly náležitost, již měly ve smlouvě ujednat, hledí se na projev jejich vůle jako na uzavřenou smlouvu, lze-li, zvláště s přihlédnutím k jejich následnému chování, rozumně předpokládat, že by smlouvu uzavřely i bez ujednání této náležitosti. Dala-li však některá ze stran již při uzavírání smlouvy najevo, že dosažení shody o určité náležitosti je předpokladem uzavření smlouvy, má se za to, že smlouva uzavřena nebyla; tehdy ujednání o ostatních náležitostech strany nezavazuje, ani byl-li o nich vyhotoven zápis.
 
+**§ 1727**:
 > Každá z několika smluv uzavřených při témže jednání nebo zahrnutých do téže listiny se posuzuje samostatně. Plyne-li z povahy několika smluv nebo z jejich účelu známého stranám při uzavření smlouvy, že jsou na sobě závislé, je vznik každé z nich podmínkou vzniku ostatních smluv. Zánik závazku z některé z nich bez uspokojení věřitele zrušuje ostatní závislé smlouvy, a to s obdobnými právními účinky.
 
+**§ 1728**:
 > (1) Každý může vést jednání o smlouvě svobodně a neodpovídá za to, že ji neuzavře, ledaže jednání o smlouvě zahájí nebo v takovém jednání pokračuje, aniž má úmysl smlouvu uzavřít.
 >
 > (2) Při jednání o uzavření smlouvy si smluvní strany vzájemně sdělí všechny skutkové a právní okolnosti, o nichž ví nebo vědět musí, tak, aby se každá ze stran mohla přesvědčit o možnosti uzavřít platnou smlouvu a aby byl každé ze stran zřejmý její zájem smlouvu uzavřít.
 
+**§ 1729**:
 > (1) Dospějí-li strany při jednání o smlouvě tak daleko, že se uzavření smlouvy jeví jako vysoce pravděpodobné, jedná nepoctivě ta strana, která přes důvodné očekávání druhé strany v uzavření smlouvy jednání o uzavření smlouvy ukončí, aniž pro to má spravedlivý důvod.
 >
 > (2) Strana, která jedná nepoctivě, nahradí druhé straně škodu, nanejvýš však v tom rozsahu, který odpovídá ztrátě z neuzavřené smlouvy v obdobných případech.
-
 
 **§ 1726 — Neúplná smlouva**: pokud strany ponechaly určité body „na dohodu později", smlouva **vznikla** (a soud dotvořuje obsah dle § 1748), jen pokud:
 - Strany se **dohodly o věci hlavní**;
@@ -108,35 +111,33 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 
 ### § 1730—1731 — Mlčenlivost a důvěrné informace
 
+**§ 1730**:
 > (1) Poskytnou-li si strany při jednání o smlouvě údaje a sdělení, má každá ze stran právo vést o nich záznamy, i když smlouva nebude uzavřena.
 >
 > (2) Získá-li strana při jednání o smlouvě o druhé straně důvěrný údaj nebo sdělení, dbá, aby nebyly zneužity, nebo aby nedošlo k jejich prozrazení bez zákonného důvodu. Poruší-li tuto povinnost a obohatí-li se tím, vydá druhé straně to, oč se obohatila.
->
-> ##### Oddíl 2
->
-> ###### Uzavření smlouvy
->
-> ###### Návrh na uzavření smlouvy
 
+>
+
+**§ 1731**:
 > Z návrhu na uzavření smlouvy (dále jen „nabídka“) musí být zřejmé, že ten, kdo jej činí, má úmysl uzavřít určitou smlouvu s osobou, vůči níž nabídku činí.
-
 
 Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je zneužít** ani prozradit. **Náhrada škody** + **vydání obohacení**.
 
 ### § 1737—1739 — Nesoulad vůle a projevu
 
+**§ 1737**:
 > I když je nabídka neodvolatelná, lze ji zrušit, pokud zrušovací projev dojde druhé straně před doručením nabídky nebo alespoň současně s ním.
 
+**§ 1738**:
 > (1) I když je nabídka odvolatelná, nelze ji odvolat ve lhůtě určené pro její přijetí, ledaže se to v nabídce vyhradí. Odvolatelnou nabídku lze odvolat, jen pokud odvolání dojde druhé straně dříve, než ta odeslala přijetí nabídky.
 >
 > (2) Nabídku nelze odvolat, pokud je v ní vyjádřena neodvolatelnost.
 
+**§ 1739**:
 > (1) Je-li nabídka odmítnuta, zaniká účinností odmítnutí.
 >
 > (2) Zemře-li některá ze stran, nebo pozbude-li svéprávnosti uzavřít smlouvu, nabídka zanikne, pokud je to zřejmé z nabídky samé nebo z povahy a účelu navrhované smlouvy.
 >
-> ###### Přijetí nabídky
-
 
 - **Skutečný obsah smlouvy** (*verus consensus*) má přednost před doslovným zněním;
 - Pravidla výkladu — viz § 555—558 (obecná část).
@@ -147,14 +148,16 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 ### § 1731—1733 — Nabídka
 
+**§ 1731**:
 > Z návrhu na uzavření smlouvy (dále jen „nabídka“) musí být zřejmé, že ten, kdo jej činí, má úmysl uzavřít určitou smlouvu s osobou, vůči níž nabídku činí.
 
+**§ 1732**:
 > (1) Právní jednání směřující k uzavření smlouvy je nabídkou, pokud obsahuje podstatné náležitosti smlouvy tak, aby smlouva mohla být uzavřena jeho jednoduchým a nepodmíněným přijetím, a pokud z něho plyne vůle navrhovatele být smlouvou vázán, bude-li nabídka přijata.
 >
 > (2) Má se za to, že návrh dodat zboží nebo poskytnout službu za určenou cenu učiněný při podnikatelské činnosti reklamou, v katalogu nebo vystavením zboží je nabídkou s výhradou vyčerpání zásob nebo ztráty schopnosti podnikatele plnit.
 
+**§ 1733**:
 > Projev vůle, který nevyhovuje § 1732, není nabídkou a nemůže být proto přijat. Obsahuje-li projev vůle slib plnění za určitý výkon nebo výsledek, jedná se o veřejný příslib, jinak o pouhou výzvu k podání nabídky. Totéž platí o projevu, který směřuje vůči neurčitému okruhu osob nebo který má povahu reklamy, pokud z něho jasně neplyne něco jiného.
-
 
 **Nabídka** (*offerta*) — jednostranný projev vůle k uzavření smlouvy:
 - **Určitá** + projevuje **vůli být vázán** akceptací;
@@ -164,24 +167,28 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 ### § 1734—1739 — Přijetí nabídky
 
+**§ 1734**:
 > Nabídka učiněná ústně musí být přijata bezodkladně, ledaže něco jiného plyne z jejího obsahu nebo z okolností, za nichž se stala. To platí i tehdy, byla-li přítomné osobě předložena nabídka učiněná v písemné formě.
 
+**§ 1735**:
 > Nabídka učiněná v písemné formě vůči nepřítomné osobě musí být přijata ve lhůtě uvedené v nabídce. Není-li lhůta uvedena, lze nabídku přijmout v době přiměřené povaze navrhované smlouvy a rychlosti prostředků, jež navrhovatel použil pro zaslání nabídky.
 
+**§ 1736**:
 > Nabídka je neodvolatelná, je-li to v ní výslovně vyjádřeno, anebo dohodnou-li se tak strany. Nabídka je rovněž neodvolatelná, plyne-li to z jednání stran o uzavření smlouvy, z jejich předchozího obchodního styku, anebo ze zvyklostí.
 
+**§ 1737**:
 > I když je nabídka neodvolatelná, lze ji zrušit, pokud zrušovací projev dojde druhé straně před doručením nabídky nebo alespoň současně s ním.
 
+**§ 1738**:
 > (1) I když je nabídka odvolatelná, nelze ji odvolat ve lhůtě určené pro její přijetí, ledaže se to v nabídce vyhradí. Odvolatelnou nabídku lze odvolat, jen pokud odvolání dojde druhé straně dříve, než ta odeslala přijetí nabídky.
 >
 > (2) Nabídku nelze odvolat, pokud je v ní vyjádřena neodvolatelnost.
 
+**§ 1739**:
 > (1) Je-li nabídka odmítnuta, zaniká účinností odmítnutí.
 >
 > (2) Zemře-li některá ze stran, nebo pozbude-li svéprávnosti uzavřít smlouvu, nabídka zanikne, pokud je to zřejmé z nabídky samé nebo z povahy a účelu navrhované smlouvy.
 >
-> ###### Přijetí nabídky
-
 
 - **§ 1735 — Výslovné přijetí** + lhůta (nebo přiměřená doba);
 - **§ 1737 — Mlčení** = **neakceptace** (rozdíl od starého OZ — princip neztrácení práva mlčenín);
@@ -239,15 +246,109 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 ### § 1810—1812 — Definice
 
+**§ 1810**:
+> Ustanovení tohoto dílu se použijí na smlouvy, které se spotřebitelem uzavírá podnikatel (dále jen „spotřebitelské smlouvy“) a na závazky z nich vzniklé.
+
+**§ 1811**:
+> (1) Veškerá sdělení vůči spotřebiteli musí podnikatel učinit jasně a srozumitelně v jazyce, ve kterém se uzavírá smlouva.
+>
+> (2) Směřuje-li jednání stran k uzavření smlouvy a tyto skutečnosti nejsou zřejmé ze souvislostí, sdělí podnikatel spotřebiteli v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebitel učiní závaznou nabídku
+>
+> - a) údaje o své totožnosti, adresu sídla, telefonní číslo a, existuje-li, pak adresu pro doručování elektronické pošty,
+>
+> - b) označení zboží nebo služby a popis jejich hlavních vlastností v rozsahu odpovídajícím použitému prostředku komunikace a povaze zboží nebo služby,
+>
+> - c) celkovou cenu zboží nebo služby včetně všech daní, poplatků a jiných obdobných peněžitých plnění, a pokud povaha zboží nebo služby neumožňuje tuto cenu rozumně určit předem, způsob jejího výpočtu,
+>
+> - d) způsob platby, způsob a čas dodání nebo plnění a případně pravidla vyřizování stížností,
+>
+> - e) náklady na dodání, a pokud tyto náklady nelze stanovit předem, údaj, že mohou být dodatečně účtovány,
+>
+> - f) údaj o existenci práv z vadného plnění, případně také o záruce za jakost, poprodejním servisu a jejich podmínkách,
+>
+> - g) údaj o době trvání závazku a podmínky ukončení závazku, má-li být smlouva uzavřena na dobu neurčitou, nebo má-li být závazek automaticky prodlužován,
+>
+> - h) údaje o funkčnosti digitálního obsahu, služby digitálního obsahu a věci s digitálními vlastnostmi, včetně technických ochranných opatření, a
+>
+> - i) údaje o možnosti digitálního obsahu, služby digitálního obsahu a věci s digitálními vlastnostmi fungovat společně s technickým a programovým vybavením, které se obvykle s digitálním obsahem, službou digitálního obsahu a věcí s digitálními vlastnostmi téhož druhu používá, aniž je zapotřebí je převést (kompatibilita), nebo s jiným technickým a programovým vybavením, než které se obvykle s digitálním obsahem, službou digitálního obsahu a věcí s digitálními vlastnostmi téhož druhu používá (interoperabilita), které jsou podnikateli známy nebo u nichž lze rozumně očekávat, že by mu mohly být známy.
+>
+> (3) Ustanovení odstavce 2 se nepoužije na smlouvu
+>
+> - a) uzavíranou za účelem vyřizování záležitostí každodenního života, pokud má dojít k vzájemnému plnění bezprostředně po jejím uzavření,
+>
+> - b) o zájezdu,
+>
+> - c) o finanční službě,
+>
+> - d) o přepravě osoby,
+>
+> - e) o dočasném užívání ubytovacího zařízení a jiných rekreačních službách podle § 1852.
+
+**§ 1812**:
+> (1) Lze-li obsah smlouvy vyložit různým způsobem, použije se výklad pro spotřebitele nejpříznivější.
+>
+> (2) K ujednáním odchylujícím se v neprospěch spotřebitele od ustanovení zákona stanovených k ochraně spotřebitele se nepřihlíží. To platí i v případě, že se spotřebitel vzdá zvláštního práva, které mu zákon poskytuje.
+>
+
 > **Spotřebitel** (§ 419) = člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu povolání uzavírá smlouvu s podnikatelem.
 > **Podnikatel** (§ 420—422) = osoba, která samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost.
-
 **Asymetrie**: spotřebitel = **slabší strana**; podnikatel = **silnější strana** s vyššími povinnostmi.
 
 ### § 1813—1817 — Zákaz zneužívajících ustanovení
 
 > § 1813: Má se za to, že zakázána jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele.
 
+**§ 1814**:
+> (1) Zneužívající jsou vždy ujednání, která
+>
+> - a) vylučují nebo omezují spotřebitelova práva z vadného plnění nebo na náhradu újmy,
+>
+> - b) spotřebitele zavazují plnit, zatímco podnikateli vznikne povinnost plnit splněním podmínky závislé na jeho vůli,
+>
+> - c) umožňují, aby podnikatel nevydal spotřebiteli, co mu spotřebitel vydal, i v případě, že spotřebitel smlouvu neuzavře nebo nesplní závazek, aniž má spotřebitel právo na přiměřenou náhradu, pokud smlouvu neuzavře nebo závazek nesplní podnikatel,
+>
+> - d) zakládají podnikateli právo odstoupit od smlouvy bez důvodu, zatímco spotřebiteli nikoli,
+>
+> - e) umožňují, aby si podnikatel v případě, že ze své vůle ukončí závazek, ponechal peněžitá plnění uhrazená za plnění, které dosud neposkytl,
+>
+> - f) zavazují spotřebitele neodvolatelně k plnění za podmínek, s nimiž neměl možnost seznámit se před uzavřením smlouvy,
+>
+> - g) dovolují podnikateli, aby ze své vůle změnil práva či povinnosti stran,
+>
+> - h) umožňují podnikateli zvýšit cenu, aniž bude mít spotřebitel při podstatném zvýšení ceny právo od smlouvy odstoupit,
+>
+> - i) automaticky prodlužují závazek, je-li konec lhůty pro odmítnutí prodloužení nepřiměřeně vzdálen dni, kdy má k prodloužení dojít,
+>
+> - j) umožňují podnikateli určovat, zda je zboží nebo služba v souladu se smlouvou, nebo mu svěřují výlučné právo vykládat kterékoli smluvní ujednání,
+>
+> - k) omezují povinnosti podnikatele, k nimž ho zavázali jeho zástupci, nebo je podmiňují dodržením zvláštní náležitosti,
+>
+> - l) ukládají spotřebiteli pro případ porušení povinnosti nepřiměřenou sankci,
+>
+> - m) vylučují nebo omezují právo spotřebitele podat žalobu nebo použít jiný procesní prostředek, omezují důkazní prostředky, které má spotřebitel k dispozici, nebo ukládají spotřebiteli povinnost prokázat skutečnosti, které by podle zákona měl prokázat podnikatel,
+>
+> - n) zbavují spotřebitele jeho práva určit, který závazek má být poskytnutým plněním přednostně uhrazen,
+>
+> - o) zavazují spotřebitele splnit povinnost vůči podnikateli, i když podnikatel povinnost vůči spotřebiteli nesplní, nebo
+>
+> - p) umožňují podnikateli postoupit smlouvu, může-li to vést ke zhoršení postavení spotřebitele.
+>
+> (2) Má se za to, že zneužívající jsou ujednání, která
+>
+> - a) zakládají podnikateli právo vypovědět závazek bez důvodu hodného zvláštního zřetele bez přiměřené výpovědní doby,
+>
+> - b) odkládají určení ceny až na dobu plnění, nebo
+>
+> - c) vylučují nebo omezují právo spotřebitele vůči podnikateli v případě nesplnění povinnosti ze strany podnikatele, včetně možnosti započtení pohledávky spotřebitele proti pohledávce podnikatele.
+
+**§ 1815**:
+> Ke zneužívajícímu ujednání se nepřihlíží, ledaže se jej spotřebitel dovolá.
+
+**§ 1816**:
+> Plnil-li podnikatel spotřebiteli něco bez objednávky a ujal-li se spotřebitel držby, hledí se na spotřebitele jako na poctivého držitele. Spotřebitel nemusí na své náklady podnikateli nic vracet, ani ho o tom vyrozumět.
+
+**§ 1817**:
+> Podnikatel nesmí po spotřebiteli požadovat další platbu, než kterou je spotřebitel povinen uhradit na základě hlavního smluvního závazku, pokud spotřebitel nedal k této další platbě před uzavřením smlouvy výslovný souhlas. Z předem připraveného nastavení, které by spotřebitel musel odmítnout, nelze výslovný souhlas dovodit.
 **Generální klauzule nepřiměřenosti** — paralela ke směrnici 93/13/EHS čl. 3.
 
 **Demonstrativní seznam zneužívajících ustanovení** (§ 1814):
@@ -263,16 +364,13 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 ### § 1819—1822 — Informační povinnost
 
+**§ 1819**:
 > Textová podoba je zachována, jsou-li údaje poskytnuty na listině nebo na jiném trvalém nosiči dat, který umožňuje adresátovi uchovat jemu určené údaje tak, aby mohly být využívány po dobu přiměřenou jejich účelu, a který umožňuje jejich nezměněnou reprodukci.
->
-> ##### Oddíl 2
->
-> ###### Smlouvy uzavírané distančním způsobem a smlouvy uzavírané mimo obchodní prostory
->
-> ###### Pododdíl 1
->
-> ###### Obecná ustanovení
 
+>
+>
+
+**§ 1820**:
 > (1) Směřuje-li jednání stran k uzavření smlouvy a používá-li při něm podnikatel výhradně alespoň jeden komunikační prostředek, který umožňuje uzavřít smlouvu bez současné fyzické přítomnosti stran (dále jen „prostředek komunikace na dálku“), nebo směřuje-li takové jednání k uzavření smlouvy mimo prostor obvyklý pro podnikatelovo podnikání, sdělí podnikatel spotřebiteli v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebitel učiní závaznou nabídku,
 >
 > - a) údaje o hlavních vlastnostech zboží nebo služby v rozsahu odpovídajícím použitému prostředku komunikace na dálku a povaze zboží nebo služby,
@@ -317,12 +415,12 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 >
 > (3) Má-li být smlouva uzavřena ve veřejné dražbě podle jiného zákona, které může být spotřebitel fyzicky přítomen, mohou být údaje o podnikateli podle odstavce 1 písm. b) až d) nahrazeny údaji o dražebníkovi.
 
+**§ 1821**:
 > Pokud podnikatel spotřebiteli nesdělil údaje o dalších daních, poplatcích a jiných obdobných peněžitých plněních nebo nákladech, které spotřebitel ponese podle § 1820 odst. 1 písm. e) nebo j), není spotřebitel povinen tyto daně, poplatky, jiná obdobná peněžitá plnění nebo náklady podnikateli hradit.
 
+**§ 1822**:
 > Údaje o obsahu závazku, které podnikatel sdělil spotřebiteli před uzavřením smlouvy, se stávají obsahem smlouvy, ledaže si strany výslovně ujednaly určitou náležitost jinak.
 >
-> ###### Smlouvy uzavírané distančním způsobem
-
 
 Podnikatel musí **před uzavřením smlouvy** **jasně sdělit**:
 - Hlavní vlastnosti zboží/služby;
@@ -379,8 +477,6 @@ Podnikatel musí **před uzavřením smlouvy** **jasně sdělit**:
 >
 > - l) o dodání digitálního obsahu, který není dodán na hmotném nosiči, poté, co bylo započato s plněním; v případě plnění za úplatu, pokud započalo s předchozím výslovným souhlasem spotřebitele před uplynutím lhůty pro odstoupení od smlouvy, spotřebitel byl poučen, že tím právo odstoupit od smlouvy zaniká, a podnikatel mu poskytl potvrzení podle § 1824a odst. 1 a 2 nebo § 1828 odst. 3 a 4.
 >
-> ###### Společná ustanovení
-
 
 Spotřebitel **nemůže odstoupit** od smlouvy o:
 - Službě, kde plnění začalo **s jeho souhlasem před uplynutím lhůty**;
@@ -403,33 +499,64 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 
 ### § 1868—1871 — Dělitelnost
 
+**§ 1868**:
 > (1) Zaváže-li se několik dlužníků k témuž plnění, nebo zaváže-li se dlužník několika věřitelům k témuž plnění, spravují se společný dluh i společná pohledávka podle zásad o spoluvlastnictví.
 >
 > (2) Je-li na jedné ze stran více osob, má druhá strana právo požadovat určení společného zástupce pro účely doručování. Neučiní-li tak, určí tohoto zástupce na návrh soud.
 >
-> ##### Nedělitelné plnění
 
+**§ 1869**:
 > Nedělitelné plnění může věřitel požadovat na kterémkoli z několika dlužníků, ledaže z povahy závazku plyne, že dluh může být splněn jen společnou činností dlužníků.
 
+**§ 1870**:
 > Je-li dlužník zavázán několika věřitelům k nedělitelnému plnění, není povinen plnit některému z věřitelů, ledaže ten mu dá přiměřenou jistotu, nebo dohodnou-li se na tom všichni věřitelé. Zda je spoluvěřitel, který dostal celé plnění, vůči ostatním něčím povinen, závisí na poměru mezi spoluvěřiteli; jinak se má za to, že není povinen ničím.
 
+**§ 1871**:
 > (1) Každý z několika spoludlužníků dělitelného plnění je dlužen jen svůj díl a každý z několika věřitelů dělitelného plnění je věřitelem jen svého dílu, ledaže smlouva, zákon nebo rozhodnutí soudu stanoví jinak.
 >
 > (2) Bylo-li ujednáno, že kterýkoli z věřitelů může žádat celé plnění, splní dlužník celý dluh tomu, kdo o splnění požádal první. Splnil-li dlužník celý dluh jednomu ze spoluvěřitelů, nemohou již ostatní po něm nic požadovat.
 >
-> ##### Dlužníci zavázaní společně a nerozdílně
-
 
 **Princip dělitelnosti** plnění: pokud více dlužníků/věřitelů a plnění je dělitelné → každý je vázán/oprávněn **stejnou částí** (dispozitivně).
 
 ### § 1872—1878 — Solidarita
 
-**Pasivní solidarita** (více dlužníků):
+**§ 1872**:
+> (1) Je-li několik dlužníků zavázáno plnit společně a nerozdílně, jsou povinni plnit jeden za všechny a všichni za jednoho. Věřitel může požadovat celé plnění nebo jeho libovolnou část na všech spoludlužnících, jen na některých, nebo na kterémkoli ze spoludlužníků.
+>
+> (2) Zvláštní ujednání věřitele a spoludlužníka nepůsobí vůči ostatním spoludlužníkům.
+
+**§ 1873**:
+> Prodlením věřitele vůči jednomu ze spoludlužníků nastává jeho prodlení i vůči ostatním spoludlužníkům.
+
+**§ 1874**:
+> Je-li k plnění zavázáno společně několik podnikatelů, má se za to, že jsou zavázáni společně a nerozdílně.
+
+**§ 1875**:
+> Má se za to, že podíly na dluhu u všech spoludlužníků jsou v jejich vzájemném poměru stejné.
+
+**§ 1876**:
+> (1) Uplatní-li věřitel proti některému ze spoludlužníků více, než odpovídá jeho podílu, vyrozumí o tom tento spoludlužník ostatní a dá jim příležitost, aby uplatnili proti pohledávce své námitky. Má právo požadovat, aby splnili dluh podle podílů, které na ně připadají, nebo aby ho v tomto rozsahu dluhu jinak zbavili.
+>
+> (2) Vyrovnal-li spoludlužník více, než činí jeho podíl, náleží od ostatních spoludlužníků náhrada. Nemůže-li některý ze spoludlužníků splnit, rozvrhne se jeho podíl poměrným dílem na všechny ostatní.
+>
+
+**§ 1877**:
+> Je-li dlužník zavázán plnit několika věřitelům oprávněným vůči němu společně a nerozdílně, může kterýkoli z nich žádat celé plnění. Dlužník splní v celém rozsahu tomu, kdo o plnění požádal první.
+
+**§ 1878**:
+> (1) Prodlením jednoho ze spoluvěřitelů se ocitají v prodlení také ostatní spoluvěřitelé.
+>
+> (2) Spojí-li se pohledávka a dluh v osobě jednoho ze spoluvěřitelů, zanikají tím i pohledávky ostatních spoluvěřitelů vůči dlužníku.
+
+>
+
+>
+>
+
 > Věřitel může žádat **plné plnění od kteréhokoliv** ze solidárních dlužníků.
 
-**Aktivní solidarita** (více věřitelů):
 > Každý věřitel může žádat **plné plnění**; splněním jednomu zaniká dluh vůči všem.
-
 **Předpoklad solidarity**:
 - **Smluvní**: výslovně ujednáno;
 - **Zákonná**: stanoví zákon (např. solidární dlužníci u dědictví — § 1701, ze závazku z deliktu více pachatelů — § 2915);
@@ -635,22 +762,25 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 
 ### § 2040—2044 — Zajišťovací převod práva
 
+**§ 2040**:
 > (1) Smlouvou o zajišťovacím převodu práva zajišťuje dlužník nebo třetí osoba dluh tím, že věřiteli dočasně převede své právo.
 >
 > (2) Má se za to, že zajišťovací převod práva je převodem s rozvazovací podmínkou, že dluh bude splněn.
 
+**§ 2041**:
 > Týká-li se zajišťovací převod práva věci zapsané ve veřejném seznamu, vzniká zajištění zápisem do tohoto seznamu; do veřejného seznamu se zapíše i dočasná povaha zajišťovacího převodu práva.
 
+**§ 2042**:
 > Je-li k zajištění převedeno vlastnické právo a byla-li věc věřiteli předána, je věřitel oprávněn mít ji u sebe po celou dobu trvání zajišťovacího převodu práva a je povinen vykonávat prostou správu věci. Má-li věc ve své moci ten, kdo věřiteli převodem práva jistotu zřídil, vykonává on prostou správu věci.
 
+**§ 2043**:
 > Pomine-li důvod trvání zajišťovacího převodu práva, umožní věřitel osobě, která zajištění poskytla, výkon práva v předešlém rozsahu. Zároveň jí vydá vše, co z převedeného práva získal nebo co k němu přibylo, proti náhradě nákladů, které v souvislosti s výkonem zajišťovacího převodu práva účelně vynaložil.
 
+**§ 2044**:
 > (1) Není-li zajištěný dluh splněn, stane se převod práva nepodmíněným a dlužník předá věřiteli vše, co je nutné k plnému výkonu převedeného práva.
 >
 > (2) Převyšuje-li obvyklá cena jistoty zřejmě výši zajištěného dluhu, vyplatí věřitel osobě, která jistotu poskytla, částku odpovídající rozdílu; přitom si započte náklady, které v souvislosti s výkonem zajišťovacího převodu práva účelně vynaložil. Neobsahuje-li smlouva o zajišťovacím převodu práva údaj o výši dluhu a hodnověrné ocenění práva převedeného k zajištění, je na věřiteli, aby dokázal, že obvyklá cena jistoty výši zajištěného dluhu zřejmě nepřevyšuje.
 >
-> ###### Dohoda o srážkách ze mzdy nebo jiných příjmů
-
 
 **Zajišťovací převod** (*fiducia*) — **převod vlastnického práva věřiteli** s povinností **vrátit po splacení dluhu**:
 - Funkčně podobné zástavnímu právu;
@@ -659,24 +789,23 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 
 ### § 2045—2048 — Dohoda o srážkách ze mzdy
 
+**§ 2045**:
 > (1) Dluh lze zajistit dohodou věřitele a dlužníka o srážkách ze mzdy nebo platu, z odměny ze smlouvy o výkonu závislé práce zakládající mezi zaměstnancem a zaměstnavatelem obdobný závazek nebo z náhrady mzdy nebo platu. Nejde-li o srážky podle věty první k uspokojení práva zaměstnavatele, je třeba k uzavření dohody předchozího souhlasu zaměstnavatele.
 >
 > (2) Proti plátci mzdy nebo platu nabývá věřitel práva na výplatu srážek okamžikem, kdy byla plátci dohoda předložena.
 
+**§ 2046**:
 > Náklady spojené s placením srážek nese plátce mzdy nebo platu; má-li však plátce mzdy nebo platu plnit současně podle několika dohod o srážkách ze mzdy nebo platu, jdou náklady s placením srážek podle druhé a další dohody k tíži dlužníka.
 
+**§ 2047**:
 > Ustanovení § 2045 a 2046 se použijí i pro jiné příjmy, s nimiž se při výkonu rozhodnutí nakládá jako se mzdou nebo platem.
->
-> ##### Oddíl 3
->
-> ###### Utvrzení dluhu
->
-> ###### Smluvní pokuta
 
+>
+
+**§ 2048**:
 > (1) Ujednají-li strany pro případ porušení smluvené povinnosti smluvní pokutu v určité výši nebo způsob, jak se výše smluvní pokuty určí, může věřitel požadovat smluvní pokutu bez zřetele k tomu, zda mu porušením utvrzené povinnosti vznikla škoda. Smluvní pokuta může být ujednána i v jiném plnění než peněžitém.
 >
 > (2) K ujednání, kterým se zavázal k plnění smluvní pokuty nezletilý, který v době ujednání nedovršil patnácti let, se nepřihlíží.
-
 
 **Srážky ze mzdy** — zaměstnanec dává souhlas, aby zaměstnavatel **strhával** část mzdy přímo věřiteli:
 - Forma: písemná;
@@ -687,60 +816,12 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 
 > § 2053: Uzná-li někdo svůj dluh co do důvodu i výše prohlášením učiněným v písemné formě, má se za to, že dluh v rozsahu uznání v době uznání trvá.
 
-**Uznání dluhu** (*Schuldanerkenntnis*):
-- **Forma**: písemná;
-- **Účinky**: **přerušuje promlčení** (§ 653) + **nová desetiletá lhůta** od uznání;
-- **Domněnka trvání** dluhu — důkazní převrat.
-
----
-
-## Vztah k navazujícím a souvisejícím předpisům
-
-- **ZOK č. 90/2012 Sb.** — zvláštní úprava závazků obchodních korporací;
-- **Zákon o spotřebitelském úvěru č. 257/2016 Sb.** (od 1. 12. 2016);
-- **Zákon o ochraně spotřebitele č. 634/1992 Sb.** — veřejnoprávní rozměr ochrany;
-- **Nařízení vlády č. 351/2013 Sb.** — úroky z prodlení (repo + 8 p. b.);
-- **OSŘ č. 99/1963 Sb.** — vymáhání pohledávek (§ 251 a násl.);
-- **Insolvenční zákon č. 182/2006 Sb.** — pohledávky v úpadku;
-- **Zákon č. 374/2022 Sb.** — Modernizační směrnice 2019/2161 (od 6. 1. 2023);
-- **Sm. (EU) 2019/770 a 2019/771** — digitální obsah a prodej spotřebního zboží.
-
----
-
-## Klíčové instituty (rychlé odkazy)
-
-- **Závazek** — § 1721, § 1722;
-- **Vznik závazku** — § 1723 (smlouva/delikt/jiná skutečnost);
-- **Smlouva** — § 1724 (definice), § 1725 (princip konsenzu);
-- **Předsmluvní odpovědnost** — § 1728 (informace), § 1729 (zmaření jednání);
-- **Mlčenlivost** — § 1730, § 1731;
-- **Mlčení ≠ akceptace** — § 1737;
-- **Protinávrh** — § 1740 (s podstatnými dodatky);
-- **Smlouva o smlouvě budoucí** — § 1785—1788;
-- **Adhezní smlouvy** — § 1798—1801;
-- **Závdavek** — § 1808—1809;
-- **Spotřebitel** — § 419, § 1810 a násl.;
-- **Zákaz zneužívajících klauzulí** — § 1813—1814 (demonstrativní seznam);
-- **14denní odstoupení** — § 1829 (distanční smlouvy);
-- **Solidární dlužníci** — § 1872 (každý za vše);
-- **Postoupení pohledávky** — § 1879 (cesse, bez souhlasu dlužníka);
-- **Převzetí dluhu** — § 1888 (souhlas věřitele POVINNÝ);
-- **Postoupení smlouvy** — § 1895 (souhlas druhé strany);
-- **Splnění** — § 1908 (přirozený zánik);
-- **Pořadí úhrady úroky → jistina** — § 1932;
-- **Úrok z prodlení** — § 1970 + nař. vl. č. 351/2013 Sb. (repo + 8 p. b.);
-- **Započtení** — § 1982 (vzájemnost, stejnodruhové, splatnost);
-- **Prominutí dluhu** — § 1995;
-- **Splynutí** — § 1993 (confusio);
-- **Nemožnost plnění** — § 1996 a násl.;
-- **Odstoupení** — § 2001 (smluvní/zákonný důvod), § 2002 (podstatné porušení);
-- **Smluvní pokuta** — § 2010 (utvrzení) + § 2051 (moderace);
-- **Ručení** — § 2018 (akcesoricita, subsidiarita, písemná forma);
-- **Finanční záruka** — § 2029 (banka, abstraktnost);
-- **Zajišťovací převod** — § 2040;
-- **Uznání dluhu** — § 2053 (písemná forma, přerušení promlčení, 10letá lhůta).
-
----
+**§ 2054**:
+> (1) Placení úroků se považuje za uznání dluhu ohledně částky, z níž se úroky platí.
+>
+> (2) Plní-li dlužník dluh zčásti, má částečné plnění účinky uznání zbytku dluhu, lze-li z okolností usoudit, že tímto plněním dlužník uznal i zbytek dluhu.
+>
+> (3) Ustanovení odstavců 1 a 2 neplatí, je-li pohledávka věřitele již promlčena.
 
 > **Poznámka k judikatuře a doktríně**:
 > - Hulmák, M. a kol.: *Občanský zákoník V. Závazkové právo. Obecná část.* C. H. Beck — stěžejní komentář;

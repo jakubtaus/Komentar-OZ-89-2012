@@ -52,17 +52,18 @@
 
 ### § 2896—2899 — Vyloučení a omezení odpovědnosti
 
+**§ 2896**:
 > Oznámí-li někdo, že svoji povinnost k náhradě újmy vůči jiným osobám vylučuje nebo omezuje, nepřihlíží se k tomu. Učiní-li to však ještě před vznikem újmy, může být takové oznámení posouzeno jako varování před nebezpečím.
 
+**§ 2897**:
 > Vzdá-li se někdo práva domáhat se náhrady škody vzniklé na pozemku a je-li vzdání zapsáno do veřejného seznamu, působí to i proti pozdějším vlastníkům.
 
+**§ 2898**:
 > Nepřihlíží se k ujednání, které předem vylučuje nebo omezuje povinnost k náhradě újmy způsobené člověku na jeho přirozených právech, anebo způsobené úmyslně nebo z hrubé nedbalosti; nepřihlíží se ani k ujednání, které předem vylučuje nebo omezuje právo slabší strany na náhradu jakékoli újmy. V těchto případech se práva na náhradu nelze ani platně vzdát.
 
+**§ 2899**:
 > Kdo pro sebe přijal nebezpečí oběti, byť tak učinil za takových okolností, že to lze považovat za neprozřetelné, nevzdal se tím práva na náhradu proti tomu, kdo újmu způsobil.
 >
-> ###### Prevence
-
-
 **§ 2896** — Oznámení o vyloučení/omezení odpovědnosti **se nepřihlíží** (např. cedulka "Vstup na vlastní nebezpečí" → bez právního účinku, leda jako **varování**).
 
 **§ 2898 — Předem vyloučená odpovědnost** = **neplatná**, pokud jde o:
@@ -76,7 +77,18 @@
 
 > § 2900: Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, je každý povinen počínat si při svém konání tak, aby nedošlo k nedůvodné újmě na svobodě, životě, zdraví nebo na vlastnictví jiného.
 
-**Generální prevenční povinnost** (*Verkehrssicherungspflicht*):
+**§ 2901**:
+> Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, má povinnost zakročit na ochranu jiného každý, kdo vytvořil nebezpečnou situaci nebo kdo nad ní má kontrolu, anebo odůvodňuje-li to povaha poměru mezi osobami. Stejnou povinnost má ten, kdo může podle svých možností a schopností snadno odvrátit újmu, o níž ví nebo musí vědět, že hrozící závažností zjevně převyšuje, co je třeba k zákroku vynaložit.
+
+**§ 2902**:
+> Kdo porušil právní povinnost, nebo kdo může a má vědět, že ji poruší, oznámí to bez zbytečného odkladu osobě, které z toho může újma vzniknout, a upozorní ji na možné následky. Splní-li oznamovací povinnost, nemá poškozený právo na náhradu té újmy, které mohl po oznámení zabránit.
+
+**§ 2903**:
+> (1) Nezakročí-li ten, komu újma hrozí, k jejímu odvrácení způsobem přiměřeným okolnostem, nese ze svého, čemu mohl zabránit.
+>
+> (2) Při vážném ohrožení může ohrožený požadovat, aby soud uložil vhodné a přiměřené opatření k odvrácení hrozící újmy.
+
+> Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, má povinnost zakročit na ochranu jiného každý, kdo vytvořil nebezpečnou situaci nebo kdo nad ní má kontrolu, anebo odůvodňuje-li to povaha poměru mezi osobami. Stejnou povinnost má ten, kdo může podle svých možností a schopností snadno odvrátit újmu, o níž ví nebo musí vědět, že hrozící závažností zjevně převyšuje, co je třeba k zákroku vynaložit.**Generální prevenční povinnost** (*Verkehrssicherungspflicht*):
 - **Každý** je povinen předcházet újmě;
 - **§ 2901** — Aktivní povinnost zakročit u **toho, kdo vytvořil nebezpečnou situaci** nebo má nad ní kontrolu;
 - **§ 2902** — Oznamovací povinnost při hrozícím porušení;
@@ -310,13 +322,13 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 ### § 2951—2952 — Způsob náhrady
 
+**§ 2951**:
 > (1) Škoda se nahrazuje uvedením do předešlého stavu. Není-li to dobře možné, anebo žádá-li to poškozený, hradí se škoda v penězích.
 >
 > (2) Nemajetková újma se odčiní přiměřeným zadostiučiněním. Zadostiučinění musí být poskytnuto v penězích, nezajistí-li jeho jiný způsob skutečné a dostatečně účinné odčinění způsobené újmy.
 
+**§ 2952**:
 > Hradí se skutečná škoda a to, co poškozenému ušlo (ušlý zisk). Záleží-li skutečná škoda ve vzniku dluhu, má poškozený právo, aby ho škůdce dluhu zprostil nebo mu poskytl náhradu.
-
-
 **§ 2951 — Naturální × peněžitá náhrada**:
 - **Naturální** restituce (*in integrum restitutio*) — uvedení do předešlého stavu;
 - **Peněžitá** náhrada — pokud naturální není možná nebo to není v zájmu poškozeného;
@@ -332,17 +344,13 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 ### § 2954—2955 — Příčinná souvislost
 
+**§ 2954**:
 > Způsobil-li škůdce škodu úmyslným trestným činem, z něhož měl majetkový prospěch, může soud na návrh poškozeného rozhodnout o uspokojení z věcí, které škůdce z majetkového prospěchu nabyl, a to i nepodléhají-li jinak výkonu rozhodnutí. Do uspokojení práva na náhradu škody nesmí škůdce nakládat s takovými věcmi uvedenými v rozhodnutí.
 
+**§ 2955**:
 > Nelze-li výši náhrady škody přesně určit, určí ji podle spravedlivého uvážení jednotlivých okolností případu soud.
->
-> ###### Pododdíl 2
->
-> ###### Náhrada při újmě na přirozených právech člověka
->
-> ###### Obecná ustanovení
 
-
+>
 **Princip causa proxima** — soud vyhodnotí přímý kauzální vztah.
 
 ### Pododdíl 2 — Náhrada újmy na přirozených právech člověka (§ 2956—2971)
@@ -351,15 +359,15 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 ### § 2956—2958 — Bolestné a ztížení společenského uplatnění
 
+**§ 2956**:
 > Vznikne-li škůdci povinnost odčinit člověku újmu na jeho přirozeném právu chráněném ustanovenímiprvní části tohoto zákona, nahradí škodu i nemajetkovou újmu, kterou tím způsobil; jako nemajetkovou újmu odčiní i způsobené duševní útrapy.
 
+**§ 2957**:
 > Způsob a výše přiměřeného zadostiučinění musí být určeny tak, aby byly odčiněny i okolnosti zvláštního zřetele hodné. Jimi jsou úmyslné způsobení újmy, zvláště pak způsobení újmy s použitím lsti, pohrůžky, zneužitím závislosti poškozeného na škůdci, násobením účinků zásahu jeho uváděním ve veřejnou známost, nebo v důsledku diskriminace poškozeného se zřetelem na jeho pohlaví, zdravotní stav, etnický původ, víru nebo i jiné obdobně závažné důvody. Vezme se rovněž v úvahu obava poškozeného ze ztráty života nebo vážného poškození zdraví, pokud takovou obavu hrozba nebo jiná příčina vyvolala.
 >
-> ###### Náhrady při ublížení na zdraví a při usmrcení
 
+**§ 2958**:
 > Při ublížení na zdraví odčiní škůdce újmu poškozeného peněžitou náhradou, vyvažující plně vytrpěné bolesti a další nemajetkové újmy; vznikla-li poškozením zdraví překážka lepší budoucnosti poškozeného, nahradí mu škůdce i ztížení společenského uplatnění. Nelze-li výši náhrady takto určit, stanoví se podle zásad slušnosti.
-
-
 **§ 2956 — Náhrada nemajetkové újmy**:
 - Při zásahu do **přirozených práv** (život, zdraví, osobnost, svoboda);
 - **Peněžitá náhrada** v rozsahu, který **plně zaplatí utrpěnou újmu**.
@@ -381,12 +389,14 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 ### § 2960—2966 — Náhrada nákladů a ztráty výdělku
 
+**§ 2960**:
 > Škůdce hradí též účelně vynaložené náklady spojené s péčí o zdraví poškozeného, s péčí o jeho osobu nebo jeho domácnost tomu, kdo je vynaložil; požádá-li o to, složí mu škůdce na tyto náklady přiměřenou zálohu.
 
+**§ 2961**:
 > Škůdce nahradí tomu, kdo je vynaložil, přiměřené náklady spojené s pohřbem v rozsahu, v jakém nebyly uhrazeny veřejnou dávkou podle jiného právního předpisu. Přitom se přihlédne k zvyklostem i k okolnostem jednotlivého případu.
 >
-> ###### Peněžité dávky
 
+**§ 2962**:
 > (1) Náhrada za ztrátu na výdělku po dobu pracovní neschopnosti poškozeného se hradí peněžitým důchodem ve výši rozdílu mezi průměrným výdělkem poškozeného před vznikem újmy a náhradou toho, co poškozenému bylo vyplaceno v důsledku nemoci či úrazu podle jiného právního předpisu.
 >
 > (2) Žáku nebo studentu náleží náhrada za ztrátu na výdělku ode dne, kdy měla skončit jeho povinná školní docházka, studium nebo příprava na povolání, po dobu
@@ -399,21 +409,23 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 >
 > - d) trvání zdravotního postižení vzniklého následkem újmy na zdraví, které částečně brání zapojení do výdělečné činnosti, pokud nezameškává vlastní vinou příležitost k výdělku výkonem práce pro něho vhodné.
 
+**§ 2963**:
 > (1) Po skončení pracovní neschopnosti, případně při invaliditě, nahradí škůdce poškozenému jeho ztrátu peněžitým důchodem, který se stanoví vzhledem k rozdílu mezi výdělkem, jakého poškozený dosahoval před vznikem újmy, a výdělkem dosahovaným po skončení pracovní neschopnosti s přičtením případného invalidního důchodu podle jiného právního předpisu. Dojde-li ublížením na zdraví k dlouhodobému zvýšení potřeb poškozeného, stanoví se výše peněžitého důchodu i vzhledem k těmto potřebám.
 >
 > (2) Dosahuje-li poškozený po skončení pracovní neschopnosti výdělku jen s vynaložením většího úsilí nebo se zvýšenou námahou, které by, nebýt škodné události, jinak nemusel vynaložit, odčiní se mu peněžitým důchodem i zvýšená námaha nebo úsilí. Při stanovení výše peněžitého důchodu se přihlédne i ke zvyšování výdělků v daném oboru, jakož i k pravděpodobnému růstu výdělku poškozeného podle rozumného očekávání.
 >
 > (3) Jsou-li pro to vážné důvody, může soud rozhodnout, zda, jakým způsobem a do jaké výše škůdce zajistí pohledávku poškozeného na peněžitý důchod; návrhy stran přitom není vázán.
 
+**§ 2964**:
 > Náhrada za ztrátu na důchodu náleží poškozenému ve výši rozdílu mezi důchodem, na který poškozenému vzniklo právo, a důchodem, na který by mu bylo vzniklo právo, jestliže by do základu, z něhož byl vyměřen důchod, byla zahrnuta náhrada za ztrátu na výdělku po skončení pracovní neschopnosti, kterou poškozený pobíral v době rozhodné pro vyměření důchodu.
 
+**§ 2965**:
 > Konal-li poškozený bezplatně práce pro jiného v jeho domácnosti nebo závodu, nahradí škůdce této jiné osobě peněžitým důchodem, oč přišla.
 
+**§ 2966**:
 > (1) Při usmrcení hradí škůdce peněžitým důchodem náklady na výživu pozůstalým, kterým zemřelý ke dni své smrti poskytoval nebo byl povinen poskytovat výživu. Náhrada náleží pozůstalým ve výši rozdílu mezi dávkami důchodového zabezpečení poskytovanými z téhož důvodu a tím, co by poškozený podle rozumného očekávání mohl pozůstalým na těchto nákladech poskytovat, pokud by k jeho zranění nedošlo.
 >
 > (2) Z důvodu slušnosti lze přiznat příspěvek na výživné i jiné osobě, pokud jí usmrcený poskytoval takové plnění, ač k tomu nebyl podle zákona povinen.
-
-
 **§ 2960 — Náklady spojené s péčí** o zdraví (operace, rehabilitace).
 
 **§ 2962—2963 — Ztráta výdělku**:

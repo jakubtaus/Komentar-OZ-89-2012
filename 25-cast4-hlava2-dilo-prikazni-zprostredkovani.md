@@ -54,12 +54,15 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2364—2366 — Podlicence
 
+**§ 2364**:
 > (1) Nabyvatel může licenci postoupit třetí osobě zcela nebo zčásti jen se souhlasem poskytovatele. Souhlas vyžaduje písemnou formu.
 >
 > (2) Nabyvatel sdělí poskytovateli bez zbytečného odkladu, že licenci postoupil, jakož i osobu postupníka.
 
+**§ 2365**:
 > Byl-li převeden závod nebo jeho část, která tvoří jeho samostatnou složku, souhlas poskytovatele k převedení licence se vyžaduje, jen bylo-li to zvlášť ujednáno.
 
+**§ 2366**:
 > (1) Není-li ujednána výše odměny nebo způsob jejího určení, je smlouva přesto platná, pokud
 >
 > - a) z jednání stran o uzavření smlouvy vyplývá jejich vůle uzavřít úplatnou smlouvu i bez určení výše odměny; v takovém případě nabyvatel poskytovateli zaplatí odměnu ve výši, která je obvyklá v době uzavření smlouvy za obdobných smluvních podmínek a pro takové právo, nebo
@@ -70,25 +73,23 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 >
 > (3) Nabyvatel předloží poskytovateli pravidelná vyúčtování odměny podle odstavce 2 v ujednaných časových obdobích; není-li ujednáno jinak, je povinen tak učinit alespoň jednou ročně.
 
-
 **Podlicence** — nabyvatel může postoupit licenci nebo udělit podlicenci **jen se souhlasem** poskytovatele (kogentní, ledaže smluvně jinak).
 
 ### § 2367—2370 — Odměna
 
+**§ 2367**:
 > Poskytovatel poskytne nabyvateli bez zbytečného odkladu po uzavření smlouvy veškeré podklady a informace potřebné k výkonu licence.
 
+**§ 2368**:
 > (1) Nabyvatel utají před třetími osobami podklady a sdělení, jichž se mu od poskytovatele dostalo, ledaže ze smlouvy nebo z povahy podkladů a sdělení vyplývá, že poskytovatel nemá na jejich utajování zájem. Za třetí osobu se nepovažuje zaměstnanec ani ten, kdo se na podnikání podnikatele účastní, byl-li podnikatelem zavázán k mlčenlivosti.
 >
 > (2) Po zániku licence nabyvatel poskytnuté podklady vrátí; sdělení utají až do doby, kdy se stanou obecně známými.
 
+**§ 2369**:
 > Dojde-li k ohrožení nebo porušení nabyvatelovy licence, zpraví o tom nabyvatel poskytovatele bez zbytečného odkladu, jakmile se o tom dozví. Poskytovatel poskytne nabyvateli součinnost k právní ochraně jeho licence.
 
+**§ 2370**:
 > Je-li smlouva uzavřena na dobu neurčitou, nabývá výpověď účinnosti uplynutím jednoho roku od konce kalendářního měsíce, v němž výpověď došla druhé straně.
->
-> ###### Pododdíl 2
->
-> ###### Zvláštní ustanovení pro licenci k předmětům chráněným autorským zákonem
-
 
 **§ 2367 — Výše odměny**:
 - Smluvní (typicky paušál nebo % z příjmů — *royalty*);
@@ -97,7 +98,6 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 ### § 2371—2389 — Specifická pravidla pro autorské licence
 
 > Smlouvou autor poskytuje nabyvateli oprávnění k výkonu práva autorské dílo užít v původní nebo zpracované či jinak změněné podobě, a to určitým způsobem nebo všemi způsoby užití, v rozsahu omezeném nebo neomezeném.
-
 
 **Speciální úprava** pro:
 - Licence k **autorskému dílu** (§ 2371—2381) — návaznost na autorský zákon č. 121/2000 Sb.;
@@ -119,24 +119,23 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2391—2394 — Podrobnosti
 
+**§ 2391**:
 > (1) Má-li se peněžitá zápůjčka vrátit v jiné měně, než v jaké byla dána, splatí vydlužitel zápůjčku tak, aby se to, co se vrací, hodnotou rovnalo tomu, co bylo dáno. Zápůjčka se splácí v měně místa plnění.
 >
 > (2) Při nepeněžité zápůjčce se vrací věc stejného druhu, jaká byla zápůjčkou dána; nezáleží na tom, zda její cena mezitím stoupla nebo klesla.
 
+**§ 2392**:
 > (1) Při peněžité zápůjčce lze ujednat úroky. Totéž platí o zápůjčce poskytnuté v cenných papírech.
 >
 > (2) Při nepeněžité zápůjčce lze ujednat místo úroků plnění přiměřeného většího množství nebo věcí lepší jakosti, ale téhož druhu.
 
+**§ 2393**:
 > (1) Neurčí-li smlouva, kdy má být zápůjčka vrácena, je splatnost závislá na vypovězení smlouvy. Není-li o výpovědi ujednáno nic jiného, je výpovědní doba šest týdnů.
 >
 > (2) Nejsou-li ujednány úroky, může vydlužitel zápůjčku splatit i bez výpovědi.
 
+**§ 2394**:
 > Bylo-li ujednáno vrácení zápůjčky ve splátkách, může zapůjčitel od smlouvy odstoupit a požadovat splnění dluhu i s úroky při prodlení vydlužitele s vrácením více než dvou splátek nebo jedné splátky po dobu delší než tři měsíce.
->
-> ##### Oddíl 8
->
-> ###### Úvěr
-
 
 **§ 2391 — Úroky**:
 - Smluvní (bez limitu v OZ, ale **lichvářské úroky** = neplatné dle § 1796);
@@ -164,24 +163,24 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2396—2400 — Specifika
 
+**§ 2396**:
 > Úvěrovaný vrátí úvěrujícímu peněžní prostředky v měně, ve které mu byly poskytnuty. V téže měně platí i úroky.
 
+**§ 2397**:
 > Úvěrovaný může uplatnit právo na poskytnutí peněz ve lhůtě určené ve smlouvě. Není-li lhůta ujednána, může právo uplatnit, dokud závazek ze smlouvy trvá.
 
+**§ 2398**:
 > (1) Úvěrující poskytne úvěrovanému peněžní prostředky na jeho žádost v době určené v žádosti; neurčí-li úvěrovaný dobu plnění v žádosti, poskytne je úvěrující bez zbytečného odkladu.
 >
 > (2) Váže-li smlouva použití úvěru jen na určitý účel, může úvěrující omezit poskytnutí peněz pouze na plnění povinností úvěrovaného vzniklých v souvislosti s tímto účelem.
 
+**§ 2399**:
 > (1) Úvěrovaný vrátí úvěrujícímu poskytnuté peněžní prostředky v dohodnuté době, jinak do měsíce ode dne, kdy byl o vrácení požádán.
 >
 > (2) Úvěrovaný může vrátit úvěrujícímu peněžní prostředky před smluvenou dobou. Úroky zaplatí jen za dobu od poskytnutí do vrácení peněžních prostředků.
 
+**§ 2400**:
 > Mají-li být peněžní prostředky použity podle smlouvy pouze na určitý účel a úvěrovaný je použije na jiný účel, může úvěrující od smlouvy odstoupit a požadovat, aby úvěrovaný bez zbytečného odkladu vrátil, co od něho získal, i s úroky. To platí i tehdy, je-li použití peněz k smluvenému účelu nemožné.
->
-> #### Díl 3
->
-> ##### Pracovní poměr
-
 
 **§ 2396 — Poskytnutí prostředků**:
 - Úvěrující poskytuje **postupně** na žádost úvěrovaného;
@@ -214,26 +213,27 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2403—2408 — Práva a povinnosti
 
+**§ 2403**:
 > (1) Schovatel opatruje převzatou věc, jak bylo ujednáno, jinak tak pečlivě, jak to odpovídá povaze věci a jeho možnostem, aby na věci nevznikla škoda, a po uplynutí doby úschovy věc uschovateli vrátí spolu s tím, co k ní přibylo.
 >
 > (2) Požádá-li o to uschovatel, vrátí mu schovatel věc i před uplynutím ujednané doby úschovy. Sám ale nemá právo vrátit věc dříve, ledaže ji nemůže pro nepředvídatelnou okolnost bezpečně nebo bez vlastní škody opatrovat.
 
+**§ 2404**:
 > Není-li z okolností zřejmé, jak dlouho má být věc v úschově, může uschovatel kdykoli žádat vrácení věci a schovatel může věc kdykoli vrátit.
 
+**§ 2405**:
 > Užije-li schovatel převzatou věc pro sebe, umožní-li jinému užití věci nebo dá-li ji do úschovy jinému bez svolení uschovatele nebo bez nezbytné potřeby, nahradí uschovateli veškerou škodu, a to i nahodilou. To neplatí, prokáže-li schovatel, že by škoda postihla věc i jinak.
 
+**§ 2406**:
 > (1) Uschovatel nahradí schovateli nezbytné náklady, které na věc při jejím opatrování vynaložil; náhrada jiných nákladů schovateli náleží, nebylo-li jinak ujednáno, jako nepřikázanému jednateli.
 >
 > (2) Úplata za úschovu náleží schovateli jen tehdy, bylo-li to ujednáno nebo plyne-li to ze zvyklostí, z předchozího styku stran nebo z předmětu činnosti schovatele.
 
+**§ 2407**:
 > Neuplatní-li uschovatel právo na náhradu škody nebo neuplatní-li schovatel právo na zaplacení úplaty nebo nákladů do tří měsíců od vrácení věci, soud právo nepřizná, namítne-li druhá strana opožděné uplatnění.
 
+**§ 2408**:
 > Ustanovení o úschově se použijí přiměřeně i na případy, kdy má někdo podle smlouvy nebo podle jiných ustanovení zákona opatrovat věc pro jiného.
->
-> ###### Pododdíl 2
->
-> ###### Úschova cenného papíru
-
 
 **§ 2403 — Užívání věci**: schovatel **NESMÍ** užívat věc bez souhlasu uschovatele.
 
@@ -252,34 +252,34 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2409—2414 — Skladování
 
+**§ 2409**:
 > (1) Schovatel drží cenné papíry v úschově odděleně od vlastních cenných papírů nebo cenných papírů jiných uschovatelů; to neplatí, jedná-li se o hromadnou úschovu nebo bylo-li sjednáno s uschovatelem odlišně.
 >
 > (2) Schovatel vede evidenci o cenném papíru uloženém do úschovy, jejímž obsahem je též identifikace uschovatele a místo uložení cenného papíru.
 
+**§ 2410**:
 > Při hromadné úschově se cenný papír uschová společně s cennými papíry ostatních uschovatelů odděleně od cenných papírů schovatele. Cenné papíry v hromadné úschově náleží všem uschovatelům společně, ale každý uschovatel může uplatňovat svá práva vůči schovateli samostatně, zejména má právo na vrácení stejného cenného papíru, jaký u schovatele uschoval.
 
+**§ 2411**:
 > (1) Podíl každého z uschovatelů se stanoví poměrem součtu jmenovitých hodnot cenných papírů, které dal do úschovy, k součtu jmenovitých hodnot všech cenných papírů v téže hromadné úschově; nemá-li cenný papír jmenovitou hodnotu, stanoví se podíl uschovatele podle počtu kusů cenných papírů.
 >
 > (2) Pro převod podílu se použijí obdobně ustanovení o spoluvlastnictví; jiná ustanovení o spoluvlastnictví se na cenné papíry v hromadné úschově nepoužijí.
 
+**§ 2412**:
 > (1) Cenný papír převzatý do úschovy může schovatel předat do úschovy jinému schovateli (druhotná úschova); jeho práva a povinnosti tím nejsou dotčena.
 >
 > (2) Jde-li o hromadnou úschovu imobilizovaných cenných papírů, řídí se její podmínky pravidly vedení samostatné evidence investičních nástrojů podle zákona upravujícího podnikání na kapitálovém trhu; ke vzniku druhotné úschovy se nevyžaduje předání cenných papírů druhotnému schovateli.
 >
-> ###### Imobilizace cenných papírů
 
+**§ 2413**:
 > (1) Uschová-li cenné papíry do hromadné úschovy jejich emitent, je cenný papír vydán dnem, kdy emitent předá listinu schovateli ve prospěch jejího vlastníka jako prvého nabyvatele (imobilizovaný cenný papír). Předává-li se do úschovy cenný papír na jméno, nebo cenný papír na řad, neuvádí se na cenném papíru při předání do úschovy jméno vlastníka cenného papíru.
 >
 > (2) Vlastník uschovaného cenného papíru má právo požadovat, aby mu byl cenný papír vydán jen za podmínek stanovených v emisních podmínkách cenného papíru. Schovatel před vydáním cenného papíru z úschovy doplní na cenném papíru na jméno nebo na řad jméno jeho vlastníka.
 >
 > (3) Schovatelem imobilizovaného cenného papíru může být pouze osoba oprávněná vést samostatnou evidenci investičních nástrojů podle zákona upravujícího podnikání na kapitálovém trhu; druhotným schovatelem může být pouze osoba oprávněná vést evidenci navazující na samostatnou evidenci investičních nástrojů podle zákona upravujícího podnikání na kapitálovém trhu.
 
+**§ 2414**:
 > Na cenné papíry v úschově v případech, kdy nelze požadovat vydání jednotlivého cenného papíru, se přiměřeně použijí ustanovení jiného zákona o zaknihovaných cenných papírech.
->
-> ##### Oddíl 2
->
-> ###### Skladování
-
 
 **Smlouva o skladování** (*depositum mercatorum*) — **podnikatelská úschova**:
 - Skladovatel = podnikatel (logistické centrum, sklad);
@@ -355,32 +355,40 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2432—2440 — Práva a povinnosti
 
+**§ 2432**:
 > (1) Příkazník plní příkaz poctivě a pečlivě podle svých schopností; použije přitom každého prostředku, kterého vyžaduje povaha obstarávané záležitosti, jakož i takového, který se shoduje s vůlí příkazce. Od příkazcových pokynů se příkazník může odchýlit, pokud to je nezbytné v zájmu příkazce a pokud nemůže včas obdržet jeho souhlas.
 >
 > (2) Příkazník přenechá příkazci veškerý užitek z obstarané záležitosti.
 
+**§ 2433**:
 > Obdrží-li příkazník od příkazce pokyn zřejmě nesprávný, upozorní ho na to a splní takový pokyn jen tehdy, když na něm příkazce trvá.
 
+**§ 2434**:
 > Příkazník provede příkaz osobně. Svěří-li provedení příkazu jinému, odpovídá, jako by příkaz prováděl sám; dovolil-li však příkazce, aby si ustanovil náhradníka, nebo byl-li tento nezbytně nutný, nahradí škodu, kterou způsobil chybnou volbou náhradníka.
 
+**§ 2435**:
 > Příkazník podá příkazci na jeho žádost zprávy o postupu plnění příkazu a převede na příkazce užitek z prováděného příkazu; po provedení příkazu předloží příkazci vyúčtování.
 
+**§ 2436**:
 > Příkazce složí na žádost příkazníkovi zálohu k úhradě hotových výdajů a nahradí mu náklady účelně vynaložené při provádění příkazu, byť se výsledek nedostavil.
 
+**§ 2437**:
 > (1) Příkazce nahradí příkazníkovi i tu škodu, která mu vznikla v souvislosti s plněním příkazu.
 >
 > (2) Zavázal-li se příkazník provést příkaz bezplatně, nahradí mu příkazce škodu, kterou příkazník utrpěl při plnění příkazu náhodou. Příkazníkovi však nenáleží více, než by mu bylo náleželo jako obvyklá odměna, která byla ujednána.
 
+**§ 2438**:
 > (1) Příkazce poskytne příkazníkovi odměnu, byla-li ujednána nebo je-li obvyklá, zejména vzhledem k příkazcovu podnikání.
 >
 > (2) Příkazce poskytne odměnu, i když výsledek nenastal, ledaže byl nezdar způsoben tím, že příkazník porušil své povinnosti. To platí i v případě, že splnění příkazu zmařila náhoda, ke které příkazník nedal podnět.
 
+**§ 2439**:
 > Vyžaduje-li obstarání záležitosti, aby příkazník za příkazce právně jednal, vystaví příkazce příkazníkovi včas plnou moc. Není-li plná moc ve smlouvě obsažena, nenahrazuje ji ujednané převzetí povinnosti příkazce jednat jménem příkazníka; to platí i v případě, že třetí osoba, se kterou příkazník právně jedná, o této povinnosti ví.
 
+**§ 2440**:
 > (1) Příkazník může příkaz vypovědět nejdříve ke konci měsíce následujícího po měsíci, v němž byla výpověď doručena.
 >
 > (2) Vypoví-li příkazník příkaz před obstaráním záležitosti, kterou byl zvlášť pověřen, nebo s jejímž obstaráním začal podle všeobecného pověření, nahradí škodu z toho vzešlou podle obecných ustanovení.
-
 
 **§ 2432 — Osobní výkon** příkazníka; delegace jen se souhlasem.
 
@@ -394,22 +402,22 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2440—2444 — Zánik
 
+**§ 2440**:
 > (1) Příkazník může příkaz vypovědět nejdříve ke konci měsíce následujícího po měsíci, v němž byla výpověď doručena.
 >
 > (2) Vypoví-li příkazník příkaz před obstaráním záležitosti, kterou byl zvlášť pověřen, nebo s jejímž obstaráním začal podle všeobecného pověření, nahradí škodu z toho vzešlou podle obecných ustanovení.
 
+**§ 2441**:
 > Závazek z příkazu zaniká smrtí příkazce i smrtí příkazníka. To platí i tehdy, zanikne-li právnická osoba, aniž má právního nástupce.
 
+**§ 2442**:
 > Při zániku příkazu odvoláním, výpovědí, anebo smrtí zařídí příkazník vše, co nesnese odkladu, dokud příkazce nebo jeho právní nástupce neprojeví jinou vůli.
 
+**§ 2443**:
 > Příkazce může příkaz odvolat podle libosti, nahradí však příkazníkovi náklady, které do té doby měl, a škodu, pokud ji utrpěl, jakož i část odměny přiměřenou vynaložené námaze příkazníka.
 
+**§ 2444**:
 > Ustanovení o příkazu se použijí přiměřeně i na případy, kdy má někdo podle smlouvy nebo podle jiných ustanovení zákona povinnost zařídit záležitost na účet jiného.
->
-> ##### Oddíl 2
->
-> ###### Zprostředkování
-
 
 - Vyhotovení záležitosti;
 - Odstoupení příkazce kdykoli (s povinností nahradit ztrátu);
@@ -439,28 +447,33 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2447—2454 — Specifika
 
+**§ 2447**:
 > (1) Provize je splatná dnem uzavření zprostředkované smlouvy; byla-li tato smlouva uzavřena s odkládací podmínkou, je provize splatná až splněním podmínky.
 >
 > (2) Bylo-li ujednáno, že zprostředkovatel pro zájemce obstará příležitost uzavřít s třetí osobou smlouvu s určitým obsahem, je provize splatná již obstaráním příležitosti.
 
+**§ 2448**:
 > Bylo-li ujednáno, že zprostředkovateli vznikne právo na provizi, až třetí osoba splní povinnost ze zprostředkované smlouvy, zaplatí zájemce provizi i tehdy, oddálilo-li se, či zmařilo-li se splnění této povinnosti z důvodů, za něž zájemce odpovídá. Má-li být výše provize určena podle rozsahu plnění třetí osoby, započte se do základu i plnění neuskutečněné z důvodů, za něž odpovídá zájemce.
 
+**§ 2449**:
 > Zprostředkovatel má právo na náhradu nákladů spojených se zprostředkováním, pokud nebyla ujednána provize. Byla-li provize ujednána, má se za to, že provize zahrnuje i tyto náklady.
 
+**§ 2450**:
 > Zprostředkovatel nemá právo na provizi a na úhradu nákladů, byl-li v rozporu se smlouvou činný také pro druhou stranu zprostředkovávané smlouvy.
 
+**§ 2451**:
 > Zprostředkovatel pro zájemce uschová doklady nabyté v souvislosti se zprostředkovatelskou činností po dobu, po kterou mohou být významné pro ochranu zájmů zájemce.
 
+**§ 2452**:
 > Zprostředkovatel nesmí navrhnout zájemci uzavření smlouvy s osobou, o které má důvodnou pochybnost, zda povinnosti ze zprostředkované smlouvy řádně a včas splní, nebo o které vzhledem k okolnostem takovou pochybnost mít měl. Požádá-li o to zájemce, sdělí mu zprostředkovatel údaje potřebné k posouzení důvěryhodnosti osoby, s níž mu uzavření smlouvy navrhuje.
 
+**§ 2453**:
 > Závazek zaniká, není-li zprostředkovávaná smlouva uzavřena v ujednané době. Není-li doba ujednána, může kterákoli strana závazek zrušit oznámením druhé straně.
 
+**§ 2454**:
 > Právu zprostředkovatele na provizi není na újmu, byla-li smlouva, k níž se vztahovala činnost zprostředkovatele, uzavřena nebo splněna až po zániku závazku ze zprostředkovatelské smlouvy.
->
-> ##### Oddíl 3
->
-> ###### Komise
 
+> Bylo-li ujednáno, že zprostředkovateli vznikne právo na provizi, až třetí osoba splní povinnost ze zprostředkované smlouvy, zaplatí zájemce provizi i tehdy, oddálilo-li se, či zmařilo-li se splnění této povinnosti z důvodů, za něž zájemce odpovídá. Má-li být výše provize určena podle rozsahu plnění třetí osoby, započte se do základu i plnění neuskutečněné z důvodů, za něž odpovídá zájemce.
 
 **§ 2447 — Provize**:
 - Smluvní;
@@ -549,8 +562,6 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 > Péče o zdraví zahrnuje úkon, prohlídku nebo radu a všechny další služby, které se týkají bezprostředně ošetřovaného a které jsou vedeny snahou zlepšit nebo zachovat jeho zdravotní stav. Péče o zdraví však není činnost spočívající jen v prodeji nebo jiném převodu léků.
 >
-> ##### Poučení
-
 
 **§ 2638 — Standard péče** (*lege artis*):
 - Současný stav vědy a vědění;
@@ -570,14 +581,17 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2648—2651 — Odpovědnost
 
+**§ 2648**:
 > (1) Požádá-li o to ošetřovaný, umožní mu poskytovatel bez zbytečného odkladu nahlédnout do záznamů, které o něm vede, a umožní mu pořizovat si z nich výpisy, opisy nebo kopie, popřípadě mu sám vydá proti zaplacení přiměřené náhrady z nich výpis, opis nebo kopii.
 >
 > (2) Obsahují-li záznamy rovněž údaje o třetí osobě, nelze je zpřístupnit bez jejího souhlasu.
 
+**§ 2649**:
 > (1) Nestanoví-li zákon něco jiného, nelze záznamy zpřístupnit jiné osobě bez výslovného souhlasu ošetřovaného, třeba by to byl i příkazce nebo zástupce ošetřovaného.
 >
 > (2) Udělil-li ošetřovaný souhlas, nebo odmítl-li jej udělit, uvede se to v záznamech, které poskytovatel o ošetřovaném vede.
 
+**§ 2650**:
 > (1) Bez souhlasu ošetřovaného může poskytovatel sdělit údaje o něm v anonymizované podobě k účelům vědeckého nebo statistického šetření týkajícího se zdravotního stavu obyvatelstva a jeho skupin, lze-li rozumně předpokládat, že souhlas nelze opatřit vůbec nebo včas a
 >
 > - a) provádí-li se šetření s takovým zabezpečením, že nehrozí neúměrný zásah do soukromí ošetřovaného, nebo
@@ -586,12 +600,8 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 >
 > (2) Právo podle odstavce 1 poskytovatel nemá, není-li šetření prováděno ve veřejném zájmu, lze-li šetření provést i bez údajů o určitém ošetřovaném nebo vyjádřil-li ošetřovaný výslovně nesouhlas se zpřístupněním údajů o sobě.
 
+**§ 2651**:
 > Ošetřovaný, který není příkazcem, může péči o zdraví odmítnout; jeho odmítnutím se závazek ruší.
->
-> #### Díl 10
->
-> ##### Kontrolní činnost
-
 
 **Lege artis** = standard péče → odpovědnost **při porušení**:
 - Odpovědnost za **smluvní porušení** (§ 2913);
@@ -626,16 +636,17 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2587—2589 — Předmět díla
 
+**§ 2587**:
 > Dílem se rozumí zhotovení určité věci, nespadá-li pod kupní smlouvu, a dále údržba, oprava nebo úprava věci, nebo činnost s jiným výsledkem. Dílem se rozumí vždy zhotovení, údržba, oprava nebo úprava stavby nebo její části.
 
+**§ 2588**:
 > (1) Záleží-li provedení díla ve zvláštních osobních schopnostech zhotovitele, zaniká závazek ztrátou jeho způsobilosti, nebo jeho smrtí. To neplatí, může-li dílo úspěšně provést ten, kdo převzal činnost zhotovitele jako jeho právní nástupce.
 >
 > (2) Smrt objednatele sama o sobě závazek neruší, ledaže se tím splnění závazku stane nemožným nebo zbytečným. To platí i v případě zániku závazku smrtí objednatele.
 >
-> ###### Způsob provádění díla
 
+**§ 2589**:
 > Zhotovitel buď provede dílo osobně, anebo je nechá provést pod svým osobním vedením. To neplatí, není-li provedení díla vázáno na osobní vlastnosti zhotovitele nebo není-li to vzhledem k povaze díla zapotřebí.
-
 
 **Dílo zahrnuje**:
 - **Zhotovení věci** (movité, nemovité);
@@ -644,16 +655,21 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2590—2596 — Cena díla
 
+**§ 2590**:
 > (1) Zhotovitel provede dílo s potřebnou péčí v ujednaném čase a obstará vše, co je k provedení díla potřeba.
 >
 > (2) Není-li doba plnění ujednána, provede zhotovitel dílo v době přiměřené jeho povaze. Má se za to, že je čas plnění ujednán ve prospěch zhotovitele.
 
+**§ 2591**:
 > Je-li k provedení díla nutná součinnost objednatele, určí mu zhotovitel přiměřenou lhůtu k jejímu poskytnutí. Uplyne-li lhůta marně, má zhotovitel právo podle své volby si buď zajistit náhradní plnění na účet objednatele, anebo, upozornil-li na to objednatele, odstoupit od smlouvy.
 
+**§ 2592**:
 > Zhotovitel postupuje při provádění díla samostatně. Příkazy objednatele ohledně způsobu provádění díla je zhotovitel vázán, jen plyne-li to ze zvyklostí, anebo bylo-li to ujednáno.
 
+**§ 2593**:
 > Objednatel má právo kontrolovat provádění díla. Zjistí-li, že zhotovitel porušuje svou povinnost, může požadovat, aby zhotovitel zajistil nápravu a prováděl dílo řádným způsobem. Neučiní-li tak zhotovitel ani v přiměřené době, může objednatel odstoupit od smlouvy, vedl-li by postup zhotovitele nepochybně k podstatnému porušení smlouvy.
 
+**§ 2594**:
 > (1) Zhotovitel upozorní objednatele bez zbytečného odkladu na nevhodnou povahu věci, kterou mu objednatel k provedení díla předal, nebo příkazu, který mu objednatel dal. To neplatí, nemohl-li nevhodnost zjistit ani při vynaložení potřebné péče.
 >
 > (2) Překáží-li nevhodná věc nebo příkaz v řádném provádění díla, zhotovitel je v nezbytném rozsahu přeruší až do výměny věci nebo změny příkazu; trvá-li objednatel na provádění díla s použitím předané věci nebo podle daného příkazu, má zhotovitel právo požadovat, aby tak objednatel učinil v písemné formě.
@@ -662,12 +678,12 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 >
 > (4) Zachová-li se zhotovitel podle odstavců 1 a 2, nemá objednatel práva z vady díla vzniklé pro nevhodnost věci nebo příkazu.
 
+**§ 2595**:
 > Trvá-li objednatel na provedení díla podle zřejmě nevhodného příkazu nebo s použitím zřejmě nevhodné věci i po zhotovitelově upozornění, může zhotovitel od smlouvy odstoupit.
 >
-> ###### Věci k provedení díla
 
+**§ 2596**:
 > Opatří-li zhotovitel věc zpracovanou při provádění díla, má stran této věci, pokud se stala součástí díla, postavení prodávajícího. Má se za to, že kupní cena věci je zahrnuta v ceně díla.
-
 
 **§ 2590 — Cena ujednaná**:
 - Pevně **rozpočtem**;
@@ -679,40 +695,49 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 
 ### § 2597—2606 — Provedení díla
 
+**§ 2597**:
 > (1) Má-li objednatel opatřit věc k provedení díla, předá ji zhotoviteli v dohodnuté době, jinak bez zbytečného odkladu po uzavření smlouvy. Má se za to, že se cena díla o cenu této věci nesnižuje.
 >
 > (2) Neopatří-li objednatel věc včas a neučiní-li tak ani na výzvu zhotovitele v dodatečné přiměřené době, může věc opatřit zhotovitel na účet objednatele. Cenu věci a náklady účelně vynaložené s jejím opatřením objednatel zhotoviteli zaplatí bez zbytečného odkladu poté, co jej o placení zhotovitel požádá.
 
+**§ 2598**:
 > (1) Objednatel nese nebezpečí škody na věci, kterou opatřil k provedení díla, dokud trvá jeho vlastnické právo k věci.
 >
 > (2) Zhotovitel odpovídá za věc převzatou od objednatele jako skladovatel. S provedeným dílem předloží objednateli vyúčtování a vrátí mu vše, co z jeho věcí nezpracoval.
 >
-> ###### Vlastnické právo k předmětu díla
 
+**§ 2599**:
 > (1) Je-li předmětem díla věc určená jednotlivě, nabývá k ní vlastnické právo objednatel. To neplatí v případě, že zhotovitel zpracoval věc objednatele na jiném místě než u objednatele či na jeho pozemku nebo na pozemku, který objednatel opatřil, nebo že je hodnota díla stejná nebo vyšší než hodnota objednatelovy zpracované věci; tehdy nabývá vlastnické právo k předmětu díla zhotovitel.
 >
 > (2) Je-li předmětem díla věc určená podle druhu, nabývá k ní vlastnické právo zhotovitel. To neplatí v případě, že zhotovitel zhotovil věc u objednatele, na jeho pozemku nebo na pozemku, který objednatel opatřil; tehdy nabývá vlastnické právo objednatel.
 
+**§ 2600**:
 > Nabyl-li zhotovitel zpracováním vlastnické právo k věci a zmaří-li se dílo z důvodu, za nějž zhotovitel neodpovídá, nemá objednatel právo na náhradu za věc, kterou zhotoviteli předal k zpracování. Právo z bezdůvodného obohacení tím není dotčeno.
 
+**§ 2601**:
 > Nabyl-li zhotovitel zpracováním vlastnické právo k věci a zmaří-li se dílo z důvodu, za nějž zhotovitel odpovídá, poskytne objednateli peněžitou náhradu za jeho zpracovanou věc, anebo mu vrátí věc téhož druhu.
 
+**§ 2602**:
 > (1) Nabyl-li objednatel zpracováním vlastnické právo k věci a zmaří-li se dílo z důvodu, za nějž zhotovitel odpovídá, může objednatel požadovat buď vydání věci vzniklé zpracováním, anebo tuto věc odmítnout a požadovat náhradu svých věcí použitých ke zpracování.
 >
 > (2) Vydá-li zhotovitel objednateli věc vzniklou zpracováním, není tím dotčeno jeho právo z bezdůvodného obohacení. Odmítne-li objednatel věc vzniklou zpracováním, má vůči zhotoviteli právo na peněžitou náhradu za svoji zpracovanou věc, anebo na vrácení věci téhož druhu.
 
+**§ 2603**:
 > Nabyl-li vlastnické právo k věci objednatel a zmaří-li se dílo z důvodu, za nějž zhotovitel neodpovídá, může objednatel požadovat jen vydání věci vzniklé zpracováním, nahradí však zhotoviteli cenu jeho věci použité ke zpracování.
 >
-> ###### Provedení díla
 
+**§ 2604**:
 > Dílo je provedeno, je-li dokončeno a předáno.
 
+**§ 2605**:
 > (1) Dílo je dokončeno, je-li předvedena jeho způsobilost sloužit svému účelu. Objednatel převezme dokončené dílo s výhradami, nebo bez výhrad.
 >
 > (2) Převezme-li objednatel dílo bez výhrad, nepřizná mu soud právo ze zjevné vady díla, namítne-li zhotovitel, že právo nebylo uplatněno včas.
 
+**§ 2606**:
 > Provádí-li se dílo postupně a lze-li jednotlivé stupně odlišit, může být předáno a převzato i po částech.
 
+> Nabyl-li zhotovitel zpracováním vlastnické právo k věci a zmaří-li se dílo z důvodu, za nějž zhotovitel odpovídá, poskytne objednateli peněžitou náhradu za jeho zpracovanou věc, anebo mu vrátí věc téhož druhu.
 
 **§ 2599 — Lhůta** — splnění v ujednané době; **pokud bez určení** → **přiměřená** doba.
 
@@ -728,7 +753,6 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 >
 > (2) Výsledek zkoušky se zachytí v zápisu; není-li objednatel přítomen, potvrdí zápis místo něho hodnověrná, odborně způsobilá a nestranná osoba, jež se zkoušek zúčastnila. Nepříčí-li se to povaze závazku, je zhotovitel povinen objednateli na jeho žádost zápis předat.
 
-
 **§ 2607 — Dokončení** — zhotovitel oznámí.
 
 **§ 2608—2609 — Vady při převzetí**:
@@ -740,7 +764,6 @@ Tato kapitola pokrývá **široké spektrum smluvních typů** — od **licence*
 > (1) Dílo má vadu, neodpovídá-li smlouvě.
 >
 > (2) O právech objednatele z vadného plnění platí obdobně ustanovení o kupní smlouvě. Objednatel však není oprávněn požadovat provedení náhradního díla, jestliže předmět díla vzhledem k jeho povaze nelze vrátit nebo předat zhotoviteli.
-
 
 **Hierarchie nároků** (paralela k vadám u koupě):
 - Oprava (přednostně);

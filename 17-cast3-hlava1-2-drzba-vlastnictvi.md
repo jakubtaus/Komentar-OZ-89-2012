@@ -60,94 +60,56 @@ Hlava II se vztahuje na:
 
 ### § 980—986 — Materiální publicita veřejného seznamu
 
+**§ 980**:
 > (1) Je-li do veřejného seznamu zapsáno právo k věci, neomlouvá nikoho neznalost zapsaného údaje. Stanoví-li to právní předpis, zapíše se do veřejného seznamu kromě věcného práva i právo užívání nebo požívání, jakož i omezení rozsahu nebo způsobu užívání nebo požívání věci spoluvlastníky.
 >
 > (2) Je-li právo k věci zapsáno do veřejného seznamu, má se za to, že bylo zapsáno v souladu se skutečným právním stavem. Bylo-li právo k věci z veřejného seznamu vymazáno, má se za to, že neexistuje.
 
+**§ 981**:
 > Je-li do veřejného seznamu zapsáno věcné právo k cizí věci, má přednost před věcným právem, které není z veřejného seznamu zjevné.
 
+**§ 982**:
 > (1) Pro pořadí věcných práv k cizí věci rozhoduje doba podání návrhu na zápis práva. Práva zapsaná na základě návrhů podaných v téže době mají stejné pořadí.
 >
 > (2) Zřizuje-li vlastník věcné právo k vlastní věci, může před tímto právem vyhradit a do veřejného seznamu zapsat přednostní pořadí pro jiné právo; má-li být výhrada do veřejného seznamu zapsána až po zřízení věcného práva, vyžaduje se souhlas osoby, jejíž právo má být dotčeno. K zápisu práva, pro něž bylo vyhrazeno lepší pořadí, se nevyžaduje souhlas osoby, jejíž právo je výhradou omezeno, ledaže má být právo, jemuž svědčí výhrada lepšího pořadí, zapsáno do veřejného seznamu v širším rozsahu, než jak to z výhrady vyplývá.
 
+**§ 983**:
 > (1) Je-li ve veřejném seznamu zapsáno přednostní právo ke zřízení věcného práva jiné osobě a nebyl-li do jednoho roku od zápisu podán návrh na zápis práva, kterého se přednostní právo týká, může se vlastník domoci výmazu přednostního práva. Prokáže-li ten, kdo má přednostní právo, že před uplynutím lhůty podal žalobu na převod nebo jiné zřízení věcného práva, počne lhůta běžet od skončení soudního řízení; při zamítnutí žaloby však bude přednostní právo vymazáno na žádost vlastníka k okamžiku právní moci rozhodnutí.
 >
 > (2) Je-li ve veřejném seznamu zapsáno přednostní právo jako podmíněné nebo s doložením času, počne lhůta podle odstavce 1 běžet dnem, kdy se přednostní právo stane vymahatelným.
 
+**§ 984**:
 > (1) Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, svědčí zapsaný stav ve prospěch osoby, která nabyla věcné právo za úplatu v dobré víře od osoby k tomu oprávněné podle zapsaného stavu. Dobrá víra se posuzuje k době, kdy k právnímu jednání došlo; vzniká-li však věcné právo až zápisem do veřejného seznamu, pak k době podání návrhu na zápis.
 >
 > (2) Pro nezbytnou cestu, výměnek a pro věcné právo vznikající ze zákona bez zřetele na stav zápisů ve veřejném seznamu se věta první odstavce 1 nepoužije.
 
+**§ 985**:
 > Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, může se osoba, jejíž věcné právo je dotčeno, domáhat odstranění nesouladu; prokáže-li, že své právo uplatnila, zapíše se to na její žádost do veřejného seznamu. Rozhodnutí vydané o jejím věcném právu působí vůči každému, jehož právo bylo zapsáno do veřejného seznamu poté, co dotčená osoba o zápis požádala.
 
+**§ 986**:
 > (1) Kdo tvrdí, že je ve svém právu dotčen zápisem provedeným do veřejného seznamu bez právního důvodu ve prospěch jiného, může se domáhat výmazu takového zápisu a žádat, aby to bylo ve veřejném seznamu poznamenáno. Orgán, který veřejný seznam vede, vymaže poznámku spornosti zápisu, nedoloží-li žadatel ani do dvou měsíců od doručení žádosti, že své právo uplatnil u soudu.
 >
 > (2) Požádal-li žadatel o poznamenání spornosti zápisu do jednoho měsíce ode dne, kdy se o zápisu dozvěděl, působí jeho právo vůči každému, komu popíraný zápis svědčí nebo kdo na jeho základě dosáhl dalšího zápisu; po uplynutí této lhůty však jen vůči tomu, kdo dosáhl zápisu, aniž byl v dobré víře.
 >
 > (3) Nebyl-li žadatel o zápisu cizího práva řádně vyrozuměn, prodlužuje se lhůta podle odstavce 2 na tři roky; lhůta počne běžet ode dne, kdy byl popíraný zápis proveden.
->
-> #### Díl 2
->
-> ##### Držba
 
+> Je-li do veřejného seznamu zapsáno věcné právo k cizí věci, má přednost před věcným právem, které není z veřejného seznamu zjevné.
 
-**Klíčové instituty pro KATASTR NEMOVITOSTÍ** (zákon č. 256/2013 Sb. — KatZ).
-
-#### § 980 — Negativní a pozitivní publicita
+> Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, může se osoba, jejíž věcné právo je dotčeno, domáhat odstranění nesouladu; prokáže-li, že své právo uplatnila, zapíše se to na její žádost do veřejného seznamu. Rozhodnutí vydané o jejím věcném právu působí vůči každému, jehož právo bylo zapsáno do veřejného seznamu poté, co dotčená osoba o zápis požádala.
 
 > (1) Je-li do veřejného seznamu zapsáno právo k věci, neomlouvá nikoho neznalost zapsaného údaje. Stanoví-li to právní předpis, zapíše se do veřejného seznamu kromě věcného práva i právo užívání nebo požívání, jakož i omezení rozsahu nebo způsobu užívání nebo požívání věci spoluvlastníky.
 
 > (2) Je-li právo k věci zapsáno do veřejného seznamu, má se za to, že bylo zapsáno v souladu se skutečným právním stavem. Bylo-li právo k věci z veřejného seznamu vymazáno, má se za to, že neexistuje.
 
-**Výklad:**
-
-**Dvojí publicita VR**:
-
-1. **Negativní publicita** (odst. 1) — zápis je veřejný, **neznalost neomlouvá** (paralela k § 121 odst. 2 OZ pro VR PO);
-2. **Pozitivní publicita** (odst. 2) — **vyvratitelná domněnka souladu** zapsaného stavu se skutečným:
-   - **Zapsané právo se má za existující**;
-   - **Vymazané právo se má za neexistující**.
-
-**Důsledek**: kdo se spoléhá na výpis z katastru, je chráněn (s výjimkami § 984 odst. 2 — nezbytná cesta, výměnek, zákonná věcná práva).
-
-#### § 981 — Přednost zapsaného práva
-
 > Je-li do veřejného seznamu zapsáno věcné právo k cizí věci, má přednost před věcným právem, které není z veřejného seznamu zjevné.
-
-**Výklad:** zapsané právo **má přednost** před nezapsaným. Klíčové pro **zástavní právo** — zapsaná zástava před nezapsanou.
-
-#### § 982 — Pořadí podle podání návrhu
 
 > (1) Pro pořadí věcných práv k cizí věci rozhoduje doba podání návrhu na zápis práva. Práva zapsaná na základě návrhů podaných v téže době mají stejné pořadí.
 >
 > (2) Zřizuje-li vlastník věcné právo k vlastní věci, může před tímto právem vyhradit a do veřejného seznamu zapsat přednostní pořadí pro jiné právo; má-li být výhrada do veřejného seznamu zapsána až po zřízení věcného práva, vyžaduje se souhlas osoby, jejíž právo má být dotčeno. K zápisu práva, pro něž bylo vyhrazeno lepší pořadí, se nevyžaduje souhlas osoby, jejíž právo je výhradou omezeno, ledaže má být právo, jemuž svědčí výhrada lepšího pořadí, zapsáno do veřejného seznamu v širším rozsahu, než jak to z výhrady vyplývá.
 
-
-Pořadí věcných práv k cizí věci rozhoduje **doba podání návrhu na zápis** (nikoliv okamžik samotného zápisu — chrání před zpožděním rejstříkového řízení). Při stejném okamžiku — stejné pořadí.
-
-**Výhrada lepšího pořadí**: vlastník může před zřízením věcného práva **vyhradit a zapsat přednostní pořadí** pro jiné právo.
-
-#### § 984 — Ochrana dobré víry
-
 > (1) Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, svědčí zapsaný stav ve prospěch osoby, která nabyla věcné právo za úplatu v dobré víře od osoby k tomu oprávněné podle zapsaného stavu. Dobrá víra se posuzuje k době, kdy k právnímu jednání došlo; vzniká-li však věcné právo až zápisem do veřejného seznamu, pak k době podání návrhu na zápis.
 
 > (2) Pro nezbytnou cestu, výměnek a pro věcné právo vznikající ze zákona bez zřetele na stav zápisů ve veřejném seznamu se věta první odstavce 1 nepoužije.
-
-**Výklad:**
-
-**KLÍČOVÉ ustanovení ochrany dobré víry** v zápis VR. Test:
-1. **Nabytí za úplatu** (bezúplatné nabytí — § 984/2 a contrario);
-2. **V dobré víře** (k době jednání, případně podání návrhu);
-3. **Od osoby oprávněné podle zápisu** — nabyvatel musí jednat s osobou zapsanou jako vlastník/oprávněný.
-
-→ Zapsaný stav svědčí nabyvateli, i kdyby skutečný stav byl jiný.
-
-**Výjimky** (§ 984 odst. 2):
-- **Nezbytná cesta** (§ 1029);
-- **Výměnek** (§ 2707);
-- **Věcné právo ze zákona** (zákonné věcné břemeno, např. § 26 lesního zákona).
-
-#### § 985—986 — Poznámka spornosti
 
 > Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, může se osoba, jejíž věcné právo je dotčeno, domáhat odstranění nesouladu; prokáže-li, že své právo uplatnila, zapíše se to na její žádost do veřejného seznamu. Rozhodnutí vydané o jejím věcném právu působí vůči každému, jehož právo bylo zapsáno do veřejného seznamu poté, co dotčená osoba o zápis požádala.
 
@@ -156,11 +118,6 @@ Pořadí věcných práv k cizí věci rozhoduje **doba podání návrhu na záp
 > (2) Požádal-li žadatel o poznamenání spornosti zápisu do jednoho měsíce ode dne, kdy se o zápisu dozvěděl, působí jeho právo vůči každému, komu popíraný zápis svědčí nebo kdo na jeho základě dosáhl dalšího zápisu; po uplynutí této lhůty však jen vůči tomu, kdo dosáhl zápisu, aniž byl v dobré víře.
 >
 > (3) Nebyl-li žadatel o zápisu cizího práva řádně vyrozuměn, prodlužuje se lhůta podle odstavce 2 na tři roky; lhůta počne běžet ode dne, kdy byl popíraný zápis proveden.
->
-> #### Díl 2
->
-> ##### Držba
-
 
 **§ 985**: nesoulad zapsaného a skutečného stavu — žádost o **odstranění nesouladu**; rozhodnutí má účinky proti osobám, které nabyly po žádosti.
 
@@ -185,18 +142,19 @@ Pořadí věcných práv k cizí věci rozhoduje **doba podání návrhu na záp
 
 ### § 987—989 — Pojem držby
 
+**§ 987**:
 > Držitelem je ten, kdo vykonává právo pro sebe.
 
+**§ 988**:
 > (1) Držet lze právo, které lze právním jednáním převést na jiného a které připouští trvalý nebo opakovaný výkon.
 >
 > (2) Osobní právo není předmětem držby ani vydržení. Kdo však vykonává osobní právo poctivě, je oprávněn své domnělé právo vykonávat a hájit.
 
+**§ 989**:
 > (1) Vlastnické právo drží ten, kdo se věci ujal, aby ji měl jako vlastník.
 >
 > (2) Jiné právo drží ten, kdo je počal vykonávat jako osoba, jíž takové právo podle zákona náleží, a komu jiné osoby ve shodě s ním plní.
 >
-> ##### Nabytí držby
-
 
 **§ 987**: **Držitel = ten, kdo vykonává právo pro sebe** (*animus possidendi* + *corpus possidendi*).
 
@@ -217,20 +175,22 @@ Pořadí věcných práv k cizí věci rozhoduje **doba podání návrhu na záp
 
 ### § 991—994 — Typy držby
 
+**§ 991**:
 > Držba je řádná, pokud se zakládá na platném právním důvodu. Kdo se ujme držby bezprostředně, aniž ruší cizí držbu, nebo kdo se ujme držby z vůle předchozího držitele nebo na základě výroku orgánu veřejné moci, je řádným držitelem.
 >
-> ##### Poctivá držba
 
+**§ 992**:
 > (1) Kdo má z přesvědčivého důvodu za to, že mu náleží právo, které vykonává, je poctivý držitel. Nepoctivě drží ten, kdo ví nebo komu musí být z okolností zjevné, že vykonává právo, které mu nenáleží.
 >
 > (2) Nepoctivost zástupce při nabytí držby nebo při jejím výkonu zástupcem činí držbu nepoctivou. To neplatí, pokud zastoupený zvláštním příkazem daným se zřetelem k této držbě zástupci nařídil, aby se držby ujal nebo aby ji vykonával.
 >
 > (3) Poctivému držiteli náleží stejná práva jako držiteli řádnému.
 
+**§ 993**:
 > Neprokáže-li se, že se někdo vetřel v držbu svémocně nebo že se v ni vloudil potajmu nebo lstí, anebo že někdo usiluje proměnit v trvalé právo to, co mu bylo povoleno jen výprosou, jde o pravou držbu.
 
+**§ 994**:
 > Má se za to, že držba je řádná, poctivá a pravá.
-
 
 **Klíčová klasifikace držby**:
 
@@ -248,26 +208,31 @@ Pořadí věcných práv k cizí věci rozhoduje **doba podání návrhu na záp
 
 ### § 996—1002 — Práva poctivého a nepoctivého držitele
 
+**§ 996**:
 > (1) Poctivý držitel smí v mezích právního řádu věc držet a užívat ji, ba ji i zničit nebo s ní i jinak nakládat, a není z toho nikomu odpovědný.
 >
 > (2) Poctivému držiteli náležejí všechny plody věci, jakmile se oddělí. Jeho jsou také všechny již vybrané užitky, které za držby dospěly.
 
+**§ 997**:
 > (1) Poctivému držiteli se hradí nutné náklady, jichž bylo pro trvající zachování podstaty věci potřeba, jakož i náklady vynaložené účelně a zvyšující užitečnost věci nebo její hodnotu. Náhrada náleží do výše přítomné hodnoty, pokud ta nepřevyšuje náklady skutečné.
 >
 > (2) Obvyklé udržovací náklady se nehradí.
 
+**§ 998**:
 > Z nákladů učiněných poctivým držitelem ze záliby nebo pro okrasu se hradí jen tolik, o kolik se zvýšila obvyklá cena věci; dřívější držitel však může k svému prospěchu odstranit vše, co lze od věci oddělit bez zhoršení její podstaty.
 
+**§ 999**:
 > Ani poctivý držitel se nemůže domáhat, aby mu byla nahrazena cena, za kterou na sebe věc převedl.
 
+**§ 1000**:
 > Nepoctivý držitel vydá veškerý užitek, kterého držbou nabyl, a nahradí ten, který by získala zkrácená osoba, jakož i všechnu škodu, která vzešla z jeho držby.
 
+**§ 1001**:
 > Vynaloží-li nepoctivý držitel nutné náklady, jichž bylo potřeba pro zachování podstaty věci, náleží mu jejich náhrada. Pokud jde o ostatní náklady, použijí se obdobně ustanovení o nepřikázaném jednateli.
 
+**§ 1002**:
 > Pro držitele jiných práv platí § 996 až 1001 přiměřeně.
 >
-> ##### Ochrana držby
-
 
 **Poctivý držitel** (§ 996—999):
 - **Smí věc držet, užívat, zničit, nakládat** (bez odpovědnosti);
@@ -285,30 +250,35 @@ Pořadí věcných práv k cizí věci rozhoduje **doba podání návrhu na záp
 
 ### § 1003—1009 — Ochrana držby
 
+**§ 1003**:
 > Držbu není nikdo oprávněn svémocně rušit. Kdo byl v držbě rušen, může se domáhat, aby se rušitel rušení zdržel a vše uvedl v předešlý stav.
 
+**§ 1004**:
 > (1) Je-li držitel prováděním stavby ohrožen v držbě nemovité věci nebo může-li se pro to důvodně obávat následků uvedených v § 1013 a nezajistí-li se proti němu stavebník cestou práva, může se ohrožený držitel domáhat zákazu provádění stavby. Zákazu se držitel domáhat nemůže, jestliže ve správním řízení, jehož byl účastníkem, neuplatnil své námitky k žádosti o povolení takové stavby, ač tak učinit mohl.
 >
 > (2) Dokud není o záležitosti rozhodnuto, může soud zakázat, aby se stavba prováděla. Hrozí-li však přímé nebezpečí, nebo dá-li žalovaný přiměřenou jistotu, že věc uvede v předešlý stav a nahradí škodu, ale žalobce jistotu za následky svého zákazu nedá, soud nezakáže, aby se zatím v provádění stavby pokračovalo, ledaže zákaz odůvodňují okolnosti případu.
 
+**§ 1005**:
 > Pro případ odstraňování stavby platí § 1004 obdobně.
 >
-> ##### Uchování držby
 
+**§ 1006**:
 > Držitel se smí svémocnému rušení vzepřít a věci, jež mu byla odňata, při rušebním činu znovu zmocnit, nepřekročí-li přitom meze nutné obrany.
 
+**§ 1007**:
 > (1) Byl-li držitel z držby vypuzen, může se na vypuditeli domáhat, aby se zdržel dalšího vypuzení a obnovil původní stav. Proti žalobě na ochranu držby lze namítnout, že žalobce získal proti žalovanému nepravou držbu nebo že ho z držby vypudil.
 >
 > (2) Vypuzení z držby práv nastane, když druhá strana odepře plnit, co dosud plnila, když někdo zabrání výkonu práva, nebo již nedbá povinnosti zdržet se nějakého konání.
 
+**§ 1008**:
 > (1) Soud zamítne žalobu na ochranu nebo na uchování držby, pokud bude žaloba podána po uplynutí šesti týdnů ode dne, kdy se žalobce dozvěděl o svém právu i o osobě, která držbu ohrožuje nebo ruší, nejdéle však do jednoho roku ode dne, kdy žalobce mohl své právo uplatnit poprvé.
 >
 > (2) K námitce vypuzení z držby soud nepřihlédne, pokud ji žalovaný uplatní po uplynutí lhůt stanovených v odstavci 1.
 
+**§ 1009**:
 > (1) Držba zaniká, vzdá-li se jí držitel, nebo ztratí-li trvale možnost vykonávat obsah práva, které dosud vykonával. Držba rovněž zaniká, je-li z ní držitel vypuzen a neuchová si ji svépomocí nebo žalobou.
 >
 > (2) Nevykonává-li držitel držbu, držba tím nezaniká. Ani smrt držitele nebo jeho zánik nepůsobí zánik držby.
-
 
 **§ 1003 — Zákaz svémocného rušení**: držitel se může domáhat:
 - **Zdržení se rušení**;
@@ -346,11 +316,11 @@ Pořadí věcných práv k cizí věci rozhoduje **doba podání návrhu na záp
 
 ### § 1011—1012 — Předmět a obsah vlastnictví
 
-**§ 1011**: **vlastnictvím** je vše, co někomu patří (hmotné i nehmotné věci).
+**§ 1011**:
+> Vše, co někomu patří, všechny jeho věci hmotné i nehmotné, je jeho vlastnictvím.
 
-**§ 1012 — Obsah vlastnického práva**:
+**§ 1012**:
 > Vlastník má právo se svým vlastnictvím v mezích právního řádu **libovolně nakládat a jiné osoby z toho vyloučit**.
-
 Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, abutendi* (užívat, vážit plody, nakládat) + **exkluzivita** (vyloučení jiných).
 
 **Omezení**:
@@ -360,8 +330,60 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 ### § 1013—1023 — Sousedské vztahy
 
+**§ 1013**:
 > (1) Vlastník se zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat. Zakazuje se přímo přivádět imise na pozemek jiného vlastníka bez ohledu na míru takových vlivů a na stupeň obtěžování souseda, ledaže se to opírá o zvláštní právní důvod.
 >
+> (2) Jsou-li imise důsledkem provozu závodu nebo podobného zařízení, který byl úředně schválen, má soused právo jen na náhradu újmy v penězích, i když byla újma způsobena okolnostmi, k nimž se při úředním projednávání nepřihlédlo. To neplatí, pokud se při provádění provozu překračuje rozsah, v jakém byl úředně schválen.
+
+**§ 1014**:
+> (1) Ocitne-li se na pozemku cizí movitá věc, vydá ji vlastník pozemku bez zbytečného odkladu jejímu vlastníku, popřípadě tomu, kdo ji měl u sebe; jinak mu umožní vstoupit na svůj pozemek a věc si vyhledat a odnést. Stejně tak může vlastník stíhat na cizím pozemku chované zvíře nebo roj včel; vletí-li však roj včel do cizího obsazeného úlu, nabývá vlastník úlu vlastnické právo k roji, aniž je povinen k náhradě.
+>
+> (2) Způsobí-li věc, zvíře, roj včel nebo výkon práva podle odstavce 1 na pozemku škodu, má vlastník pozemku právo na její náhradu.
+
+**§ 1015**:
+> Způsobila-li movitá věc na cizím pozemku škodu, může ji vlastník pozemku zadržet, dokud neobdrží jinou jistotu nebo náhradu škody.
+
+**§ 1016**:
+> (1) Plody spadlé ze stromů a keřů na sousední pozemek náleží vlastníkovi sousedního pozemku. To neplatí, je-li sousední pozemek veřejným statkem.
+>
+> (2) Neučiní-li to vlastník v přiměřené době poté, co ho o to soused požádal, smí soused šetrným způsobem a ve vhodné roční době odstranit kořeny nebo větve stromu přesahující na jeho pozemek, působí-li mu to škodu nebo jiné obtíže převyšující zájem na nedotčeném zachování stromu. Jemu také náleží, co z odstraněných kořenů a větví získá.
+>
+> (3) Části jiných rostlin přesahující na sousední pozemek může soused odstranit šetrným způsobem bez dalších omezení.
+
+**§ 1017**:
+> (1) Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel sázení stromů v těsné blízkosti společné hranice pozemků, a vysadil-li je nebo nechal-li je vzrůst, aby je odstranil. Nestanoví-li jiný právní předpis nebo neplyne-li z místních zvyklostí něco jiného, platí pro stromy dorůstající obvykle výšky přesahující 3 m jako přípustná vzdálenost od společné hranice pozemků 3 m a pro ostatní stromy 1,5 m.
+>
+> (2) Ustanovení odstavce 1 se nepoužije, je-li na sousedním pozemku les nebo sad, tvoří-li stromy rozhradu nebo jedná-li se o strom zvlášť chráněný podle jiného právního předpisu.
+
+**§ 1018**:
+> Pozemek nesmí být upraven tak, aby sousední pozemek ztratil náležitou oporu, ledaže se provede jiné dostatečné upevnění.
+
+**§ 1019**:
+> (1) Vlastník pozemku má právo požadovat, aby soused upravil stavbu na sousedním pozemku tak, aby ze stavby nestékala voda nebo nepadal sníh nebo led na jeho pozemek. Stéká-li však na pozemek přirozeným způsobem z výše položeného pozemku voda, zejména pokud tam pramení či v důsledku deště nebo oblevy, nemůže soused požadovat, aby vlastník tohoto pozemku svůj pozemek upravil.
+>
+> (2) Je-li pro níže položený pozemek nutný přítok vody, může soused na vlastníku výše položeného pozemku požadovat, aby odtoku vody nebránil v rozsahu, ve kterém vodu sám nepotřebuje.
+
+**§ 1020**:
+> Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel zřizování stavby na sousedním pozemku v těsné blízkosti společné hranice pozemků.
+
+**§ 1021**:
+> Vlastník umožní sousedovi vstup na svůj pozemek v době, rozsahu a způsobem, které jsou nezbytné k údržbě sousedního pozemku nebo k hospodaření na něm, nelze-li tohoto účelu dosáhnout jinak; soused však nahradí vlastníku pozemku škodu tím způsobenou.
+
+**§ 1022**:
+> (1) Nemůže-li se stavba stavět nebo bourat, nebo nemůže-li se opravit nebo obnovit jinak než užitím sousedního pozemku, má vlastník právo po sousedovi požadovat, aby za přiměřenou náhradu snášel, co je pro tyto práce potřebné.
+>
+> (2) Žádosti nelze vyhovět, převyšuje-li sousedův zájem na nerušeném užívání pozemku zájem na provedení prací.
+
+**§ 1023**:
+> (1) Vlastník pozemku musí snášet užívání prostoru nad pozemkem nebo pod pozemkem, je-li pro to důležitý důvod a děje-li se to takovým způsobem, že vlastník nemůže mít rozumný důvod tomu bránit.
+>
+> (2) Z takového užívání cizího prostoru nemůže nikdo odvodit právo, jehož by se mohl někdo dovolávat po odpadnutí důvodu, který k užívání opravňoval; pokud však v důsledku tohoto užívání vzniklo úředně schválené zařízení, může vlastník žádat náhradu škody.
+>
+
+> Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel zřizování stavby na sousedním pozemku v těsné blízkosti společné hranice pozemků.
+
+> (1) Vlastník se zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat. Zakazuje se přímo přivádět imise na pozemek jiného vlastníka bez ohledu na míru takových vlivů a na stupeň obtěžování souseda, ledaže se to opírá o zvláštní právní důvod.
+
 > (2) Jsou-li imise důsledkem provozu závodu nebo podobného zařízení, který byl úředně schválen, má soused právo jen na náhradu újmy v penězích, i když byla újma způsobena okolnostmi, k nimž se při úředním projednávání nepřihlédlo. To neplatí, pokud se při provádění provozu překračuje rozsah, v jakém byl úředně schválen.
 
 > (1) Ocitne-li se na pozemku cizí movitá věc, vydá ji vlastník pozemku bez zbytečného odkladu jejímu vlastníku, popřípadě tomu, kdo ji měl u sebe; jinak mu umožní vstoupit na svůj pozemek a věc si vyhledat a odnést. Stejně tak může vlastník stíhat na cizím pozemku chované zvíře nebo roj včel; vletí-li však roj včel do cizího obsazeného úlu, nabývá vlastník úlu vlastnické právo k roji, aniž je povinen k náhradě.
@@ -398,66 +420,6 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 >
 > (2) Z takového užívání cizího prostoru nemůže nikdo odvodit právo, jehož by se mohl někdo dovolávat po odpadnutí důvodu, který k užívání opravňoval; pokud však v důsledku tohoto užívání vzniklo úředně schválené zařízení, může vlastník žádat náhradu škody.
 >
-> ###### Rozhrady
-
-
-#### § 1013 — Imise
-
-> (1) Vlastník se zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat. Zakazuje se přímo přivádět imise na pozemek jiného vlastníka bez ohledu na míru takových vlivů a na stupeň obtěžování souseda, ledaže se to opírá o zvláštní právní důvod.
-
-> (2) Jsou-li imise důsledkem provozu závodu nebo podobného zařízení, který byl úředně schválen, má soused právo jen na náhradu újmy v penězích, i když byla újma způsobena okolnostmi, k nimž se při úředním projednávání nepřihlédlo. To neplatí, pokud se při provádění provozu překračuje rozsah, v jakém byl úředně schválen.
-
-**Výklad:**
-
-**Imise** (*Immissionen*) — **klíčový institut sousedského práva**. **Dva typy:**
-
-| Typ | Charakter | Důsledek |
-|---|---|---|
-| **Nepřímé imise** | Odpad/voda/kouř/prach/plyn/pach/světlo/stín/hluk/otřesy + vnikání zvířat | Zákaz, **pokud nepřiměřené místním poměrům a podstatně omezují** |
-| **Přímé imise** | Záměrné přivádění | **Zákazprincipiální**, bez ohledu na míru (ledaže zvláštní právní důvod) |
-
-**§ 1013 odst. 2 — Úředně schválený provoz**: soused má jen **právo na peněžitou náhradu újmy**, ne na zákaz (ledaže se překračuje schválený rozsah).
-
-**Žaloba**: zápůrčí žaloba (NS 25 Cdo 1437/2017, ÚS Pl. ÚS 17/14). Měřítkem nepřiměřenosti je **místní typický standard**.
-
-#### § 1014—1023 — Další sousedská práva
-
-> (1) Ocitne-li se na pozemku cizí movitá věc, vydá ji vlastník pozemku bez zbytečného odkladu jejímu vlastníku, popřípadě tomu, kdo ji měl u sebe; jinak mu umožní vstoupit na svůj pozemek a věc si vyhledat a odnést. Stejně tak může vlastník stíhat na cizím pozemku chované zvíře nebo roj včel; vletí-li však roj včel do cizího obsazeného úlu, nabývá vlastník úlu vlastnické právo k roji, aniž je povinen k náhradě.
->
-> (2) Způsobí-li věc, zvíře, roj včel nebo výkon práva podle odstavce 1 na pozemku škodu, má vlastník pozemku právo na její náhradu.
-
-> Způsobila-li movitá věc na cizím pozemku škodu, může ji vlastník pozemku zadržet, dokud neobdrží jinou jistotu nebo náhradu škody.
-
-> (1) Plody spadlé ze stromů a keřů na sousední pozemek náleží vlastníkovi sousedního pozemku. To neplatí, je-li sousední pozemek veřejným statkem.
->
-> (2) Neučiní-li to vlastník v přiměřené době poté, co ho o to soused požádal, smí soused šetrným způsobem a ve vhodné roční době odstranit kořeny nebo větve stromu přesahující na jeho pozemek, působí-li mu to škodu nebo jiné obtíže převyšující zájem na nedotčeném zachování stromu. Jemu také náleží, co z odstraněných kořenů a větví získá.
->
-> (3) Části jiných rostlin přesahující na sousední pozemek může soused odstranit šetrným způsobem bez dalších omezení.
-
-> (1) Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel sázení stromů v těsné blízkosti společné hranice pozemků, a vysadil-li je nebo nechal-li je vzrůst, aby je odstranil. Nestanoví-li jiný právní předpis nebo neplyne-li z místních zvyklostí něco jiného, platí pro stromy dorůstající obvykle výšky přesahující 3 m jako přípustná vzdálenost od společné hranice pozemků 3 m a pro ostatní stromy 1,5 m.
->
-> (2) Ustanovení odstavce 1 se nepoužije, je-li na sousedním pozemku les nebo sad, tvoří-li stromy rozhradu nebo jedná-li se o strom zvlášť chráněný podle jiného právního předpisu.
-
-> Pozemek nesmí být upraven tak, aby sousední pozemek ztratil náležitou oporu, ledaže se provede jiné dostatečné upevnění.
-
-> (1) Vlastník pozemku má právo požadovat, aby soused upravil stavbu na sousedním pozemku tak, aby ze stavby nestékala voda nebo nepadal sníh nebo led na jeho pozemek. Stéká-li však na pozemek přirozeným způsobem z výše položeného pozemku voda, zejména pokud tam pramení či v důsledku deště nebo oblevy, nemůže soused požadovat, aby vlastník tohoto pozemku svůj pozemek upravil.
->
-> (2) Je-li pro níže položený pozemek nutný přítok vody, může soused na vlastníku výše položeného pozemku požadovat, aby odtoku vody nebránil v rozsahu, ve kterém vodu sám nepotřebuje.
-
-> Má-li pro to vlastník pozemku rozumný důvod, může požadovat, aby se soused zdržel zřizování stavby na sousedním pozemku v těsné blízkosti společné hranice pozemků.
-
-> Vlastník umožní sousedovi vstup na svůj pozemek v době, rozsahu a způsobem, které jsou nezbytné k údržbě sousedního pozemku nebo k hospodaření na něm, nelze-li tohoto účelu dosáhnout jinak; soused však nahradí vlastníku pozemku škodu tím způsobenou.
-
-> (1) Nemůže-li se stavba stavět nebo bourat, nebo nemůže-li se opravit nebo obnovit jinak než užitím sousedního pozemku, má vlastník právo po sousedovi požadovat, aby za přiměřenou náhradu snášel, co je pro tyto práce potřebné.
->
-> (2) Žádosti nelze vyhovět, převyšuje-li sousedův zájem na nerušeném užívání pozemku zájem na provedení prací.
-
-> (1) Vlastník pozemku musí snášet užívání prostoru nad pozemkem nebo pod pozemkem, je-li pro to důležitý důvod a děje-li se to takovým způsobem, že vlastník nemůže mít rozumný důvod tomu bránit.
->
-> (2) Z takového užívání cizího prostoru nemůže nikdo odvodit právo, jehož by se mohl někdo dovolávat po odpadnutí důvodu, který k užívání opravňoval; pokud však v důsledku tohoto užívání vzniklo úředně schválené zařízení, může vlastník žádat náhradu škody.
->
-> ###### Rozhrady
-
 
 **§ 1014 — Cizí věc na pozemku**: vrácení / možnost vyhledat. Cizí zvíře / roj včel — analogicky. **Roj včel do cizího obsazeného úlu** = nabytí vlastníkem úlu.
 
@@ -481,20 +443,23 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 ### § 1024—1028 — Rozhrady
 
+**§ 1024**:
 > (1) Má se za to, že ploty, zdi, meze, strouhy a jiné podobné přirozené nebo umělé rozhrady mezi sousedními pozemky jsou společné.
 >
 > (2) Společnou zeď může každý užívat na své straně až do poloviny její tloušťky a zřídit v ní výklenky tam, kde na druhé straně nejsou. Nesmí však učinit nic, co zeď ohrozí nebo co sousedovi překáží v užívání jeho části.
 
+**§ 1025**:
 > Kde jsou rozhrady dvojité nebo kde je vlastnictví rozděleno, udržuje každý svým nákladem, co je jeho.
 
+**§ 1026**:
 > Vlastník není povinen znovu postavit rozpadlou zeď, plot nebo obnovit jinou rozhradu, musí ji však udržovat v dobrém stavu, hrozí-li následkem jejího poškození sousedovi škoda. Dojde-li však k takovému narušení rozhrady, že hrozí, že se hranice mezi pozemky stane neznatelná, má každý soused právo požadovat opravu nebo obnovení rozhrady.
 
+**§ 1027**:
 > Na návrh souseda a po zjištění stanoviska stavebního úřadu může soud uložit vlastníkovi pozemku povinnost pozemek oplotit, je-li to potřebné k zajištění nerušeného výkonu sousedova vlastnického práva a nebrání-li to účelnému užívání dalších pozemků.
 
+**§ 1028**:
 > Jsou-li hranice mezi pozemky neznatelné nebo pochybné, má každý soused právo požadovat, aby je soud určil podle poslední pokojné držby. Nelze-li ji zjistit, určí soud hranici podle slušného uvážení.
 >
-> ###### Nezbytná cesta
-
 
 **§ 1024**: ploty, zdi, meze, strouhy — vyvratitelná domněnka **společnosti**.
 
@@ -508,18 +473,22 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 ### § 1029—1036 — Nezbytná cesta
 
+**§ 1029**:
 > (1) Vlastník nemovité věci, na níž nelze řádně hospodařit či jinak ji řádně užívat proto, že není dostatečně spojena s veřejnou cestou, může žádat, aby mu soused za náhradu povolil nezbytnou cestu přes svůj pozemek.
 >
 > (2) Nezbytnou cestu může soud povolit v rozsahu, který odpovídá potřebě vlastníka nemovité věci řádně ji užívat s náklady co nejmenšími, a to i jako služebnost. Zároveň musí být dbáno, aby soused byl zřízením nebo užíváním nezbytné cesty co nejméně obtěžován a jeho pozemek co nejméně zasažen. To musí být zvlášť zváženo, má-li se žadateli povolit zřízení nové cesty.
 
+**§ 1030**:
 > (1) Za nezbytnou cestu náleží úplata a odčinění újmy, není-li již kryto úplatou. Povolí-li se spoluužívání cizí soukromé cesty, zahrne úplata i zvýšené náklady na její údržbu.
 >
 > (2) Vlastník nemovité věci, v jehož prospěch byla nezbytná cesta povolena, poskytne jistotu přiměřenou případné škodě způsobené na dotčeném pozemku; to neplatí, je-li zjevné, že patrná škoda na dotčeném pozemku nevznikne.
 >
 > (3) Plnění podle odstavců 1 a 2 náleží především vlastníku pozemku dotčeného povolením nezbytné cesty, má-li však jím být dotčeno též věcné právo další osoby k dotčenému pozemku, poskytnou se tato plnění v přiměřeném rozsahu i jí. Další osobě, jíž bylo k dotčené nemovité věci zřízeno jiné právo, náleží náhrada za utrpěnou újmu proti vlastníkovi dotčeného pozemku; k tomu musí být přihlédnuto při stanovení úplaty podle odstavce 1.
 
+**§ 1031**:
 > Bylo-li povoleno zřídit na dotčeném pozemku nezbytnou cestu jako umělou, zřídí a udržuje ji ten, v jehož prospěch byla povolena.
 
+**§ 1032**:
 > (1) Soud nepovolí nezbytnou cestu,
 >
 > - a) převýší-li škoda na nemovité věci souseda zřejmě výhodu nezbytné cesty,
@@ -530,20 +499,22 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 >
 > (2) Nelze povolit nezbytnou cestu přes prostor uzavřený za tím účelem, aby do něj cizí osoby neměly přístup, ani přes pozemek, kde veřejný zájem brání takovou cestu zřídit.
 
+**§ 1033**:
 > (1) Obklopuje-li nemovitou věc bez přístupu několik sousedních pozemků, povolí se nezbytná cesta jen přes jeden z nich. Přitom se uváží, přes který pozemek je nejpřirozenější přístup za současného zřetele k okolnostem stanoveným v § 1029 odst. 2.
 >
 > (2) Ztratí-li nemovitá věc spojení s veřejnou cestou proto, že pozemek byl rozdělen, lze žádat nezbytnou cestu jen po osobě, která se na dělení podílela. V takovém případě se nezbytná cesta povolí bez úplaty.
 
+**§ 1034**:
 > Při pominutí příčiny, pro niž byla povolena nezbytná cesta, aniž je na oprávněné straně nějaká jiná příčina pro zachování nezbytné cesty, soud na návrh vlastníka dotčeného pozemku nezbytnou cestu zruší.
 
+**§ 1035**:
 > (1) Při zániku práva nezbytné cesty se úplata nevrací, složená jistota se však vypořádá.
 >
 > (2) Je-li úplata za nezbytnou cestu splatná ve splátkách nebo v opakujících se dávkách, zaniká povinnost platit splátky nebo dávky, které při zániku práva nezbytné cesty nejsou splatné.
 
+**§ 1036**:
 > Při potřebě zřídit nezbytnou cestu jako umělou může vlastník dotčeného pozemku požadovat, aby žadatel do svého vlastnictví převzal pozemek potřebný pro nezbytnou cestu. Tehdy se cena stanoví nejen se zřetelem k ceně postoupeného pozemku, ale i s ohledem na znehodnocení zbývajícího nemovitého majetku dotčeného vlastníka.
 >
-> ###### Vyvlastnění a omezení vlastnického práva
-
 
 **Klíčový institut** pro pozemky **bez přístupu k veřejné cestě**.
 
@@ -568,16 +539,17 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 ### § 1037—1039 — Vyvlastnění
 
+**§ 1037**:
 > Ve stavu nouze nebo v naléhavém veřejném zájmu lze na nezbytnou dobu a v nezbytné míře použít vlastníkovu věc, pokud účelu nelze dosáhnout jinak.
 
+**§ 1038**:
 > Ve veřejném zájmu, který nelze uspokojit jinak, a jen na základě zákona lze vlastnické právo omezit nebo věc vyvlastnit.
 
+**§ 1039**:
 > (1) Za omezení vlastnického práva nebo vyvlastnění věci náleží vlastníkovi plná náhrada odpovídající míře, v jaké byl jeho majetek těmito opatřeními dotčen.
 >
 > (2) Náhrada se poskytuje v penězích. Lze ji však poskytnout i jiným způsobem, pokud si to strany ujednají.
 >
-> ###### Ochrana vlastnického práva
-
 
 **§ 1037 — Stav nouze nebo naléhavý veřejný zájem**: použití věci na **nezbytnou dobu** v **nezbytné míře** (typicky při povodni, požáru, epidemii).
 
@@ -593,8 +565,27 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 
 ### § 1040—1044 — Ochrana vlastnictví
 
-**§ 1040 — Vindikační žaloba** (*rei vindicatio*):
+**§ 1040**:
 > Kdo věc neprávem zadržuje, může být vlastníkem žalován, aby ji vydal.
+
+**§ 1041**:
+> (1) Kdo se domáhá, aby mu věc byla vydána, musí ji popsat takovými znaky, kterými se rozeznává od jiných věcí téhož druhu.
+>
+> (2) Vydání movité věci, kterou nelze rozeznat podle odstavce 1, zejména jedná-li se o peníze nebo o cenné papíry na doručitele smíšené s jinými věcmi téhož druhu, se lze domáhat, jen lze-li z okolností seznat vlastnické právo osoby, jež právo uplatňuje, a nedostatek dobré víry osoby, na níž je požadováno vydání věci.
+
+**§ 1042**:
+> Vlastník se může domáhat ochrany proti každému, kdo neprávem do jeho vlastnického práva zasahuje nebo je ruší jinak než tím, že mu věc zadržuje.
+>
+
+**§ 1043**:
+> (1) Na toho, kdo nabyl držby vlastnického práva poctivě, řádně a pravým způsobem, se hledí jako na vlastníka proti tomu, kdo mu věc zadržuje či ho jinak ruší, aniž k tomu má právní důvod, nebo pokud k tomu má právní důvod stejně silný či slabší.
+>
+> (2) Nabyl-li někdo držby vlastnického práva bezúplatně a jiný za úplatu, považuje se bezúplatné nabytí za slabší právní důvod.
+
+**§ 1044**:
+> Má-li někdo věc u sebe, aniž mu svědčí domněnka podle § 1043, může uplatnit právo náležející vlastníku na ochranu svým vlastním jménem.
+
+>
 
 Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc bez právního důvodu zadržuje.
 
@@ -635,8 +626,6 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 >
 > (2) Nevykonává-li vlastník vlastnické právo k nemovité věci po dobu deseti let, má se za to, že ji opustil.
 >
-> ###### Nález
-
 
 **§ 1045**:
 - (1) **Věc, která nikomu nepatří**, lze přivlastnit (kromě zákonných výjimek). **Movitá věc opuštěná** (*derelictio*) — nikomu nepatří;
@@ -657,7 +646,6 @@ Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc b
 #### § 1051—1065 — Nález
 
 > Má se za to, že si každý chce podržet své vlastnictví a že nalezená věc není opuštěná. Kdo věc najde, nesmí ji bez dalšího považovat za opuštěnou a přivlastnit si ji.
-
 
 **Klíčové instituty:**
 

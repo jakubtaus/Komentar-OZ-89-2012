@@ -37,9 +37,11 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 
 ### § 772—773 — Linie a stupně příbuzenství
 
-§ 772: (1) Osoby jsou příbuzné v linii přímé, pochází-li jedna od druhé.
+**§ 772**:
 > (2) Osoby jsou příbuzné ve vedlejší linii, mají-li společného předka, ale přitom nepocházejí jedna od druhé.
 
+**§ 773**:
+> Stupeň příbuzenství mezi dvěma osobami se určuje podle počtu zrození, jimiž v linii přímé pochází jedna od druhé a ve vedlejší linii obě od svého nejbližšího společného předka.
 § 773: Stupeň příbuzenství mezi dvěma osobami se určuje podle počtu zrození, jimiž v linii přímé pochází jedna od druhé a ve vedlejší linii obě od svého nejbližšího společného předka.
 
 **Výklad:**
@@ -138,7 +140,6 @@ OZ obsahuje **klasickou kaskádu tří domněnek otcovství** (paralela k Code c
 >
 > (4) Jde-li o řízení o neplatnost manželství, použijí se odstavce 1 až 3 obdobně.
 
-
 Pokud se dítě narodí **mezi zahájením řízení o rozvod a 300 dnem po rozvodu** a manžel matky **prohlásí, že není otcem**, zatímco jiný muž **prohlásí, že je**, + matka se připojí → otcem je **tento jiný muž**.
 
 **Procesní rámec**: prohlášení **před soudem, matrikou nebo zastupitelským úřadem**, do **1 roku** od narození dítěte. Nelze určit dřív než po pravomocném rozvodu.
@@ -209,7 +210,6 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 > Matka může do šesti měsíců od narození dítěte popřít, že otcem dítěte je její manžel. Ustanovení o popření otcovství manželem platí obdobně.
 
-
 **§ 785 — Popření manželem**:
 - **Lhůta subjektivní**: **6 měsíců** od zjištění důvodných pochybností;
 - **Lhůta objektivní**: **6 let** od narození dítěte;
@@ -236,7 +236,6 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 
 > Matka dítěte může popřít, že otcem dítěte je muž, jehož otcovství bylo určeno souhlasným prohlášením rodičů, a to ve lhůtách stanovených v § 790 odst. 1 větě druhé.
 
-
 **§ 790 — Popření mužem**, jehož otcovství bylo určeno **souhlasným prohlášením**:
 - **Jen pokud je vyloučeno otcovství** (zpravidla DNA);
 - **Lhůta 6 měsíců** od souhlasného prohlášení (u prenatálního prohlášení: 6 měsíců po narození).
@@ -248,15 +247,9 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 > Je-li návrh na popření otcovství podán po uplynutí popěrné lhůty, může soud rozhodnout, že zmeškání lhůty promíjí, pokud to vyžadují zájem dítěte a veřejný pořádek.
 
 > Vyžaduje-li to zřejmý zájem dítěte a mají-li být naplněna ustanovení zaručující základní lidská práva, může soud i bez návrhu zahájit řízení o popření otcovství, bylo-li otcovství určeno souhlasným prohlášením rodičů, ale otec dítěte takto určený nemůže být jeho otcem. Soud zpravidla současně pozastaví výkon rodičovské odpovědnosti.
->
-> ##### Oddíl 2
->
-> ###### Osvojení
->
-> ###### Pododdíl 1
->
-> ###### Osvojení, osvojitel a osvojované dítě
 
+>
+>
 
 **§ 792 — Prominutí zmeškání lhůty**: soud **může promíjet zmeškání popěrné lhůty**, pokud to vyžaduje **zájem dítěte + veřejný pořádek**.
 
@@ -275,7 +268,6 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 > Osvojením se rozumí přijetí cizí osoby za vlastní.
 
 > Předpokladem osvojení je takový vztah mezi osvojitelem a osvojencem, jaký je mezi rodičem a dítětem, nebo že tu jsou alespoň základy takového vztahu. Osvojení nezletilého musí být v souladu s jeho zájmy.
-
 
 § 794: Osvojením se rozumí přijetí cizí osoby za vlastní.
 
@@ -299,7 +291,6 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 > Na základě rozhodnutí soudu o osvojení se osvojitel, popřípadě osvojitelé, zapíší do matriky jako rodič, popřípadě rodiče dítěte.
 
 > Z činností souvisejících se zprostředkováním osvojení nesmí nikdo získat nepatřičný zisk.
-
 
 **§ 796 — Soudní rozhodnutí**:
 - **Nezletilý** — na návrh osoby, která chce osvojit;
@@ -325,7 +316,6 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 > Osvojit lze nezletilé dítě, které nenabylo plné svéprávnosti.
 
 > Mezi osvojitelem a osvojovaným dítětem musí být přiměřený věkový rozdíl, zpravidla ne menší než šestnáct let; jen souhlasí-li s osvojením opatrovník zastupující dítě v řízení a je-li osvojení v souladu se zájmy dítěte, může být věkový rozdíl mezi osvojitelem a osvojovaným dítětem výjimečně menší než šestnáct let.
-
 
 **§ 799 — Osvojitel**:
 - **Zletilá a svéprávná** osoba;
@@ -410,8 +400,6 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 >
 > (2) Odůvodňují-li to okolnosti případu, nařídí soud i bez návrhu nad osvojitelem a osvojencem dohled na dobu nezbytně nutnou, jejíž délku zároveň určí; dohled vykonává zpravidla prostřednictvím orgánu sociálně-právní ochrany dětí.
 >
-> ###### Zrušení osvojení
-
 
 **Příjmení**: osvojenec **získává příjmení osvojitele**; lze připojit dosavadní příjmení.
 
@@ -442,11 +430,6 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 > Je-li to v souladu se zájmy dítěte, může soud na návrh osvojitele rozhodnout i před uplynutím doby tří let od rozhodnutí o osvojení, že je osvojení nezrušitelné.
 
 > Nezrušitelné osvojení nebrání tomu, aby osvojenec byl opětovně osvojen.
->
-> ###### Pododdíl 5
->
-> ###### Osvojení zletilého
-
 
 **§ 840 — Utajení osvojení**: výjimečně **utajení biologického původu** (na žádost osvojitele); osvojenec má **právo dovědět se** o svém původu po dosažení **12 let** (analogicky judikatura ÚS — právo znát své rodiče).
 
@@ -465,11 +448,6 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 > Je-li to v souladu se zájmy dítěte, může soud na návrh osvojitele rozhodnout i před uplynutím doby tří let od rozhodnutí o osvojení, že je osvojení nezrušitelné.
 
 > Nezrušitelné osvojení nebrání tomu, aby osvojenec byl opětovně osvojen.
->
-> ###### Pododdíl 5
->
-> ###### Osvojení zletilého
-
 
 **§ 843 — Zrušení**:
 - **Důvody zvláštního zřetele hodné** (typicky závažné porušení povinností osvojitelem, zájem dítěte na návratu k biologickým rodičům);
@@ -498,7 +476,6 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 >
 > (3) Ustanovení o osvojení nezletilého, včetně ustanovení o následcích osvojení, se použijí, s výjimkou § 838 a 839, obdobně.
 >
-> ###### Osvojení, které není obdobou osvojení nezletilého
 
 > (1) Není-li to na újmu důležitých zájmů potomků osvojitele nebo potomků osvojovaného, lze osvojit zletilého výjimečně také z důvodů hodných zvláštního zřetele, pokud to je přínosné pro osvojitele a osvojence navzájem, nebo v odůvodněných případech alespoň pro jednoho z nich.
 >
@@ -508,7 +485,6 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 >
 > (2) Osvojenec a jeho potomci nepozbývají osvojením práv ve vlastní rodině.
 >
-> ###### Společná ustanovení pro osvojení zletilého
 
 > (1) Není-li osvojovaný plně svéprávný, jedná za něho zákonný zástupce, popřípadě opatrovník, kterého k tomu jmenuje soud.
 >
@@ -521,7 +497,6 @@ Cíl: ověření **funkčnosti vztahu** před definitivním rozhodnutím.
 > (3) Trvá-li manželství osvojence a mají-li manželé společné příjmení, může osvojenec připojit osvojitelovo příjmení k svému příjmení nebo změnit příjmení na osvojitelovo, popřípadě na příjmení podle § 860, jde-li o společného osvojence, jen se souhlasem svého manžela.
 
 > Osvojení má právní následky pro osvojence a jeho potomky, pokud se narodili později. Pro dříve narozené potomky osvojence má osvojení právní následky, jen když dali k osvojení souhlas.
-
 
 **Předpoklady**:
 - **Příbuznost** s osvojitelem (typicky synovec/neteř);

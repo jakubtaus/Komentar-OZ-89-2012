@@ -214,10 +214,11 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 
 ### § 84—85 — Podoba člověka
 
-§ 84: Zachytit jakýmkoli způsobem podobu člověka tak, aby podle zobrazení bylo možné určit jeho totožnost, je možné jen s jeho svolením.
-§ 85: (1) Rozšiřovat podobu člověka je možné jen s jeho svolením.
-> (2) Svolí-li někdo k zobrazení své podoby za okolností, z nichž je zřejmé, že bude šířeno, platí, že svoluje i k jeho rozmnožování a rozšiřování obvyklým způsobem, jak je mohl vzhledem k okolnostem rozumně předpokládat.
+**§ 84**:
+> Zachytit jakýmkoli způsobem podobu člověka tak, aby podle zobrazení bylo možné určit jeho totožnost, je možné jen s jeho svolením.
 
+**§ 85**:
+> (2) Svolí-li někdo k zobrazení své podoby za okolností, z nichž je zřejmé, že bude šířeno, platí, že svoluje i k jeho rozmnožování a rozšiřování obvyklým způsobem, jak je mohl vzhledem k okolnostem rozumně předpokládat.
 **Výklad:**
 
 **Dvě úrovně souhlasu** — *zachycení* a *šíření*:
@@ -295,9 +296,11 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 
 ### § 88—89 — Zákonné výjimky ze souhlasu
 
-§ 88: (1) Svolení není třeba, pokud se podobizna nebo zvukový či obrazový záznam pořídí nebo použijí k výkonu nebo ochraně jiných práv nebo právem chráněných zájmů jiných osob.
+**§ 88**:
 > (2) Svolení není třeba ani v případě, když se podobizna, písemnost osobní povahy nebo zvukový či obrazový záznam pořídí nebo použijí na základě zákona k úřednímu účelu nebo v případě, že někdo veřejně vystoupí v záležitosti veřejného zájmu.
 
+**§ 89**:
+> Podobizna nebo zvukový či obrazový záznam se mohou bez svolení člověka také pořídit nebo použít přiměřeným způsobem též k vědeckému nebo uměleckému účelu a pro tiskové, rozhlasové, televizní nebo obdobné zpravodajství.
 § 89: Podobizna nebo zvukový či obrazový záznam se mohou bez svolení člověka také pořídit nebo použít přiměřeným způsobem též k vědeckému nebo uměleckému účelu a pro tiskové, rozhlasové, televizní nebo obdobné zpravodajství.
 
 **Výklad:**
@@ -408,9 +411,11 @@ Souhlas zákonného zástupce **musí být v přímém prospěchu** zastoupenéh
 
 ### § 94—95 — Vysvětlení zákroku a nezletilí
 
-§ 94: (1) Kdo chce provést na jiném člověku zákrok, vysvětlí mu srozumitelně povahu tohoto zákroku. Vysvětlení je řádně podáno, lze-li rozumně předpokládat, že druhá strana pochopila způsob a účel zákroku včetně očekávaných následků i možných nebezpečí pro své zdraví, jakož i to, zda přichází v úvahu případně i jiný postup.
+**§ 94**:
 > (2) Uděluje-li souhlas za jiného jeho zákonný zástupce, podá se vysvětlení i tomu, kdo má být zákroku podroben, je-li schopen úsudku, způsobem přiměřeným schopnosti dotčeného vysvětlení pochopit.
 
+**§ 95**:
+> Nezletilý, který není plně svéprávný, může v obvyklých záležitostech udělit souhlas k zákroku na svém těle také sám, je-li to přiměřené rozumové a volní vyspělosti nezletilých jeho věku a jedná-li se o zákrok nezanechávající trvalé nebo závažné následky.
 § 95: Nezletilý, který není plně svéprávný, může v obvyklých záležitostech udělit souhlas k zákroku na svém těle také sám, je-li to přiměřené rozumové a volní vyspělosti nezletilých jeho věku a jedná-li se o zákrok nezanechávající trvalé nebo závažné následky.
 
 **Výklad:**
@@ -475,9 +480,11 @@ Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že s
 
 ### § 98—99 — Souhlas v stavu nouze
 
-§ 98: (1) Nemůže-li člověk udělit souhlas pro neschopnost projevit vůli, byť jen přechodnou, a nemá-li zákonného zástupce, vyžaduje se souhlas přítomného manžela, rodiče, nebo jiné osoby blízké...
+**§ 98**:
 > (2) Při zákroku i při udělení souhlasu se vezme zřetel na dříve vyslovená známá přání člověka, do jehož integrity má být zasaženo.
 
+**§ 99**:
+> Je-li život člověka v náhlém a patrném nebezpečí a nelze-li souhlas ve stavu nouze získat ani v jiné než stanovené formě, lze okamžitě zakročit, pokud to je ve prospěch zdraví dotčené osoby nezbytné.
 § 99: Je-li život člověka v náhlém a patrném nebezpečí a nelze-li souhlas ve stavu nouze získat ani v jiné než stanovené formě, lze okamžitě zakročit, pokud to je ve prospěch zdraví dotčené osoby nezbytné.
 
 **Výklad:**
@@ -500,8 +507,17 @@ Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že s
 
 ### § 100—103 — Souhlas soudu, vysvětlení po zákroku
 
-§ 100: (1) Má-li být zasaženo do integrity nezletilého, který dovršil čtrnáct let, nenabyl plné svéprávnosti a který zákroku vážně odporuje, třebaže zákonný zástupce se zákrokem souhlasí, nelze zákrok provést bez souhlasu soudu...
+**§ 100**:
 > (2) Nesouhlasí-li zákonný zástupce se zásahem do integrity osoby uvedené v odstavci 1, ač si jej tato osoba přeje, lze zákrok provést na její návrh nebo na návrh osoby jí blízké jen se souhlasem soudu.
+
+**§ 101**:
+> Má-li být zasaženo do integrity člověka neschopného úsudku způsobem zanechávajícím trvalé, neodvratitelné a vážné následky nebo způsobem spojeným s vážným nebezpečím pro jeho život nebo zdraví, lze zákrok provést jen s přivolením soudu. Tím není dotčeno ustanovení § 99.
+
+**§ 102**:
+> Soud přivolí k zákroku podle § 100 nebo 101, je-li dotčené osobě podle rozumného uvážení k prospěchu, po jejím zhlédnutí a s plným uznáváním její osobnosti.
+
+**§ 103**:
+> Bylo-li zasaženo do integrity člověka, který byl ve stavu, kdy nemohl posoudit, co se s ním děje, a nedal-li sám k zákroku souhlas, musí mu být, jakmile to jeho stav dovolí, vysvětleno způsobem, kterému bude schopen porozumět, jaký zákrok byl na něm proveden, a musí být poučen o jeho možných následcích i o riziku neprovedení zákroku.
 
 § 101: Má-li být zasaženo do integrity člověka neschopného úsudku způsobem zanechávajícím trvalé, neodvratitelné a vážné následky nebo způsobem spojeným s vážným nebezpečím pro jeho život nebo zdraví, lze zákrok provést jen s přivolením soudu...
 
@@ -579,11 +595,16 @@ Dva principy:
 
 ### § 106—108 — Informování pacienta
 
-§ 106: (1) Poskytovatel zdravotních služeb zajistí, aby se člověku převzatému... dostalo bez zbytečného odkladu náležitého vysvětlení jeho právního postavení, zákonného důvodu učiněného opatření a možností právní ochrany včetně práva zvolit si zmocněnce nebo důvěrníka.
-
-§ 107: (1) Má-li člověk zmocněnce nebo důvěrníka, oznámí poskytovatel zdravotních služeb učiněné opatření zmocněnci nebo důvěrníkovi bez zbytečného odkladu poté, co se o nich dozví.
+**§ 106**:
 > (2) Vysvětlení se podá tak, aby mu člověk mohl dostatečně porozumět a uvědomit si povahu učiněného opatření a jeho následky; má-li takový člověk zákonného zástupce, opatrovníka nebo podpůrce, podá se vysvětlení bez zbytečného odkladu také jemu.
 
+**§ 107**:
+> (1) Má-li člověk zmocněnce nebo důvěrníka, oznámí poskytovatel zdravotních služeb učiněné opatření zmocněnci nebo důvěrníkovi bez zbytečného odkladu poté, co se o nich dozví.
+>
+> (2) Důvěrník může uplatnit ve prospěch člověka svým jménem všechna jeho práva vzniklá v souvislosti s jeho převzetím do příslušného zařízení nebo s jeho držením v takovém zařízení. Stejná práva jako důvěrník má i podpůrce.
+
+**§ 108**:
+> Kdo byl do zařízení poskytujícího zdravotní péči převzat nebo kdo je v něm držen, má právo projednávat se svým zástupcem, důvěrníkem nebo podpůrcem vlastní záležitosti při osobním rozhovoru a bez přítomnosti třetích osob.
 § 108: Kdo byl do zařízení poskytujícího zdravotní péči převzat nebo kdo je v něm držen, má právo projednávat se svým zástupcem, důvěrníkem nebo podpůrcem vlastní záležitosti při osobním rozhovoru a bez přítomnosti třetích osob.
 
 **Výklad:**
@@ -597,16 +618,13 @@ Dva principy:
 
 ### § 109—110 — Nezávislý lékař, právo odmítnout zákrok
 
+**§ 109**:
 > (1) Člověk převzatý do zařízení poskytujícího zdravotní péči nebo držený v takovém zařízení má právo, aby jeho zdravotní stav, zdravotní dokumentaci nebo vyjádření ošetřujícího lékaře o neschopnosti úsudku a projevit přání samostatně přezkoumal lékař nezávislý na poskytovateli zdravotních služeb v tomto zařízení i na jeho provozovateli. Stejné právo má i důvěrník nebo podpůrce.
 >
 > (2) Je-li právo na přezkoumání uplatněno ještě předtím, než soud rozhodne podle § 105 odst. 2, musí být umožněn jeho výkon tak, aby soud mohl zhodnotit výsledky přezkoumání v řízení o přípustnosti učiněného opatření.
 
+**§ 110**:
 > Rozhodl-li soud o přípustnosti učiněného opatření, schvaluje se tím nucený pobyt v zařízení poskytujícím zdravotní péči, tím však neodnímá právo odmítnout určitý zákrok nebo léčebný výkon.
->
-> ###### Pododdíl 5
->
-> ###### Nakládání s částmi lidského těla
-
 
 § 109: (1) Člověk převzatý do zařízení... má právo, aby jeho zdravotní stav, zdravotní dokumentaci nebo vyjádření ošetřujícího lékaře o neschopnosti úsudku a projevit přání samostatně přezkoumal lékař nezávislý na poskytovateli...
 
@@ -635,9 +653,12 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 
 ### § 111—112 — Odňaté části těla
 
-§ 111: (1) Člověk, jemuž byla odňata část těla, má právo dozvědět se, jak s ní bylo naloženo. Naložit s odňatou částí lidského těla způsobem pro člověka nedůstojným nebo způsobem ohrožujícím veřejné zdraví se zakazuje.
+**§ 111**:
 > (2) Odňatou část těla člověka lze za jeho života použít k účelům zdravotnickým, výzkumným nebo vědeckým, pokud k tomu dal souhlas. K použití odňaté části těla člověka k účelu svou povahou neobvyklému se vyžaduje jeho výslovný souhlas vždy.
 > (3) O tom, co má původ v lidském těle, platí obdobně to, co o částech lidského těla.
+
+**§ 112**:
+> Člověk může přenechat část svého těla jinému jen za podmínek stanovených jiným právním předpisem. To neplatí, jedná-li se o vlasy nebo podobné části lidského těla, které lze bezbolestně odejmout bez znecitlivění a které se přirozenou cestou obnovují; ty lze přenechat jinému i za odměnu a hledí se na ně jako na věc movitou.
 
 § 112: Člověk může přenechat část svého těla jinému jen za podmínek stanovených jiným právním předpisem. To neplatí, jedná-li se o vlasy nebo podobné části lidského těla, které lze bezbolestně odejmout bez znecitlivění a které se přirozenou cestou obnovují; ty lze přenechat jinému i za odměnu a hledí se na ně jako na věc movitou.
 
@@ -673,61 +694,19 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 
 ### § 113—114 — Pohřeb a nakládání s tělem zemřelého
 
-§ 113: (1) Člověk má právo rozhodnout, jak bude po jeho smrti naloženo s jeho tělem.
-(2) Provést pitvu nebo použít lidské tělo po smrti člověka bez souhlasu zemřelého lze jen, pokud tak stanoví jiný zákon.
+**§ 113**:
+> (1) Člověk má právo rozhodnout, jak bude po jeho smrti naloženo s jeho tělem.
+>
+> (2) Provést pitvu nebo použít lidské tělo po smrti člověka bez souhlasu zemřelého lze jen, pokud tak stanoví jiný zákon.
 
-§ 114: (1) Člověk je oprávněn rozhodnout, jaký má mít pohřeb. Nezanechá-li o tom výslovné rozhodnutí, rozhodne o jeho pohřbu manžel zemřelého, a není-li ho, děti zemřelého; není-li jich, pak rozhodnou rodiče a není-li jich, sourozenci zemřelého; nežijí-li, pak rozhodnou jejich děti a není-li ani jich, pak kterákoli z osob blízkých; není-li žádná z těchto osob, pak rozhodne obec, na jejímž území člověk zemřel.
-(2) Náklady pohřbu a opatření pohřebiště se hradí z pozůstalosti. Pokud pozůstalost nestačí ke krytí nákladů toho způsobu pohřbu, jaký si zesnulý přál, musí být pohřben alespoň slušným způsobem podle místních zvyklostí.
-(3) Jiný právní předpis stanoví, jakým způsobem a na čí náklady bude pohřben člověk, jehož pozůstalost ke krytí nákladů pohřbu nestačí a není-li nikdo ochoten uhradit náklady pohřbu dobrovolně.
+**§ 114**:
+> (1) Člověk je oprávněn rozhodnout, jaký má mít pohřeb. Nezanechá-li o tom výslovné rozhodnutí, rozhodne o jeho pohřbu manžel zemřelého, a není-li ho, děti zemřelého; není-li jich, pak rozhodnou rodiče a není-li jich, sourozenci zemřelého; nežijí-li, pak rozhodnou jejich děti a není-li ani jich, pak kterákoli z osob blízkých; není-li žádná z těchto osob, pak rozhodne obec, na jejímž území člověk zemřel.
+>
+> (2) Náklady pohřbu a opatření pohřebiště se hradí z pozůstalosti. Pokud pozůstalost nestačí ke krytí nákladů toho způsobu pohřbu, jaký si zesnulý přál, musí být pohřben alespoň slušným způsobem podle místních zvyklostí.
+>
+> (3) Jiný právní předpis stanoví, jakým způsobem a na čí náklady bude pohřben člověk, jehož pozůstalost ke krytí nákladů pohřbu nestačí a není-li nikdo ochoten uhradit náklady pohřbu dobrovolně.
 
-**Výklad:**
-
-**§ 113 — autonomie zemřelého**:
-- **Právo rozhodnout o naložení s tělem** — předem (ústně, písemně, závětí). Tato vůle je závazná pro pozůstalé;
-- **Pitva / použití těla bez souhlasu** — jen na základě zákona. Klíčové zákony:
-  - Zákon č. 372/2011 Sb. o zdravotních službách — soudní pitva, klinická pitva (pro určení příčiny smrti);
-  - Zákon č. 285/2002 Sb. o transplantacích — **systém presumovaného souhlasu** (odběr orgánů ze zemřelého možný, pokud nevyjádřil za života nesouhlas v registru — Národní registr osob nesouhlasících s posmrtným odběrem tkání a orgánů);
-  - Zákon č. 89/2017 Sb. o souborech archeologických lidských pozůstatků.
-
-**§ 114 — pohřeb**:
-
-**Primární vůle zemřelého** (odst. 1 věta první) — typ pohřbu (kremace vs. uložení do hrobu), místo, obřad, hudba, ošacení.
-
-**Kaskáda rozhodujících osob** (pokud zemřelý nezanechal pokyny):
-1. Manžel;
-2. Děti zemřelého;
-3. Rodiče;
-4. Sourozenci;
-5. Děti sourozenců (synovci, neteře);
-6. Kterákoli osoba blízká;
-7. **Obec, na jejímž území zemřel** (subsidiárně).
-
-**Financování** (odst. 2):
-- **Primárně z pozůstalosti** — náklady pohřbu jsou **dluhem pozůstalosti** (§ 1701 — pohledávky proti pozůstalosti, prioritní postavení);
-- Pokud pozůstalost nestačí na typ pohřbu přání zemřelého → alespoň slušný pohřeb podle místních zvyklostí;
-- Pokud pozůstalost vůbec nestačí → § 114 odst. 3 → speciální zákon.
-
-**Pohřební zákon č. 256/2001 Sb.** — § 5 a násl. — obec, na jejímž území člověk zemřel, **má povinnost zajistit pohřbení**, není-li nikdo ochoten. Náklady hradí stát (z rozpočtu MMR), pokud nelze získat náhradu z pozůstalosti nebo od osob povinných výživou.
-
----
-
-## Shrnutí kapitoly
-
-Kapitola 04 představuje **klíčové instituty ochrany osobnosti** — od jména a bydliště, přes podobu a soukromí, až po integritu tělesnou (informované souhlasy s lékařskými zákroky, nucené hospitalizace) a posmrtnou ochranu.
-
-**Klíčové instituty:**
-
-1. **Právo ke jménu** (§ 77—79) — užívání, ochrana, pseudonym;
-2. **Bydliště** (§ 80) — materiální koncepce (animus + corpus); klauzule důvěry v uvedené místo;
-3. **Generální klauzule ochrany osobnosti** (§ 81—82) — demonstrativní výčet, žaloba zápůrčí + restitutivní + na peněžitou satisfakci;
-4. **Podoba a soukromí** (§ 84—90) — dva souhlasy (zachycení + šíření); odvolatelnost; výjimky zpravodajské licence; korektiv § 90;
-5. **Informovaný souhlas** (§ 93—97) — tři podmínky (vědomí povahy + následků + svobodný); limit autonomie u závažné újmy; písemná forma u amputací, pokusů, kosmetiky bez indikace; odvolatelnost v jakékoli formě;
-6. **Souhlas v krizi** (§ 98—99) — kaskáda náhradního souhlasu; okamžité zakročení (zlatá hodina);
-7. **Soudní přivolení k zákroku** (§ 100—102) — konflikt nezletilého ≥14 let s rodičem; zákroky s trvalými následky u osob neschopných úsudku;
-8. **Nedobrovolná hospitalizace** (§ 104—110) — subsidiarita, lhůta 24 hodin oznámení soudu + 7 dnů na rozhodnutí; pravo na druhý lékařský názor; oddělené souhlasy s pobytem a se zákrokem;
-9. **Části lidského těla** (§ 111—112) — kogentní pravidla, výjimka pro obnovující se části (vlasy = movitá věc);
-10. **Tělo po smrti** (§ 113—114) — autonomie zemřelého, presumovaný souhlas s transplantacemi, kaskáda rozhodujících osob o pohřbu.
-
----
+>
+>
 
 > Konec kapitoly 04. Pokračování: kapitola 05 — Hlava II Díl 3 (Oddíl 1—2): Právnické osoby obecně — ustavení, vznik, název, sídlo, orgány, jednání za PO, zrušení a zánik (§ 118—209).

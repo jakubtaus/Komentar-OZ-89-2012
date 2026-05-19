@@ -21,7 +21,6 @@ Hlava IV vymezuje **pojem věci v právním smyslu** a její dělení. Tato úpr
 
 > Věc v právním smyslu (dále jen „věc“) je vše, co je rozdílné od osoby a slouží potřebě lidí.
 
-
 Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby a slouží potřebě lidí.
 
 **Výklad:**
@@ -293,7 +292,6 @@ Věc v právním smyslu (dále jen „věc") je vše, co je rozdílné od osoby 
 ### § 502 — Obchodní závod
 
 > Obchodní závod (dále jen „závod“) je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
-
 
 Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který podnikatel vytvořil a který z jeho vůle slouží k provozování jeho činnosti. Má se za to, že závod tvoří vše, co zpravidla slouží k jeho provozu.
 
@@ -567,7 +565,6 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 
 > Je-li z cenného papíru zavázána osoba odlišná od emitenta a poruší-li svou povinnost, nahradí emitent škodu z toho vzniklou.
 
-
 **§ 515 — Obsah listiny**: pokud cenný papír není standardní druh, musí obsahovat **odkaz na emisní podmínky** + **údaj o emitentovi**.
 
 **§ 516 — Zastupitelnost**: cenné papíry **téhož druhu, emitenta, formy, se stejnými právy** jsou **zastupitelné** (např. všechny akcie téže emise). **Podpis lze nahradit otiskem** + ochranné prvky.
@@ -607,7 +604,6 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 >
 > (2) Ten, do jehož práva bylo zasaženo tím, že nebyly dodrženy náležitosti postupu při vydání cenného papíru nebo že se cenný papír nestal vlastnictvím prvého nabyvatele stanoveným způsobem, má právo na náhradu škody vůči emitentovi i vůči osobě, která v této záležitosti jednala jménem emitenta nebo na jeho účet, za podmínek stanovených tímto zákonem.
 
-
 **§ 519 — Datum emise**: den, kdy může být cenný papír vydán prvnímu nabyvateli. **Emisní podmínky** vymezují práva, povinnosti, údaje o emisi.
 
 **§ 520 — Vydání**: den, kdy cenný papír splní náležitosti **A** stane se vlastnictvím prvého nabyvatele. **Emisní kurs** = cena, za kterou emitent vydává.
@@ -637,11 +633,6 @@ Obchodní závod (dále jen „závod") je organizovaný soubor jmění, který 
 > (2) Vlastník hromadné listiny má právo na její výměnu za jednotlivé cenné papíry; určí-li emitent podmínky pro její výměnu, pak při splnění těchto podmínek.
 >
 > (3) Práva z hromadné listiny nelze převodem dělit na podíly. To neplatí, pokud došlo k imobilizaci cenného papíru při jeho hromadné úschově; v tom případě musí takový podíl odpovídat jednotlivým cenným papírům, které jsou hromadnou listinou nahrazovány.
->
-> ##### Oddíl 2
->
-> ###### Zaknihované cenné papíry
-
 
 **§ 522 — Stejnopisy**: musí být **číslovány**, jinak každý je samostatným cenným papírem. **Plnění na jeden = zánik všech**.
 

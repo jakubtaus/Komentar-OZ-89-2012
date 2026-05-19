@@ -80,14 +80,15 @@ Příklad: zánik smlouvy o dílo + vznik práva na zaplacení ceny → současn
 
 ### § 602—604 — Doba splnění, omezené trvání, změna stran
 
+**§ 602**:
 > Má-li se právo vykonat nebo povinnost splnit v určitý den nebo do určitého dne, vyžaduje se, aby se tak stalo v obvyklou denní dobu, ledaže něco jiného plyne ze zvyklostí, ze zavedené praxe stran, popřípadě ze zvláštních okolností případu.
 
+**§ 603**:
 > Práva a povinnosti zaniknou uplynutím doby, na kterou byly omezeny.
 
+**§ 604**:
 > Změna v osobě věřitele nebo dlužníka nemá vliv na běh doby nebo lhůty.
 >
-> ##### Počítání času
-
 
 **§ 602 — Obvyklá denní doba**: má-li se právo vykonat / povinnost splnit v určitý den nebo do určitého dne, **v obvyklou denní dobu** (např. během pracovní doby), ledaže zvyklosti nebo praxe stran stanoví jinak.
 
@@ -127,26 +128,20 @@ Příklady:
 
 ### § 606—608 — Polovina měsíce, soboty a kratší jednotky
 
+**§ 606**:
 > (1) Polovinou měsíce se rozumí patnáct dnů a středem měsíce jeho patnáctý den.
 >
 > (2) Je-li lhůta nebo doba určena na jeden nebo více měsíců a část měsíce, počítá se část měsíce naposled.
 
+**§ 607**:
 > Připadne-li poslední den lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty pracovní den nejblíže následující.
 
+**§ 608**:
 > Lhůta nebo doba určená v kratších časových jednotkách, než jsou dny, se počítá od okamžiku, kdy začne, do okamžiku, kdy skončí.
->
-> #### Díl 3
->
-> ##### Promlčení a prekluze
->
-> ##### Oddíl 1
->
-> ###### Promlčení
->
-> ###### Pododdíl 1
->
-> ###### Všeobecná ustanovení
 
+>
+
+>
 
 **§ 606 — Polovina měsíce**:
 - **15 dnů** = polovina měsíce;
@@ -222,7 +217,6 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 
 > Nepromlčuje se vlastnické právo ani právo domáhat se rozdělení společné věci, právo na zřízení nezbytné cesty a právo na vykoupení reálného břemene.
 
-
 **§ 611**: promlčují se **všechna majetková práva** (default). **Nemajetková práva** se promlčují, **jen pokud zákon stanoví**.
 
 **§ 612 — Osobnostní práva**: u osobnostních práv (život, důstojnost, jméno, zdraví, vážnost, čest, soukromí) se **promlčují jen práva na odčinění újmy** — nikoliv samotná osobnostní práva (která trvají po celý život).
@@ -251,8 +245,6 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 
 > Promlčí-li se právo zapsané ve veřejném seznamu nebo v rejstříku zástav, vymaže z něj promlčené právo ten, kdo veřejný seznam nebo rejstřík zástav vede, na návrh osoby, která má na výmazu právní zájem.
 >
-> ###### Počátek promlčecí lhůty
-
 
 **§ 615 — Zástavní právo**: **nepromlčí se dříve než pohledávka**. I po promlčení pohledávky se může věřitel **uspokojit ze zástavy** (zástavní právo dál existuje). Movitá zástava u věřitele = nepromlčení zástavního práva (vlastnické pojetí).
 
@@ -292,7 +284,6 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 
 > Jedná-li se o újmu na zdraví nezletilého, který není plně svéprávný, počne promlčecí lhůta nejdříve běžet, až se nezletilý stane plně svéprávným. Nenabude-li plné svéprávnosti, nepočne promlčecí lhůta běžet, dokud mu po dovršení zletilosti nebude jmenován opatrovník.
 
-
 **§ 620 — Škoda / újma**: vědomost o **škodě + osobě povinné** k náhradě. **§ 620 odst. 2 — Vada výrobku** (§ 2939): vědomost o škodě + vadě + totožnosti výrobce.
 
 **§ 621 — Bezdůvodné obohacení**: vědomost o **vzniku BO + osobě povinné** vydat.
@@ -312,13 +303,8 @@ Příklad: lhůta končí v sobotu 5. 12. → ve skutečnosti **pondělí 7. 12.
 > Má-li být podle zvyklosti nebo podle praxe, kterou strany mezi sebou zavedly, pohledávka vyrovnána na základě vyúčtování předkládaného koncem určitého období, počne promlčecí lhůta běžet ode dne následujícího po konci období, kdy vyúčtování mělo být předloženo.
 
 > U práva, které musí být uplatněno nejprve u příslušné osoby, počne promlčecí lhůta běžet ode dne, kdy u ní bylo právo takto uplatněno.
->
-> ###### Pododdíl 2
->
-> ###### Délka promlčecí lhůty
->
-> ###### Obecná ustanovení
 
+>
 
 **§ 623 — Dílčí plnění**: lhůta pro každé dílčí plnění **ode dne jeho dospělosti** (samostatně). Při dospění **celého dluhu** pro nesplnění dílčího → lhůta pro celý dluh ode dne nesplnění.
 
@@ -375,7 +361,6 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 
 > Bylo-li právo zapsáno do veřejného seznamu, promlčí se za deset let ode dne, kdy mohlo být vykonáno poprvé.
 
-
 **§ 631 — Práva ve veřejném seznamu**: 10 let od prvního možného výkonu.
 
 **§ 632 — Nepřetržitě / opakovaně vykonávaná práva** (typicky věcná břemena): 10 let bez výkonu = promlčení. Pro **zřídka vykonávaná** — alespoň 3 příležitosti v 10 letech.
@@ -419,7 +404,6 @@ Příklad: dlužník zamlčí dluh; věřitel se dozví **po 12 letech** → **o
 > Vyžaduje-li se, aby osoba měla zákonného zástupce nebo opatrovníka, počne promlčecí lhůta běžet ohledně práva takové osoby nebo ohledně práva proti ní až ode dne, kdy zákonného zástupce nebo opatrovníka získá. Již započatá lhůta běží dále, avšak neskončí dříve, než uplyne jeden rok po odpadnutí překážky.
 
 > Mezi manžely nepočne promlčecí lhůta běžet ani neběží, dokud manželství trvá. To platí obdobně i pro práva mezi osobami žijícími ve společné domácnosti, mezi zastoupeným a zákonným zástupcem, opatrovancem a opatrovníkem nebo mezi poručencem a poručníkem.
-
 
 **§ 645 — Zákonný zástupce / opatrovník**: lhůta běží **až po jmenování** zástupce / opatrovníka. Pokud již běžela, neskončí dřív než **1 rok po odpadnutí překážky**.
 
@@ -467,11 +451,6 @@ Stejně i pro **exekuci** — navržení exekuce zastaví promlčení vykonateln
 > Promlčecí lhůta neběží po dobu, dokud trvá vyšší moc, která věřiteli v posledních šesti měsících promlčecí lhůty znemožnila právo uplatnit.
 
 > Pokračuje-li běh promlčecí lhůty po odpadnutí některé z překážek uvedených v § 646 až 651, neskončí promlčecí lhůta dříve než za šest měsíců ode dne, kdy začala znovu běžet.
->
-> ###### Pododdíl 4
->
-> ###### Obnovení nároku a běh nové promlčecí lhůty
-
 
 **§ 650 — Hrozba / lest**:
 - **Hrozba** brání věřiteli uplatnit právo → lhůta neběží;

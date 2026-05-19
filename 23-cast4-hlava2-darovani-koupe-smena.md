@@ -41,16 +41,18 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2056—2058 — Slib daru, forma, rozsah
 
+**§ 2056**:
 > Kdo druhému dar jen slíbí, není zavázán darovat, ale ten, kdo slib obdržel, má právo, aby mu slibující nahradil náklady účelně vynaložené v očekávání daru.
 
+**§ 2057**:
 > (1) Při darování věci zapsané do veřejného seznamu vyžaduje smlouva písemnou formu.
 >
 > (2) Písemnou formu vyžaduje smlouva také tehdy, nedojde-li k odevzdání věci zároveň s projevem vůle darovat a přijmout dar. Dárce je zavázán k odevzdání daru, není však povinen platit úrok z prodlení.
 
+**§ 2058**:
 > (1) Dárce může darovat třeba i všechen svůj současný majetek. Smlouva, kterou někdo daruje svůj budoucí majetek, platí jen potud, pokud nepřesahuje polovinu tohoto majetku.
 >
 > (2) Darování věci, kterou dárce nemá, je platné, jen zaváže-li se dárce ve smlouvě věc nabýt.
-
 
 **§ 2056 — Pouhý slib daru**: nezavazuje k darování, ale slibující **hradí náklady** vynaložené v očekávání daru (*culpa in contrahendo*).
 
@@ -153,24 +155,24 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2080—2084 — Cena, náklady, nebezpečí
 
+**§ 2080**:
 > Kupní cena je ujednána dostatečně určitě, je-li ujednán alespoň způsob jejího určení.
 
+**§ 2081**:
 > Náklady spojené s odevzdáním věci v místě plnění nese prodávající. Náklady spojené s převzetím věci nese kupující.
 
+**§ 2082**:
 > (1) Na kupujícího přechází nebezpečí škody na věci současně s nabytím vlastnického práva. Nabude-li kupující vlastnické právo před odevzdáním věci, má prodávající až do odevzdání věci práva a povinnosti schovatele.
 >
 > (2) Při uzavření smlouvy s odkládací podmínkou přechází nebezpečí škody na věci na kupujícího nejdříve dnem splnění podmínky.
 
+**§ 2083**:
 > Tomu, kdo koupí budoucí užitky věci úhrnkem nebo s nadějí na nejisté budoucí užitky, patří všechny užitky řádně vytěžené. Nese však ztrátu, bylo-li jeho očekávání zmařeno.
 
+**§ 2084**:
 > Prodávající upozorní kupujícího při ujednávání kupní smlouvy na vady věci, o nichž ví.
->
-> ###### Pododdíl 2
->
-> ###### Koupě movité věci
->
-> ###### Základní ustanovení
 
+>
 
 **§ 2080 — Cena**: dostatečně určitá, pokud je ujednán **alespoň způsob určení** (např. tržní cena ke dni dodání).
 
@@ -192,16 +194,16 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2085—2086 — Zvláštní pravidla
 
+**§ 2085**:
 > (1) Jako koupě movité věci se posoudí každá koupě, jejímž předmětem není nemovitá věc, jakož i koupě součásti nemovité věci, má-li kupující podle smlouvy nabýt součást po oddělení jako věc movitou.
 >
 > (2) Mají-li strany vůli uzavřít kupní smlouvu bez určení kupní ceny, platí za ujednanou kupní cena, za niž se týž nebo srovnatelný předmět v době uzavření smlouvy a za obdobných smluvních podmínek obvykle prodává.
 
+**§ 2086**:
 > (1) Smlouva o dodání věci, která má být teprve vyrobena, se posoudí jako kupní smlouva, ledaže se ten, komu má být věc dodána, zavázal předat druhé straně podstatnou část toho, čeho je k vyrobení věci zapotřebí.
 >
 > (2) Za kupní smlouvu se nepovažuje smlouva, podle níž převážná část plnění dodavatele spočívá ve výkonu činnosti.
 >
-> ###### Povinnosti prodávajícího
-
 
 **§ 2085**:
 - Vše, co není nemovitost = movitá věc;
@@ -215,7 +217,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 > Prodávající kupujícímu odevzdá věc, jakož i doklady, které se k věci vztahují, a umožní kupujícímu nabýt vlastnického práva k věci v souladu se smlouvou.
 
-
 - **§ 2090 — Místo plnění**: dispozitivně sídlo/bydliště prodávajícího;
 - **§ 2091—2095 — Doklady** o věci, instrukce, návody;
 - **§ 2099 — Vady**: prodávající odpovídá za vady, které **existovaly při převzetí** (případně se projeví ve sledované lhůtě);
@@ -225,6 +226,7 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2106—2108 — Práva z vadného plnění
 
+**§ 2106**:
 > (1) Je-li vadné plnění podstatným porušením smlouvy, má kupující právo
 >
 > - a) na odstranění vady dodáním nové věci bez vady nebo dodáním chybějící věci,
@@ -239,14 +241,15 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 >
 > (3) Nezvolí-li kupující své právo včas, má práva podle § 2107.
 
+**§ 2107**:
 > (1) Je-li vadné plnění nepodstatným porušením smlouvy, má kupující právo na odstranění vady, anebo na přiměřenou slevu z kupní ceny.
 >
 > (2) Dokud kupující neuplatní právo na slevu z kupní ceny nebo neodstoupí od smlouvy, může prodávající dodat to, co chybí, nebo odstranit právní vadu. Jiné vady může prodávající odstranit podle své volby opravou věci nebo dodáním nové věci; volba nesmí kupujícímu způsobit nepřiměřené náklady.
 >
 > (3) Neodstraní-li prodávající vadu věci včas nebo vadu věci odmítne odstranit, může kupující požadovat slevu z kupní ceny, anebo může od smlouvy odstoupit. Provedenou volbu nemůže kupující změnit bez souhlasu prodávajícího.
 
+**§ 2108**:
 > Do odstranění vady nemusí kupující platit část kupní ceny odhadem přiměřeně odpovídající jeho právu na slevu.
-
 
 **Hierarchie nároků** kupujícího (zásadní změna oproti 1964 — bylo limitované):
 
@@ -264,8 +267,10 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2109—2117 — Záruka za jakost
 
+**§ 2109**:
 > Při dodání nové věci vrátí kupující prodávajícímu na jeho náklady věc původně dodanou.
 
+**§ 2110**:
 > Kupující nemůže odstoupit od smlouvy, ani požadovat dodání nové věci, nemůže-li věc vrátit v tom stavu, v jakém ji obdržel. To neplatí,
 >
 > - a) došlo-li ke změně stavu v důsledku prohlídky za účelem zjištění vady věci,
@@ -276,32 +281,36 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 >
 > - d) prodal-li kupující věc ještě před objevením vady, spotřeboval-li ji, anebo pozměnil-li věc při obvyklém použití; stalo-li se tak jen zčásti, vrátí kupující prodávajícímu, co ještě vrátit může, a dá prodávajícímu náhradu do výše, v níž měl z použití věci prospěch.
 
+**§ 2111**:
 > Neoznámil-li kupující vadu věci včas, pozbývá právo odstoupit od smlouvy.
 
+**§ 2112**:
 > (1) Neoznámil-li kupující vadu bez zbytečného odkladu poté, co ji mohl při včasné prohlídce a dostatečné péči zjistit, soud mu právo z vadného plnění nepřizná. Jedná-li se o skrytou vadu, platí totéž, nebyla-li vada oznámena bez zbytečného odkladu poté, co ji kupující mohl při dostatečné péči zjistit, nejpozději však do dvou let po odevzdání věci.
 >
 > (2) K účinkům podle odstavce 1 soud přihlédne jen k námitce prodávajícího, že vada nebyla včas oznámena. Prodávající však nemá právo na námitku, je-li vada důsledkem skutečnosti, o které prodávající v době odevzdání věci věděl nebo musel vědět.
 >
-> ###### Záruka za jakost
 
+**§ 2113**:
 > (1) Záruka za jakost vzniká prohlášením poskytovatele záruky, že kupujícího uspokojí nad rámec jeho zákonných práv z vadného plnění, zejména tím, že mu vrátí kupní cenu, vymění věc nebo ji opraví anebo v této souvislosti poskytne službu, nebude-li mít věc vlastnosti uvedené v prohlášení o záruce.
 >
 > (2) Záruka za jakost vznikne i prohlášením učiněným v reklamě dostupné nejpozději v okamžiku uzavření kupní smlouvy. Je-li obsah záruky obsažený v jiném prohlášení o záruce pro kupujícího méně příznivý než obsah záruky učiněné v reklamě, má přednost obsah uvedený v reklamě, ledaže byl před uzavřením smlouvy dodatečně upraven stejným nebo srovnatelným způsobem, jakým byla reklama učiněna.
 >
 > (3) Ustanovení o záruce za jakost se přiměřeně použijí i na záruku převzatou v souvislosti s jinou než kupní smlouvou.
 
+**§ 2114**:
 > (1) Zaručí-li se poskytovatel záruky, že si věc po určitou dobu při obvyklém použití uchová své funkce a výkonnost, platí, že má kupující ze záruky alespoň právo na dodání nové věci bez vad nebo na opravu věci. Tyto účinky má i uvedení záruční doby nebo doby použitelnosti věci na obalu věci.
 >
 > (2) Určují-li prohlášení o záruce různé záruční doby, platí doba z nich nejdelší; tím není dotčen § 2113 odst. 2.
 
+**§ 2115**:
 > Záruční doba běží od odevzdání věci kupujícímu; byla-li věc podle smlouvy odeslána, běží od dojití věci do místa určení. Má-li koupenou věc uvést do provozu někdo jiný než poskytovatel záruky, běží záruční doba až ode dne uvedení věci do provozu, pokud kupující objednal uvedení do provozu nejpozději do tří týdnů od převzetí věci a řádně a včas poskytl k provedení služby potřebnou součinnost.
 
+**§ 2116**:
 > Kupující nemá právo ze záruky, způsobila-li vadu po přechodu nebezpečí škody na věci na kupujícího vnější událost.
 
+**§ 2117**:
 > Vadu krytou zárukou musí kupující vytknout poskytovateli záruky ve lhůtě určené délkou záruční doby; § 1921 a 1922 se použijí obdobně.
 >
-> ###### Povinnosti kupujícího
-
 
 **Záruka za jakost** (*Beschaffenheitsgarantie*) — **smluvní** nebo **prohlášení v reklamě**:
 - Prodávající se zaváže, že věc bude **po určitou dobu způsobilá** k použití;
@@ -309,48 +318,51 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2118—2127 — Specifická pravidla
 
+**§ 2118**:
 > Kupující zaplatí kupní cenu a věc převezme.
 
+**§ 2119**:
 > (1) Kupující nemusí kupní cenu zaplatit, dokud nemá možnost si věc prohlédnout. To neplatí, byl-li ujednán takový způsob předání věci, který možnost prohlídky vylučuje.
 >
 > (2) Při určení ceny podle hmotnosti se má za to, že rozhoduje čistá hmotnost předmětu koupě.
 
+**§ 2120**:
 > (1) Je-li kupující v prodlení s převzetím věci nebo s placením kupní ceny, uchová prodávající věc, může-li s ní nakládat, pro kupujícího způsobem přiměřeným okolnostem.
 >
 > (2) Převzal-li kupující věc, kterou zamýšlí odmítnout, uchová ji způsobem přiměřeným okolnostem.
 >
 > (3) Kdo uchovává věc pro druhou stranu, může ji zadržet, dokud mu druhá strana neuhradí účelně vynaložené náklady spojené s uchováním věci.
 >
-> ###### Nebezpečí škody na věci
 
+**§ 2121**:
 > (1) Nebezpečí škody přechází na kupujícího převzetím věci.
 >
 > (2) Týž následek má, nepřevezme-li kupující věc, ač mu s ní prodávající umožnil nakládat.
 
+**§ 2122**:
 > Má-li kupující převzít věc od třetí osoby, přechází na něho nebezpečí škody okamžikem, kdy mohl s věcí nakládat, ne však dříve než v době určené jako čas plnění.
 
+**§ 2123**:
 > (1) Předá-li prodávající dopravci věc pro přepravu ke kupujícímu v místě určeném kupní smlouvou, přechází na kupujícího nebezpečí škody předáním věci dopravci v tomto místě, a nebylo-li místo smluveno, předáním prvnímu dopravci pro přepravu do místa určení.
 >
 > (2) Je-li při uzavření smlouvy věc již přepravována, přechází nebezpečí škody na věci na kupujícího předáním věci prvnímu dopravci. Prodávající však nese škodu, k níž došlo před uzavřením smlouvy, a prodávající o ní věděl, anebo o ní vzhledem k okolnostem vědět měl.
 
+**§ 2124**:
 > Nebezpečí škody na věci určené podle druhu nepřejde na kupujícího, který věc nepřevzal, dříve než věc bude pro účel smlouvy dostatečně oddělena a odlišena od jiných věcí téhož druhu.
 
+**§ 2125**:
 > (1) Škoda na věci, vzniklá po přechodu nebezpečí škody na věci na kupujícího, nemá vliv na jeho povinnost zaplatit kupní cenu, ledaže prodávající škodu způsobil porušením své povinnosti.
 >
 > (2) Odstavec 1 se nepoužije, uplatnil-li kupující právo žádat dodání náhradní věci, nebo odstoupil-li od smlouvy.
 >
-> ###### Svépomocný prodej
 
+**§ 2126**:
 > (1) Prodlením strany s převzetím věci vzniká druhé straně právo věc po předchozím upozornění na účet prodlévajícího vhodným způsobem prodat poté, co prodlévajícímu poskytla dodatečnou přiměřenou lhůtu k převzetí.
 >
 > (2) To platí i tehdy, prodlévá-li strana s placením, kterým je předání věci podmíněno.
 
+**§ 2127**:
 > Hrozí-li věci rychlá zkáza a není-li na upozornění čas, není upozornění nutné.
->
-> ###### Pododdíl 3
->
-> ###### Koupě nemovité věci
-
 
 **§ 2118—2122 — Koupě s výhradami** (na zkoušku, podle vzoru atd.);
 
@@ -373,22 +385,20 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2129—2131 — Specifika
 
+**§ 2129**:
 > (1) Kupující má právo na přiměřenou slevu z kupní ceny, nemá-li pozemek výměru určenou v kupní smlouvě. Nemá-li však pozemek výměru zapsanou ve veřejném seznamu, má kupující právo na přiměřenou slevu z kupní ceny, jen bylo-li to ujednáno.
 >
 > (2) Nevytkl-li kupující prodávajícímu skrytou vadu stavby spojené se zemí pevným základem do pěti let od nabytí, soud kupujícímu právo z vadného plnění nepřizná, namítne-li prodávající, že vada nebyla vytknuta včas. Prodávající však nemá právo na námitku, je-li vada důsledkem skutečnosti, o které prodávající v době odevzdání věci věděl nebo musel vědět.
 >
 > (3) Je-li kupujícím spotřebitel a projeví-li se vada v průběhu dvou let od přechodu nebezpečí škody na věci na kupujícího, má se za to, že nemovitá věc byla vadná již při přechodu nebezpečí škody, ledaže to povaha vady vylučuje. Tato doba neběží po dobu, po kterou kupující nemůže věc užívat, v případě, že vadu vytkl oprávněně.
 
+**§ 2130**:
 > Ujednají-li strany, kdy má kupující nemovitou věc převzít, náleží kupujícímu od ujednané doby převzetí plody a užitky nemovité věci. Ve stejné době přejde nebezpečí škody na věci na kupujícího.
 
+**§ 2131**:
 > V ostatním se na smlouvu o koupi nemovité věci použijí přiměřeně ustanovení o koupi movitých věcí.
->
-> ###### Pododdíl 4
->
-> ###### Vedlejší ujednání při kupní smlouvě
->
-> ###### Výhrada vlastnického práva
 
+>
 
 - **§ 2129 — Vady**: odpovědnost prodávajícího za vady; lhůta 5 let pro vady nemovitostí;
 - **§ 2130 — Závady** v právu (kupující v dobré víře přebírá podle zápisu v katastru — § 1107);
@@ -487,36 +497,39 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2176—2183 — Procesní rámec
 
+**§ 2176**:
 > Má se za to, že je kupní cena ujednána na základě údajů o převáděném jmění v účetních záznamech o prodávaném závodu a ve smlouvě ke dni jejího uzavření; má-li smlouva nabýt účinnosti později, mění se kupní cena v závislosti na zvýšení nebo snížení jmění, k němuž došlo v mezidobí.
 
+**§ 2177**:
 > (1) Koupí závodu se kupující stává věřitelem pohledávek a dlužníkem dluhů, které k závodu náleží; z dluhů však kupující přejímá jen ty, o jejichž existenci věděl nebo ji alespoň musel rozumně předpokládat. Neudělil-li věřitel souhlas k převzetí dluhu kupujícím, ručí prodávající za splnění dluhu. Nabytí pohledávek kupujícím se jinak řídí ustanoveními o postoupení pohledávek.
 >
 > (2) Prodávající oznámí bez zbytečného odkladu svým věřitelům a dlužníkům, jejichž pohledávky a dluhy kupující koupí závodu nabyl, že závod prodal a komu.
 
+**§ 2178**:
 > Zakazuje se převést prodejem závodu na kupujícího právo vyplývající z průmyslového nebo jiného duševního vlastnictví, u něhož to vylučuje smlouva, kterou bylo právo prodávajícímu poskytnuto, nebo vylučuje-li to povaha takového práva.
 
+**§ 2179**:
 > (1) V zápisu o předání závodu strany uvedou výčet všeho, co závod zahrnuje a co se kupujícímu předává, jakož i všeho, co chybí, ač to podle smlouvy nebo účetních záznamů závod spoluvytváří. Prodávající nejpozději v zápisu kupujícího upozorní na vady předmětu prodeje, o kterých ví, nebo o kterých vědět měl a mohl.
 >
 > (2) Neuvede-li se v zápisu věc náležející k závodu, nabývá ji kupující společně se závodem. Neuvede-li se v zápisu dluh, kupující jej nabývá, musel-li jeho existenci alespoň rozumně předpokládat.
 
+**§ 2180**:
 > (1) Je-li kupující zapsán ve veřejném rejstříku, nabývá vlastnické právo k závodu jako celku zveřejněním údaje, že uložil doklad o koupi závodu do sbírky listin podle jiného právního předpisu.
 >
 > (2) Není-li kupující zapsán do veřejného rejstříku, nabývá vlastnické právo k závodu jako celku účinností smlouvy.
 >
 > (3) Ustanoveními odstavců 1 a 2 nejsou dotčeny povinnosti zapsat práva k věcem podle jiných právních předpisů, ani omezení vyplývající z licenčních nebo obdobných smluv.
 
+**§ 2181**:
 > Zhorší-li se prodejem závodu dobytnost pohledávky, má věřitel prodávajícího, který s prodejem nesouhlasil, právo domáhat se, aby soud rozhodl, že prodej závodu je vůči němu neúčinný. Toto právo zaniká, neuplatní-li je věřitel do jednoho měsíce ode dne, kdy se o prodeji dozvěděl, nejpozději však do tří let ode dne účinnosti smlouvy.
 
+**§ 2182**:
 > (1) Odstoupí-li některá ze stran od smlouvy, přecházejí na prodávajícího pohledávky a dluhy, které k závodu náleží; z dluhů však prodávající nabývá jen ty, o jejichž existenci věděl nebo ji alespoň musel rozumně předpokládat. Neudělil-li věřitel souhlas k převzetí dluhu prodávajícím, ručí kupující za jeho splnění. Nabytí pohledávek prodávajícím se jinak řídí ustanoveními o postoupení pohledávek.
 >
 > (2) Kupující oznámí svým věřitelům a dlužníkům, jejichž pohledávky a dluhy prodávající nabyl, bez zbytečného odkladu, že závazek zanikl odstoupením od smlouvy.
 
+**§ 2183**:
 > Ustanovení tohoto pododdílu se obdobně použijí i na jiné převody vlastnického práva k závodu a na prodej nebo jiný převod části závodu tvořící samostatnou organizační složku.
->
-> ##### Oddíl 3
->
-> ###### Směna
-
 
 **§ 2176 — Forma**: **písemná** + **podpisy úředně ověřené** (notářský zápis nebo úředně ověřené podpisy);
 
@@ -547,26 +560,24 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2185—2188 — Specifické otázky
 
+**§ 2185**:
 > (1) Dojde-li k nahodilé zkáze věci před přechodem nebezpečí škody na věci, hledí se na smlouvu, jako by nebyla uzavřena. Dojde-li před odevzdáním věci k jejímu nahodilému zhoršení do té míry, že hodnota věci klesne pod polovinu, má druhá strana právo od smlouvy odstoupit.
 >
 > (2) Jiné nahodilé zhoršení věci nebo její postižení břemeny jde k tíži zcizitele; k nepatrnému snížení hodnoty se nepřihlíží.
 >
 > (3) Při směně věcí úhrnkem postihuje nahodilá zkáza nebo nahodilé zhoršení jednotlivých věcí přejímatele, nebyl-li tím jinak celek znehodnocen pod polovinu ceny.
 
+**§ 2186**:
 > Při odeslání věci přechází nebezpečí škody na věci na přejímatele převzetím věci. Určil-li však či schválil, jak mu věc má být odeslána, přechází na přejímatele nebezpečí škody na věci již odesláním.
 
+**§ 2187**:
 > Plody a užitky ze směněné věci náležejí zciziteli až do doby, kdy má podle smlouvy věc odevzdat; od uplynutí této doby náležejí plody a užitky přejímateli, i když mu věc nebyla ještě odevzdána.
 
+**§ 2188**:
 > V ostatním se na směnnou smlouvu přiměřeně použijí ustanovení o kupní smlouvě s tím, že se každá ze stran považuje ohledně věci, kterou směnou dává, za stranu prodávající, a ohledně věci, kterou přijímá, za stranu kupující.
->
-> #### Díl 2
->
-> ##### Přenechání věci k užití jinému
->
-> ##### Oddíl 1
->
-> ###### Výprosa
 
+>
+>
 
 **§ 2185 — Aplikace pravidel o koupi**: na směnu se použijí **přiměřeně** ustanovení o koupi.
 
@@ -596,20 +607,18 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2190—2192 — Účinky
 
+**§ 2190**:
 > (1) Kdo věc výprosníkovi přenechal, může požadovat její vrácení podle libosti.
 >
 > (2) Výprosník nemůže věc vrátit v době, kdy by tím způsobil půjčiteli obtíže, ledaže s tím půjčitel souhlasí.
 
+**§ 2191**:
 > (1) Škodu na věci výprosník půjčiteli nahradí, ledaže prokáže, že věc užíval způsobem přiměřeným její povaze.
 >
 > (2) Dovolil-li výprosník bez souhlasu půjčitele, aby věc užíval někdo jiný, nahradí půjčiteli škodu z toho vzniklou, ledaže by ke škodě došlo i jinak.
 
+**§ 2192**:
 > Nalezne-li se ztracená věc, za niž výprosník již dal náhradu, nenabude tím právo věc si proti vůli půjčitele ponechat, nýbrž věc půjčiteli proti vrácení náhrady vrátí.
->
-> ##### Oddíl 2
->
-> ###### Výpůjčka
-
 
 **§ 2190 — Vrácení**: kdykoli na vyžádání půjčitele.
 

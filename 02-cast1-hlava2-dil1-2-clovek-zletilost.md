@@ -44,9 +44,6 @@ V této kapitole zpracujeme **Díl 1 a začátek Dílu 2** (Oddíl 1 — obecná
 
 > Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát ani zčásti; učiní-li tak, nepřihlíží se k tomu.
 
-
-Právní osobnosti ani svéprávnosti se nikdo nemůže vzdát ani zčásti; učiní-li tak, nepřihlíží se k tomu.
-
 **Výklad:**
 
 § 16 vyjadřuje **inalienabilitu** (nezcizitelnost a nezadatelnost) statusu osoby. Jde o základní hodnotovou tezi: člověk **nemůže smluvně rezignovat na své postavení subjektu práva**, ani jeho části. Toto je hradba proti:
@@ -84,9 +81,6 @@ V takových případech se právo / povinnost **přičte té osobě, které podl
 ### § 18 — Dichotomie fyzických a právnických osob
 
 > Osoba je fyzická, nebo právnická.
-
-
-Osoba je fyzická, nebo právnická.
 
 **Výklad:**
 
@@ -153,9 +147,6 @@ Pro PO veřejného práva platí podle § 20 odst. 2 zásada **subsidiarity OZ**
 
 > Stát se v oblasti soukromého práva považuje za právnickou osobu. Jiný právní předpis stanoví, jak stát právně jedná.
 
-
-Stát se v oblasti soukromého práva považuje za právnickou osobu. Jiný právní předpis stanoví, jak stát právně jedná.
-
 **Výklad:**
 
 § 21 deklaruje, že **stát je v soukromém právu rovnocenným subjektem** ostatním PO. Stát:
@@ -211,9 +202,6 @@ Stát jedná prostřednictvím **organizačních složek** (ministerstva, ÚZSVM
 
 > Člověk má právní osobnost od narození až do smrti.
 
-
-Člověk má právní osobnost od narození až do smrti.
-
 **Výklad:**
 
 § 23 stanoví **časové rozpětí právní osobnosti**: od **narození** (živé narození, § 25) do **smrti** (§ 26 — důkaz smrti).
@@ -229,9 +217,6 @@ Právní osobnost je **automatická a nedělitelná** — vzniká samým narozen
 ### § 24 — Odpovědnost za vlastní jednání
 
 > Každý člověk odpovídá za své jednání, je-li s to posoudit je a ovládnout. Kdo se vlastní vinou přivede do stavu, v němž by jinak za své jednání odpovědný nebyl, odpovídá za jednání v tomto stavu učiněná.
-
-
-Každý člověk odpovídá za své jednání, je-li s to posoudit je a ovládnout. Kdo se vlastní vinou přivede do stavu, v němž by jinak za své jednání odpovědný nebyl, odpovídá za jednání v tomto stavu učiněná.
 
 **Výklad:**
 
@@ -257,9 +242,6 @@ Pokud kterákoliv chybí, **odpovědnost se nezakládá**. To je důležité pro
 ### § 25 — Nasciturus (počaté dítě)
 
 > Na počaté dítě se hledí jako na již narozené, pokud to vyhovuje jeho zájmům. Má se za to, že se dítě narodilo živé. Nenarodí-li se však živé, hledí se na ně, jako by nikdy nebylo.
-
-
-Na počaté dítě se hledí jako na již narozené, pokud to vyhovuje jeho zájmům. Má se za to, že se dítě narodilo živé. Nenarodí-li se však živé, hledí se na ně, jako by nikdy nebylo.
 
 **Výklad:**
 
@@ -304,9 +286,6 @@ Na počaté dítě se hledí jako na již narozené, pokud to vyhovuje jeho záj
 ### § 27 — Současné úmrtí
 
 > Závisí-li právní následek na skutečnosti, že určitý člověk přežil jiného člověka, a není-li jisto, který z nich zemřel jako první, má se za to, že všichni zemřeli současně.
-
-
-Závisí-li právní následek na skutečnosti, že určitý člověk přežil jiného člověka, a není-li jisto, který z nich zemřel jako první, má se za to, že všichni zemřeli současně.
 
 **Výklad:**
 
@@ -381,9 +360,6 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 ### § 31 — Způsobilost nezletilých k právním jednáním
 
 > Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je způsobilý k právním jednáním co do povahy přiměřeným rozumové a volní vyspělosti nezletilých jeho věku.
-
-
-Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je způsobilý k právním jednáním co do povahy přiměřeným rozumové a volní vyspělosti nezletilých jeho věku.
 
 **Výklad:**
 
@@ -466,7 +442,6 @@ Má se za to, že každý nezletilý, který nenabyl plné svéprávnosti, je zp
 **§ 35**:
 > (1) Nezletilý, který dovršil patnáct let, se může zavázat k výkonu závislé práce podle jiného právního předpisu. Jako den nástupu do práce nesmí být sjednán den, který by předcházel dni, kdy nezletilý ukončí povinnou školní docházku.
 > (2) K výkonu závislé práce v období hlavních prázdnin se nezletilý podle § 34 odst. 2 může zavázat jen s písemným souhlasem zákonného zástupce.
-
 **Výklad:**
 
 § 34—35 jsou **soukromoprávní pendant** zákoníku práce (262/2006 Sb. — zejména § 6, § 246—249) a navazují na ústavní zákaz dětské práce (čl. 9 LZPS).

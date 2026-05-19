@@ -72,18 +72,20 @@ Předběžné prohlášení vyžaduje **kvalifikovanou formu**:
 
 ### § 41—44 — Odvolání, podmínky, změna okolností, neplatnost
 
+**§ 41**:
 > (1) K výslovnému odvolání prohlášení se vyžaduje projev vůle učiněný ve formě předepsané v § 39 odst. 1.
 >
 > (2) Zničí-li listinu obsahující prohlášení ten, kdo je učinil, má to účinky odvolání.
 
+**§ 42**:
 > Týká-li se prohlášení jiné záležitosti než povolání opatrovníka a je-li účinnost prohlášení vázána na podmínku, rozhodne o splnění podmínky soud.
 
+**§ 43**:
 > Změní-li se okolnosti zjevně tak podstatným způsobem, že člověk, který prohlášení učinil, by je za takových okolností neučinil nebo by je učinil s jiným obsahem, soud prohlášení změní nebo zruší, pokud by jinak člověku, který prohlášení učinil, hrozila závažná újma. Před vydáním rozhodnutí soud vyvine potřebné úsilí, aby zjistil názor člověka, o jehož prohlášení rozhoduje, a to i za použití takového způsobu dorozumívání, který si člověk zvolí.
 
+**§ 44**:
 > Je-li prohlášení nebo jeho odvolání neplatné, soud k nim přihlédne, není-li příčiny pochybovat o vůli toho, kdo je učinil.
 >
-> ###### Nápomoc při rozhodování
-
 
 § 41: K výslovnému odvolání prohlášení se vyžaduje projev vůle učiněný ve formě předepsané v § 39 odst. 1. Zničí-li listinu obsahující prohlášení ten, kdo je učinil, má to účinky odvolání.
 
@@ -265,11 +267,11 @@ To kopíruje **standard opatrovníka** podle § 467 a násl., ale s mírnější
 
 ### § 53—54 — Pluralita zástupců, zánik zastoupení
 
-§ 53: Má-li zastoupený více zástupců, postačí, pokud jedná jeden z nich. Jedná-li však vůči další osobě více zástupců společně a odporují-li si, nepřihlíží se k projevu žádného z nich.
+**§ 53**:
+> Má-li zastoupený více zástupců, postačí, pokud jedná jeden z nich. Jedná-li však vůči další osobě více zástupců společně a odporují-li si, nepřihlíží se k projevu žádného z nich.
 
-§ 54: (1) Zastoupení zaniká, pokud se jej zástupce vzdá nebo pokud zastoupený odmítne, aby ho zástupce dále zastupoval; k odmítnutí postačí schopnost projevit přání. Zastoupení rovněž zaniká, pokud soud jmenuje zastoupenému opatrovníka.
+**§ 54**:
 > (2) Je-li uzavřena smlouva o nápomoci při rozhodování, zanikne zastoupení účinností smlouvy v rozsahu, v jakém je zastoupený způsobilý právně jednat.
-
 **Výklad:**
 
 **Pluralita** (§ 53): stačí jednání jednoho zástupce; pokud si více zástupců odporují, nepřihlíží se k žádnému z nich. To pokrývá situace rozhádaných rodinných příslušníků.
@@ -398,12 +400,14 @@ Soud má **trvalou aktivní povinnost** sledovat situaci. Pokud se okolnosti zle
 
 ### § 61—63 — Opatrovník
 
+**§ 61**:
 > Rozhoduje-li soud o omezení svéprávnosti člověka, může osoba jím povolaná za opatrovníka navrhnout, aby byla opatrovníkem jmenována; pokud návrh nepodá, zjistí soud její stanovisko. Je-li tato osoba způsobilá k opatrovnictví, soud ji s jejím souhlasem opatrovníkem jmenuje.
 
+**§ 62**:
 > V rozhodnutí o omezení svéprávnosti jmenuje soud člověku opatrovníka. Při výběru opatrovníka přihlédne soud k přáním opatrovance, k jeho potřebě i k podnětům osob opatrovanci blízkých, sledují-li jeho prospěch, a dbá, aby výběrem opatrovníka nezaložil nedůvěru opatrovance k opatrovníkovi.
 
+**§ 63**:
 > Opatrovníkem nelze jmenovat osobu nezpůsobilou právně jednat nebo osobu, jejíž zájmy jsou v rozporu se zájmy opatrovance, ani provozovatele zařízení, kde opatrovanec pobývá nebo které mu poskytuje služby, nebo osobu závislou na takovém zařízení.
-
 
 § 61: Rozhoduje-li soud o omezení svéprávnosti člověka, může osoba jím povolaná za opatrovníka navrhnout, aby byla opatrovníkem jmenována; pokud návrh nepodá, zjistí soud její stanovisko. Je-li tato osoba způsobilá k opatrovnictví, soud ji s jejím souhlasem opatrovníkem jmenuje.
 
