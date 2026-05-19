@@ -32,17 +32,17 @@ Aktuální znění k **1. 1. 2026** (zdroj: lokální výtah z e-Sbírky, soubor
 | [16-cast2-hlava3-porucenstvi.md](16-cast2-hlava3-porucenstvi.md) | II. | III. — Poručenství, opatrovnictví dítěte, svěření do péče jiné osoby, pěstounská péče, ústavní výchova | § 928 – § 975 | ✅ |
 | [17-cast3-hlava1-2-drzba-vlastnictvi.md](17-cast3-hlava1-2-drzba-vlastnictvi.md) | III. | I.—II. — Všeobecná ustanovení, věcná práva, materiální publicita VR, držba, vlastnictví (povaha, sousedské vztahy, imise, nezbytná cesta, vyvlastnění, ochrana, přivlastnění, nález, přírůstek, stavba, počátky vydržení) | § 976 – § 1090 | ✅ |
 | [18-cast3-hlava2-spoluvlastnictvi-svj.md](18-cast3-hlava2-spoluvlastnictvi-svj.md) | III. | II. — Vydržení (řádné + mimořádné), převod, nabytí od neoprávněného, spoluvlastnictví, bytové spoluvlastnictví + SVJ | § 1091 – § 1222 | ✅ |
-| 19-cast3-hlava3-veciprava-zastavni-vecna-bremena.md | III. | III. — Věcná práva k cizí věci: právo stavby, věcná břemena, zástavní právo, zadržovací právo | § 1240 – § 1399 | ⏳ |
-| 20-cast3-hlava4-spravacizimajetku-svereny-fond.md | III. | IV. — Správa cizího majetku, svěřenský fond | § 1400 – § 1474 | ⏳ |
-| 21-cast3-hlava5-dedeni-zakonem.md | III. | III/V. — Dědické právo: pozůstalost, dědická posloupnost, závěť, vydědění, dědická smlouva | § 1475 – § 1720 | ⏳ |
-| 22-cast4-hlava1-zavazky-obecne.md | IV. | I. — Závazky: vznik, společné dluhy, změny v subjektech, započtení, zajištění, zánik | § 1721 – § 2009 | ⏳ |
-| 23-cast4-hlava2-darovani-koupe-smena.md | IV. | II. Díl 1—2 — Darování, koupě (vč. spotřebitelské), směna, výprosa, výpůjčka | § 2055 – § 2230 | ⏳ |
-| 24-cast4-hlava2-najem-podnajem-pacht.md | IV. | II. Díl 2—3 — Nájem (bytu, prostor k podnikání, dopravního prostředku), pacht, ubytování | § 2201 – § 2400 | ⏳ |
-| 25-cast4-hlava2-dilo-prikazni-zprostredkovani.md | IV. | II. Díl 4—9 — Dílo, příkaz, jednatelství bez příkazu, smlouva o úschově, smlouva o účtu, péče o zdraví | § 2430 – § 2654 | ⏳ |
-| 26-cast4-hlava2-doprava-pojisteni-spolecnost.md | IV. | II. Díl 7—9 — Smlouva o přepravě, zasílatelská, pojistná, společnost, tichá společnost, závody na podporu | § 2555 – § 2893 | ⏳ |
-| 27-cast4-hlava3-deliktni-pravo.md | IV. | III. — Závazky z deliktů: náhrada majetkové a nemajetkové újmy, odpovědnost zvláštních subjektů | § 2894 – § 2990 | ⏳ |
-| 28-cast4-hlava4-bezduvodne-obohaceni.md | IV. | IV. — Bezdůvodné obohacení | § 2991 – § 3014 | ⏳ |
-| 29-cast5-spolecna-prechodna-zaverecna.md | V. | I.—II. — Ustanovení společná, přechodná a závěrečná, zrušovací | § 3015 – § 3081 | ⏳ |
+| [19-cast3-hlava3-veciprava-zastavni-vecna-bremena.md](19-cast3-hlava3-veciprava-zastavni-vecna-bremena.md) | III. | III. — Věcná práva k cizí věci: právo stavby, věcná břemena, zástavní právo, zadržovací právo | § 1240 – § 1399 | ✅ |
+| [20-cast3-hlava4-spravacizimajetku-svereny-fond.md](20-cast3-hlava4-spravacizimajetku-svereny-fond.md) | III. | IV. — Správa cizího majetku, svěřenský fond | § 1400 – § 1474 | ✅ |
+| [21-cast3-hlava5-dedeni-zakonem.md](21-cast3-hlava5-dedeni-zakonem.md) | III. | III/V. — Dědické právo: pozůstalost, dědická posloupnost, závěť, vydědění, dědická smlouva | § 1475 – § 1720 | ✅ |
+| [22-cast4-hlava1-zavazky-obecne.md](22-cast4-hlava1-zavazky-obecne.md) | IV. | I. — Závazky: vznik, smlouva, spotřebitel, solidarita, změny, zánik, zajištění | § 1721 – § 2054 | ✅ |
+| [23-cast4-hlava2-darovani-koupe-smena.md](23-cast4-hlava2-darovani-koupe-smena.md) | IV. | II. Díl 1—2 — Darování, koupě (vč. spotřebitelské), směna, výprosa, výpůjčka | § 2055 – § 2200 | ✅ |
+| [24-cast4-hlava2-najem-podnajem-pacht.md](24-cast4-hlava2-najem-podnajem-pacht.md) | IV. | II. Díl 2—3 — Nájem (bytu, prostor k podnikání, dopravního prostředku), pacht, ubytování | § 2201 – § 2357 | ✅ |
+| [25-cast4-hlava2-dilo-prikazni-zprostredkovani.md](25-cast4-hlava2-dilo-prikazni-zprostredkovani.md) | IV. | II. Díl 2—6 — Licence, zápůjčka, úvěr, úschova, účet, akreditiv, příkaz, zprostředkování, komise, obchodní zastoupení, dílo, péče o zdraví, zájezd | § 2358 – § 2654 | ✅ |
+| [26-cast4-hlava2-doprava-pojisteni-spolecnost.md](26-cast4-hlava2-doprava-pojisteni-spolecnost.md) | IV. | II. Díl 7—16 — Smlouva o přepravě, kontrolní činnost, zaopatřovací smlouvy, společnost, tichá společnost, pojištění, sázka/hra/los, závody na podporu | § 2550 – § 2893 | ✅ |
+| [27-cast4-hlava3-deliktni-pravo.md](27-cast4-hlava3-deliktni-pravo.md) | IV. | III. — Závazky z deliktů: náhrada majetkové a nemajetkové újmy, odpovědnost zvláštních subjektů | § 2894 – § 2990 | ✅ |
+| [28-cast4-hlava4-bezduvodne-obohaceni.md](28-cast4-hlava4-bezduvodne-obohaceni.md) | IV. | IV. — Bezdůvodné obohacení, nepřikázané jednatelství, upotřebení cizí věci | § 2991 – § 3014 | ✅ |
+| [29-cast5-spolecna-prechodna-zaverecna.md](29-cast5-spolecna-prechodna-zaverecna.md) | V. | I.—II. — Ustanovení společná, přechodná a závěrečná, zrušovací | § 3015 – § 3081 | ✅ |
 
 > Mapa hlav je orientační — přesné rozhraní paragrafů upravím při psaní každé kapitoly podle aktuálního členění (OZ obsahuje desítky vložených paragrafů a má 3 081 paragrafů celkem, což je nejrozsáhlejší kodex českého soukromého práva v historii).
 

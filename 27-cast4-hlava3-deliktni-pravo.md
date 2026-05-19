@@ -1,0 +1,455 @@
+# Kapitola 27 — Část čtvrtá, Hlava III: Závazky z deliktů — náhrada majetkové a nemajetkové újmy, odpovědnost zvláštních subjektů (§ 2894—2990)
+
+## Přehled
+
+**Deliktní právo** (*ius delicti*, *tort law*) je **třetí hlavní zdroj závazků** (vedle smluv a bezdůvodného obohacení) — § 1723. Pokrývá situace, kdy z **protiprávního činu** vzniká povinnost **nahradit újmu**.
+
+| Oddíl | Paragrafy | Téma |
+|---|---|---|
+| Oddíl 1 | § 2894—2908 | **Základní ustanovení** (předcházení újmě, nutná obrana, krajní nouze) |
+| Oddíl 2 Pododdíl 1 | § 2909—2919 | **Obecná povinnost nahradit škodu** (porušení dobrých mravů, zákona, smlouvy) |
+| Oddíl 2 Pododdíl 2 | § 2920—2950 | **Zvláštní skutkové podstaty** (nezletilý, provoz, doprava, zvíře, věc, výrobek) |
+| Oddíl 3 | § 2951—2990 | **Způsob a rozsah náhrady újmy** (majetková, nemajetková, na zdraví, smrt) |
+
+**Klíčové změny oproti starému OZ**:
+- **Generální klauzule náhrady újmy** (§ 2910) místo kazuistických ustanovení;
+- **Bohatá úprava nemajetkové újmy** (§ 2951—2971) — dříve omezeno bodovým systémem;
+- **Výslovná újma za smrt blízké osoby** (§ 2959) — předtím sporné;
+- **Odpovědnost za zvíře** (§ 2933) — výslovně rozšířena;
+- **Vada výrobku** (§ 2939—2943) — transpozice směrnice 85/374/EHS;
+- **Smluvní × deliktní odpovědnost** — jasné rozlišení v § 2913 (smluvní) vs. § 2910 (deliktní/zákonná).
+
+**Filozofie**: OZ se vrací k **rakouské tradici** odpovědnosti za škodu (ABGB § 1294 a násl.) s prvky **moderní deliktní teorie** (objektivní odpovědnost u rizikových činností, ochrana slabší strany).
+
+---
+
+## Oddíl 1 — Základní ustanovení (§ 2894—2908)
+
+### § 2894 — Definice újmy
+
+> (1) Povinnost nahradit jinému újmu zahrnuje vždy povinnost k náhradě újmy na jmění (škody).
+> (2) Nebyla-li povinnost odčinit jinému nemajetkovou újmu výslovně ujednána, postihuje škůdce, jen stanoví-li to zvlášť zákon.
+
+**Dva typy újmy**:
+- **Majetková újma (škoda)** — zmenšení jmění; **vždy** se hradí;
+- **Nemajetková újma** — duševní útrapy, ztížení společenského uplatnění; hradí se jen pokud:
+  - **Zákon to stanoví** (zejména § 2956—2971);
+  - **Strany to výslovně ujednaly**.
+
+**Pozn.**: rozsudek pro nemajetkovou újmu je **„zadostiučinění"** (*Genugtuung*) — typicky peněžitá náhrada.
+
+### § 2895 — Objektivní odpovědnost
+
+> Škůdce je povinen nahradit škodu bez ohledu na své zavinění v případech stanovených zvlášť zákonem.
+
+**Princip subjektivnosti** je výchozí (§ 2910—2913 — vyžadují zavinění). **Výjimka**: **objektivní odpovědnost** (*Erfolgshaftung*) — jen v zákonem stanovených případech:
+- Provozní činnost (§ 2924);
+- Zvlášť nebezpečný provoz (§ 2925);
+- Dopravní prostředky (§ 2927);
+- Zvíře (§ 2933 — částečně);
+- Vada výrobku (§ 2939);
+- Převzatá věc (§ 2944).
+
+### § 2896—2899 — Vyloučení a omezení odpovědnosti
+
+**§ 2896** — Oznámení o vyloučení/omezení odpovědnosti **se nepřihlíží** (např. cedulka "Vstup na vlastní nebezpečí" → bez právního účinku, leda jako **varování**).
+
+**§ 2898 — Předem vyloučená odpovědnost** = **neplatná**, pokud jde o:
+- **Přirozená práva** člověka (život, zdraví, osobnost);
+- **Úmyslnou** nebo **hrubě nedbalou** škodu;
+- **Slabší stranu** (spotřebitel).
+
+**§ 2899 — Riziková volba** — kdo přijal nebezpečí oběti, **nezbavuje se** práva na náhradu (např. dobrovolný záchranář).
+
+### § 2900—2903 — Prevence
+
+> § 2900: Vyžadují-li to okolnosti případu nebo zvyklosti soukromého života, je každý povinen počínat si při svém konání tak, aby nedošlo k nedůvodné újmě na svobodě, životě, zdraví nebo na vlastnictví jiného.
+
+**Generální prevenční povinnost** (*Verkehrssicherungspflicht*):
+- **Každý** je povinen předcházet újmě;
+- **§ 2901** — Aktivní povinnost zakročit u **toho, kdo vytvořil nebezpečnou situaci** nebo má nad ní kontrolu;
+- **§ 2902** — Oznamovací povinnost při hrozícím porušení;
+- **§ 2903** — Sám poškozený **musí zakročit**, jinak nese **kontributorní vina**.
+
+### § 2904 — Náhoda
+
+> Újmu způsobenou náhodou nahradí ten, kdo dal ze své viny k náhodě podnět...
+
+**Zvláštní pravidlo**: pokud někdo svou vinou **dal podnět** k náhodě (porušil příkaz, poškodil zabezpečení) → odpovídá za **náhodou způsobenou újmu**.
+
+### § 2905—2908 — Okolnosti vylučující protiprávnost
+
+**§ 2905 — Nutná obrana** (*Notwehr*):
+- Odvrácení **bezprostředně hrozícího nebo trvajícího protiprávního útoku**;
+- **Bez povinnosti náhrady**, leda:
+  - Hrozila jen **nepatrná újma**;
+  - Obrana byla **zjevně nepřiměřená**.
+
+**§ 2906 — Krajní nouze** (*Notstand*):
+- Odvrácení **přímo hrozícího nebezpečí**;
+- **Bez povinnosti náhrady**, leda:
+  - Bylo **možné odvrátit jinak**;
+  - **Stejně závažný nebo závažnější** následek;
+  - Nebezpečí **vyvolal sám**.
+
+**§ 2907 — Omluvitelné vzrušení** — soud zohlední emocionální stav obránce.
+
+**§ 2908 — Náhrada za záchranu** — kdo odvracel cizí újmu, má **nárok na náhradu nákladů + utrpěné újmy** (proti tomu, v jehož zájmu jednal).
+
+---
+
+## Oddíl 2 — Povinnost nahradit škodu (§ 2909—2950)
+
+### Pododdíl 1 — Obecná ustanovení (§ 2909—2919)
+
+### Tři generální skutkové podstaty
+
+OZ rozlišuje **tři typy škodlivého jednání**:
+
+#### 1) Porušení dobrých mravů (§ 2909)
+
+> Škůdce, který poškozenému způsobí škodu úmyslným porušením dobrých mravů, je povinen ji nahradit; vykonával-li však své právo, je škůdce povinen škodu nahradit, jen sledoval-li jako hlavní účel poškození jiného.
+
+**Klíčové znaky**:
+- **Úmyslné** porušení dobrých mravů (= morální/etické pravidlo);
+- **Jednání ve výkonu vlastního práva** → odpovědnost jen při **šikaně** (jediný účel poškodit).
+
+**Praktický příklad**: úmyslné šíření nepravdivých informací o konkurenci.
+
+#### 2) Porušení zákona (§ 2910)
+
+> Škůdce, který vlastním zaviněním poruší povinnost stanovenou zákonem a zasáhne tak do absolutního práva poškozeného, nahradí poškozenému, co tím způsobil.
+
+**KLÍČOVÁ GENERÁLNÍ KLAUZULE** deliktního práva:
+- **Zavinění** (úmysl nebo nedbalost);
+- **Porušení zákonné povinnosti**;
+- **Zásah do absolutního práva** (život, zdraví, vlastnictví, osobnost, *jus in re*);
+- **Příčinná souvislost** (*causa proxima*);
+- **Vznik újmy**.
+
+**§ 2910 věta druhá**: i porušení **zákonné povinnosti chránící jiné právo** → škůdce odpovídá za škodu z toho vzniklou (např. porušení dopravního předpisu → škoda na vozidle).
+
+#### 3) Porušení smlouvy (§ 2913)
+
+> (1) Poruší-li strana povinnost ze smlouvy, nahradí škodu z toho vzniklou druhé straně nebo i osobě, jejímuž zájmu mělo splnění ujednané povinnosti zjevně sloužit.
+
+**Smluvní odpovědnost** (*kontraktualní*):
+- **Objektivní povaha** (odst. 2 — bez zavinění, kontraktualní princip);
+- **Liberační důvod**: **mimořádná, nepředvídatelná, nepřekonatelná překážka** mimo vůli škůdce (force majeure);
+- **Vyloučení liberace**: překážka **osobních poměrů** škůdce, vzniklá **v prodlení**, smluvně převzatá.
+
+**§ 2914 — Odpovědnost za pomocníky** (*Erfüllungsgehilfen*):
+- Kdo používá zmocněnce/zaměstnance/pomocníka → odpovídá **jako za vlastní jednání**;
+- **Výjimka**: **samostatný podnikatel** — odpovídá sám, ale ručí ten, kdo ho **nepečlivě vybral** nebo **dohlížel**.
+
+### Domněnka nedbalosti
+
+**§ 2911—2912 — Vyvratitelná domněnka nedbalosti**:
+- **§ 2911**: porušení **zákonné** povinnosti → presumpce nedbalosti;
+- **§ 2912 odst. 1**: nejedná-li **jako průměrný člověk** → presumpce nedbalosti;
+- **§ 2912 odst. 2**: **profesionál** (kdo deklaruje zvláštní znalost) → vyšší standard.
+
+### Solidární odpovědnost více škůdců (§ 2915—2917)
+
+**§ 2915 — Solidarita**:
+- Více škůdců → **solidární odpovědnost**;
+- Alternativní kauzalita (každý mohl způsobit s pravděpodobností blízkou jistotě) → také solidárně.
+
+**§ 2916 — Vzájemné vypořádání** — podle **účasti na škodlivém následku**.
+
+**§ 2917 — Regresní nárok** — kdo platil za jiného, má vůči němu regres.
+
+### Spoluzavinění poškozeného (§ 2918)
+
+> Vznikla-li škoda nebo zvětšila-li se také následkem okolností, které se přičítají poškozenému, povinnost škůdce nahradit škodu se poměrně sníží.
+
+**Spoluzavinění** (*kontributorní zavinění*) → **poměrné snížení** náhrady. **Zanedbatelné** spoluzavinění se ignoruje.
+
+### § 2919 — Obohacení po promlčení
+
+Pokud se škůdce **obohatil** a právo poškozeného se promlčelo → poškozený může žádat **vydání obohacení** dle § 2991 a násl. (bezdůvodné obohacení).
+
+---
+
+### Pododdíl 2 — Zvláštní skutkové podstaty (§ 2920—2950)
+
+#### Škoda způsobená nezletilým / duševně postiženým (§ 2920—2922)
+
+**§ 2920 — Schopnost rozumového úsudku** rozhoduje:
+- **Nezletilý ≥13 let** + nezpůsobilý → kombinovaná odpovědnost s dohlížitelem;
+- **Nezletilý ≥13 let** + způsobilý → osobně odpovídá;
+- **Nezletilý <13 let** → odpovídá **dohlížitel** (rodič, škola), ledaže byl **náležitý dohled**.
+
+**§ 2921 — Dohlížitel** odpovídá **solidárně** s nezletilým.
+
+**§ 2922 — Vlastní vinou způsobená neschopnost** (alkohol, drogy) → odpovídá vlastník stavu i ti, kdo jej do něj přivedli.
+
+#### Škoda způsobená osobou nebezpečných vlastností (§ 2923)
+
+Kdo se **vědomě ujme** osoby s nebezpečnými vlastnostmi (poskytne útulek, svěří činnost) **bez nutné potřeby** → solidárně odpovídá za škodu, kterou taková osoba způsobila.
+
+#### Provozní činnost (§ 2924)
+
+> Kdo provozuje závod nebo jiné zařízení sloužící k výdělečné činnosti, nahradí škodu vzniklou z provozu, ať již byla způsobena vlastní provozní činností, věcí při ní použitou nebo vlivem činnosti na okolí. Povinnosti se zprostí, prokáže-li, že vynaložil veškerou péči, kterou lze rozumně požadovat, aby ke škodě nedošlo.
+
+**Provozní odpovědnost** (*Betriebshaftung*) — **objektivní s liberací**:
+- Provozovatel závodu odpovídá za škody **z provozu**;
+- **Liberace**: prokáže **veškerou péči**, kterou lze rozumně požadovat;
+- Typické: hluk, prach, emise, vibrace ze závodu.
+
+#### Zvlášť nebezpečný provoz (§ 2925)
+
+**Zvlášť nebezpečný provoz** (*besonders gefährliche Tätigkeit*):
+- **Provozy, u nichž nelze předem rozumně vyloučit závažnou škodu** ani při řádné péči;
+- **Domněnka**: tovární výroba, použití/nakládání s **výbušnými** látkami;
+- **Liberace**: jen **vyšší moc**, **vlastní jednání poškozeného**, **neodvratitelné jednání třetí osoby**.
+
+**Praktické příklady**: jaderné elektrárny, chemické závody, výroba munice, sklady benzinu/plynu.
+
+#### Škoda na nemovité věci (§ 2926)
+
+Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitosti → odpovídá, **i když oprávněně** prováděl (např. stavební deformace sousedního domu).
+
+#### Provoz dopravních prostředků (§ 2927—2932)
+
+**§ 2927 — Klíčová ustanovení**:
+- **Provozovatel dopravy** + **provozovatel vozidla/plavidla/letadla** odpovídá za škodu **vyvolanou zvláštní povahou provozu**;
+- **Výjimka**: dopravní prostředek **poháněný lidskou silou** (kola, koloběžky bez motoru);
+- **Objektivní** odpovědnost s **přísným** liberačním důvodem (vyšší moc + vyložením veškerého úsilí).
+
+**§ 2929 — Krádež dopravního prostředku**:
+- Použití **bez vědomí/vůle** provozovatele → odpovídá **uživatel**;
+- Pokud provozovatel **z nedbalosti umožnil** → solidárně.
+
+**§ 2930 — Vlastník** je provozovatelem, pokud nelze určit jinou osobu.
+
+**Návazné předpisy**:
+- **Zákon č. 30/2024 Sb. o pojištění odpovědnosti z provozu vozidla** (povinné ručení);
+- **Zákon č. 56/2001 Sb. o podmínkách provozu** vozidel.
+
+#### Zvíře (§ 2933—2935)
+
+**§ 2933** — **Vlastník zvířete** odpovídá za škodu:
+- Bez ohledu, zda zvíře bylo pod dohledem;
+- I když zvíře **uniklo nebo se zatoulalo**;
+- **Solidárně s vlastníkem** odpovídá osoba, které bylo zvíře svěřeno (např. chovatel, opatrovatel).
+
+**§ 2934 — Liberace** pro vlastníka:
+- Zvíře slouží **podnikání, obživě, jako asistenční**;
+- Vlastník **prokáže potřebnou pečlivost** nebo neodvratitelnost.
+
+**§ 2935 — Krádež zvířete** — třetí osoba (zloděj) odpovídá sám.
+
+#### Věc (§ 2936—2938)
+
+**§ 2936 — Vadná věc při plnění** — kdo používá vadnou věc → odpovídá.
+
+**§ 2937 — Věc způsobí škodu sama** (např. spadlá tabule):
+- **Dohlížitel** (nebo **vlastník**) odpovídá;
+- **Liberace**: prokázání **náležitého dohledu**.
+
+**§ 2937 odst. 2 — Pád z budovy** — solidární odpovědnost **uživatele místnosti** + dohlížitele.
+
+**§ 2938 — Zřícení budovy** — vlastník + **předchozí vlastník** (do 1 roku po zániku jeho vlastnictví, pokud o vadě věděl).
+
+#### Vada výrobku (§ 2939—2943)
+
+**Transpozice směrnice 85/374/EHS** o odpovědnosti za vadné výrobky.
+
+**§ 2939 — Odpovědné osoby**:
+- **Výrobce, těžitel, pěstitel**;
+- **Označení svým jménem/známkou** = solidárně;
+- **Dovozce** za účelem uvedení na trh.
+
+**§ 2941 — Vadnost**:
+> Výrobek je vadný, není-li tak bezpečný, jak to od něho lze rozumně očekávat se zřetelem ke všem okolnostem.
+
+**§ 2942 — Liberace** výrobce:
+- Výrobek **na trh neuvedl**;
+- Vada **neexistovala při uvedení** na trh;
+- Výrobek **nevyrobil pro prodej**;
+- Vada je **důsledek závazných předpisů**;
+- **Tehdejší stav vědy** vadu neumožnil zjistit (= "state-of-the-art defense").
+
+**§ 2939 odst. 3 — Limit**: škoda **na věci** se hradí jen v částce **převyšující 500 EUR** (de minimis).
+
+**§ 2943 — Výjimky**: nelze uplatnit, pokud vada poškodila:
+- **Vadný výrobek samotný** (= smluvní odpovědnost);
+- **Věc převážně k podnikatelskému užití**.
+
+#### Převzatá věc (§ 2944)
+
+> Každý, kdo od jiného převzal věc, která má být předmětem jeho závazku, nahradí její poškození, ztrátu nebo zničení, neprokáže-li, že by ke škodě došlo i jinak.
+
+**Klasická *obligatio in custodia*** — schovatel, dopravce, opravář ručí za poškození svěřené věci.
+
+**Liberace**: prokáže, že **škoda by vznikla i jinak** (vyšší moc, nepředvídatelná okolnost).
+
+#### Další zvláštní skutkové podstaty (§ 2945—2950)
+
+- **§ 2945 — Škoda na odložené věci** — kdo provozuje **provozovnu k poskytování služeb**, ručí za odložené věci zákazníků (např. restaurace za kabáty);
+- **§ 2946 — Škoda na vnesených věcech** — provozovatel ubytování (hotel) odpovídá za **vnesené věci** hostů (do **stonásobku** ceny ubytování);
+- **§ 2950 — Odpovědnost profesionála**: kdo **deklaruje členství v profesi** → odpovídá za škodu z **profesní péče**.
+
+---
+
+## Oddíl 3 — Způsob a rozsah náhrady (§ 2951—2990)
+
+### Pododdíl 1 — Obecná ustanovení (§ 2951—2955)
+
+### § 2951—2952 — Způsob náhrady
+
+**§ 2951 — Naturální × peněžitá náhrada**:
+- **Naturální** restituce (*in integrum restitutio*) — uvedení do předešlého stavu;
+- **Peněžitá** náhrada — pokud naturální není možná nebo to není v zájmu poškozeného;
+- **Poškozený volí**.
+
+**§ 2952 — Skutečná škoda + ušlý zisk** (*damnum emergens + lucrum cessans*):
+- **Skutečná škoda** = úbytek hodnoty;
+- **Ušlý zisk** = zmařený rozumně očekávatelný přírůstek hodnoty.
+
+**§ 2953 — Snížení náhrady** soudem (moderace):
+- Z **důvodů zvláštního zřetele**;
+- Zejména **majetkové poměry** škůdce.
+
+### § 2954—2955 — Příčinná souvislost
+
+**Princip causa proxima** — soud vyhodnotí přímý kauzální vztah.
+
+### Pododdíl 2 — Náhrada újmy na přirozených právech člověka (§ 2956—2971)
+
+**NEMAJETKOVÁ ÚJMA** = duševní a tělesné útrapy člověka.
+
+### § 2956—2958 — Bolestné a ztížení společenského uplatnění
+
+**§ 2956 — Náhrada nemajetkové újmy**:
+- Při zásahu do **přirozených práv** (život, zdraví, osobnost, svoboda);
+- **Peněžitá náhrada** v rozsahu, který **plně zaplatí utrpěnou újmu**.
+
+**§ 2958 — Bolestné** (*pretium doloris*):
+- **Bolest a duševní útrapy** v souvislosti s ublížením na zdraví;
+- **Ztížení společenského uplatnění** — trvalé následky;
+- **Metodika NS**: rozhodnutí pléna NS sp. zn. **Cpjn 14/2014** — výpočet bolestného + ZSU.
+
+### § 2959 — Smrt blízké osoby
+
+> Při usmrcení nebo zvlášť závažném ublížení na zdraví odčiní škůdce duševní útrapy manželu, rodiči, dítěti nebo jiné osobě blízké peněžitou náhradou vyvažující plně jejich utrpení. Nelze-li výši náhrady takto určit, stanoví se podle zásad slušnosti.
+
+**KLÍČOVÉ USTANOVENÍ** — **odškodnění duševní újmy za smrt blízké osoby**:
+- **Manžel/manželka, rodič, dítě, jiná blízká osoba**;
+- **„Plně vyvažující utrpení"** — neexistuje pevný strop;
+- **Zásady slušnosti** při určení;
+- Současná judikatura NS: typicky **200—500 tis. Kč pro manžela**, **300—500 tis. pro rodiče dítěte**, **200—400 tis. pro děti rodiče** — s úpravami podle okolností.
+
+### § 2960—2966 — Náhrada nákladů a ztráty výdělku
+
+**§ 2960 — Náklady spojené s péčí** o zdraví (operace, rehabilitace).
+
+**§ 2962—2963 — Ztráta výdělku**:
+- **Po dobu pracovní neschopnosti** = rozdíl mezi výdělkem před a nemocenskou;
+- **Po skončení PN** = rozdíl při sníženém výdělku (typicky renta);
+- **Smrt živitele** — pozůstalí mají právo na **rentu** od škůdce (§ 2966).
+
+**§ 2966 — Renta pozůstalým** — typický nárok manželky, dětí po smrti živitele.
+
+### § 2967—2971 — Další specifika
+
+**§ 2968 — Pojmenování věci** — náhrada zvláštní (sentimentální) hodnoty.
+
+**§ 2969 — Zvláštní příčiny** — soud zvýší náhradu v případech mimořádného utrpení.
+
+**§ 2971 — Náhrada nemajetkové újmy z porušení smluvní povinnosti** — možná, pokud strany **výslovně ujednaly** nebo zákon stanoví.
+
+---
+
+### Pododdíl 3 — Náhrada majetkové újmy (§ 2972—2990)
+
+**§ 2972 — Náhrada škody na věci**:
+- **Obvyklá cena** v době vzniku škody;
+- Plus **účelně vynaložené náklady** na uvedení do předešlého stavu.
+
+**§ 2976—2978 — Náhrada zničených věcí**:
+- **Movitá věc** — obvyklá cena;
+- **Nemovitá věc** — náklady na uvedení do předešlého stavu;
+- **Cenné papíry, autorská díla** — speciální oceňování.
+
+**§ 2980 — Náhrada za poškozenou věc** (oprava, znehodnocení).
+
+### Promlčení nároků z deliktů (§ 619—621, § 636)
+
+**Subjektivní promlčecí lhůta**: **3 roky** od vědomí o škodě a škůdci.
+
+**Objektivní lhůta**:
+- **10 let** od vzniku škody (typicky);
+- **15 let** u úmyslné škody;
+- **Životy/zdraví bez objektivní lhůty** (zranění z asbestu, latentní následky).
+
+---
+
+## Vztah k navazujícím a souvisejícím předpisům
+
+- **Sm. 85/374/EHS o odpovědnosti za vadné výrobky** — transpozice § 2939—2943;
+- **Sm. 2019/1024/EU** — náhrada digitální újmy (data breach);
+- **Zákon č. 30/2024 Sb. o pojištění vozidel** — povinné ručení;
+- **Zákon č. 82/1998 Sb. o odpovědnosti za škodu způsobenou veřejnou mocí** — speciální úprava;
+- **Trestní zákoník č. 40/2009 Sb.** — § 228—232 (poškození cizí věci);
+- **Zákon č. 372/2011 Sb. o zdravotních službách** — odpovědnost za péči o zdraví;
+- **Metodika NS Cpjn 14/2014** — bolestné a ztížení společenského uplatnění;
+- **AI Liability Directive** (návrh sm. EU 2022/0303) — odpovědnost za AI;
+- **ECHR čl. 8** — ochrana osobního života (rezonuje s § 2956—2971).
+
+---
+
+## Klíčové instituty (rychlé odkazy)
+
+### Obecná ustanovení
+- **Definice újmy** — § 2894 (majetková + nemajetková);
+- **Objektivní odpovědnost** — § 2895;
+- **Nemožnost vyloučení** — § 2898 (přirozená práva, úmysl/HN, slabší strana);
+- **Generální prevence** — § 2900—2903;
+- **Nutná obrana** — § 2905;
+- **Krajní nouze** — § 2906.
+
+### Generální klauzule
+- **Porušení dobrých mravů** — § 2909 (úmysl);
+- **Porušení zákona + zásah do absolutního práva** — § 2910 (zavinění);
+- **Porušení smlouvy** — § 2913 (objektivní, vis maior liberace);
+- **Domněnka nedbalosti** — § 2911—2912;
+- **Odpovědnost za pomocníky** — § 2914;
+- **Solidarita více škůdců** — § 2915.
+
+### Zvláštní skutkové podstaty
+- **Nezletilý/duševně postižený** — § 2920—2922;
+- **Provozní činnost** — § 2924 (objektivní s liberací);
+- **Zvlášť nebezpečný provoz** — § 2925 (přísná, jen vyšší moc);
+- **Dopravní prostředky** — § 2927 (objektivní);
+- **Zvíře** — § 2933 (vlastník + opatrovník solidárně);
+- **Věc** — § 2936—2938 (dohlížitel/vlastník);
+- **Vada výrobku** — § 2939—2943 (limit 500 EUR);
+- **Převzatá věc** — § 2944 (presumpce odpovědnosti);
+- **Odložené/vnesené věci** — § 2945—2946 (provozovny, hotely).
+
+### Náhrada újmy
+- **Naturální × peněžitá** — § 2951;
+- **Skutečná škoda + ušlý zisk** — § 2952;
+- **Bolestné + ZSU** — § 2958 (Metodika NS);
+- **Smrt blízké osoby** — § 2959 (zásady slušnosti);
+- **Renta pozůstalým** — § 2966;
+- **Moderace soudu** — § 2953.
+
+### Promlčení
+- **Subjektivní lhůta 3 roky** — § 619;
+- **Objektivní 10 let / 15 (úmysl)** — § 636;
+- **Život/zdraví bez objektivní lhůty**.
+
+---
+
+> **Poznámka k judikatuře a doktríně**:
+> - Hulmák, M. a kol.: *Občanský zákoník VI/VII. Závazkové právo. Zvláštní část.* C. H. Beck;
+> - Vojtek, P., Bezouška, P.: *Odpovědnost za škodu v OZ.* Wolters Kluwer;
+> - Tichý, L., Hrádek, J.: *Deliktní právo.* Wolters Kluwer;
+> - **Metodika NS Cpjn 14/2014** — bolestné a ZSU (klíčová pro praxi);
+> - **NS sp. zn. 25 Cdo 4847/2018** — k újmě za smrt blízké osoby (zvýšení horizontu);
+> - **NS sp. zn. 25 Cdo 3892/2019** — k odpovědnosti za škodu z provozu vozidla;
+> - **ÚS sp. zn. III. ÚS 2123/22** — k ústavněprávní rovině náhrady nemajetkové újmy;
+> - **NS sp. zn. 23 Cdo 2178/2018** — k odpovědnosti za vadu výrobku.
