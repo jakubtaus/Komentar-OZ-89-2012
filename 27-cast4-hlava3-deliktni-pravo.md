@@ -63,8 +63,7 @@
 
 **§ 2899**:
 > Kdo pro sebe přijal nebezpečí oběti, byť tak učinil za takových okolností, že to lze považovat za neprozřetelné, nevzdal se tím práva na náhradu proti tomu, kdo újmu způsobil.
->
-**§ 2896** — Oznámení o vyloučení/omezení odpovědnosti **se nepřihlíží** (např. cedulka "Vstup na vlastní nebezpečí" → bez právního účinku, leda jako **varování**).
+>**§ 2896** — Oznámení o vyloučení/omezení odpovědnosti **se nepřihlíží** (např. cedulka "Vstup na vlastní nebezpečí" → bez právního účinku, leda jako **varování**).
 
 **§ 2898 — Předem vyloučená odpovědnost** = **neplatná**, pokud jde o:
 - **Přirozená práva** člověka (život, zdraví, osobnost);
@@ -102,6 +101,21 @@
 **Zvláštní pravidlo**: pokud někdo svou vinou **dal podnět** k náhodě (porušil příkaz, poškodil zabezpečení) → odpovídá za **náhodou způsobenou újmu**.
 
 ### § 2905—2908 — Okolnosti vylučující protiprávnost
+
+**§ 2905**:
+> Kdo odvrací od sebe nebo od jiného bezprostředně hrozící nebo trvající protiprávní útok a způsobí přitom útočníkovi újmu, není povinen k její náhradě. To neplatí, je-li zjevné, že napadenému hrozí vzhledem k jeho poměrům újma jen nepatrná nebo obrana je zcela zjevně nepřiměřená, zejména vzhledem k závažnosti újmy útočníka způsobené odvracením útoku.
+
+**§ 2906**:
+> Kdo odvrací od sebe nebo od jiného přímo hrozící nebezpečí újmy, není povinen k náhradě újmy tím způsobené, nebylo-li za daných okolností možné odvrátit nebezpečí jinak nebo nezpůsobí-li následek zjevně stejně závažný nebo ještě závažnější než újma, která hrozila, ledaže by majetek i bez jednání v nouzi podlehl zkáze. To neplatí, vyvolal-li nebezpečí vlastní vinou sám jednající.
+
+**§ 2907**:
+> Při posouzení, zda někdo jednal v nutné obraně, anebo v krajní nouzi, se přihlédne i k omluvitelnému vzrušení mysli toho, kdo odvracel útok nebo jiné nebezpečí.
+
+**§ 2908**:
+> Kdo odvracel hrozící újmu, má právo na náhradu účelně vynaložených nákladů a na náhradu újmy, kterou přitom utrpěl, i proti tomu, v jehož zájmu jednal, nanejvýš však v rozsahu přiměřeném tomu, co odvrátil.
+
+>
+>
 
 **§ 2905 — Nutná obrana** (*Notwehr*):
 - Odvrácení **bezprostředně hrozícího nebo trvajícího protiprávního útoku**;
@@ -330,6 +344,7 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **§ 2952**:
 > Hradí se skutečná škoda a to, co poškozenému ušlo (ušlý zisk). Záleží-li skutečná škoda ve vzniku dluhu, má poškozený právo, aby ho škůdce dluhu zprostil nebo mu poskytl náhradu.
+
 **§ 2951 — Naturální × peněžitá náhrada**:
 - **Naturální** restituce (*in integrum restitutio*) — uvedení do předešlého stavu;
 - **Peněžitá** náhrada — pokud naturální není možná nebo to není v zájmu poškozeného;
@@ -351,8 +366,7 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **§ 2955**:
 > Nelze-li výši náhrady škody přesně určit, určí ji podle spravedlivého uvážení jednotlivých okolností případu soud.
 
->
-**Princip causa proxima** — soud vyhodnotí přímý kauzální vztah.
+>**Princip causa proxima** — soud vyhodnotí přímý kauzální vztah.
 
 ### Pododdíl 2 — Náhrada újmy na přirozených právech člověka (§ 2956—2971)
 
@@ -369,6 +383,7 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 
 **§ 2958**:
 > Při ublížení na zdraví odčiní škůdce újmu poškozeného peněžitou náhradou, vyvažující plně vytrpěné bolesti a další nemajetkové újmy; vznikla-li poškozením zdraví překážka lepší budoucnosti poškozeného, nahradí mu škůdce i ztížení společenského uplatnění. Nelze-li výši náhrady takto určit, stanoví se podle zásad slušnosti.
+
 **§ 2956 — Náhrada nemajetkové újmy**:
 - Při zásahu do **přirozených práv** (život, zdraví, osobnost, svoboda);
 - **Peněžitá náhrada** v rozsahu, který **plně zaplatí utrpěnou újmu**.
@@ -427,6 +442,7 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 > (1) Při usmrcení hradí škůdce peněžitým důchodem náklady na výživu pozůstalým, kterým zemřelý ke dni své smrti poskytoval nebo byl povinen poskytovat výživu. Náhrada náleží pozůstalým ve výši rozdílu mezi dávkami důchodového zabezpečení poskytovanými z téhož důvodu a tím, co by poškozený podle rozumného očekávání mohl pozůstalým na těchto nákladech poskytovat, pokud by k jeho zranění nedošlo.
 >
 > (2) Z důvodu slušnosti lze přiznat příspěvek na výživné i jiné osobě, pokud jí usmrcený poskytoval takové plnění, ač k tomu nebyl podle zákona povinen.
+
 **§ 2960 — Náklady spojené s péčí** o zdraví (operace, rehabilitace).
 
 **§ 2962—2963 — Ztráta výdělku**:
@@ -437,6 +453,28 @@ Kdo provádí stavební/výkopové práce a způsobí škodu na cizí nemovitost
 **§ 2966 — Renta pozůstalým** — typický nárok manželky, dětí po smrti živitele.
 
 ### § 2967—2971 — Další specifika
+
+**§ 2967**:
+> (1) Při výpočtu náhrady se vychází z průměrného výdělku zemřelého; náhrada nákladů na výživu pozůstalým nebo jiným osobám však nesmí úhrnem převýšit to, co by zemřelému náleželo jako náhrada za ztrátu na výdělku, případně na důchodu.
+>
+> (2) Při vyměření náhrady pozůstalým se přihlédne také k tomu, jak dlouho by usmrcený pravděpodobně žil, nebýt zranění. Při vyměření náhrady jiným osobám se přihlédne k tomu, jak dlouho by usmrcený plnění pravděpodobně poskytoval.
+
+**§ 2968**:
+> Je-li pro to důležitý důvod a žádá-li o to poškozený, přizná soud poškozenému namísto peněžitého důchodu odbytné.
+
+**§ 2969**:
+> (1) Při určení výše škody na věci se vychází z její obvyklé ceny v době poškození a zohlední se, co poškozený musí k obnovení nebo nahrazení funkce věci účelně vynaložit.
+>
+> (2) Poškodil-li škůdce věc ze svévole nebo škodolibosti, nahradí poškozenému cenu zvláštní obliby.
+
+**§ 2970**:
+> Při poranění zvířete nahradí škůdce účelně vynaložené náklady spojené s péčí o zdraví zraněného zvířete tomu, kdo je vynaložil; požádá-li o to, složí mu škůdce na tyto náklady přiměřenou zálohu. Náklady spojené s péčí o zdraví nejsou neúčelné, i když podstatně převyšují cenu zvířete, pokud by je vynaložil rozumný chovatel v postavení poškozeného.
+
+**§ 2971**:
+> Odůvodňují-li to zvláštní okolnosti, za nichž škůdce způsobil újmu protiprávním činem, zejména porušil-li z hrubé nedbalosti důležitou právní povinnost, anebo způsobil-li újmu úmyslně z touhy ničit, ublížit nebo z jiné pohnutky zvlášť zavrženíhodné, nahradí škůdce též nemajetkovou újmu každému, kdo způsobenou újmu důvodně pociťuje jako osobní neštěstí, které nelze jinak odčinit.
+
+>
+>
 
 **§ 2968 — Pojmenování věci** — náhrada zvláštní (sentimentální) hodnoty.
 

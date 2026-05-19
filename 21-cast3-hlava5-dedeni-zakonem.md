@@ -67,7 +67,6 @@
 **§ 1478**:
 > Za dědice nebo odkazovníka lze povolat i právnickou osobu, která má teprve vzniknout. Tato právnická osoba je způsobilým dědicem nebo odkazovníkem, pokud vznikne do jednoho roku od smrti zůstavitele.
 >
-
 **§ 1477** — **Odkaz** ≠ dědictví. Odkazovník (*legatarius*) **není dědic** — má jen **obligační nárok** vůči dědicům na **vydání věci** nebo zřízení práva.
 
 **§ 1478** — Dědicem může být i **PO, která má teprve vzniknout** (např. nadace zřízená závětí), pokud vznikne **do 1 roku** od smrti zůstavitele.
@@ -80,7 +79,6 @@
 **§ 1480**:
 > Dědického práva, které má teprve vzniknout, se lze jen zříci; nelze je převést ani s ním jinak naložit.
 >
-
 **§ 1479** — Dědické právo vzniká **smrtí zůstavitele** (*delatio hereditatis*). Komorientní pravidlo: **kdo zemře současně se zůstavitelem, nedědí**. (Doplňující pravidla v § 27 — domněnka současné smrti).
 
 **§ 1480** — **Zákaz dispozice budoucím dědickým právem** — pouze možnost **zříci se** smlouvou se zůstavitelem (§ 1484). Mezi živými nelze postoupit/prodat.
@@ -97,7 +95,6 @@
 
 **§ 1483**:
 > Potomek toho, kdo je vyloučen z dědického práva, nastupuje při zákonné dědické posloupnosti na jeho místo, i když vyloučený přežije zůstavitele. To neplatí v případě stanoveném v § 1482 odst. 1.
-
 **§ 1481 — Vyloučení z dědického práva**:
 - Čin povahy **úmyslného trestného činu** proti zůstaviteli, jeho předku, potomku, manželu;
 - **Zavrženíhodný čin proti poslední vůli** (donucení, lstivé svedení, překažení, zatajení, falšování, zničení).
@@ -145,6 +142,7 @@
 > (2) K odmítnutí dědictví se nepřihlíží, dal-li dědic již svým počínáním najevo, že chce dědictví přijmout. Nepřihlíží se ani k projevu vůle, kterým dědic odvolá své prohlášení, že dědictví odmítá, nebo neodmítá, anebo že dědictví přijímá.
 
 > § 1485 (1): Dědic má právo po smrti zůstavitele dědictví odmítnout.
+
 **Odmítnutí dědictví** (*repudiatio*) — jednostranný úkon dědice **po smrti** zůstavitele:
 - Účinek: **jako by dědictví nikdy nenabyl** (*ex tunc*);
 - **Lhůta**: **1 měsíc** od poučení soudem (3 měsíce při bydlišti v zahraničí);
@@ -159,9 +157,6 @@
 > (1) Dědic, který dědictví neodmítl, se jej může před soudem v řízení o dědictví vzdát ve prospěch druhého dědice; učiní-li tak nepominutelný dědic, vzdává se tím také práva na povinný díl s účinností i pro své potomky. Souhlasí-li i druhý dědic, použijí se obdobně ustanovení § 1714 až 1720; nesouhlasí-li však, k vzdání se dědictví se nepřihlíží.
 >
 > (2) Byl-li dědic, který se dědictví vzdal, obtížen příkazem, nařízením odkazu nebo jiným opatřením, které podle zůstavitelovy vůle může a má splnit jen osobně, nezbavuje se tím povinnosti splnit takové opatření.
-
->
->
 
 **Vzdání se dědictví** ≠ odmítnutí:
 - **Před soudem v dědickém řízení**;
@@ -213,6 +208,7 @@
 > Zůstavitel musí svou vůli projevit tak určitě, že nestačí, aby jen přisvědčil návrhu, který mu byl učiněn.
 
 > Dovětkem může zůstavitel nařídit odkaz, stanovit odkazovníku nebo dědici podmínku, nebo doložit čas anebo uložit odkazovníku nebo dědici příkaz.
+
 **Dovětek** (*codicilus*) ≠ závěť — **neustanovuje dědice**, ale obsahuje:
 - **Odkazy** (legáty);
 - **Podmínky, doložky času, příkazy**;
@@ -357,7 +353,6 @@
 > (2) Prohlášením manželství za neplatné se ruší práva a povinnosti z dědické smlouvy, ledaže takové manželství již dříve zaniklo smrtí jednoho z manželů.
 
 >
-
 **§ 1585** — Lze povolat dědice **na nejvýše 3/4 pozůstalosti** — čtvrtina musí zůstat pro zůstavitelovu volnou dispozici (závětí nebo zákonem).
 
 **§ 1592** — **Manželé** mohou uzavřít vzájemnou dědickou smlouvu (jedinou závěť pořizovanou **společně**).
@@ -406,7 +401,6 @@
 > - b) odkázanou věc změní takovým způsobem, že to je již věc jiná, nebo
 >
 > - c) odkázanou pohledávku vymůže a vybere.
-
 - **§ 1598 — Obtížení odkazem**: dědic přijímá pozůstalost s povinností splnit odkaz;
 - **§ 1599 — Pododkaz** (*sublegatum*): odkazovník obtížený dalším odkazem;
 - **§ 1600 — Náhradnictví při odkazech** (substituce);
@@ -471,7 +465,6 @@
 
 **§ 1632**:
 > Nebyl-li určen vykonavatel závěti a nechce-li dědic věnovat splnění poslední vůle svůj čas a námahu, soud na jeho návrh za tím účelem jmenuje správce pozůstalosti, nebo uloží splnění poslední vůle správci pozůstalosti již povolanému.
-
 **§ 1624** — Nabytí odkazu **smrtí zůstavitele** (přímo, ne přes dědice). Odkazovník má od smrti pohledávku.
 
 **§ 1625 — Právo odkazovníka na zajištění** — pokud dědic váhá s plněním.
@@ -517,7 +510,6 @@
 > (1) Nedědí-li žádný z dědiců páté třídy, dědí v šesté třídě děti dětí sourozenců zůstavitele a děti prarodičů zůstavitele, každý stejným dílem.
 >
 > (2) Nedědí-li některé z dětí prarodičů zůstavitele, dědí jeho děti.
-
 | Třída | Dědici | Rozsah |
 |---|---|---|
 | **1.** § 1635 | **Děti + manžel/partner** zůstavitele | Rovným dílem; potomci zemřelého dítěte na jeho místo |
@@ -558,6 +550,7 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 > (2) Je-li nepominutelný dědic nezletilý, musí se mu dostat alespoň tolik, kolik činí tři čtvrtiny jeho zákonného dědického podílu. Je-li nepominutelný dědic zletilý, musí se mu dostat alespoň tolik, kolik činí čtvrtina jeho zákonného dědického podílu.
 
 > § 1643 (1): Nepominutelní dědici jsou děti zůstavitele a nedědí-li, pak jsou jimi jejich potomci.
+
 **Nepominutelný dědic** (*Pflichtteilsberechtigte*):
 - **Potomci** zůstavitele (nikoli manžel ani rodiče — rozdíl od ABGB pre-2017);
 - **Nelze je zcela vyloučit** bez vydědění nebo zřeknutí.
@@ -634,7 +627,6 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 **§ 1667**:
 > Pozůstalý manžel nabývá vlastnické právo k movitým věcem, které tvoří základní vybavení rodinné domácnosti, i když není dědicem. To neplatí, pokud pozůstalý manžel bez vážných důvodů nesdílel se zůstavitelem rodinnou domácnost.
-
 - **Manžel** má právo na **zaopatření z pozůstalosti** (zaopatřovací dávky), pokud:
   - Není nepominutelným dědicem;
   - Byl odkázán na zůstavitelův příjem;
@@ -649,9 +641,6 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 
 **§ 1669**:
 > Osobám, které požívaly až do smrti zůstavitele bezplatné zaopatření v jeho domácnosti, přísluší stejné zaopatření ještě tři týdny po smrti zůstavitele.
-
->
->
 
 - **Sluší** zaopatření **přiměřené** majetkové situaci pozůstalosti;
 - Forma: **jednorázová** nebo **periodická** platba (renta);
@@ -677,7 +666,9 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 ### § 1674—1684 — Výhrada soupisu
 
 **§ 1674**:
-> Dědic, který uplatnil výhradu soupisu (inventarii benefitium), hradí dluhy zůstavitele jen do výše ceny nabytého dědictví.
+> (1) Zůstavitel nemůže dědici odejmout právo na výhradu soupisu pozůstalosti. Vzdají-li se tohoto práva strany dědické smlouvy, nepřihlíží se k tomu.
+>
+> (2) Právo na výhradu soupisu lze uplatnit prohlášením učiněným ústně před soudem, anebo prohlášením zaslaným soudu v písemné formě. Vyhradí-li si dědic soupis s výhradami nebo podmínkami, nepřihlíží se k nim. To platí i pro prohlášení dědice, že výhradu soupisu neuplatňuje.
 
 **§ 1675**:
 > Dědic má právo vyhradit si soupis pozůstalosti, uplatní-li je do jednoho měsíce ode dne, kdy ho soud o tomto právu vyrozuměl. Jsou-li pro to důležité důvody, soud lhůtu dědici prodlouží.
@@ -686,8 +677,6 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 > (1) O svéprávném, známém a přítomném dědici, který není manželem, potomkem, anebo předkem zůstavitele a ve lhůtě podle § 1675 se nevyjádří, platí, že neuplatňuje výhradu soupisu. Od ostatních dědiců si soud vyžádá po jejich předvolání a poučení výslovné vyjádření, ledaže vůči svéprávnému manželovi, potomkovi či předkovi dědice nastal účinek podle § 1681.
 >
 > (2) Kdo si nevyhradil soupis pozůstalosti, nebo prohlásil, že právo výhrady soupisu neuplatňuje, nemůže si soupis vyhradit dodatečně.
-
->
 
 **§ 1677**:
 > (1) Povolal-li zůstavitel správce pozůstalosti nebo vykonavatele závěti, spravuje pozůstalost až do potvrzení nabytí dědictví správce pozůstalosti, jinak vykonavatel závěti. Nepovolal-li zůstavitel žádného z nich, spravuje pozůstalost dědic; je-li dědiců více a neujednají-li si nic jiného, spravují pozůstalost všichni dědicové.
@@ -748,7 +737,10 @@ Pokud osoba je dědicem **z více titulů** (např. dítě + sourozenec z polovi
 > - d) věřitel, který si vyžádal odloučení pozůstalosti,
 >
 > - e) souhlasí-li soud, i jiná osoba, která na tom prokáže právní zájem; odkazovník však jen tehdy, hrozí-li, že bude povinen poměrně přispět na povinný díl.
-**Klíčový institut ochrany dědice**: výhradou soupisu (*beneficium inventarii*) dědic **omezuje svou odpovědnost** za zůstavitelovy dluhy na **hodnotu nabytého dědictví**.
+
+> Dědic, který uplatnil výhradu soupisu (inventarii benefitium), hradí dluhy zůstavitele jen do výše ceny nabytého dědictví.
+
+>**Klíčový institut ochrany dědice**: výhradou soupisu (*beneficium inventarii*) dědic **omezuje svou odpovědnost** za zůstavitelovy dluhy na **hodnotu nabytého dědictví**.
 
 **Postup**:
 1. Dědic uplatní výhradu **při dědickém řízení**;

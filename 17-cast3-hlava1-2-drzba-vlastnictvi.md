@@ -100,7 +100,6 @@ Hlava II se vztahuje na:
 > (1) Není-li stav zapsaný ve veřejném seznamu v souladu se skutečným právním stavem, svědčí zapsaný stav ve prospěch osoby, která nabyla věcné právo za úplatu v dobré víře od osoby k tomu oprávněné podle zapsaného stavu. Dobrá víra se posuzuje k době, kdy k právnímu jednání došlo; vzniká-li však věcné právo až zápisem do veřejného seznamu, pak k době podání návrhu na zápis.
 
 > (2) Pro nezbytnou cestu, výměnek a pro věcné právo vznikající ze zákona bez zřetele na stav zápisů ve veřejném seznamu se věta první odstavce 1 nepoužije.
-
 **§ 985**: nesoulad zapsaného a skutečného stavu — žádost o **odstranění nesouladu**; rozhodnutí má účinky proti osobám, které nabyly po žádosti.
 
 **§ 986 — POZNÁMKA SPORNOSTI**:
@@ -137,7 +136,6 @@ Hlava II se vztahuje na:
 >
 > (2) Jiné právo drží ten, kdo je počal vykonávat jako osoba, jíž takové právo podle zákona náleží, a komu jiné osoby ve shodě s ním plní.
 >
-
 **§ 987**: **Držitel = ten, kdo vykonává právo pro sebe** (*animus possidendi* + *corpus possidendi*).
 
 **§ 988 — Co lze držet**:
@@ -173,7 +171,6 @@ Hlava II se vztahuje na:
 
 **§ 994**:
 > Má se za to, že držba je řádná, poctivá a pravá.
-
 **Klíčová klasifikace držby**:
 
 | Typ | Definice | § |
@@ -215,7 +212,6 @@ Hlava II se vztahuje na:
 **§ 1002**:
 > Pro držitele jiných práv platí § 996 až 1001 přiměřeně.
 >
-
 **Poctivý držitel** (§ 996—999):
 - **Smí věc držet, užívat, zničit, nakládat** (bez odpovědnosti);
 - **Nabývá plody** (jakmile se oddělí) a **vybrané užitky** (které dospěly za jeho držby);
@@ -261,7 +257,6 @@ Hlava II se vztahuje na:
 > (1) Držba zaniká, vzdá-li se jí držitel, nebo ztratí-li trvale možnost vykonávat obsah práva, které dosud vykonával. Držba rovněž zaniká, je-li z ní držitel vypuzen a neuchová si ji svépomocí nebo žalobou.
 >
 > (2) Nevykonává-li držitel držbu, držba tím nezaniká. Ani smrt držitele nebo jeho zánik nepůsobí zánik držby.
-
 **§ 1003 — Zákaz svémocného rušení**: držitel se může domáhat:
 - **Zdržení se rušení**;
 - **Uvedení v předešlý stav**.
@@ -303,6 +298,7 @@ Hlava II se vztahuje na:
 
 **§ 1012**:
 > Vlastník má právo se svým vlastnictvím v mezích právního řádu **libovolně nakládat a jiné osoby z toho vyloučit**.
+
 Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, abutendi* (užívat, vážit plody, nakládat) + **exkluzivita** (vyloučení jiných).
 
 **Omezení**:
@@ -365,7 +361,6 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 > (1) Vlastník se zdrží všeho, co působí, že odpad, voda, kouř, prach, plyn, pach, světlo, stín, hluk, otřesy a jiné podobné účinky (imise) vnikají na pozemek jiného vlastníka (souseda) v míře nepřiměřené místním poměrům a podstatně omezují obvyklé užívání pozemku; to platí i o vnikání zvířat. Zakazuje se přímo přivádět imise na pozemek jiného vlastníka bez ohledu na míru takových vlivů a na stupeň obtěžování souseda, ledaže se to opírá o zvláštní právní důvod.
 
 > (2) Jsou-li imise důsledkem provozu závodu nebo podobného zařízení, který byl úředně schválen, má soused právo jen na náhradu újmy v penězích, i když byla újma způsobena okolnostmi, k nimž se při úředním projednávání nepřihlédlo. To neplatí, pokud se při provádění provozu překračuje rozsah, v jakém byl úředně schválen.
-
 **§ 1014 — Cizí věc na pozemku**: vrácení / možnost vyhledat. Cizí zvíře / roj včel — analogicky. **Roj včel do cizího obsazeného úlu** = nabytí vlastníkem úlu.
 
 **§ 1015**: zadržení věci, která způsobila škodu, do jistoty / náhrady.
@@ -405,7 +400,6 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 **§ 1028**:
 > Jsou-li hranice mezi pozemky neznatelné nebo pochybné, má každý soused právo požadovat, aby je soud určil podle poslední pokojné držby. Nelze-li ji zjistit, určí soud hranici podle slušného uvážení.
 >
-
 **§ 1024**: ploty, zdi, meze, strouhy — vyvratitelná domněnka **společnosti**.
 
 **§ 1025**: **dvojité rozhrady** / dělené vlastnictví — každý udržuje své.
@@ -460,7 +454,6 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 **§ 1036**:
 > Při potřebě zřídit nezbytnou cestu jako umělou může vlastník dotčeného pozemku požadovat, aby žadatel do svého vlastnictví převzal pozemek potřebný pro nezbytnou cestu. Tehdy se cena stanoví nejen se zřetelem k ceně postoupeného pozemku, ale i s ohledem na znehodnocení zbývajícího nemovitého majetku dotčeného vlastníka.
 >
-
 **Klíčový institut** pro pozemky **bez přístupu k veřejné cestě**.
 
 **§ 1029 odst. 1**: vlastník, na němž nelze řádně hospodařit, může žádat, aby mu soused **za náhradu povolil** nezbytnou cestu.
@@ -495,7 +488,6 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 >
 > (2) Náhrada se poskytuje v penězích. Lze ji však poskytnout i jiným způsobem, pokud si to strany ujednají.
 >
-
 **§ 1037 — Stav nouze nebo naléhavý veřejný zájem**: použití věci na **nezbytnou dobu** v **nezbytné míře** (typicky při povodni, požáru, epidemii).
 
 **§ 1038 — Vyvlastnění**:
@@ -531,7 +523,6 @@ Toto je klasická formulace **vlastnické triády** — *ius utendi, fruendi, ab
 > Má-li někdo věc u sebe, aniž mu svědčí domněnka podle § 1043, může uplatnit právo náležející vlastníku na ochranu svým vlastním jménem.
 
 >
-
 Vindikační žaloba **chrání vlastnické právo proti komukoliv**, kdo věc bez právního důvodu zadržuje.
 
 **Vyloučení vindikace** (odst. 2): kdo věc **prodal jako svou** (a vlastnictví nabyl až poté) — nemůže vindikovat (nabyvatel se stává vlastníkem nabytím vlastnictví zcizitelem).

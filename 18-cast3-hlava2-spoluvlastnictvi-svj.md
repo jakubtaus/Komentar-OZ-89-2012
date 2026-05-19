@@ -40,7 +40,6 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **§ 1094**:
 > Vyžaduje-li se, aby osoba měla zákonného zástupce nebo opatrovníka, počne vydržecí doba běžet ohledně práva proti ní až ode dne, kdy zákonného zástupce nebo opatrovníka získá. Již započatá doba běží dále, avšak neskončí dříve, než uplyne jeden rok po odpadnutí překážky.
-
 **§ 1092 — Započtení doby předchůdce**: poctivému + řádnému předchůdci se započítává.
 
 **§ 1093 — Přerušení**: pokud držitel nevykonává déle než **1 rok** → držba se přeruší (lhůta běží od počátku).
@@ -73,7 +72,6 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **§ 1098**:
 > Mezi manžely nepočne vydržecí doba běžet ani neběží, dokud manželství trvá. To platí obdobně i pro osoby žijící ve společné domácnosti, zákonného zástupce a zastoupeného, opatrovníka a opatrovance i pro poručníka a poručence.
-
 **§ 1096 — Započtení**: poctivý nástupce se má právo započítat dobu poctivého předchůdce s řádným titulem. U mimořádného — bez dalšího.
 
 **§ 1097 — Zákaz vydržení**: zákonný zástupce × zastoupený (vzájemně); opatrovník × opatrovanec; poručník × poručenec. Anti-fraud klauzule.
@@ -166,7 +164,6 @@ Tato kapitola pokrývá zbytek úpravy nabývání vlastnictví a klíčový ins
 
 **§ 1108**:
 > Ustanovení § 1106 a 1107 platí obdobně také při nabytí vlastnického práva jinak než převodem.
-
 **§ 1106**: kdo nabývá vlastnické právo, **nabývá také práva a povinnosti** s věcí spojená.
 
 **§ 1107 — Závady**:
@@ -242,7 +239,6 @@ V těchto případech vlastník vždy vindikuje (§ 1040).
 
 **§ 1113**:
 > Ustanovení § 1110 až 1112 se nepoužijí, pokud se jedná o investiční nástroj, cenný papír nebo listinu vystavené na doručitele nebo o věci nabyté ve veřejné dražbě, v dražbě při výkonu rozhodnutí nebo při provádění exekuce prodejem movitých věcí nebo o věci nabyté při obchodu na komoditní burze.
-
 **§ 1112**: kdo věděl, že vlastnické právo bylo nabyto od neoprávněného → **nemůže se dovolat** dobré víry předchůdce. Anti-fraud řetězce.
 
 **§ 1113**: § 1110—1112 **se nepoužijí** pro:
@@ -429,9 +425,6 @@ Soud / správní orgán → nabytí **k dni určenému** nebo (default) **dnem p
 > Odklad zrušení spoluvlastnictví lze později změnit dohodou spoluvlastníků, a nedojde-li k ní, rozhodnutím soudu vydaným na návrh spoluvlastníka, který prokáže, že na něm nelze spravedlivě požadovat, aby ve spoluvlastnictví setrval, anebo že se podstatně změnily okolnosti, pro něž k odkladu spoluvlastnictví došlo.
 
 > Pro oddělení ze spoluvlastnictví platí § 1154 až 1156 obdobně.
-
->
->
 
 **§ 1150**: rozdělení **není na újmu** osobě s věcným právem ke společné věci.
 

@@ -151,7 +151,6 @@ Pokračování Hlavy II Části druhé — **vztahy mezi rodiči a dětmi**. Tat
 
 **§ 864**:
 > Není-li žádný z rodičů znám, určí soud i bez návrhu osobní jméno a příjmení dítěte.
-
 **§ 861 — Jen jeden rodič znám**:
 - Dítě má **příjmení tohoto rodiče**;
 - Rodič určí **osobní jméno** (jinak soud);
@@ -532,7 +531,6 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 **§ 914**:
 > Je-li více osob povinných, které mají vůči oprávněnému stejné postavení, odpovídá rozsah vyživovací povinnosti každé z nich poměru jejích majetkových poměrů, schopností a možností k majetkovým poměrům, schopnostem a možnostem ostatních.
 >
-
 **§ 911 — Princip neschopnosti se živit**: výživné se přiznává, **pokud oprávněný není schopen sám se živit**. Pro dítě obvykle do dokončení vzdělání + získání samostatnosti.
 
 **§ 912 — Nezletilé dítě**: má právo na výživné, **i když má vlastní majetek**, ale **zisk + příjem z činnosti nestačí**.
@@ -575,7 +573,6 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 > (3) Rozhoduje-li soud o poměrech dítěte pro dobu po rozvodu manželství a rozhodne-li o péči o dítě podle § 907 odst. 2, soud vždy rozhodne také o vyživovací povinnosti k dítěti podle § 915 až 918.
 >
 > (4) Soud může rozhodnout i tak, že schválí dohodu rodičů, ledaže je zřejmé, že dohodnuté plnění vyživovací povinnosti není v souladu se zájmem dítěte.
-
 **§ 915 — Princip stejné životní úrovně**: životní úroveň dítěte **má být shodná** s životní úrovní rodičů. **Předchází** kritérium odůvodněných potřeb. Reciprocita: **dítě je povinno zajistit rodičům slušnou výživu**.
 
 **§ 916 — Domněnka příjmu při tajení**: pokud povinný **nedoloží svůj příjem** soudu (listinami + údaji), platí, že jeho **měsíční příjem = 25× životní minimum jednotlivce** (2026: ~135 500 Kč). Anti-fraud klauzule proti zatajování příjmů.
@@ -626,7 +623,6 @@ Toto ustanovení **chrání zletilé** před dluhy z dětství (typicky drahá s
 > (2) Dojde-li ke zrušení nebo snížení výživného za minulou dobu pro nezletilé dítě, které nenabylo plné svéprávnosti, spotřebované výživné se nevrací. V rozsahu, v jakém se spotřebované výživné nevrací, se přiměřeně sníží dávka výživného splatná v budoucnu. Nevrací se ani dávka výživného, která na takové dítě byla splněna na měsíc dopředu, ale dítě před uplynutím měsíce zemřelo.
 
 >
-
 **§ 921 — Splatnost**:
 - V **pravidelných dávkách**;
 - **Měsíc dopředu** (default);

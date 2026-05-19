@@ -187,8 +187,7 @@ Po uplynutí doby se PO automaticky ruší (§ 171 písm. a)) s povinnou likvida
 > (3) Zákon stanoví, ve kterých dalších případech není zápis do veřejného rejstříku potřebný ke vzniku právnické osoby. Zákon stanoví, ve kterých případech je třeba k vzniku právnické osoby jejího zápisu do jiné evidence, jakož i to, jaké náležitosti zápis má a jaké jsou jeho účinky.
 
 **§ 127**:
-> Za právnickou osobu lze jednat jejím jménem již před jejím vznikem. Kdo takto jedná, je z tohoto jednání oprávněn a zavázán sám; jedná-li více osob, jsou oprávněny a zavázány společně a nerozdílně. Právnická osoba může účinky těchto jednání pro sebe do tří měsíců od svého vzniku převzít. V takovém případě platí, že je z těchto jednání oprávněna a zavázána od počátku. Převezme-li je, dá dalším zúčastněným najevo, že tak učinila.
-§ 127: Za právnickou osobu lze jednat jejím jménem již před jejím vznikem. Kdo takto jedná, je z tohoto jednání oprávněn a zavázán sám; jedná-li více osob, jsou oprávněny a zavázány společně a nerozdílně. Právnická osoba může účinky těchto jednání pro sebe do tří měsíců od svého vzniku převzít...
+> Za právnickou osobu lze jednat jejím jménem již před jejím vznikem. Kdo takto jedná, je z tohoto jednání oprávněn a zavázán sám; jedná-li více osob, jsou oprávněny a zavázány společně a nerozdílně. Právnická osoba může účinky těchto jednání pro sebe do tří měsíců od svého vzniku převzít. V takovém případě platí, že je z těchto jednání oprávněna a zavázána od počátku. Převezme-li je, dá dalším zúčastněným najevo, že tak učinila.§ 127: Za právnickou osobu lze jednat jejím jménem již před jejím vznikem. Kdo takto jedná, je z tohoto jednání oprávněn a zavázán sám; jedná-li více osob, jsou oprávněny a zavázány společně a nerozdílně. Právnická osoba může účinky těchto jednání pro sebe do tří měsíců od svého vzniku převzít...
 
 **Výklad:**
 
@@ -226,6 +225,7 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 
 **§ 131**:
 > Prohlášení právnické osoby za neplatnou nemá vliv na práva a povinnosti, jichž nabyla.
+
 **§ 130**:
 
 § 131: Prohlášení právnické osoby za neplatnou nemá vliv na práva a povinnosti, jichž nabyla.
@@ -269,7 +269,6 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 > (1) Právnická osoba, která byla dotčena zpochybněním svého práva k názvu nebo která utrpěla újmu pro neoprávněný zásah do tohoto práva, nebo které taková újma hrozí, zejména neoprávněným užitím názvu, se může domáhat, aby bylo od neoprávněného zásahu upuštěno nebo aby byl odstraněn jeho následek.
 >
 > (2) Stejná ochrana náleží právnické osobě proti tomu, kdo bez zákonného důvodu zasahuje do její pověsti nebo soukromí, ledaže se jedná o účely vědecké či umělecké nebo o tiskové, rozhlasové, televizní nebo obdobné zpravodajství; ani takový zásah však nesmí být v rozporu s oprávněnými zájmy právnické osoby.
-
 **Výklad:**
 
 **§ 132 — tři požadavky názvu**:
@@ -306,6 +305,7 @@ Typický příklad: zakladatelé s.r.o. uzavřou před vznikem smlouvu o pronáj
 
 **§ 137**:
 > (2) Proti tomu, kdo se dovolá sídla zapsaného ve veřejném rejstříku, nemůže právnická osoba namítat, že má skutečné sídlo v jiném místě.
+
 **Výklad:**
 
 **§ 136 — určení sídla**:
@@ -464,6 +464,7 @@ Zákon o statusu veřejné prospěšnosti **dosud nebyl přijat** (§ 147—150 
 
 > (2) Dobrá víra členů orgánu právnické osoby se přičítá právnické osobě.
 > (3) Týká-li se hlavní činnost právnické osoby nezletilých nebo osob s omezenou svéprávností a není-li hlavním účelem právnické osoby podnikání, může zakladatelské právní jednání určit, že členem voleného kolektivního orgánu právnické osoby může být i osoba nezletilá nebo osoba s omezenou svéprávností.
+
 **Výklad:**
 
 **§ 151 — orgány tvoří vůli PO**: PO sama o sobě nemá rozum a vůli — její vůli **nahrazují členové orgánů**. § 151 odst. 2 zakotvuje **přičitatelnost dobré víry** — pokud člen orgánu jedná v dobré víře, PO jedná v dobré víře; opak platí stejně.
@@ -507,6 +508,7 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 > (2) Hledí-li se na povolání osoby do funkce člena voleného orgánu, jako by se nestalo, nebo je-li povolání neplatné, nedotýká se to práva nabytého v dobré víře.
 
 > (2) ...nedotýká se to práva nabytého v dobré víře.
+
 **Výklad:**
 
 **§ 154 — PO jako člen orgánu**: typické u holdingových struktur, kdy a.s. má v dozorčí radě jinou a.s. PO musí **zmocnit konkrétní fyzickou osobu**, jinak ji v orgánu zastupuje člen jejího statutárního orgánu (default).
@@ -525,8 +527,7 @@ Typický příklad: dětský parlament, studentský senát na vysoké škole, ml
 
 **§ 158**:
 > (2) Zakladatelské právní jednání může připustit rozhodování orgánu i mimo zasedání v písemné formě nebo s využitím technických prostředků.
-> (3) Zakladatelské právní jednání může určit, že v případě dosažení rovnosti hlasů při rozhodování voleného orgánu právnické osoby rozhoduje hlas předsedajícího.
-§ 158a: (1) Právnická osoba uchovává po celou dobu své existence zápisy z jednání nejvyššího orgánu i s přílohami...
+> (3) Zakladatelské právní jednání může určit, že v případě dosažení rovnosti hlasů při rozhodování voleného orgánu právnické osoby rozhoduje hlas předsedajícího.§ 158a: (1) Právnická osoba uchovává po celou dobu své existence zápisy z jednání nejvyššího orgánu i s přílohami...
 
 **Výklad:**
 
@@ -591,7 +592,6 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 
 **§ 162**:
 > Zastupuje-li právnickou osobu člen jejího orgánu způsobem zapsaným do veřejného rejstříku, nelze namítat, že právnická osoba nepřijala potřebné usnesení, že usnesení bylo stiženo vadou, nebo že člen orgánu přijaté usnesení porušil.
-
 § 161: Kdo právnickou osobu zastupuje, dá najevo, co ho k tomu opravňuje, neplyne-li to již z okolností. Kdo za právnickou osobu podepisuje, připojí k jejímu názvu svůj podpis, popřípadě i údaj o své funkci nebo o svém pracovním zařazení.
 
 § 162: Zastupuje-li právnickou osobu člen jejího orgánu způsobem zapsaným do veřejného rejstříku, nelze namítat, že právnická osoba nepřijala potřebné usnesení, že usnesení bylo stiženo vadou, nebo že člen orgánu přijaté usnesení porušil.
@@ -627,6 +627,7 @@ Standard se posuzuje **objektivně** (jako u podnikatele — § 5) — měřítk
 
 **§ 167**:
 > Právnickou osobu zavazuje protiprávní čin, kterého se při plnění svých úkolů dopustil člen voleného orgánu, zaměstnanec nebo jiný její zástupce vůči třetí osobě.
+
 **§ 167**:
 
 **Výklad:**
@@ -687,7 +688,6 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 >
 > (2) Byl-li osvědčen úpadek právnické osoby, zrušuje se bez likvidace zrušením konkursu po splnění rozvrhového usnesení, nebo zrušením konkursu proto, že majetek je zcela nepostačující; do likvidace však vstoupí, objeví-li se po skončení insolvenčního řízení nějaký majetek.
 >
-
 **Výklad:**
 
 **Čtyři způsoby zrušení** (§ 168):
@@ -765,7 +765,6 @@ Vazba na § 2914 — odpovědnost za pomocníka.
 >
 > (2) O přeměně právnické osoby zřízené rozhodnutím orgánu veřejné moci rozhoduje tento orgán.
 >
-
 Klíčové instituty:
 
 **§ 174 — tři typy přeměny:**
@@ -796,6 +795,7 @@ Klíčové instituty:
 
 **§ 186**:
 > Právnická osoba, která nepodléhá zápisu do veřejného rejstříku, zaniká skončením likvidace.
+
 **§ 185**:
 § 186: Právnická osoba, která nepodléhá zápisu do veřejného rejstříku, zaniká skončením likvidace.
 
@@ -820,7 +820,6 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 
 **§ 188**:
 > Vstoupí-li právnická osoba do likvidace, nesmí za ni nikdo právně jednat mimo rozsah stanovený v § 196 od okamžiku, kdy se o jejím vstupu do likvidace dozvěděl nebo kdy se o něm dozvědět měl a mohl.
-
 § 187 stanoví **trojí cíl likvidace**:
 1. Vypořádat majetek (likvidační podstata);
 2. Vyrovnat dluhy věřitelům;
@@ -857,7 +856,6 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 
 **§ 194**:
 > Jen soud může odvolat z funkce likvidátora, kterého do funkce jmenoval.
-
 **Povolání likvidátora** (§ 189—191):
 - Příslušný orgán PO;
 - Soud (i bez návrhu, pokud likvidátor nebyl povolán nebo neplní povinnosti);
@@ -915,7 +913,6 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 > (1) Odmítnou-li všichni věřitelé likvidační podstatu převzít, přechází likvidační podstata dnem zániku právnické osoby na stát; likvidátor to bez zbytečného odkladu oznámí orgánu příslušnému podle jiného zákona.
 >
 > (2) Bez zřetele k § 201 až 203 náleží věřiteli, který je podle jiného zákona věřitelem zajištěným, uspokojení z jistoty, kterou byla jeho pohledávka zajištěna. Nebude-li zajištěný věřitel takto plně uspokojen ve své pohledávce, náleží mu ve zbytku plnění podle § 201 až 203.
-
 **§ 196—197 — Omezení činnosti**:
 - Likvidátor sleduje **jen účel likvidace**;
 - **Účelově vázané prostředky** (např. veřejné dotace) se použijí podle rozhodnutí poskytovatele;
@@ -967,8 +964,5 @@ Likvidace je **klíčový institut zánikové fáze PO** — proces vypořádán
 > (1) Zjistí-li se neznámý majetek právnické osoby po jejím výmazu z veřejného rejstříku nebo objeví-li se jiný zájem hodný právní ochrany, soud na návrh toho, kdo osvědčí právní zájem, nebo na návrh státního zastupitelství, které na tom shledá závažný právní zájem, zruší výmaz právnické osoby, rozhodne o její likvidaci a jmenuje likvidátora. Kdo vede veřejný rejstřík, do něho podle tohoto rozhodnutí zapíše obnovení právnické osoby, skutečnost, že je v likvidaci a údaje o likvidátorovi. Od obnovení se na právnickou osobu hledí, jako by nikdy nezanikla.
 >
 > (2) Byla-li právnická osoba obnovena vzhledem k zjištění neznámého majetku, obnoví se neuspokojené pohledávky jejích věřitelů.
-
->
->
 
 > Konec kapitoly 05. Pokračování: kapitola 06 — Hlava II Díl 3 Oddíl 2 (pokr.): Korporace, spolek (§ 210—302).

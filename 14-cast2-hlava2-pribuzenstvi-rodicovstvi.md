@@ -41,8 +41,7 @@ Po osvojení **zaniká** příbuzenství s biologickými rodiči (§ 832 — s v
 > (2) Osoby jsou příbuzné ve vedlejší linii, mají-li společného předka, ale přitom nepocházejí jedna od druhé.
 
 **§ 773**:
-> Stupeň příbuzenství mezi dvěma osobami se určuje podle počtu zrození, jimiž v linii přímé pochází jedna od druhé a ve vedlejší linii obě od svého nejbližšího společného předka.
-§ 773: Stupeň příbuzenství mezi dvěma osobami se určuje podle počtu zrození, jimiž v linii přímé pochází jedna od druhé a ve vedlejší linii obě od svého nejbližšího společného předka.
+> Stupeň příbuzenství mezi dvěma osobami se určuje podle počtu zrození, jimiž v linii přímé pochází jedna od druhé a ve vedlejší linii obě od svého nejbližšího společného předka.§ 773: Stupeň příbuzenství mezi dvěma osobami se určuje podle počtu zrození, jimiž v linii přímé pochází jedna od druhé a ve vedlejší linii obě od svého nejbližšího společného předka.
 
 **Výklad:**
 
@@ -247,9 +246,6 @@ Pro **neprovdanou ženu nebo ženu v partnerství** (stejnopohlavním) + **asist
 > Je-li návrh na popření otcovství podán po uplynutí popěrné lhůty, může soud rozhodnout, že zmeškání lhůty promíjí, pokud to vyžadují zájem dítěte a veřejný pořádek.
 
 > Vyžaduje-li to zřejmý zájem dítěte a mají-li být naplněna ustanovení zaručující základní lidská práva, může soud i bez návrhu zahájit řízení o popření otcovství, bylo-li otcovství určeno souhlasným prohlášením rodičů, ale otec dítěte takto určený nemůže být jeho otcem. Soud zpravidla současně pozastaví výkon rodičovské odpovědnosti.
-
->
->
 
 **§ 792 — Prominutí zmeškání lhůty**: soud **může promíjet zmeškání popěrné lhůty**, pokud to vyžaduje **zájem dítěte + veřejný pořádek**.
 

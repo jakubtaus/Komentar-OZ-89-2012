@@ -56,7 +56,6 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 >
 > (2) Ujednají-li strany nájem na dobu určitou delší než padesát let, má se za to, že byl nájem ujednán na dobu neurčitou s tím, že v prvních padesáti letech lze nájem vypovědět jen z ujednaných výpovědních důvodů a v ujednané výpovědní době.
 >
-
 **§ 2205 — Hlavní povinnosti pronajímatele**:
 - (a) **Odevzdat věc** ve stavu způsobilém k užívání;
 - (b) **Udržovat věc** v takovém stavu (kromě běžné údržby — § 2207);
@@ -88,7 +87,6 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 **§ 2216**:
 > Umožní-li nájemce užívat věc třetí osobě, odpovídá pronajímateli za jednání této osoby stejně, jako kdyby věc užíval sám.
 >
-
 - **§ 2213 — Užívání** věci k ujednanému/obvyklému účelu;
 - **§ 2214 — Strpí prohlídku** pronajímatelem (v rozumné míře);
 - **§ 2215 — Podnájem**: pouze se **souhlasem pronajímatele** (písemný, nezbytný k platnosti);
@@ -104,7 +102,6 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 **§ 2218**:
 > Nájemné se platí měsíčně pozadu.
 >
-
 - Splatnost **v ujednaném termínu**;
 - Bez ujednání: **každý měsíc** (u dlouhodobých nájmů);
 - **Bezdůvodné zvýšení** je neplatné, výjimka u dlouhodobých nájmů přes inflační doložku.
@@ -123,6 +120,7 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 >
 
 > § 2220 odst. 2: Nájemce hradí běžnou údržbu věci. Nesnáší však drobné opravy spojené s užíváním věci, ledaže smlouva určí jinak.
+
 **Klíčové rozdělení nákladů**:
 - **Pronajímatel**: **velké opravy**, údržba "konstrukce" věci;
 - **Nájemce**: **běžná údržba** + **drobné opravy** (do limitu — pro byt stanoveno NV č. 308/2015 Sb.).
@@ -149,6 +147,7 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 >
 
 > § 2221 (1): Změnou vlastníka pronajaté věci nájem nezaniká.
+
 **Klíčové pravidlo**: **kupní smlouva neruší nájemní smlouvu** (*Kauf bricht nicht Miete*). Nový vlastník vstupuje do postavení pronajímatele.
 
 **Výjimka**: u nájmu bytu/domu — § 2222 specifika.
@@ -202,7 +201,6 @@ Tato kapitola pokrývá **nájem** (vč. zvláštních úprav nájmu bytu, prost
 > Pronajímatel má právo na úhradu pohledávky vůči nájemci zadržet movité věci, které má nájemce na věci nebo v ní.
 
 >
-
 **Způsoby zániku**:
 - **Uplynutí doby** (u nájmu na dobu určitou);
 - **Výpověď** (na dobu neurčitou nebo v zákonných případech);
@@ -249,7 +247,6 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 >
 > (2) Má se za to, že ujednání o doručování písemností prostřednictvím datových schránek není zjevně nepřiměřené.
 >
-
 **Kogentní ochrana** — k těmto ujednáním **se nepřihlíží**:
 - **Pokuty** za porušení povinností nájemce (např. za pozdní platby — povolen je úrok z prodlení);
 - **Zákaz držet domácí zvíře** (s výjimkou problematických zvířat);
@@ -260,10 +257,84 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 ### § 2242—2256 — Odevzdání bytu, povinnosti, podnájem
 
+**§ 2242**:
 > (1) Není-li ujednána doba, kdy pronajímatel zpřístupní nájemci byt způsobilý k nastěhování a obývání, zpřístupní pronajímatel nájemci byt prvního dne měsíce následujícího po dni, kdy smlouva nabyla účinnosti. Byt je zpřístupněn, obdržel-li nájemce klíče a nebrání-li mu nic v přístupu do bytu.
 >
 > (2) Pronajímatel se může s nájemcem dohodnout, že k obývání bude předán byt, který není způsobilý k obývání. Takové ujednání je platné, jen jsou-li zároveň ujednána zvláštní práva a povinnosti plynoucí ze zvláštní povahy bytu, včetně výše a způsobu úhrady nákladů na provedení nutných úprav.
 
+**§ 2243**:
+> Byt je způsobilý k nastěhování a obývání, odpovídá-li ujednáním ve smlouvě, a není-li nic ujednáno, je byt způsobilý k nastěhování a obývání, pokud je čistý a ve stavu, který se obvykle považuje za dobrý, a pokud je zajištěno poskytování nezbytných plnění spojených s užíváním bytu nebo s ním souvisících.
+
+**§ 2244**:
+> (1) Není-li v ujednanou dobu byt způsobilý k nastěhování a obývání nebo je-li byt ve stavu, který neodpovídá sdělení pronajímatele, má nájemce právo odmítnout se nastěhovat. Nastěhuje-li se, má právo požadovat na pronajímateli splnění smlouvy; neučiní-li tak bez zbytečného odkladu, jeho právo zaniká.
+>
+> (2) Znal-li nájemce stav bytu již při uzavření smlouvy, ustanovení odstavce 1 se nepoužije. To platí i v případě, že nájemce stav bytu při uzavření smlouvy neznal, protože si jej neprohlédl, ačkoli pronajímatel včas a řádně vyzval nájemce k prohlídce.
+
+**§ 2245**:
+> Využije-li nájemce právo nenastěhovat se do bytu, není povinen platit nájemné po dobu, co vada trvá. Nastěhuje-li se, má právo na přiměřenou slevu z nájemného, dokud pronajímatel vadu neodstraní; to platí i v případě podstatné vady v poskytování plnění spojeného nebo souvisícího s užíváním bytu.
+>
+
+**§ 2246**:
+> (1) Strany ujednají nájemné pevnou částkou. Má se za to, že se nájemné sjednává za jeden měsíc.
+>
+> (2) Neujednají-li strany výši nájemného, vznikne pronajímateli právo na nájemné v takové výši, jaká je v den uzavření smlouvy v místě obvyklá pro nový nájem obdobného bytu za obdobných smluvních podmínek.
+
+**§ 2247**:
+> (1) Strany si ujednají, která plnění spojená s užíváním bytu nebo s ním související služby zajistí pronajímatel; schází-li takové ujednání, použije se ustanovení odstavce 2.
+>
+> (2) Pronajímatel zajistí po dobu nájmu nezbytné služby. Má se za to, že nezbytnými službami jsou dodávky vody, odvoz a odvádění odpadních vod včetně čištění jímek, dodávky tepla, odvoz komunálního odpadu, osvětlení a úklid společných částí domu, zajištění příjmu rozhlasového a televizního vysílání, provoz a čištění komínů, případně provoz výtahu.
+>
+> (3) Způsob rozúčtování cen a úhrady služeb stanoví jiný právní předpis.
+>
+> (4) Strany si ujednají způsob rozúčtování cen a úhrady případných dalších služeb, není-li stanoven jiným právním předpisem nebo rozhodnutím cenového orgánu. Způsob rozúčtování musí být určen před poskytováním služby.
+
+**§ 2248**:
+> Strany si mohou ujednat každoroční zvyšování nájemného.
+
+**§ 2249**:
+> (1) Neujednají-li si strany zvyšování nájemného nebo nevyloučí-li zvyšování nájemného výslovně, může pronajímatel v písemné formě navrhnout nájemci zvýšení nájemného až do výše srovnatelného nájemného obvyklého v daném místě, pokud navržené zvýšení spolu s tím, k němuž již došlo v posledních třech letech, nebude vyšší než dvacet procent. K návrhu učiněnému dříve než po uplynutí dvanácti měsíců, v nichž nájemné nebylo zvýšeno, nebo který neobsahuje výši nájemného a nedokládá splnění podmínek podle tohoto ustanovení, se nepřihlíží.
+>
+> (2) Prováděcí právní předpis stanoví podrobnosti a postup pro zjištění srovnatelného nájemného obvyklého v daném místě.
+>
+> (3) Souhlasí-li nájemce s návrhem na zvýšení nájemného, zaplatí počínaje třetím kalendářním měsícem po dojití návrhu zvýšené nájemné, jak bylo navrženo. Nesdělí-li nájemce v písemné formě pronajímateli do dvou měsíců od dojití návrhu, že se zvýšením nájemného souhlasí, má pronajímatel právo navrhnout ve lhůtě dalších tří měsíců, aby výši nájemného určil soud; návrhu podanému po uplynutí této lhůty soud nevyhoví, namítne-li nájemce, že návrh byl podán opožděně. Soud na návrh pronajímatele rozhodne o nájemném do výše, která je v místě a čase obvyklá s účinky ode dne podání návrhu soudu.
+>
+> (4) Navrhuje-li nájemce snížení nájemného, použijí se ustanovení odstavců 1 až 3 obdobně.
+
+**§ 2250**:
+> (1) Provede-li pronajímatel stavební úpravy, které trvale zlepšují užitnou hodnotu pronajatého bytu či celkové podmínky bydlení v domě, anebo mají za následek trvalé úspory energie nebo vody, může se s nájemci dohodnout o zvýšení nájemného, nejvýše však o deset procent z účelně vynaložených nákladů ročně. Souhlasí-li s návrhem na takové zvýšení nájemného alespoň nájemci dvou třetin bytů v domě, platí zvýšené nájemné i pro ostatní nájemce.
+>
+> (2) Nedojde-li k dohodě podle odstavce 1, může pronajímatel navrhnout zvýšení nájemného z těchto důvodů ročně o tři a půl procenta z vynaložených nákladů; má se za to, že náklady byly vynaloženy účelně. K návrhu, který neobsahuje výši nájemného nebo nedokládá splnění podmínek podle tohoto ustanovení, se nepřihlíží.
+
+**§ 2251**:
+> (1) Nájemce platí nájemné předem na každý měsíc nebo na jiné ujednané platební období, nejpozději do pátého dne příslušného platebního období, nebyl-li ujednán den pozdější. Společně s nájemným platí nájemce zálohy nebo náklady na služby, které zajišťuje pronajímatel; o těchto zálohách a nákladech platí § 2253 obdobně.
+>
+> (2) Pronajímatel nesmí požadovat po nájemci jiná plnění než uvedená v odstavci 1, ať již ve formě vkladu nebo jinak, ani platbu nájemného později datovaným šekem nebo jiným obdobným způsobem.
+
+**§ 2252**:
+> (1) Požádá-li o to nájemce, umožní mu pronajímatel zpravidla nejpozději do čtyř měsíců po skončení zúčtovacího období nahlédnout do vyúčtování nákladů na poskytnuté služby za minulý kalendářní rok, jakož i pořídit si z vyúčtování výpisy, opisy nebo kopie; totéž platí o dokladech týkajících se účtovaných nákladů.
+>
+> (2) Nedoplatek i přeplatek záloh na poskytnuté služby jsou splatné k témuž dni; není-li ujednána jiná doba, jsou splatné do tří měsíců po uplynutí lhůty uvedené v odstavci 1.
+
+**§ 2253**:
+> (1) Nedohodnou-li se strany o dlužném nájemném, nelze nájem vypovědět pro nezaplacení nájemného, uloží-li nájemce dlužné nájemné, popřípadě jeho spornou část do notářské úschovy a vyrozumí o tom pronajímatele.
+>
+> (2) Domáhá-li se nájemce plnění ze smlouvy a pronajímatel odmítá plnit s námitkou nezaplacení nájemného, uloží nájemce dlužné nájemné, popřípadě jeho spornou část do notářské úschovy a vyrozumí o tom pronajímatele.
+
+**§ 2254**:
+> (1) Ujednají-li strany, že nájemce dá pronajímateli peněžitou jistotu, že zaplatí nájemné a splní jiné povinnosti vyplývající z nájmu, nebo ujednají-li si pro případ porušení těchto povinností smluvní pokutu, nesmí jistota a právo na zaplacení smluvní pokuty v souhrnu přesáhnout trojnásobek měsíčního nájemného.
+>
+> (2) Při skončení nájmu pronajímatel vrátí jistotu nájemci; započte si přitom, co mu nájemce případně z nájmu dluží. Nájemce má právo na úroky z jistoty od jejího poskytnutí alespoň ve výši zákonné sazby.
+>
+
+**§ 2255**:
+> (1) Nájemce užívá byt řádně v souladu s nájemní smlouvou.
+>
+> (2) Nezpůsobí-li to zvýšené zatížení pro byt nebo dům, může nájemce v bytě i pracovat nebo podnikat.
+
+**§ 2256**:
+> (1) Pronajímatel udržuje po dobu nájmu v domě náležitý pořádek obvyklý podle místních poměrů.
+>
+> (2) Nájemce dodržuje po dobu nájmu pravidla obvyklá pro chování v domě a rozumné pokyny pronajímatele pro zachování náležitého pořádku obvyklého podle místních poměrů.
 **§ 2242—2244 — Odevzdání**: ve **způsobilém stavu** pro řádné užívání.
 
 **§ 2247—2250 — Užívání bytu**:
@@ -276,10 +347,86 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 ### § 2257—2273 — Nájemné a služby
 
+**§ 2257**:
 > (1) Pronajímatel udržuje po dobu nájmu byt a dům ve stavu způsobilém k užívání.
 >
 > (2) Nájemce provádí a hradí pouze běžnou údržbu a drobné opravy související s užíváním bytu.
 
+**§ 2258**:
+> Nájemce má právo chovat v bytě zvíře, nepůsobí-li chov pronajímateli nebo ostatním obyvatelům domu obtíže nepřiměřené poměrům v domě. Vyvolá-li chov zvířete potřebu zvýšených nákladů na údržbu společných částí domu, nahradí nájemce tyto náklady pronajímateli.
+>
+
+**§ 2259**:
+> Nájemce je povinen strpět úpravu bytu nebo domu, popřípadě jeho přestavbu nebo jinou změnu, jen nesníží-li hodnotu bydlení a lze-li ji provést bez většího nepohodlí pro nájemce, nebo provádí-li ji pronajímatel na příkaz orgánu veřejné moci, anebo hrozí-li přímo zvlášť závažná újma. V ostatních případech lze změnu provést jen se souhlasem nájemce.
+
+**§ 2260**:
+> (1) Nevyžaduje-li se nájemcův souhlas k provedení úpravy, přestavby nebo jiné změny bytu nebo domu vyžadující vyklizení bytu, má pronajímatel právo započít s prováděním prací až poté, co se vůči nájemci zaváže poskytnout přiměřenou náhradu účelných nákladů, které nájemci vzniknou v souvislosti s vyklizením bytu, a zaplatí nájemci na tyto náklady přiměřenou zálohu.
+>
+> (2) Nevylučují-li to okolnosti případu, sdělí pronajímatel nájemci nejméně tři měsíce před zahájením prací alespoň povahu těchto prací, předpokládaný den jejich zahájení, odhad jejich trvání, nezbytnou dobu, po kterou musí být byt vyklizen a poučení o následcích odmítnutí vyklizení; zároveň se pronajímatel zaváže k náhradě podle odstavce 1 a uvede, jakou zálohu na náhradu nabízí.
+>
+> (3) Neprohlásí-li nájemce pronajímateli do deseti dnů po oznámení, že byt na požadovanou dobu vyklidí, má se za to, že vyklizení bytu odmítl.
+
+**§ 2261**:
+> Je-li nutné vyklizení bytu nejdéle na dobu jednoho týdne, postačí oznámit nájemci alespoň deset dnů před zahájením prací. Lhůta k prohlášení nájemce se zkracuje na pět dnů.
+
+**§ 2262**:
+> (1) Odmítne-li nájemce byt vyklidit, může pronajímatel navrhnout soudu, aby rozhodl o vyklizení bytu; nepodá-li však návrh do deseti dnů po nájemcově odmítnutí, právo domáhat se vyklizení bytu zaniká.
+>
+> (2) Prokáže-li pronajímatel účelnost úpravy, přestavby nebo jiné změny bytu nebo domu a nezbytnost vyklizení bytu, soud návrhu vyhoví; přitom může stranám uložit přiměřená omezení, která na nich lze rozumně požadovat. Před rozhodnutím o vyklizení bytu nelze práce provádět, ledaže soud provádění prací povolí.
+
+**§ 2263**:
+> (1) Souhlasí-li s tím pronajímatel, může nájemce provést úpravu, přestavbu nebo jinou změnu bytu nebo domu. Nesouhlasí-li pronajímatel se změnou, která je nezbytná vzhledem k zdravotnímu postižení nájemce, člena jeho domácnosti nebo jiné osoby, která v bytě bydlí, aniž má k odmítnutí souhlasu vážný a spravedlivý důvod, nahradí pronajímatelův souhlas na návrh nájemce soud.
+>
+> (2) Při skončení nájmu odstraní nájemce v bytě nebo domě změnu, kterou provedl, ledaže pronajímatel navrácení v předešlý stav nežádá.
+
+**§ 2264**:
+> (1) Zjistí-li nájemce v bytě poškození nebo vadu, které je třeba bez prodlení odstranit, oznámí to ihned pronajímateli; jinou vadu nebo poškození, které brání obvyklému bydlení, oznámí pronajímateli bez zbytečného odkladu.
+>
+> (2) Nájemce učiní podle svých možností to, co lze očekávat, aby poškozením nebo vadou, které je třeba bez prodlení odstranit, nevznikla další škoda. Nájemce má právo na náhradu nákladů účelně vynaložených při zabránění vzniku další škody, ledaže poškození nebo vada byly způsobeny okolnostmi, za které nájemce odpovídá.
+
+**§ 2265**:
+> (1) Pronajímatel odstraní poškození nebo vadu v přiměřené době poté, co mu nájemce poškození nebo vadu oznámil.
+>
+> (2) Neodstraní-li pronajímatel poškození nebo vadu bez zbytečného odkladu a řádně, může poškození nebo vadu odstranit nájemce a žádat náhradu odůvodněných nákladů, popřípadě slevu z nájemného, ledaže poškození nebo vada nejsou podstatné.
+>
+> (3) Neoznámí-li nájemce pronajímateli poškození nebo vadu bez zbytečného odkladu poté, co je měl a mohl při řádné péči zjistit, nemá právo na náhradu nákladů; odstraní-li poškození nebo vadu sám, nemá právo ani na slevu z nájemného.
+
+**§ 2266**:
+> Neodstraní-li pronajímatel poškození nebo vadu ani v dodatečné lhůtě a poškození nebo vada byly způsobeny okolnostmi, za které nájemce neodpovídá, má nájemce právo vypovědět nájem bez výpovědní doby, představuje-li prodlení pronajímatele při odstranění poškození nebo vady nebo samo poškození nebo vada hrubé porušení povinností pronajímatele.
+
+**§ 2267**:
+> Neodstraní-li nájemce poškození nebo vadu způsobené okolnostmi, za které odpovídá, odstraní je na náklady nájemce pronajímatel.
+
+**§ 2268**:
+> (1) Ustanovení o poškození nebo vadě bytu se použijí obdobně, brání-li užívání bytu právo třetí osoby.
+>
+> (2) Ustanovení o poškození nebo vadě bytu se použijí obdobně také tehdy, brání-li užívání bytu ustanovení zákona nebo rozhodnutí orgánu veřejné moci vydané na základě zákona.
+
+**§ 2269**:
+> (1) Ví-li nájemce předem o své nepřítomnosti v bytě, která má být delší než dva měsíce, i o tom, že byt mu bude po tuto dobu obtížně dostupný, oznámí to včas pronajímateli. Současně označí osobu, která po dobu jeho nepřítomnosti zajistí možnost vstupu do bytu v případě, kdy toho bude nezbytně zapotřebí; nemá-li nájemce takovou osobu po ruce, je takovou osobou pronajímatel.
+>
+> (2) Nesplní-li nájemce svou povinnost podle odstavce 1, považuje se toto jednání za porušení povinností nájemce závažným způsobem; to neplatí, nenastane-li z tohoto důvodu vážná újma.
+>
+
+**§ 2270**:
+> (1) Uzavře-li nájemní smlouvu s pronajímatelem více osob, stanou se společnými nájemci bytu; společným nájemcem bytu se stane i osoba, která se souhlasem stran přistoupí ke smlouvě.
+>
+> (2) Co platí o nájemci, platí obdobně o společných nájemcích, není-li dále stanoveno jinak.
+
+**§ 2271**:
+> Společní nájemci mají stejná práva a povinnosti. Ustanovení o společnosti se použijí přiměřeně.
+>
+
+**§ 2272**:
+> (1) Nájemce má právo přijímat ve své domácnosti kohokoli. Přijme-li nájemce nového člena své domácnosti, oznámí zvýšení počtu osob žijících v bytě bez zbytečného odkladu pronajímateli; neučiní-li to nájemce ani do dvou měsíců, co změna nastala, má se za to, že závažně porušil svou povinnost.
+>
+> (2) Pronajímatel má právo vyhradit si ve smlouvě souhlas s přijetím nového člena do nájemcovy domácnosti. To neplatí, jedná-li se o osobu blízkou anebo další případy zvláštního zřetele hodné. Pro souhlas pronajímatele s přijetím osoby jiné než blízké za člena nájemcovy domácnosti se vyžaduje písemná forma.
+>
+> (3) Pronajímatel má právo požadovat, aby v nájemcově domácnosti žil jen takový počet osob, který je přiměřený velikosti bytu a nebrání tomu, aby všechny mohly v bytě žít v obvyklých pohodlných a hygienicky vyhovujících podmínkách.
+
+**§ 2273**:
+> Sníží-li se počet členů nájemcovy domácnosti, oznámí to nájemce pronajímateli bez zbytečného odkladu.
+>
 **§ 2249 — Sjednání nájemného**:
 - **Pevně** nebo **v určeném způsobu zvýšení** (typicky inflační doložka);
 - Bez ujednání zvýšení: **navýšení dle zákona** o regulaci nájemného (zrušeno 2013; dnes max. **10 % každoročně** dle dispozitivních pravidel § 2249);
@@ -325,7 +472,6 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 **§ 2284**:
 > Není-li nájemcův dědic znám ani do šesti měsíců ode dne nájemcovy smrti, může pronajímatel byt vyklidit; tím nájem zaniká. Věci z bytu pronajímatel uloží na náklad nájemcova dědice ve veřejném skladišti nebo u jiného schovatele; nepřevezme-li nájemcův dědic věci bez zbytečného odkladu, může je pronajímatel na jeho účet vhodným způsobem prodat.
 >
-
 **Klíčové pravidlo**: nájem bytu **NELZE vypovědět bez důvodu** (kogentní ochrana).
 
 **§ 2287 — Výpověď ze strany nájemce**:
@@ -394,7 +540,6 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 > (1) Výpověď nájmu vyžaduje písemnou formu a musí dojít druhé straně. Výpovědní doba běží od prvního dne kalendářního měsíce následujícího poté, co výpověď došla druhé straně.
 >
 > (2) Vypoví-li nájem pronajímatel, poučí nájemce o jeho právu vznést proti výpovědi námitky a navrhnout přezkoumání oprávněnosti výpovědi soudem, jinak je výpověď neplatná.
-
 **Přechod nájmu** smrtí nájemce:
 - **§ 2279** — Manžel/druh, registrovaný partner žijící v bytě → automaticky nájem;
 - **§ 2280** — Sourozenci, děti, vnoučata žijící v bytě → automaticky nájem;
@@ -436,7 +581,6 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 > (3) Nájem bytu zvláštního určení může pronajímatel vypovědět pouze s předchozím souhlasem toho, kdo takový byt svým nákladem zřídil, popřípadě jeho právního nástupce.
 
 >
-
 **§ 2295 — Při skončení nájmu** — vrácení bytu **uklizený, ve stavu způsobilém** k novému nájmu.
 
 **§ 2296—2297 — Drobné úpravy** nájemce zůstávají bez náhrady; **velké úpravy** se souhlasem — nárok na náhradu, jen pokud zvyšují hodnotu.
@@ -467,7 +611,6 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2305**:
 > Nájemce může nemovitou věc, kde se nalézá prostor sloužící podnikání, opatřit se souhlasem pronajímatele v přiměřeném rozsahu štíty, návěstími a podobnými znameními; pronajímatel může souhlas odmítnout, má-li pro to vážný důvod. Požádal-li nájemce o udělení souhlasu v písemné formě a nevyjádří-li se pronajímatel do jednoho měsíce, považuje se souhlas pronajímatele za daný.
-
 **§ 2302 — Definice**: prostor sloužící podnikání nájemce.
 
 **§ 2305 — Subsidiarita**: použijí se přiměřeně obecná pravidla nájmu (§ 2201—2234).
@@ -522,7 +665,6 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2315**:
 > Skončí-li nájem výpovědí ze strany pronajímatele, má nájemce právo na náhradu za výhodu pronajímatele, nebo nového nájemce, kterou získali převzetím zákaznické základny vybudované vypovězeným nájemcem. Nájemce toto právo nemá, byl-li z nájmu vypovězen pro hrubé porušení svých povinností.
-
 **§ 2308—2309 — Výpověď**:
 - **Doba určitá**: výpověď s **6měsíční výpovědní dobou**, pokud lze prokázat **podstatnou změnu poměrů**;
 - **Doba neurčitá**: výpověď s **6měsíční výpovědní dobou**.
@@ -573,9 +715,6 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2331**:
 > Ubytovatel může před uplynutím ujednané doby smlouvu vypovědět bez výpovědní doby, porušuje-li ubytovaný i přes výstrahu hrubě své povinnosti ze smlouvy, anebo dobré mravy.
-
->
->
 
 **§ 2327 — Práva ubytovaného**:
 - Užívat **vyhrazený prostor** + společné prostory;
@@ -717,6 +856,43 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 - **Forma**: písemná, **veřejná listina** doporučená.
 
 ### § 2350—2357 — Procesní rámec
+
+**§ 2350**:
+> (1) Je-li pachtýř zapsán ve veřejném rejstříku, nabývá právo k závodu zveřejněním údaje, že uložil doklad o pachtu závodu do sbírky listin podle jiného právního předpisu.
+>
+> (2) Není-li pachtýř zapsán do veřejného rejstříku, nabývá právo k závodu účinností smlouvy.
+>
+> (3) Ustanoveními odstavců 1 a 2 nejsou dotčeny povinnosti zapsat práva k věcem podle jiných právních předpisů.
+
+**§ 2351**:
+> Zakazuje se převést na pachtýře ta práva z průmyslového nebo jiného duševního vlastnictví, u nichž to vylučuje smlouva, kterou bylo právo průmyslového nebo jiného duševního vlastnictví propachtovateli poskytnuto, nebo vylučuje-li to povaha takového práva.
+
+**§ 2352**:
+> (1) Propachtováním závodu se pachtýř stává věřitelem pohledávek a dlužníkem dluhů, které s provozem závodu souvisí; z dluhů však pachtýř přejímá jen ty, o jejichž existenci věděl nebo ji alespoň musel rozumně předpokládat. Neudělil-li věřitel souhlas k převzetí dluhu pachtýřem, ručí propachtovatel za jeho splnění. Nabytí pohledávek pachtýřem se jinak řídí ustanoveními o postoupení pohledávek.
+>
+> (2) Propachtovatel oznámí bez zbytečného odkladu svým věřitelům a dlužníkům, jejichž pohledávky a dluhy pachtýř pachtem závodu nabyl, že závod propachtoval.
+
+**§ 2353**:
+> (1) Pořídí-li strany o předání závodu zápis, uvedou výčet všeho, co propachtovaný závod zahrnuje a co se pachtýři předává, jakož i toho, co chybí, ač to jinak podle smlouvy nebo podle účetních záznamů závod spoluvytváří. Propachtovatel nejpozději v zápisu pachtýře upozorní na vady předmětu pachtu, o kterých ví, nebo o kterých vědět měl a mohl.
+>
+> (2) Neuvede-li se v zápisu věc náležející k závodu, nabývá k ní pachtýř požívací právo společně s požívacím právem k závodu. Neuvede-li se v zápisu dluh, pachtýř jej nabývá, musel-li jeho existenci alespoň rozumně předpokládat.
+
+**§ 2354**:
+> Zhorší-li se pachtem dobytnost pohledávky, má věřitel propachtovatele, který s pachtem nesouhlasil, právo domáhat se, aby soud rozhodl, že pacht je vůči němu neúčinný. Právo dovolat se neúčinnosti zaniká, neuplatní-li je věřitel do jednoho měsíce ode dne, kdy se o pachtu dozvěděl, nejpozději však do tří měsíců ode dne účinnosti smlouvy.
+
+**§ 2355**:
+> (1) Dnem zániku pachtu přechází na propachtovatele pohledávky a dluhy, které k závodu náleží; z dluhů však propachtovatel nabývá jen ty, o jejichž existenci věděl nebo ji alespoň musel rozumně předpokládat. Neudělil-li věřitel souhlas k převzetí dluhu propachtovatelem, ručí pachtýř za jeho splnění. Nabytí pohledávek propachtovatelem se jinak řídí ustanoveními o postoupení pohledávek.
+>
+> (2) Pachtýř oznámí svým věřitelům a dlužníkům, jejichž pohledávky a dluhy pachtýř pachtem závodu nabyl, bez zbytečného odkladu, že pacht zanikl.
+
+**§ 2356**:
+> Neprokáží-li strany, že vznik nebo zánik pachtu byl třetí osobě znám dříve, jsou vůči ní tyto skutečnosti účinné ode dne, kdy bylo oznámení o vzniku nebo zániku pachtu zveřejněno.
+
+**§ 2357**:
+> Ustanovení tohoto pododdílu se použijí obdobně i na pacht části závodu tvořící samostatnou organizační složku.
+
+>
+>
 
 **§ 2350 — Zveřejnění**: údaje v obchodním rejstříku.
 

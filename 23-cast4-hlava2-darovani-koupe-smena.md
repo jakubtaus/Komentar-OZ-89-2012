@@ -53,7 +53,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 > (1) Dárce může darovat třeba i všechen svůj současný majetek. Smlouva, kterou někdo daruje svůj budoucí majetek, platí jen potud, pokud nepřesahuje polovinu tohoto majetku.
 >
 > (2) Darování věci, kterou dárce nemá, je platné, jen zaváže-li se dárce ve smlouvě věc nabýt.
-
 **§ 2056 — Pouhý slib daru**: nezavazuje k darování, ale slibující **hradí náklady** vynaložené v očekávání daru (*culpa in contrahendo*).
 
 **§ 2057 — Forma**:
@@ -66,6 +65,29 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - **Budoucí majetek**: **max. polovinu** (zbytek je neplatný — chrání dárce před totální chudobou).
 
 ### § 2059—2065 — Speciální situace
+
+**§ 2059**:
+> Zavázal-li se dárce odevzdat dar po uzavření smlouvy, může od smlouvy odstoupit a odevzdání daru odepřít, změní-li se po uzavření smlouvy okolnosti do té míry, že by plnění podle smlouvy vážně ohrozilo dárcovu výživu nebo plnění dárcovy vyživovací povinnosti. Odevzdal-li již dárce část daru, může od smlouvy odstoupit jen ohledně toho, co dosud nesplnil.
+
+**§ 2060**:
+> Bylo-li někomu něco dáno z uznání nebo vzhledem k jeho zásluhám nebo jako zvláštní odměna, je to darování, pokud na to příjemce neměl již dříve právo.
+
+**§ 2061**:
+> Bylo-li ujednáno, že i dárce bude navzájem obdarován, jedná se o darování jen vzhledem k tomu, oč hodnota plnění jedné strany převyšuje hodnotu plnění druhé strany.
+
+**§ 2062**:
+> Zaváže-li se dárce obdarovaného pravidelně podporovat, přechází právo na podporu i povinnost k podpoře na dědice dárce a obdarovaného, jen pokud to bylo výslovně ujednáno.
+
+**§ 2063**:
+> Darování závislé na podmínce, že obdarovaný dárce přežije, se posuzuje zpravidla jako odkaz. Podle ustanovení o darování se řídí, přijme-li obdarovaný dar a vzdá-li se dárce výslovně práva dar odvolat a vydá o tom obdarovanému listinu. Tím není dotčen § 2057.
+
+**§ 2064**:
+> (1) Bylo-li darováno s příkazem, může dárce požadovat splnění příkazu, jen pokud již sám plnil.
+>
+> (2) Je-li splnění příkazu ve veřejném zájmu, může splnění příkazu po dárcově smrti požadovat také příslušný orgán veřejné moci nebo právnická osoba oprávněná takový zájem hájit.
+
+**§ 2065**:
+> Daruje-li někdo vědomě cizí věc a zatají-li to obdarovanému, nahradí škodu, která z toho vznikne. Dárce škodu obdarovanému nahradí i v případě, že škoda vznikla z vady darované věci, pokud dárce o vadě věděl a obdarovaného na ni neupozornil. V těchto případech může obdarovaný také od smlouvy odstoupit a dar vrátit.
 
 **§ 2059 — Odstoupení dárce při zhoršení poměrů**: pokud by darování ohrozilo **vlastní výživu** dárce nebo jeho vyživovací povinnost → **právo odstoupit** ohledně neodevzdaného daru.
 
@@ -173,7 +195,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 > Prodávající upozorní kupujícího při ujednávání kupní smlouvy na vady věci, o nichž ví.
 
 >
-
 **§ 2080 — Cena**: dostatečně určitá, pokud je ujednán **alespoň způsob určení** (např. tržní cena ke dni dodání).
 
 **§ 2081 — Náklady**:
@@ -204,7 +225,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 >
 > (2) Za kupní smlouvu se nepovažuje smlouva, podle níž převážná část plnění dodavatele spočívá ve výkonu činnosti.
 >
-
 **§ 2085**:
 - Vše, co není nemovitost = movitá věc;
 - **Cena bez určení** = obvyklá tržní cena v době uzavření smlouvy.
@@ -215,8 +235,75 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 ### § 2087—2104 — Povinnosti prodávajícího
 
+**§ 2087**:
 > Prodávající kupujícímu odevzdá věc, jakož i doklady, které se k věci vztahují, a umožní kupujícímu nabýt vlastnického práva k věci v souladu se smlouvou.
 
+**§ 2088**:
+> Prodávající splní povinnost odevzdat věc kupujícímu, umožní-li mu nakládat s věcí v místě plnění a včas mu to oznámí.
+
+**§ 2089**:
+> (1) Má-li kupující určit dodatečně vlastnosti předmětu koupě a neučiní-li to včas, určí je prodávající sám a oznámí kupujícímu, jaké vlastnosti určil. Přitom přihlédne k potřebám kupujícího, které zná.
+>
+> (2) Kupující má právo sdělit prodávajícímu odchylné určení vlastností předmětu koupě, než jaké určil prodávající; neučiní-li to bez zbytečného odkladu po oznámení prodávajícího, je vázán tím, co určil prodávající.
+
+**§ 2090**:
+> Má-li prodávající věc odeslat, odevzdá věc kupujícímu předáním prvnímu dopravci k přepravě pro kupujícího a umožní kupujícímu uplatnit práva z přepravní smlouvy vůči dopravci.
+
+**§ 2091**:
+> (1) Při odeslání nastanou účinky odevzdání věci kupujícímu jejím předáním dopravci, označí-li prodávající věc zjevně a dostatečně jako zásilku pro kupujícího.
+>
+> (2) Neoznačí-li prodávající věc, nastanou účinky odevzdání, oznámí-li prodávající kupujícímu bez zbytečného odkladu, že mu věc odeslal, a určí-li ji dostatečně v oznámení. Bez tohoto oznámení je věc kupujícímu odevzdána, až předá-li mu ji dopravce.
+
+**§ 2092**:
+> Doba, v níž má prodávající plnit, běží ode dne účinnosti smlouvy. Má-li však kupující splnit určitou povinnost ještě před odevzdáním věci, začíná doba, v níž má prodávající plnit, běžet ode dne splnění této povinnosti.
+
+**§ 2093**:
+> Dodá-li prodávající větší množství věcí, než bylo ujednáno, je kupní smlouva uzavřena i na přebytečné množství, ledaže je kupující bez zbytečného odkladu odmítl.
+
+**§ 2094**:
+> (1) Prodávající předá kupujícímu doklady potřebné k převzetí a užívání věci. Má-li k předání dojít při zaplacení kupní ceny, předá prodávající doklady v místě placení.
+>
+> (2) Doklady, které se týkají přepravy a jsou nutné k převzetí věci a volnému nakládání s ní, předá prodávající kupujícímu bez zbytečného odkladu po jejich vydání. Jiné doklady určené ve smlouvě předá prodávající kupujícímu při odevzdání věci.
+>
+
+**§ 2095**:
+> Prodávající odevzdá kupujícímu předmět koupě v ujednaném množství, jakosti a provedení. Nejsou-li jakost a provedení ujednány, plní prodávající v jakosti a provedení vhodných pro účel patrný ze smlouvy; jinak pro účel obvyklý.
+
+**§ 2096**:
+> Při určení jakosti nebo provedení podle smluveného vzorku nebo předlohy musí věc jakostí nebo provedením odpovídat vzorku nebo předloze. Liší-li se jakost nebo provedení určené ve smlouvě a vzorek nebo předloha, rozhoduje smlouva. Určí-li smlouva a vzorek jakost nebo provedení věci rozdílně, nikoli však rozporně, musí věc odpovídat smlouvě i vzorku nebo předloze.
+
+**§ 2097**:
+> Není-li ujednáno, jak má být věc zabalena, zabalí prodávající věc podle zvyklostí; nejsou-li, pak způsobem potřebným pro uchování věci a její ochranu. Stejným způsobem opatří prodávající věc pro přepravu.
+
+**§ 2098**:
+> Vyplývá-li ze smlouvy nebo z povahy předmětu koupě, že množství je určeno jen přibližně, určí přesné množství prodávající. Má se za to, že odchylka nesmí přesáhnout pět procent množství určeného ve smlouvě.
+>
+
+**§ 2099**:
+> (1) Věc je vadná, nemá-li vlastnosti stanovené v § 2095 a 2096. Za vadu se považuje i plnění jiné věci. Za vadu se považují i vady v dokladech nutných pro užívání věci.
+>
+> (2) Plyne-li z prohlášení prodávajícího nebo z dokladu o předání, že prodávající dodal menší množství věcí, nevztahují se na chybějící věci ustanovení o vadách.
+
+**§ 2100**:
+> (1) Právo kupujícího z vadného plnění zakládá vada, kterou má věc při přechodu nebezpečí škody na kupujícího, byť se projeví až později. Právo kupujícího založí i později vzniklá vada, kterou prodávající způsobil porušením své povinnosti.
+>
+> (2) Povinnosti prodávajícího ze záruky za jakost tím nejsou dotčeny.
+
+**§ 2101**:
+> (1) Při předčasném plnění může prodávající odstranit vady do doby určené pro odevzdání věci. Výkonem svého práva nesmí kupujícímu způsobit nepřiměřené obtíže nebo výdaje. Právo kupujícího na náhradu škody tím není dotčeno.
+>
+> (2) Odstavec 1 platí obdobně i pro vady dokladů.
+
+**§ 2102**:
+> (1) Práva kupujícího z vadného plnění nejsou dotčena, způsobilo-li vadu použití věci, kterou kupující předal prodávajícímu. To neplatí, prokáže-li prodávající, že na nevhodnost předané věci kupujícího včas upozornil a kupující na jejím použití trval, nebo prokáže-li, že nevhodnost předané věci ani při vynaložení dostatečné péče nemohl zjistit.
+>
+> (2) Způsobil-li vadu věci postup prodávajícího podle návrhů, vzorků nebo podkladů, které mu kupující opatřil, použije se odstavec 1 obdobně.
+
+**§ 2103**:
+> Kupující nemá práva z vadného plnění, jedná-li se o vadu, kterou musel s vynaložením obvyklé pozornosti poznat již při uzavření smlouvy. To neplatí, ujistil-li ho prodávající výslovně, že věc je bez vad, anebo zastřel-li vadu lstivě.
+
+**§ 2104**:
+> Kupující věc podle možnosti prohlédne co nejdříve po přechodu nebezpečí škody na věci a přesvědčí se o jejích vlastnostech a množství.
 - **§ 2090 — Místo plnění**: dispozitivně sídlo/bydliště prodávajícího;
 - **§ 2091—2095 — Doklady** o věci, instrukce, návody;
 - **§ 2099 — Vady**: prodávající odpovídá za vady, které **existovaly při převzetí** (případně se projeví ve sledované lhůtě);
@@ -250,7 +337,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **§ 2108**:
 > Do odstranění vady nemusí kupující platit část kupní ceny odhadem přiměřeně odpovídající jeho právu na slevu.
-
 **Hierarchie nároků** kupujícího (zásadní změna oproti 1964 — bylo limitované):
 
 **§ 2106 — Podstatné porušení smlouvy vadou**:
@@ -311,7 +397,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 **§ 2117**:
 > Vadu krytou zárukou musí kupující vytknout poskytovateli záruky ve lhůtě určené délkou záruční doby; § 1921 a 1922 se použijí obdobně.
 >
-
 **Záruka za jakost** (*Beschaffenheitsgarantie*) — **smluvní** nebo **prohlášení v reklamě**:
 - Prodávající se zaváže, že věc bude **po určitou dobu způsobilá** k použití;
 - Rozdíl od **odpovědnosti za vady** — záruka je nad rámec zákonné odpovědnosti.
@@ -363,7 +448,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **§ 2127**:
 > Hrozí-li věci rychlá zkáza a není-li na upozornění čas, není upozornění nutné.
-
 **§ 2118—2122 — Koupě s výhradami** (na zkoušku, podle vzoru atd.);
 
 **§ 2123 — Cenné papíry** — speciální pravidla;
@@ -399,7 +483,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 > V ostatním se na smlouvu o koupi nemovité věci použijí přiměřeně ustanovení o koupi movitých věcí.
 
 >
-
 - **§ 2129 — Vady**: odpovědnost prodávajícího za vady; lhůta 5 let pro vady nemovitostí;
 - **§ 2130 — Závady** v právu (kupující v dobré víře přebírá podle zápisu v katastru — § 1107);
 - **§ 2131 — Mlčící předpoklady**: dohoda o ceně, kvalitě, vlastnostech.
@@ -530,7 +613,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **§ 2183**:
 > Ustanovení tohoto pododdílu se obdobně použijí i na jiné převody vlastnického práva k závodu a na prodej nebo jiný převod části závodu tvořící samostatnou organizační složku.
-
 **§ 2176 — Forma**: **písemná** + **podpisy úředně ověřené** (notářský zápis nebo úředně ověřené podpisy);
 
 **§ 2177 — Účinky vůči věřitelům**:
@@ -576,9 +658,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 **§ 2188**:
 > V ostatním se na směnnou smlouvu přiměřeně použijí ustanovení o kupní smlouvě s tím, že se každá ze stran považuje ohledně věci, kterou směnou dává, za stranu prodávající, a ohledně věci, kterou přijímá, za stranu kupující.
 
->
->
-
 **§ 2185 — Aplikace pravidel o koupi**: na směnu se použijí **přiměřeně** ustanovení o koupi.
 
 **§ 2186** — **Nebezpečí škody** přechází **současně** na obě strany.
@@ -619,7 +698,6 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 
 **§ 2192**:
 > Nalezne-li se ztracená věc, za niž výprosník již dal náhradu, nenabude tím právo věc si proti vůli půjčitele ponechat, nýbrž věc půjčiteli proti vrácení náhrady vrátí.
-
 **§ 2190 — Vrácení**: kdykoli na vyžádání půjčitele.
 
 **§ 2191 — Užívání**: jen **k účelu obvyklému** pro takovou věc; **nesmí zhoršovat** stav.
@@ -642,6 +720,36 @@ Tato kapitola otevírá **zvláštní část závazkového práva** — jednotli
 - **Časově nebo účelově vázané** (rozdíl od výprosy).
 
 ### § 2194—2200 — Práva a povinnosti
+
+**§ 2194**:
+> Vypůjčitel nabývá právo věc užívat ujednaným způsobem, a nebyl-li ujednán, způsobem přiměřeným povaze věci. Vypůjčitel není oprávněn věc přenechat jiné osobě bez svolení půjčitele.
+
+**§ 2195**:
+> (1) Půjčitel přenechá vypůjčiteli věc ve stavu způsobilém k užívání. Způsobí-li škodu vada věci, kterou půjčitel zatajil, nahradí půjčitel škodu vypůjčiteli z toho vzniklou.
+>
+> (2) Půjčitel poučí vypůjčitele, jak věc užívat, nejedná-li se o pravidla obecně známá, anebo neplyne-li z okolností, že toho není zapotřebí. Neučiní-li to, nahradí vypůjčiteli škodu z toho vzniklou.
+
+**§ 2196**:
+> Byl-li ujednán jen účel, k němuž se má věc užívat, zařídí se vypůjčitel tak, aby začal věc užívat bez zbytečného odkladu a aby ji po splnění účelu bez zbytečného odkladu vrátil.
+
+**§ 2197**:
+> Vypůjčitel má právo vrátit věc předčasně; kdyby však z toho vznikly půjčiteli obtíže, nemůže věc vrátit bez jeho souhlasu.
+
+**§ 2198**:
+> (1) Půjčitel se nemůže domáhat předčasného vrácení věci; to neplatí, užije-li vypůjčitel věc v rozporu se smlouvou.
+>
+> (2) Potřebuje-li půjčitel věc nevyhnutelně dříve z důvodu, který nemohl při uzavření smlouvy předvídat, může se domáhat jejího předčasného vrácení, jen bylo-li to ujednáno.
+
+**§ 2199**:
+> (1) Obvyklé náklady spojené s užíváním věci nese vypůjčitel ze svého.
+>
+> (2) Při potřebě mimořádných nákladů může vypůjčitel věc předat půjčiteli, aby je vynaložil sám. Nechce-li nebo nemůže-li půjčitel tak učinit a vynaloží-li mimořádné náklady v nezbytném rozsahu sám vypůjčitel, náleží mu náhrada jako nepřikázanému jednateli.
+
+**§ 2200**:
+> Práva půjčitele a vypůjčitele musí být uplatněna do tří měsíců od vrácení věci, jinak je soud nepřizná, namítne-li druhá strana opožděné uplatnění práva.
+
+>
+>
 
 **§ 2194 — Účel** + **doba**: pokud ujednány, **vypůjčitel musí dodržet**.
 

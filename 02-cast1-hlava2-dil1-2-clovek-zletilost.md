@@ -442,6 +442,7 @@ Domněnku lze vyvrátit důkazem (např. soudní pitva — určení doby úmrtí
 **§ 35**:
 > (1) Nezletilý, který dovršil patnáct let, se může zavázat k výkonu závislé práce podle jiného právního předpisu. Jako den nástupu do práce nesmí být sjednán den, který by předcházel dni, kdy nezletilý ukončí povinnou školní docházku.
 > (2) K výkonu závislé práce v období hlavních prázdnin se nezletilý podle § 34 odst. 2 může zavázat jen s písemným souhlasem zákonného zástupce.
+
 **Výklad:**
 
 § 34—35 jsou **soukromoprávní pendant** zákoníku práce (262/2006 Sb. — zejména § 6, § 246—249) a navazují na ústavní zákaz dětské práce (čl. 9 LZPS).

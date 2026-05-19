@@ -219,6 +219,7 @@ K nim se připojí (zpravidla v rámci téže žaloby) i:
 
 **§ 85**:
 > (2) Svolí-li někdo k zobrazení své podoby za okolností, z nichž je zřejmé, že bude šířeno, platí, že svoluje i k jeho rozmnožování a rozšiřování obvyklým způsobem, jak je mohl vzhledem k okolnostem rozumně předpokládat.
+
 **Výklad:**
 
 **Dvě úrovně souhlasu** — *zachycení* a *šíření*:
@@ -300,8 +301,7 @@ Příklad: model uzavřel smlouvu s reklamní agenturou na 2 roky užití podobi
 > (2) Svolení není třeba ani v případě, když se podobizna, písemnost osobní povahy nebo zvukový či obrazový záznam pořídí nebo použijí na základě zákona k úřednímu účelu nebo v případě, že někdo veřejně vystoupí v záležitosti veřejného zájmu.
 
 **§ 89**:
-> Podobizna nebo zvukový či obrazový záznam se mohou bez svolení člověka také pořídit nebo použít přiměřeným způsobem též k vědeckému nebo uměleckému účelu a pro tiskové, rozhlasové, televizní nebo obdobné zpravodajství.
-§ 89: Podobizna nebo zvukový či obrazový záznam se mohou bez svolení člověka také pořídit nebo použít přiměřeným způsobem též k vědeckému nebo uměleckému účelu a pro tiskové, rozhlasové, televizní nebo obdobné zpravodajství.
+> Podobizna nebo zvukový či obrazový záznam se mohou bez svolení člověka také pořídit nebo použít přiměřeným způsobem též k vědeckému nebo uměleckému účelu a pro tiskové, rozhlasové, televizní nebo obdobné zpravodajství.§ 89: Podobizna nebo zvukový či obrazový záznam se mohou bez svolení člověka také pořídit nebo použít přiměřeným způsobem též k vědeckému nebo uměleckému účelu a pro tiskové, rozhlasové, televizní nebo obdobné zpravodajství.
 
 **Výklad:**
 
@@ -415,8 +415,7 @@ Souhlas zákonného zástupce **musí být v přímém prospěchu** zastoupenéh
 > (2) Uděluje-li souhlas za jiného jeho zákonný zástupce, podá se vysvětlení i tomu, kdo má být zákroku podroben, je-li schopen úsudku, způsobem přiměřeným schopnosti dotčeného vysvětlení pochopit.
 
 **§ 95**:
-> Nezletilý, který není plně svéprávný, může v obvyklých záležitostech udělit souhlas k zákroku na svém těle také sám, je-li to přiměřené rozumové a volní vyspělosti nezletilých jeho věku a jedná-li se o zákrok nezanechávající trvalé nebo závažné následky.
-§ 95: Nezletilý, který není plně svéprávný, může v obvyklých záležitostech udělit souhlas k zákroku na svém těle také sám, je-li to přiměřené rozumové a volní vyspělosti nezletilých jeho věku a jedná-li se o zákrok nezanechávající trvalé nebo závažné následky.
+> Nezletilý, který není plně svéprávný, může v obvyklých záležitostech udělit souhlas k zákroku na svém těle také sám, je-li to přiměřené rozumové a volní vyspělosti nezletilých jeho věku a jedná-li se o zákrok nezanechávající trvalé nebo závažné následky.§ 95: Nezletilý, který není plně svéprávný, může v obvyklých záležitostech udělit souhlas k zákroku na svém těle také sám, je-li to přiměřené rozumové a volní vyspělosti nezletilých jeho věku a jedná-li se o zákrok nezanechávající trvalé nebo závažné následky.
 
 **Výklad:**
 
@@ -484,8 +483,7 @@ Tyto domněnky chrání lékaře před spory, kdy pacient zpětně tvrdí, že s
 > (2) Při zákroku i při udělení souhlasu se vezme zřetel na dříve vyslovená známá přání člověka, do jehož integrity má být zasaženo.
 
 **§ 99**:
-> Je-li život člověka v náhlém a patrném nebezpečí a nelze-li souhlas ve stavu nouze získat ani v jiné než stanovené formě, lze okamžitě zakročit, pokud to je ve prospěch zdraví dotčené osoby nezbytné.
-§ 99: Je-li život člověka v náhlém a patrném nebezpečí a nelze-li souhlas ve stavu nouze získat ani v jiné než stanovené formě, lze okamžitě zakročit, pokud to je ve prospěch zdraví dotčené osoby nezbytné.
+> Je-li život člověka v náhlém a patrném nebezpečí a nelze-li souhlas ve stavu nouze získat ani v jiné než stanovené formě, lze okamžitě zakročit, pokud to je ve prospěch zdraví dotčené osoby nezbytné.§ 99: Je-li život člověka v náhlém a patrném nebezpečí a nelze-li souhlas ve stavu nouze získat ani v jiné než stanovené formě, lze okamžitě zakročit, pokud to je ve prospěch zdraví dotčené osoby nezbytné.
 
 **Výklad:**
 
@@ -604,8 +602,7 @@ Dva principy:
 > (2) Důvěrník může uplatnit ve prospěch člověka svým jménem všechna jeho práva vzniklá v souvislosti s jeho převzetím do příslušného zařízení nebo s jeho držením v takovém zařízení. Stejná práva jako důvěrník má i podpůrce.
 
 **§ 108**:
-> Kdo byl do zařízení poskytujícího zdravotní péči převzat nebo kdo je v něm držen, má právo projednávat se svým zástupcem, důvěrníkem nebo podpůrcem vlastní záležitosti při osobním rozhovoru a bez přítomnosti třetích osob.
-§ 108: Kdo byl do zařízení poskytujícího zdravotní péči převzat nebo kdo je v něm držen, má právo projednávat se svým zástupcem, důvěrníkem nebo podpůrcem vlastní záležitosti při osobním rozhovoru a bez přítomnosti třetích osob.
+> Kdo byl do zařízení poskytujícího zdravotní péči převzat nebo kdo je v něm držen, má právo projednávat se svým zástupcem, důvěrníkem nebo podpůrcem vlastní záležitosti při osobním rozhovoru a bez přítomnosti třetích osob.§ 108: Kdo byl do zařízení poskytujícího zdravotní péči převzat nebo kdo je v něm držen, má právo projednávat se svým zástupcem, důvěrníkem nebo podpůrcem vlastní záležitosti při osobním rozhovoru a bez přítomnosti třetích osob.
 
 **Výklad:**
 
@@ -625,7 +622,6 @@ Dva principy:
 
 **§ 110**:
 > Rozhodl-li soud o přípustnosti učiněného opatření, schvaluje se tím nucený pobyt v zařízení poskytujícím zdravotní péči, tím však neodnímá právo odmítnout určitý zákrok nebo léčebný výkon.
-
 § 109: (1) Člověk převzatý do zařízení... má právo, aby jeho zdravotní stav, zdravotní dokumentaci nebo vyjádření ošetřujícího lékaře o neschopnosti úsudku a projevit přání samostatně přezkoumal lékař nezávislý na poskytovateli...
 
 § 110: Rozhodl-li soud o přípustnosti učiněného opatření, schvaluje se tím nucený pobyt v zařízení poskytujícím zdravotní péči, tím však neodnímá právo odmítnout určitý zákrok nebo léčebný výkon.
@@ -659,7 +655,6 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 
 **§ 112**:
 > Člověk může přenechat část svého těla jinému jen za podmínek stanovených jiným právním předpisem. To neplatí, jedná-li se o vlasy nebo podobné části lidského těla, které lze bezbolestně odejmout bez znecitlivění a které se přirozenou cestou obnovují; ty lze přenechat jinému i za odměnu a hledí se na ně jako na věc movitou.
-
 § 112: Člověk může přenechat část svého těla jinému jen za podmínek stanovených jiným právním předpisem. To neplatí, jedná-li se o vlasy nebo podobné části lidského těla, které lze bezbolestně odejmout bez znecitlivění a které se přirozenou cestou obnovují; ty lze přenechat jinému i za odměnu a hledí se na ně jako na věc movitou.
 
 **Výklad:**
@@ -705,8 +700,5 @@ Soudní rozhodnutí o přípustnosti hospitalizace **nezbavuje pacienta práva o
 > (2) Náklady pohřbu a opatření pohřebiště se hradí z pozůstalosti. Pokud pozůstalost nestačí ke krytí nákladů toho způsobu pohřbu, jaký si zesnulý přál, musí být pohřben alespoň slušným způsobem podle místních zvyklostí.
 >
 > (3) Jiný právní předpis stanoví, jakým způsobem a na čí náklady bude pohřben člověk, jehož pozůstalost ke krytí nákladů pohřbu nestačí a není-li nikdo ochoten uhradit náklady pohřbu dobrovolně.
-
->
->
 
 > Konec kapitoly 04. Pokračování: kapitola 05 — Hlava II Díl 3 (Oddíl 1—2): Právnické osoby obecně — ustavení, vznik, název, sídlo, orgány, jednání za PO, zrušení a zánik (§ 118—209).

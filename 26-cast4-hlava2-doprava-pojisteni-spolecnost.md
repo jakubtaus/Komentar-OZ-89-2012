@@ -56,7 +56,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 > (1) Vznikne-li cestujícímu za přepravy újma na zdraví nebo škoda na zavazadle přepravovaném společně s ním nebo vznikne-li škoda na věci, kterou měl cestující u sebe, nahradí ji dopravce podle ustanovení o náhradě škody způsobené provozem dopravních prostředků.
 >
 > (2) Škodu způsobenou na zavazadle přepravovaném odděleně od cestujícího dopravce nahradí podle ustanovení o náhradě škody při přepravě věci.
-
 **§ 2551 — Bezpečnost cestujícího**:
 - Dopravce odpovídá za **újmu na zdraví/zavazadlech** cestujícího v souvislosti s přepravou;
 - **Objektivní odpovědnost** (i bez zavinění);
@@ -88,8 +87,148 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 ### § 2556—2585 — Klíčová pravidla
 
+**§ 2556**:
 > Odesílatel potvrdí dopravci na jeho žádost objednávku přepravy. Dopravce potvrdí odesílateli na jeho žádost převzetí zásilky. Potvrzení vyžadují písemnou formu.
 
+**§ 2557**:
+> (1) Odesílatel poskytne dopravci správné údaje o obsahu zásilky a jeho povaze.
+>
+> (2) Je-li k provedení přepravy zapotřebí zvláštní listiny, předá ji odesílatel dopravci nejpozději při předání zásilky k přepravě.
+
+**§ 2558**:
+> Dopravce provede přepravu do místa určení s odbornou péčí v ujednané době, a nebyla-li ujednána, bez zbytečného odkladu. Má se za to, že tato doba počíná běžet dnem následujícím po převzetí zásilky dopravcem.
+
+**§ 2559**:
+> Nevydal-li ještě dopravce zásilku příjemci, může odesílatel přikázat, aby přeprava byla přerušena a se zásilkou bylo naloženo podle jeho příkazu, nahradí však dopravci účelně vynaložené náklady s tím spojené.
+
+**§ 2560**:
+> (1) Zná-li dopravce příjemce zásilky, zásilku mu doručí. Má-li však příjemce podle smlouvy zásilku v místě určení vyzvednout, oznámí mu dopravce jen ukončení přepravy a zásilku mu na požádání vydá.
+>
+> (2) Zavazuje-li smlouva dopravce, aby před vydáním zásilky vybral od příjemce určitou částku či uskutečnil jiný inkasní úkon, použijí se přiměřeně ustanovení o dokumentárním inkasu.
+
+**§ 2561**:
+> Příjemce zásilky určený ve smlouvě nabývá práva ze smlouvy, požádá-li o vydání zásilky po jejím dojití do místa určení, popřípadě po uplynutí doby, kdy zásilka měla do místa určení dojít. Tím okamžikem přechází na příjemce i právo na náhradu škody na zásilce.
+
+**§ 2562**:
+> Přijetím zásilky se příjemce stává ručitelem odesílatele za pohledávky dopravce ze smlouvy týkající se přepravy převzaté zásilky. Ručení se příjemce zprostí, prokáže-li, že o těchto pohledávkách nevěděl a ani nemusel vědět.
+
+**§ 2563**:
+> Dopravce zásilku příjemci nevydá, bylo-li by to v rozporu s příkazem odesílatele podle § 2559. V tom případě má právo nakládat se zásilkou nadále odesílatel. Určí-li odesílatel dopravci jinou osobu jako příjemce, nabývá tato osoba práva ze smlouvy týmž způsobem jako původní příjemce.
+>
+
+**§ 2564**:
+> (1) Přepravné je splatné bez zbytečného odkladu po provedení přepravy do místa určení.
+>
+> (2) Není-li výše přepravného ujednána, náleží dopravci přepravné obvyklé v době uzavření smlouvy s přihlédnutím k obsahu závazku.
+
+**§ 2565**:
+> Nemůže-li dopravce dokončit přepravu z důvodů, za něž neodpovídá, náleží mu poměrná část přepravného s přihlédnutím k přepravě již uskutečněné.
+>
+
+**§ 2566**:
+> (1) Dopravce nahradí škodu vzniklou na zásilce v době od převzetí zásilky dopravcem do vydání zásilky příjemci. To neplatí, prokáže-li, že škodu nemohl odvrátit ani při vynaložení odborné péče.
+>
+> (2) Povinnosti k náhradě škody se dopravce zprostí, prokáže-li, že škodu způsobili
+>
+> - a) odesílatel, příjemce nebo vlastník zásilky nebo
+>
+> - b) vada či přirozená povaha zásilky, včetně obvyklého úbytku.
+>
+> (3) Způsobí-li škodu vadný obal zásilky, dopravce se povinnosti k náhradě škody zprostí důkazem, že odesílatele na vadu při převzetí zásilky k přepravě upozornil; byl-li vydán nákladní nebo náložný list, musí v něm být vada obalu poznamenána. Neupozorní-li dopravce na vadný obal, zprostí se povinnosti k náhradě škody důkazem, že vadu nemohl při převzetí zásilky poznat.
+>
+> (4) K ujednáním omezujícím povinnost dopravce podle odstavců 1 až 3 se nepřihlíží.
+
+**§ 2567**:
+> (1) Při ztrátě nebo zničení zásilky nahradí dopravce cenu, kterou zásilka měla v době, kdy ji převzal.
+>
+> (2) Při poškození nebo znehodnocení zásilky nahradí dopravce rozdíl mezi cenou, kterou zásilka měla v době jejího převzetí dopravcem, a cenou, kterou by v této době měla zásilka poškozená nebo znehodnocená.
+
+**§ 2568**:
+> (1) Vznikne-li na zásilce škoda, podá dopravce odesílateli o škodě zprávu. Nabyl-li však právo na vydání zásilky již příjemce, podá dopravce zprávu příjemci.
+>
+> (2) Nepodá-li dopravce zprávu o škodě bez zbytečného odkladu, nahradí odesílateli, nebo příjemci škodu tím způsobenou.
+
+**§ 2569**:
+> Není-li právo na náhradu škody u dopravce uplatněno do šesti měsíců ode dne převzetí zásilky, anebo nebyla-li zásilka převzata, do šesti měsíců ode dne, kdy měla být doručena, soud je nepřizná, namítne-li dopravce, že právo bylo uplatněno opožděně.
+
+**§ 2570**:
+> Dopravce může zásilku na účet odesílatele prodat při bezprostřední hrozbě podstatné škody na zásilce, není-li čas vyžádat si pokyny odesílatele, anebo prodlévá-li odesílatel s nimi.
+
+**§ 2571**:
+> (1) Dopravce má k zásilce, dokud s ní může nakládat, zástavní právo k zajištění dluhů vyplývajících ze smlouvy.
+>
+> (2) Vázne-li na zásilce několik zástavních práv, má zástavní právo dopravce přednost před zástavními právy dříve vzniklými a zástavní právo dopravce má přednost před zástavním právem zasílatele.
+
+**§ 2572**:
+> (1) Potvrzení o převzetí zásilky lze nahradit náložným listem. Náložný list je cenný papír, se kterým je spojeno právo požadovat na dopravci vydání zásilky v souladu s obsahem náložného listu; lze jej vydat na jméno, na řad nebo na doručitele.
+>
+> (2) Náložný list obsahuje alespoň
+>
+> - a) jméno dopravce a jeho bydliště nebo sídlo,
+>
+> - b) jméno odesílatele a jeho bydliště nebo sídlo,
+>
+> - c) označení, množství, váhu nebo objem přepravovaných věcí,
+>
+> - d) formu náložného listu; pokud byl vydán na jméno nebo na řad, i označení osoby, na jejíž jméno nebo řad byl vydán,
+>
+> - e) údaj o místě určení a
+>
+> - f) místo a den vydání náložného listu a dopravcův podpis.
+>
+> (3) Neobsahuje-li náložný list jméno osoby, na jejíž řad je vydán, považuje se za vystavený na řad odesílatele.
+
+**§ 2573**:
+> Při vydání náložného listu ve stejnopisech dopravce vyznačí na každém stejnopisu jejich počet.
+
+**§ 2574**:
+> Dopravce vydá odesílateli za zničený nebo ztracený náložný list nový náložný list s vyznačením, že se jedná o náhradní náložný list. Odesílatel nahradí dopravci škodu, vznikne-li mu zneužitím původního náložného listu.
+
+**§ 2575**:
+> Po vydání náložného listu má právo přerušit přepravu jen osoba oprávněná z náložného listu. Bylo-li vydáno více stejnopisů náložného listu, vyžaduje se předložení všech stejnopisů.
+
+**§ 2576**:
+> Po vydání náložného listu má právo na vydání zásilky osoba oprávněná k tomu podle náložného listu.
+
+**§ 2577**:
+> (1) Vůči držiteli náložného listu může dopravce uplatnit jen námitky plynoucí z obsahu náložného listu nebo ze svých práv proti držiteli.
+>
+> (2) Vůči držiteli náložného listu se dopravce může dovolat ujednání obsažených ve smlouvě, kterou uzavřel s odesílatelem, jsou-li tato ujednání v náložném listu obsažena, anebo odkazuje-li na ně náložný list výslovně.
+
+**§ 2578**:
+> Podrobnější úpravu přepravy osob a věcí stanoví jiný právní předpis, zejména předpisy, kterými se stanoví přepravní řády, nestanoví-li tak přímo použitelný předpis Evropských společenství.
+
+**§ 2579**:
+> Spojí-li se k provedení přepravy několik dopravců, mohou přepravní řády stanovit, který z dopravců a za jakých podmínek za přepravu odpovídá.
+
+**§ 2580**:
+> (1) Omezí-li přepravní řády povinnost dopravce k náhradě újmy na zdraví, nepřihlíží se k tomu.
+>
+> (2) Povinnost dopravců provozujících veřejnou přepravu nahradit škodu nebo jinou újmu mohou přepravními řády omezit jen ve zvlášť odůvodněných případech, kdy potřeba takového omezení pro vnitrostátní přepravu nezbytně vyplývá ze zásad platných pro mezinárodní přepravu.
+>
+> (3) Případná omezení povinnosti dopravce k náhradě újmy v přepravních řádech se nevztahují na případy újmy způsobené úmyslně nebo z hrubé nedbalosti.
+
+**§ 2581**:
+> (1) Je-li osoba oprávněná vyzvednout zavazadlo či zásilku v prodlení s vyzvednutím věci déle než šest měsíců, může dopravce věc na účet této osoby prodat. Jedná-li se o věc větší hodnoty a zná-li dopravce adresu této osoby, vyrozumí ji předem o zamýšleném prodeji a poskytne jí dodatečnou přiměřenou lhůtu k vyzvednutí věci.
+>
+> (2) Přepravní řády mohou v odůvodněných případech stanovit pro vyzvednutí některých zavazadel a zásilek kratší lhůtu k jejich vyzvednutí, zejména jedná-li se o věci nebezpečné povahy nebo o věci, které se rychle kazí.
+
+**§ 2582**:
+> Smlouvou o provozu dopravního prostředku se provozce zavazuje přepravit náklad určený objednatelem a k tomu účelu vykonat alespoň jednu předem určenou cestu, anebo vykonat ve smluvené době větší počet cest, jak to objednatel určí, a objednatel se zavazuje zaplatit provozci odměnu.
+
+**§ 2583**:
+> (1) Provozce zajistí způsobilost dopravního prostředku k smluvené cestě, jeho použitelnost pro dohodnutou přepravu a opatří dopravní prostředek způsobilou posádkou a pohonnými hmotami a dalšími potřebnými věcmi.
+>
+> (2) Není-li dopravní prostředek způsobilý podle odstavce 1, nahradí provozce objednateli škodu z toho vzniklou, ledaže prokáže, že tuto nezpůsobilost nemohl ani při zachování potřebné péče předvídat.
+
+**§ 2584**:
+> Právo požadovat smluvený provoz dopravního prostředku může objednatel postoupit jiné osobě.
+
+**§ 2585**:
+> Přejímá-li provozce k přepravě náklad, použije se pro určení práv a povinností stran přiměřeně ustanovení upravující smlouvu o přepravě, pokud to povaha smlouvy o provozu dopravního prostředku připouští.
+
+>
+>
 **§ 2557—2561 — Přepravní listina** (*Frachtbrief*):
 - Důkaz o uzavření přepravní smlouvy;
 - Obsahuje údaje o zásilce, místě nakládky/vykládky, ceně přepravy.
@@ -161,10 +300,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **§ 2661**:
 > Nahradí-li kontrolor objednateli škodu, přechází na něho právo objednatele vůči třetí osobě tak, jako by mu bylo postoupeno.
 
->
-
->
-
 **§ 2655 — Nestrannost** kontrolora — fundamentální požadavek.
 
 **§ 2658 — Kontrolní osvědčení** — písemný dokument s výsledkem.
@@ -224,9 +359,132 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 ### § 2718—2746 — Klíčová pravidla
 
+**§ 2718**:
 > (1) Vloží-li společník do společnosti veškeré své jmění, má se za to, že se jedná o jmění přítomné k účinnosti smlouvy.
 >
 > (2) Ujednání, že vklad společníka zahrnuje i jeho budoucí majetek, se nevztahuje na majetek nabytý děděním, ledaže to bylo výslovně ujednáno.
+
+**§ 2719**:
+> (1) Peněžní prostředky a zuživatelné věci, jakož i věci určené podle druhu vložené do společnosti, se stávají spoluvlastnictvím společníků, kteří vklady přispěli; jiné věci se stávají jejich spoluvlastnictvím jen tehdy, byly-li oceněny penězi. Spoluvlastnické podíly společníků se určí poměrem hodnot majetku, který každý společník do společnosti vložil.
+>
+> (2) K jinému předmětu vkladu nabývají společníci právo bezplatného požívání.
+
+**§ 2720**:
+> Společník, který se zavázal přispět společnému účelu jen činností, má právo na podíl na zisku a právo užívat věci vložené do společnosti, nemá však právo tyto věci požívat, ani se nestává spoluvlastníkem podle § 2719 odst. 1.
+
+**§ 2721**:
+> O vzájemných právech a povinnostech společníků platí obdobně ustanovení o spoluvlastnictví.
+
+**§ 2722**:
+> (1) Kdo se zavázal přispět společnosti jen činností, není povinen k jinému příspěvku. Kdo se zavázal přispět jen majetkem, není povinen přičinit se o dosažení společného účelu jiným způsobem.
+>
+> (2) Společníka nelze nutit, aby přispěl více, než se zavázal. Změní-li se však poměry tak, že společného účelu nelze bez zvýšení příspěvku dosáhnout, může ten, kdo není ochoten svůj příspěvek zvýšit, ze společnosti vystoupit, anebo z ní být vyloučen.
+
+**§ 2723**:
+> Ujedná-li se jen, co má být do společnosti celkem vloženo, přispěje každý ze společníků rovným dílem.
+
+**§ 2724**:
+> O dosažení společného účelu se všichni společníci přičiňují zpravidla stejnou měrou. Zařídil-li společník společnou záležitost v dobré víře, má právo na náhradu jako příkazník.
+
+**§ 2725**:
+> Společník vykonává činnost pro společnost osobně a není oprávněn členství ve společnosti zřídit jiné osobě, ani jí své členství postoupit.
+
+**§ 2726**:
+> Činy pro společnost škodlivé jsou společníkovi zakázány.
+
+**§ 2727**:
+> (1) Společník nesmí bez souhlasu ostatních společníků činit na vlastní nebo cizí účet nic, co má vzhledem ke společnému účelu konkurenční povahu. Stane-li se tak, mohou se ostatní společníci domáhat, aby se tento společník takového jednání zdržel.
+>
+> (2) Jednal-li společník na vlastní účet, mohou se ostatní společníci domáhat, aby bylo jednání společníka prohlášeno za učiněné na společný účet. Jednal-li společník na cizí účet, mohou se ostatní společníci domáhat, aby jim bylo ve prospěch společného účtu postoupeno právo na odměnu nebo aby jim byla vydána odměna již poskytnutá. Tato práva zanikají, pokud nebyla uplatněna do tří měsíců ode dne, kdy se podnikatel o jednání dozvěděl, nejpozději však rok ode dne, kdy k jednání došlo.
+>
+> (3) Namísto práv podle odstavce 2 mohou ostatní společníci požadovat náhradu škody.
+
+**§ 2728**:
+> (1) Neurčí-li smlouva poměr, jakým se společníci podílejí na majetku nabytém za trvání společnosti, na zisku a na ztrátě společnosti, jsou jejich podíly stejné. Určí-li smlouva poměr, jakým se společník podílí buď jen na majetku, anebo jen na zisku nebo na ztrátě, platí stejný poměr i pro ostatní případy.
+>
+> (2) Ujednání vylučující právo společníka na podíl na zisku nemá právní účinky. Ujednání vylučující povinnost společníka podílet se na ztrátě má právní účinky jen mezi společníky.
+
+**§ 2729**:
+> (1) Rozhodnutí o záležitostech společnosti se přijímají většinou hlasů; každý společník má jeden hlas. Ujednání nebo rozhodnutí společníků bránící některému společníkovi účastnit se rozhodování nemá právní účinky.
+>
+> (2) Rozhodnutí, jímž se mění společenská smlouva, musí být přijato jednomyslně.
+
+**§ 2730**:
+> (1) Společníci si mohou rozdělit působnost při spravování společných záležitostí způsobem, jaký uznají za vhodný. Neučiní-li to, je každý společník vzhledem k těmto záležitostem příkazníkem ostatních společníků.
+>
+> (2) Žádný společník nesmí o své vůli podstatně měnit stav nebo účel společného majetku bez zřetele k výhodnosti takové změny.
+
+**§ 2731**:
+> (1) Správou společných věcí mohou společníci pověřit někoho ze svého středu, anebo i třetí osobu.
+>
+> (2) Byl-li správce jmenován ve společenské smlouvě, lze ho odvolat jen z vážného důvodu, jinak lze jeho pověření zrušit obdobně jako u příkazu.
+
+**§ 2732**:
+> Společník, který není oprávněn ke správě, nesmí nakládat se společným majetkem. Učiní-li tak vůči třetí osobě, která je v dobré víře, nelze se proti ní dovolat neplatnosti právního jednání.
+
+**§ 2733**:
+> Je-li pověřeno více správců, aniž je blíže upravena jejich působnost, jedná každý z nich v záležitostech společnosti samostatně.
+
+**§ 2734**:
+> Správce vede řádně účty a přehled o majetkových poměrech společnosti; společníkům podává pravidelně vyúčtování majetku společnosti včetně příjmů a výdajů, jakož i zisku, anebo ztráty, nejméně jednou za kalendářní rok, nejpozději do dvou měsíců po jeho ukončení.
+
+**§ 2735**:
+> Společník, i když nevykonává správu, se může přesvědčit o hospodářském stavu společnosti, přezkoumat účetní záznamy a jiné doklady, jakož i být informován o společných záležitostech, ale při uplatňování tohoto práva nesmí ani rušit provoz společnosti víc, než je nutné, ani bránit ostatním společníkům při uplatňování téhož práva. Ujednají-li si společníci něco jiného, nepřihlíží se k tomu.
+
+**§ 2736**:
+> Z dluhů vzešlých ze společné činnosti jsou společníci zavázáni vůči třetím osobám společně a nerozdílně.
+
+**§ 2737**:
+> (1) Jedná-li společník ve společné záležitosti s třetí osobou, považuje se za příkazníka všech společníků. Ujednají-li si společníci něco jiného, nelze to namítnout vůči třetí osobě, která jedná v dobré víře.
+>
+> (2) Jednal-li společník ve společné záležitosti s třetí osobou vlastním jménem, mohou ostatní společníci uplatňovat práva z toho vzniklá, třetí osoba je však zavázána jen vůči tomu, kdo s ní právně jednal. To neplatí, bylo-li třetí osobě známo, že společník jedná na účet společnosti.
+
+**§ 2738**:
+> (1) Předstírá-li někdo, že je společníkem, ač jím není, jsou skuteční společníci z jeho jednání vůči třetí osobě zavázáni společně a nerozdílně s ním, jestliže
+>
+> - a) některý ze společníků dal k omylu třetí osoby podnět, nebo
+>
+> - b) společníci mohli při vynaložení potřebné péče takový omyl předvídat, ale žádný z nich neučinil opatření, aby se uvedení třetí osoby v omyl zabránilo.
+>
+> (2) Odstavec 1 se nepoužije, nebyla-li třetí osoba v dobré víře.
+
+**§ 2739**:
+> Společník může ze společnosti vystoupit, a to i bylo-li trvání společnosti ujednáno na dobu určitou; ne však v nevhodné době nebo k újmě ostatních společníků. Z vážných důvodů však může vystoupit kdykoli, a to i když byla dohodnuta výpovědní doba.
+
+**§ 2740**:
+> (1) Poruší-li společník povinnost ze smlouvy podstatným způsobem, může být ze společnosti vyloučen. Vyloučen může být rovněž,
+>
+> - a) bylo-li o jeho majetku zahájeno insolvenční řízení na jeho návrh,
+>
+> - b) přistoupil-li společník k návrhu na zahájení insolvenčního řízení, ve kterém se řeší jeho úpadek nebo hrozící úpadek, nebo
+>
+> - c) bylo-li v insolvenčním řízení rozhodnuto o úpadku společníka.
+>
+> (2) Omezení společníka ve svéprávnosti je důvodem pro vyloučení společníka jen tehdy, je-li tento jeho stav na újmu společnosti.
+
+**§ 2741**:
+> (1) Společník, jehož členství zaniklo, má právo, aby mu bylo vyúčtováno a vydáno vše, co mu ke dni zániku členství náleží. Podíl na majetku nabytém za trvání společnosti se mu vyplatí v penězích.
+>
+> (2) Společník při zániku členství vyúčtuje a vyrovná ostatním společníkům vše, k čemu byl vůči společnosti zavázán.
+
+**§ 2742**:
+> Dědic společníka se nestává společníkem, má však práva stanovená v § 2741.
+
+**§ 2743**:
+> (1) Bylo-li ujednáno, že společenská smlouva platí i pro dědice, vstoupí dědic do společnosti namísto zůstavitele. Takovým ujednáním nelze vázat dědice dědiců.
+>
+> (2) Není-li dědic s to vykonávat pro společnost činnost, k níž se zůstavitel zavázal, může mu být snížena přiměřená část podílu.
+
+**§ 2744**:
+> Společnost zaniká, dohodnou-li se o tom společníci, splní-li se podmínky ujednané ve společenské smlouvě, uplyne-li doba, na kterou byla společnost ujednána, dosáhne-li se účelu, k němuž byla společnost zřízena, anebo stane-li se tento účel nemožným.
+
+**§ 2745**:
+> Zemře-li společník, aniž je ujednáno, že společenská smlouva platí i pro jeho dědice, zaniká společnost, měla-li dva společníky. Má-li společnost více společníků, má se za to, že ostatní společníci chtějí setrvat ve společnosti i nadále.
+
+**§ 2746**:
+> (1) Zanikne-li společnost, podá správce vyúčtování podle § 2734 nejpozději do dvou měsíců od jejího zániku.
+>
+> (2) Společníkům se vydá, co je jejich vlastnictvím, a společný majetek se rozdělí podle ustanovení o vypořádání spoluvlastnictví.
 
 **§ 2718 — Vklady společníků**:
 - **Peněžité, věcné, činnostní**;
@@ -318,7 +576,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 >
 >
-
 **§ 2749 — Vklad**:
 - **Peněžitý** nebo **věcný**;
 - **Vlastnictví vkladu přechází** na podnikatele.
@@ -401,7 +658,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **§ 2765**:
 > Zanikne-li pojistný zájem za trvání pojištění, zanikne i pojištění; pojistitel má však právo na pojistné až do doby, kdy se o zániku pojistného zájmu dozvěděl.
-
 **Pojistný zájem** (*assurable interest*) — **fundamentální podmínka platnosti**:
 - **Vlastní život/zdraví/majetek**: vždy existuje;
 - **Cizí život/zdraví/majetek**: pojistník musí prokázat **oprávněnou potřebu ochrany** (typicky rodinný vztah, ekonomický prospěch).
@@ -440,7 +696,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 > (1) Není-li ujednána doba vzniku pojištění, vzniká pojištění prvním dnem následujícím po dni uzavření smlouvy.
 >
 > (2) Bylo-li ujednáno, že se pojištění vztahuje i na dobu přede dnem uzavření smlouvy, není pojistitel povinen poskytnout pojistné plnění, pokud pojistník v době nabídky věděl nebo vědět měl a mohl, že pojistná událost již nastala, a pojistitel nemá právo na pojistné, pokud v době nabídky věděl nebo měl a mohl vědět, že pojistná událost nastat nemůže.
-
 **§ 2766 — Pojištěný** — osoba, na jejíž hodnotu se pojištění vztahuje.
 
 **§ 2767 — Pojištění cizí hodnoty**:
@@ -558,10 +813,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 **§ 2883**:
 > Ustanovení o nevymahatelnosti pohledávek ze sázky, hry nebo losu a ustanovení o pravomoci soudu výhru snížit se nepoužijí na pohledávky ze sázky, hry nebo loterie provozovaných státem nebo podléhajících úřednímu povolení.
 
->
-
->
-
 **KLÍČOVÉ PRAVIDLO**: závazky ze sázky/hry/losu jsou **NEVYMAHATELNÉ** soudně (*obligatio naturalis*):
 - **§ 2877 — Splněný závazek** lze ponechat (nelze žádat zpět jako bezdůvodné obohacení);
 - **Výjimka**: **úmyslné zneužití** — lze žádat zpět.
@@ -621,7 +872,6 @@ Tato kapitola dokončuje **zvláštní smluvní typy** v OZ. Pokrývá heterogen
 
 **§ 2890**:
 > Slibem odškodnění se slibující zavazuje nahradit příjemci slibu škodu, vznikne-li mu z jeho určitého jednání, o něž ho slibující žádá a k němuž příjemce slibu není povinen.
-
 **§ 2886 — Odvolání** — lze, dokud podmínky nebyly splněny.
 
 **§ 2887 — Více splnitelů**:

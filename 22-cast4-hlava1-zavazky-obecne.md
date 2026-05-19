@@ -98,7 +98,6 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 > (1) Dospějí-li strany při jednání o smlouvě tak daleko, že se uzavření smlouvy jeví jako vysoce pravděpodobné, jedná nepoctivě ta strana, která přes důvodné očekávání druhé strany v uzavření smlouvy jednání o uzavření smlouvy ukončí, aniž pro to má spravedlivý důvod.
 >
 > (2) Strana, která jedná nepoctivě, nahradí druhé straně škodu, nanejvýš však v tom rozsahu, který odpovídá ztrátě z neuzavřené smlouvy v obdobných případech.
-
 **§ 1726 — Neúplná smlouva**: pokud strany ponechaly určité body „na dohodu později", smlouva **vznikla** (a soud dotvořuje obsah dle § 1748), jen pokud:
 - Strany se **dohodly o věci hlavní**;
 - Z jednání je zřejmé, že chtěly být vázány.
@@ -116,11 +115,10 @@ Tato kapitola pokrývá **obecnou část závazkového práva** — jádro prakt
 >
 > (2) Získá-li strana při jednání o smlouvě o druhé straně důvěrný údaj nebo sdělení, dbá, aby nebyly zneužity, nebo aby nedošlo k jejich prozrazení bez zákonného důvodu. Poruší-li tuto povinnost a obohatí-li se tím, vydá druhé straně to, oč se obohatila.
 
->
-
 **§ 1731**:
 > Z návrhu na uzavření smlouvy (dále jen „nabídka“) musí být zřejmé, že ten, kdo jej činí, má úmysl uzavřít určitou smlouvu s osobou, vůči níž nabídku činí.
 
+>
 Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je zneužít** ani prozradit. **Náhrada škody** + **vydání obohacení**.
 
 ### § 1737—1739 — Nesoulad vůle a projevu
@@ -138,7 +136,6 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 >
 > (2) Zemře-li některá ze stran, nebo pozbude-li svéprávnosti uzavřít smlouvu, nabídka zanikne, pokud je to zřejmé z nabídky samé nebo z povahy a účelu navrhované smlouvy.
 >
-
 - **Skutečný obsah smlouvy** (*verus consensus*) má přednost před doslovným zněním;
 - Pravidla výkladu — viz § 555—558 (obecná část).
 
@@ -158,7 +155,6 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **§ 1733**:
 > Projev vůle, který nevyhovuje § 1732, není nabídkou a nemůže být proto přijat. Obsahuje-li projev vůle slib plnění za určitý výkon nebo výsledek, jedná se o veřejný příslib, jinak o pouhou výzvu k podání nabídky. Totéž platí o projevu, který směřuje vůči neurčitému okruhu osob nebo který má povahu reklamy, pokud z něho jasně neplyne něco jiného.
-
 **Nabídka** (*offerta*) — jednostranný projev vůle k uzavření smlouvy:
 - **Určitá** + projevuje **vůli být vázán** akceptací;
 - **Akceptace v lhůtě** vede k uzavření smlouvy.
@@ -189,7 +185,6 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 >
 > (2) Zemře-li některá ze stran, nebo pozbude-li svéprávnosti uzavřít smlouvu, nabídka zanikne, pokud je to zřejmé z nabídky samé nebo z povahy a účelu navrhované smlouvy.
 >
-
 - **§ 1735 — Výslovné přijetí** + lhůta (nebo přiměřená doba);
 - **§ 1737 — Mlčení** = **neakceptace** (rozdíl od starého OZ — princip neztrácení práva mlčenín);
 - **§ 1738 — Pozdní přijetí**: může být **dodatečně přijato** předkladatelem;
@@ -199,6 +194,48 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
   - Předkladatel je **bez zbytečného odkladu neodmítne**.
 
 ### § 1746—1755 — Smlouva o smlouvě budoucí
+
+**§ 1746**:
+> (1) Zákonná ustanovení upravující jednotlivé typy smluv se použijí na smlouvy, jejichž obsah zahrnuje podstatné náležitosti smlouvy stanovené v základním ustanovení pro každou z těchto smluv.
+>
+> (2) Strany mohou uzavřít i takovou smlouvu, která není zvláště jako typ smlouvy upravena.
+
+**§ 1747**:
+> Je-li smlouva bezúplatná, má se za to, že se dlužník chtěl zavázat spíše méně než více.
+
+**§ 1748**:
+> Má se za to, že ujednání, že určitá část obsahu smlouvy bude mezi stranami ujednána dodatečně, je podmínkou účinnosti uzavřené smlouvy.
+
+**§ 1749**:
+> (1) Ujednají-li strany, že určitou náležitost smlouvy určí třetí osoba nebo soud, je takové určení podmínkou účinnosti smlouvy. Neurčí-li třetí osoba náležitost smlouvy v přiměřené lhůtě nebo odmítne-li ji určit, může kterákoli strana navrhnout, aby tuto náležitost určil soud.
+>
+> (2) Při určení náležitosti se přihlédne k účelu, který smlouva zřejmě sleduje, k okolnostem, za nichž byla smlouva uzavírána, jakož i k tomu, aby byly práva a povinnosti stran poctivě uspořádány.
+
+**§ 1750**:
+> Nenavrhne-li oprávněná strana doplnění obsahu smlouvy v ujednané lhůtě, jinak do jednoho roku od uzavření smlouvy, má se za to, že se smlouva od počátku ruší.
+
+**§ 1751**:
+> (1) Část obsahu smlouvy lze určit odkazem na obchodní podmínky, které navrhovatel připojí k nabídce nebo které jsou stranám známy. Odchylná ujednání ve smlouvě mají před zněním obchodních podmínek přednost.
+>
+> (2) Odkáží-li strany v nabídce i v přijetí nabídky na obchodní podmínky, které si odporují, je smlouva přesto uzavřena s obsahem určeným v tom rozsahu, v jakém obchodní podmínky nejsou v rozporu; to platí i v případě, že to obchodní podmínky vylučují. Vyloučí-li to některá ze stran nejpozději bez zbytečného odkladu po výměně projevů vůle, smlouva uzavřena není.
+>
+> (3) Při uzavření smlouvy mezi podnikateli lze část obsahu smlouvy určit i pouhým odkazem na obchodní podmínky vypracované odbornými nebo zájmovými organizacemi.
+
+**§ 1752**:
+> (1) Uzavírá-li strana v běžném obchodním styku s větším počtem osob smlouvy zavazující dlouhodobě k opětovným plněním stejného druhu s odkazem na obchodní podmínky a vyplývá-li z povahy závazku již při jednání o uzavření smlouvy rozumná potřeba jejich pozdější změny, lze si ujednat, že strana může obchodní podmínky v přiměřeném rozsahu změnit. Ujednání je platné, pokud bylo předem alespoň ujednáno, jak se změna druhé straně oznámí a pokud se této straně založí právo změny odmítnout a závazek z tohoto důvodu vypovědět ve výpovědní době dostatečné k obstarání obdobných plnění od jiného dodavatele; nepřihlíží se však k ujednání, které s takovou výpovědí spojuje zvláštní povinnost zatěžující vypovídající stranu.
+>
+> (2) Nebyl-li ujednán rozsah změn obchodních podmínek, nepřihlíží se ke změnám vyvolaným takovou změnou okolností, kterou již při uzavření smlouvy strana odkazující na obchodní podmínky musela předpokládat, ani ke změnám vyvolaným změnou jejích osobních nebo majetkových poměrů.
+
+**§ 1753**:
+> Ustanovení obchodních podmínek, které druhá strana nemohla rozumně očekávat, je neúčinné, nepřijala-li je tato strana výslovně; k opačnému ujednání se nepřihlíží. Zda se jedná o takové ustanovení, se posoudí nejen vzhledem k jeho obsahu, ale i ke způsobu jeho vyjádření.
+
+**§ 1754**:
+> (1) Použijí-li strany ve smlouvě doložku upravenou v užívaných vykládacích pravidlech, má se za to, že touto doložkou zamýšlely vyvolat právní účinky stanovené vykládacími pravidly, na něž se ve smlouvě odvolaly, popřípadě těmi vykládacími pravidly, která se s přihlédnutím k povaze smlouvy obvykle používají.
+>
+> (2) Není-li jedna ze stran smlouvy podnikatelem, lze se vůči této straně dovolat významu doložky, jen pokud se prokáže, že její význam musel být této straně znám.
+
+**§ 1755**:
+> Vzdá-li se strana všeobecně námitek proti platnosti smlouvy, nepřihlíží se k tomu.
 
 **Smlouva o smlouvě budoucí** (*pactum de contrahendo*) — § 1785—1788:
 - **Předmět**: závazek uzavřít **budoucí smlouvu**;
@@ -292,12 +329,15 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 > **Spotřebitel** (§ 419) = člověk, který mimo rámec své podnikatelské činnosti nebo mimo rámec samostatného výkonu povolání uzavírá smlouvu s podnikatelem.
 > **Podnikatel** (§ 420—422) = osoba, která samostatně vykonává na vlastní účet a odpovědnost výdělečnou činnost.
+
 **Asymetrie**: spotřebitel = **slabší strana**; podnikatel = **silnější strana** s vyššími povinnostmi.
 
 ### § 1813—1817 — Zákaz zneužívajících ustanovení
 
 **§ 1813**:
-> Má se za to, že zakázána jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele.
+> (1) Zneužívající jsou ujednání, která zakládají v rozporu s požadavkem poctivosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele. To neplatí pro ujednání o hlavním předmětu závazku ani pro posouzení přiměřenosti vzájemného plnění, pokud jsou spotřebiteli poskytnuty jasným a srozumitelným způsobem.
+>
+> (2) Zneužívající povaha ujednání se posoudí zejména s ohledem na povahu předmětu závazku, na ostatní smluvní ujednání a na všechny okolnosti při uzavření smlouvy, i s ohledem na ujednání obsažená v jiné smlouvě, na které dané ujednání závisí.
 
 **§ 1814**:
 > (1) Zneužívající jsou vždy ujednání, která
@@ -350,6 +390,9 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **§ 1817**:
 > Podnikatel nesmí po spotřebiteli požadovat další platbu, než kterou je spotřebitel povinen uhradit na základě hlavního smluvního závazku, pokud spotřebitel nedal k této další platbě před uzavřením smlouvy výslovný souhlas. Z předem připraveného nastavení, které by spotřebitel musel odmítnout, nelze výslovný souhlas dovodit.
+
+> Má se za to, že zakázána jsou ujednání, která zakládají v rozporu s požadavkem přiměřenosti významnou nerovnováhu práv nebo povinností stran v neprospěch spotřebitele.
+
 **Generální klauzule nepřiměřenosti** — paralela ke směrnici 93/13/EHS čl. 3.
 
 **Demonstrativní seznam zneužívajících ustanovení** (§ 1814):
@@ -367,9 +410,6 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **§ 1819**:
 > Textová podoba je zachována, jsou-li údaje poskytnuty na listině nebo na jiném trvalém nosiči dat, který umožňuje adresátovi uchovat jemu určené údaje tak, aby mohly být využívány po dobu přiměřenou jejich účelu, a který umožňuje jejich nezměněnou reprodukci.
-
->
->
 
 **§ 1820**:
 > (1) Směřuje-li jednání stran k uzavření smlouvy a používá-li při něm podnikatel výhradně alespoň jeden komunikační prostředek, který umožňuje uzavřít smlouvu bez současné fyzické přítomnosti stran (dále jen „prostředek komunikace na dálku“), nebo směřuje-li takové jednání k uzavření smlouvy mimo prostor obvyklý pro podnikatelovo podnikání, sdělí podnikatel spotřebiteli v dostatečném předstihu před uzavřením smlouvy nebo před tím, než spotřebitel učiní závaznou nabídku,
@@ -421,8 +461,8 @@ Strana, která **získala důvěrné informace** v rámci jednání, **nesmí je
 
 **§ 1822**:
 > Údaje o obsahu závazku, které podnikatel sdělil spotřebiteli před uzavřením smlouvy, se stávají obsahem smlouvy, ledaže si strany výslovně ujednaly určitou náležitost jinak.
->
 
+>
 Podnikatel musí **před uzavřením smlouvy** **jasně sdělit**:
 - Hlavní vlastnosti zboží/služby;
 - Identifikační údaje;
@@ -517,7 +557,6 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 >
 > (2) Bylo-li ujednáno, že kterýkoli z věřitelů může žádat celé plnění, splní dlužník celý dluh tomu, kdo o splnění požádal první. Splnil-li dlužník celý dluh jednomu ze spoluvěřitelů, nemohou již ostatní po něm nic požadovat.
 >
-
 **Princip dělitelnosti** plnění: pokud více dlužníků/věřitelů a plnění je dělitelné → každý je vázán/oprávněn **stejnou částí** (dispozitivně).
 
 ### § 1872—1878 — Solidarita
@@ -552,12 +591,10 @@ Spotřebitel **nemůže odstoupit** od smlouvy o:
 
 >
 
->
->
-
 > Věřitel může žádat **plné plnění od kteréhokoliv** ze solidárních dlužníků.
 
 > Každý věřitel může žádat **plné plnění**; splněním jednomu zaniká dluh vůči všem.
+
 **Předpoklad solidarity**:
 - **Smluvní**: výslovně ujednáno;
 - **Zákonná**: stanoví zákon (např. solidární dlužníci u dědictví — § 1701, ze závazku z deliktu více pachatelů — § 2915);
@@ -782,7 +819,6 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 >
 > (2) Převyšuje-li obvyklá cena jistoty zřejmě výši zajištěného dluhu, vyplatí věřitel osobě, která jistotu poskytla, částku odpovídající rozdílu; přitom si započte náklady, které v souvislosti s výkonem zajišťovacího převodu práva účelně vynaložil. Neobsahuje-li smlouva o zajišťovacím převodu práva údaj o výši dluhu a hodnověrné ocenění práva převedeného k zajištění, je na věřiteli, aby dokázal, že obvyklá cena jistoty výši zajištěného dluhu zřejmě nepřevyšuje.
 >
-
 **Zajišťovací převod** (*fiducia*) — **převod vlastnického práva věřiteli** s povinností **vrátit po splacení dluhu**:
 - Funkčně podobné zástavnímu právu;
 - Méně formální (bez zápisu);
@@ -801,13 +837,12 @@ Promlčení samo o sobě **nezpůsobuje zánik závazku** (závazek trvá jako *
 **§ 2047**:
 > Ustanovení § 2045 a 2046 se použijí i pro jiné příjmy, s nimiž se při výkonu rozhodnutí nakládá jako se mzdou nebo platem.
 
->
-
 **§ 2048**:
 > (1) Ujednají-li strany pro případ porušení smluvené povinnosti smluvní pokutu v určité výši nebo způsob, jak se výše smluvní pokuty určí, může věřitel požadovat smluvní pokutu bez zřetele k tomu, zda mu porušením utvrzené povinnosti vznikla škoda. Smluvní pokuta může být ujednána i v jiném plnění než peněžitém.
 >
 > (2) K ujednání, kterým se zavázal k plnění smluvní pokuty nezletilý, který v době ujednání nedovršil patnácti let, se nepřihlíží.
 
+>
 **Srážky ze mzdy** — zaměstnanec dává souhlas, aby zaměstnavatel **strhával** část mzdy přímo věřiteli:
 - Forma: písemná;
 - Limit: **nikoliv více než ½ čisté mzdy** (§ 2046);

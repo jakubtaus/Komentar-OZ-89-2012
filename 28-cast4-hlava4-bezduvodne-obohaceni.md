@@ -102,7 +102,6 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 
 **§ 2998**:
 > Plnila-li strana vědomě proto, aby druhá strana něco vykonala za účelem zakázaným nebo zcela nemožným, nemá právo požadovat, aby jí to bylo vráceno. Dal-li však někdo, aby zabránil protiprávnímu činu, něco tomu, kdo se chtěl činu dopustit, může požadovat vrácení.
-
 **§ 2995 — Obohacení třetí osoby**: pokud bylo plnění **třetí osobě** (omylem nebo donucením), pak třetí osoba vrací jen tehdy:
 - Donucení **lstí, hrozbou, zneužitím závislosti**;
 - Plnitel nesvéprávný.
@@ -136,7 +135,6 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 > (1) Plnila-li strana podle úplatné smlouvy, byť nebyla platná, není její právo na peněžitou náhradu vůči druhé straně ustanoveními § 3000 a 3001 dotčeno. To platí i v případě, že byl závazek z takové smlouvy zrušen.
 >
 > (2) Užíval-li věc nabytou podle úplatné smlouvy poctivý příjemce a je-li smlouva neplatná, poskytne druhé straně náhradu za užívání, avšak jen do výše odpovídající jeho prospěchu.
-
 **§ 2999 — Peněžitá náhrada** (pokud nelze vydat věc):
 - Výše **obvyklé ceny** předmětu obohacení;
 - **Výjimka**: pokud by to bylo **v rozporu s účelem** pravidla neplatnosti (např. neúmyslné lichvářské úroky);
@@ -163,9 +161,6 @@ Tato kapitola pokrývá **závěrečnou hlavu závazkového práva** — závazk
 ### § 3005 — Náklady obohaceného
 
 > Kdo předmět bezdůvodného obohacení vydává, má právo na náhradu nutných nákladů, které na věc vynaložil, a může od věci oddělit vše, čím ji na svůj náklad zhodnotil, je-li to možné bez zhoršení podstaty věci.
-
->
->
 
 Obohacený, který vydává předmět, má právo na:
 - **Náhradu nutných nákladů**;
@@ -232,7 +227,6 @@ Obohacený, který vydává předmět, má právo na:
 
 **§ 3011**:
 > Nemá-li nepřikázaný jednatel právo na náhradu nákladů, může si vzít, co pořídil na vlastní náklady, je-li to možné a nezhorší-li se tím podstata věci nebo neztíží-li se nepřiměřeně její užívání.
-
 **§ 3010 — Dokončení**: jednatel **dovede záležitost do konce** + **vyúčtování**.
 
 **§ 3011 — *Ius tollendi*** (právo odnětí): pokud nemá nárok na náhradu, může si **vzít zpět** to, co pořídil na vlastní náklady (jako § 3005).

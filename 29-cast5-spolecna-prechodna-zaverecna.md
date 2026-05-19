@@ -111,6 +111,32 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 ### § 3022—3027 — Další společná ustanovení
 
+**§ 3022**:
+> (1) Ustanovení tohoto zákona o právech a povinnostech zákonného zástupce platí obdobně i pro opatrovníka podle části druhé.
+>
+> (2) Ustanovení tohoto zákona o opatrovnické radě se použijí i při jmenování poručníka, vznik rady i volba jejích členů se však stanou účinnými, pokud je schválí soud; přitom se vyžaduje, aby takové opatření bylo v souladu se zájmy dítěte.
+
+**§ 3023**:
+> Ustanovení tohoto zákona o vlastníku pozemku platí obdobně pro vlastníka nemovité věci, která není součástí pozemku.
+
+**§ 3024**:
+> (1) Za zahraniční osobu se považuje fyzická osoba s bydlištěm nebo právnická osoba se sídlem mimo území České republiky.
+>
+> (2) Způsobilost nabývat práva a zavazovat se k povinnostem, kterou má jiná než fyzická zahraniční osoba podle právního řádu, podle něhož byla založena, jí náleží rovněž v oblasti českého právního řádu. Právním řádem, podle něhož byla tato osoba založena, se řídí i její vnitřní právní poměry a ručení jejích členů nebo společníků za její dluhy.
+
+**§ 3025**:
+> (1) Ustanovení tohoto zákona o právnických osobách a spolku se použijí na odborové organizace a organizace zaměstnavatelů přiměřeně jen v tom rozsahu, v jakém to neodporuje jejich povaze zástupců zaměstnanců a zaměstnavatelů podle mezinárodních smluv, kterými je Česká republika vázána a které upravují svobodu sdružování a ochranu práva svobodně se sdružovat.
+>
+> (2) Odborová organizace a organizace zaměstnavatelů vznikají dnem následujícím po dni, v němž bylo doručeno příslušnému orgánu veřejné moci oznámení o jejich založení; to platí obdobně, pokud dochází ke změně nebo zániku odborové organizace.
+
+**§ 3026**:
+> (1) Nevylučuje-li to povaha písemnosti, platí ustanovení tohoto zákona o listině obdobně i pro jinou písemnost bez zřetele na její podobu.
+>
+> (2) Vyžaduje-li právní jednání formu veřejné listiny, rozumí se jí notářský zápis; nahrazen může být rozhodnutím, kterým orgán veřejné moci v mezích své pravomoci schvaluje smír nebo jiný projev vůle, jehož povaha to nevylučuje.
+
+**§ 3027**:
+> Zakládá-li tento zákon věřiteli právo na dostatečnou jistotu a neujednají-li věřitel a dlužník nebo jiná osoba poskytující zajištění její předmět nebo výši, rozhodne o dostatečné jistotě soud s přihlédnutím k povaze a výši pohledávky.
+
 **§ 3022 — Opatrovník** = obdobná pravidla zákonného zástupce (odkaz na rodinné právo).
 
 **§ 3023 — Vlastník nemovité věci** = obdobné jako vlastník pozemku (pro nemovitosti, které nejsou součástí pozemku — typicky stavby s právem stavby).
@@ -154,6 +180,14 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 
 ### § 3029—3030 — Vztah k jiným předpisům
 
+**§ 3029**:
+> (1) Dovolávají-li se právní předpisy ustanovení, která se tímto zákonem zrušují, vstupují na jejich místo jim odpovídající ustanovení tohoto zákona.
+>
+> (2) Nestanoví-li tento zákon něco jiného, nejsou dotčena ustanovení právních předpisů z oboru práva veřejného, jakož i ustanovení jiných právních předpisů upravujících zvláštní soukromá práva.
+
+**§ 3030**:
+> I na práva a povinnosti, která se posuzují podle dosavadních právních předpisů, se použijí ustanovení části první hlavy I.
+
 **§ 3029** — Odkazy na zrušené předpisy → nahrazují odpovídající ustanovení OZ.
 
 **§ 3030** — **Část první Hlava I (zásady)** se použije **i na poměry dle starého práva**:
@@ -163,6 +197,25 @@ Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - Aplikuje se **retroaktivně** v rovině výkladu.
 
 ### § 3031—3035 — Specifika
+
+**§ 3031**:
+> Bylo-li zahájeno řízení podle § 5 zákona č. 40/1964 Sb., občanského zákoníku, ve znění pozdějších předpisů, dokončí se podle dosavadních právních předpisů.
+
+**§ 3032**:
+> (1) Kdo byl podle dosavadních právních předpisů zbaven způsobilosti k právním úkonům, považuje se ode dne nabytí účinnosti tohoto zákona za osobu omezenou ve svéprávnosti podle tohoto zákona.
+>
+> (2) Kdo byl podle dosavadních právních předpisů omezen ve způsobilosti k právním úkonům, považuje se ode dne nabytí účinnosti tohoto zákona za osobu omezenou ve svéprávnosti podle tohoto zákona a je i napříště způsobilý právně jednat v rozsahu stanoveném dosavadními právními předpisy, nerozhodne-li soud podle tohoto zákona jinak.
+
+**§ 3033**:
+> (1) Osoby, které byly zbaveny způsobilosti k právním úkonům přede dnem nabytí účinnosti tohoto zákona nebo jejichž způsobilost k právním úkonům byla přede dnem nabytí účinnosti tohoto zákona omezena, nabudou svéprávnosti nejpozději uplynutím pěti let ode dne nabytí účinnosti tohoto zákona, ledaže soud rozhodne jinak.
+>
+> (2) Dokud jiný právní předpis nestanoví něco jiného, přechází opatrovnictví podle § 468 na obec, na jejímž území má opatrovanec bydliště.
+
+**§ 3034**:
+> Projevil-li svéprávný v očekávání vlastní nezpůsobilosti právně jednat ještě přede dnem nabytí účinnosti tohoto zákona přání, aby jeho opatrovníkem byla určitá osoba, platí pro rozhodování o omezení svéprávnosti za účinnosti tohoto zákona § 59. Obdobně platí § 469 pro rozhodování o opatrovníku právnické osoby.
+
+**§ 3035**:
+> Bylo-li přede dnem nabytí účinnosti tohoto zákona zahájeno řízení o osvojení, dokončí se podle dosavadních právních předpisů. Úkony, které byly provedeny v rámci přípravného řízení směřujícího k osvojení, se posoudí podle tohoto zákona; to neplatí, jedná-li se o udělení souhlasu rodičů k osvojení nebo o rozhodnutí soudu o tom, že tohoto souhlasu není třeba.
 
 - **§ 3031** — Řízení o vyhlášení za mrtvého — dokončí se podle starého OZ.
 - **§ 3032 — Způsobilost k právním úkonům** → automaticky přechází na **omezení svéprávnosti**.

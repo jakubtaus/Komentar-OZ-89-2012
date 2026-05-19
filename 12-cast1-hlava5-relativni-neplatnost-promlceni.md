@@ -89,7 +89,6 @@ Příklad: zánik smlouvy o dílo + vznik práva na zaplacení ceny → současn
 **§ 604**:
 > Změna v osobě věřitele nebo dlužníka nemá vliv na běh doby nebo lhůty.
 >
-
 **§ 602 — Obvyklá denní doba**: má-li se právo vykonat / povinnost splnit v určitý den nebo do určitého dne, **v obvyklou denní dobu** (např. během pracovní doby), ledaže zvyklosti nebo praxe stran stanoví jinak.
 
 **§ 603 — Zánik uplynutím doby**: práva a povinnosti zanikají uplynutím doby, na kterou byly omezeny. Bez nutnosti zvláštního aktu — automatický zánik.
@@ -138,10 +137,6 @@ Příklady:
 
 **§ 608**:
 > Lhůta nebo doba určená v kratších časových jednotkách, než jsou dny, se počítá od okamžiku, kdy začne, do okamžiku, kdy skončí.
-
->
-
->
 
 **§ 606 — Polovina měsíce**:
 - **15 dnů** = polovina měsíce;

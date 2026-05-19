@@ -73,7 +73,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 > (1) Není-li to v rozporu se zájmy dítěte, jmenuje soud poručníkem toho, koho naznačili rodiče, ledaže tato osoba poručenství odmítne. Jinak soud jmenuje poručníkem některou z osob příbuzných nebo blízkých dítěti nebo jeho rodině, ledaže rodič takovou osobu výslovně vyloučil. Není-li takové osoby, jmenuje soud poručníkem jiného vhodného člověka.
 >
 > (2) Fyzická osoba, kterou soud jmenoval, může své jmenování do funkce poručníka odmítnout. Soud pak jmenuje jinou osobu.
-
 **§ 930 — Neprodlené jmenování**:
 - Soud jmenuje **neprodleně** po zjištění potřeby;
 - Při smrti / nezpůsobilosti / odvolání poručníka → § 929 (OSPOD) platí znovu obdobně;
@@ -115,7 +114,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 > (1) Každé rozhodnutí poručníka v nikoli běžné záležitosti týkající se dítěte musí být schváleno soudem. K právnímu jednání poručníka, k němuž schází potřebný souhlas soudu, se nepřihlíží.
 >
 > (2) Poručník podává soudu pravidelně zprávy o osobě dítěte a o jeho vývoji a předkládá účty ze správy jeho jmění, a to alespoň jednou za rok, neurčí-li soud období kratší. Soud může poručníka zprostit povinnosti podávat podrobné vyúčtování spravovaného jmění, nepřesahují-li výnosy majetku pravděpodobné náklady na zachování majetku a na výchovu a výživu dítěte.
-
 **§ 933**:
 - **Odpovědnost** za řádné plnění;
 - **Stálý dohled soudu**;
@@ -143,7 +141,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 > (1) Soud odvolá poručníka, který porušuje své poručnické povinnosti.
 >
 > (2) Soud zváží odvolání poručníka, zjistí-li důvody, pro které není vhodné, aby poručník svou funkci nadále vykonával.
-
 **§ 935 — Zánik poručenství**:
 - **Rodič nabude rodičovskou odpovědnost** (návrat rodiče);
 - **Zletilost / svéprávnost** dítěte;
@@ -180,9 +177,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **§ 942**:
 > Nebyl-li opatrovník pro správu jmění jmenován, použijí se ustanovení týkající se opatrovníka pro správu jmění obdobně pro poručníka, který pečuje o jmění dítěte, ledaže je v ustanoveních týkajících se poručníka stanoveno jinak.
-
->
->
 
 **§ 938 — Předání po skončení**: do **6 měsíců** předat soudu vše + závěrečná zpráva + účet ze správy jmění. Při smrti — dědic nebo držitel věcí.
 
@@ -230,7 +224,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **§ 947**:
 > Opatrovníka, který nebyl jmenován jen k určitému právnímu jednání, zprostí soud jeho funkce i tehdy, netrvá-li již potřeba, která vedla k jeho jmenování.
-
 **§ 944**: pro opatrovnictví dítěte platí **přiměřeně** ustanovení o poručenství.
 
 **§ 945 — Obsah rozhodnutí o jmenování**:
@@ -277,9 +270,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **§ 952**:
 > Zanikne-li opatrovnictví pro správu jmění, platí o povinnostech toho, kdo vykonával funkci opatrovníka, ustanovení § 938 odst. 1 obdobně. Zemřel-li opatrovník, použije se obdobně ustanovení § 938 odst. 2.
-
->
->
 
 **§ 949 — Péče řádného hospodáře** + zákaz nepřiměřených rizik.
 
@@ -331,7 +321,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **§ 957**:
 > Pokud není možné rodičům nebo ostatním příbuzným uložit vyživovací povinnost k dítěti, ustanovení § 953 až 956 se nepoužijí.
-
 **§ 954**: pečující osoba musí:
 - **Skýtat záruky** řádné péče;
 - **Bydliště v ČR**;
@@ -380,7 +369,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 > (1) Rodiče mají vůči dítěti povinnosti a práva vyplývající z rodičovské odpovědnosti, s výjimkou práv a povinností, které zákon stanoví pěstounovi, ledaže soud z důvodů hodných zvláštního zřetele rozhodne jinak.
 >
 > (2) Rodiče mají právo se s dítětem pravidelně stýkat i právo na informace o dítěti, ledaže soud z důvodů hodných zvláštního zřetele rozhodne jinak.
-
 **§ 959**: soud rozhoduje **na dobu trvání překážky** bránící rodičům. **Rodič může požadovat dítě zpět**; soud vyhoví, je-li to v souladu se zájmy dítěte.
 
 **§ 960 — Vztah s rodiči**:
@@ -426,7 +414,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 > (2) Souhlasu druhého manžela ke svěření dítěte do pěstounské péče není třeba, jestliže druhý z manželů není plně svéprávný nebo je-li opatření jeho souhlasu spojeno s těžko překonatelnou překážkou.
 >
 > (3) Na osobní péči o dítě v pěstounské péči se podílí i manžel pěstouna, pokud žije v rodinné domácnosti.
-
 **§ 962**: pěstoun musí:
 - **Skýtat záruky** řádné péče;
 - **Bydliště v ČR**;
@@ -457,7 +444,6 @@ Závěr Části druhé OZ — **hierarchie náhradních forem péče** o dítě,
 
 **§ 968**:
 > Dítě svěřené do pěstounské péče pomáhá podle svých možností a schopností v pěstounově domácnosti; má-li vlastní příjem, přispívá i na úhradu společných potřeb rodiny.
-
 **§ 966**:
 - **Osobní péče** povinná i oprávněná;
 - **Přiměřené uplatnění práv rodiče** (kromě výhradních pravomocí rodičů);
@@ -480,7 +466,6 @@ To je **klíčový princip** — pěstoun **nesmí izolovat** dítě od biologic
 
 **§ 970**:
 > Pěstounská péče zaniká nejpozději, nabude-li dítě plné svéprávnosti, jinak jeho zletilostí.
-
 **§ 969 — Změna poměrů**:
 - Podstatná změna / neshoda rodič × pěstoun → návrh soudu na **změnu / zrušení** péče;
 - Aktivní legitimace: **dítě, rodič, pěstoun**.

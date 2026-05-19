@@ -212,7 +212,6 @@ Informování: **beneficient + osoba dohlížející**.
 
 **§ 1418**:
 > Soud může při určení náhrady škody správci rozsah náhrady snížit jen se zřetelem k okolnostem, za nichž byla správa přijata, anebo pokud správce vykonává správu bezúplatně, případně je-li správce nezletilý nebo je-li jeho svéprávnost omezena.
-
 - **§ 1417**: nehradí škodu z **vyšší moci**, **stárnutí**, přirozeného vývoje, běžného opotřebení;
 - **§ 1418**: soud může **snížit náhradu** s ohledem na:
   - Okolnosti přijetí správy;
@@ -340,7 +339,6 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **§ 1441**:
 > Kdo správce ustavil, může jej odvolat prohlášením učiněným v písemné formě.
-
 **§ 1440 — Odstoupení**:
 - Účinky doručením osobě oprávněné povolat nového správce;
 - **Zákaz odstoupení v nevhodnou dobu** — sankce: náhrada škody dle části čtvrté (§ 2913);
@@ -360,7 +358,6 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 > (1) Zemře-li správce nebo zanikne-li, oznámí osoba, která má povinnost zařídit správcovy záležitosti, bez zbytečného odkladu poté, co se o správcově smrti nebo zániku dozví, zánik správy tomu, kdo správce správou pověřil, jakož i beneficientovi a další osobě, o níž to bylo ujednáno nebo stanoveno zákonem. To platí i tehdy, zanikla-li správa proto, že správce byl ve svéprávnosti omezen.
 >
 > (2) Kdo má povinnost oznámení podle odstavce 1, učiní vše, co je jinak oprávněn nebo povinen učinit při zániku správy správce.
-
 **§ 1442 — Ochrana dobré víry** o trvání správy: zavazuje beneficienta, pokud druhá strana byla v dobré víře.
 
 **§ 1443** — Při skončení správy správce učiní **vše potřebné** k zamezení ztráty (administrace fáze ukončení).
@@ -379,9 +376,6 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **§ 1447**:
 > K majetku, který je povinen vydat, má správce zadržovací právo k zajištění svých pohledávek ze správy. Má-li však správce vydat peněžní prostředky, započte svoji případnou pohledávku proti vzájemné pohledávce beneficienta.
-
->
->
 
 **§ 1445** — Závěrečné **vyúčtování** beneficientovi + nastupujícímu správci.
 
@@ -549,7 +543,6 @@ Pokud někdo **předstírá**, že jiná osoba je správcem jeho majetku → ze 
 
 **§ 1462**:
 > Jednalo-li se o právo na plody nebo užitky a není-li jiný obmyšlený, na něhož by takové právo mohlo přejít, přechází na obmyšlené, jimž náleží právo na majetek ze svěřenského fondu.
-
 **§ 1459** — Vznik práva na plnění **podle statutu**.
 
 ### § 1460 — Limit 100 let
