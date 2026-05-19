@@ -234,7 +234,7 @@ Platí pro nájmy bytů určených **k bydlení** (nikoli k podnikání nebo rek
 
 **§ 2236 — Označení**: i pokud strany označily nesprávně, **rozhoduje skutečný účel užívání**.
 
-### § 2237—2241 — Zakázaná ujednání
+### § 2237—2239 — Zakázaná ujednání
 
 **§ 2237**:
 > Smlouva vyžaduje písemnou formu; pronajímatel však nemá právo namítnout vůči nájemci neplatnost smlouvy pro nedostatek formy.

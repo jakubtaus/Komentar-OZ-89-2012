@@ -40,6 +40,8 @@
 
 ### § 3016 — Vztah ke spotřebitelské ochraně
 
+> Ustanoveními tohoto zákona nejsou dotčena ustanovení jiných právních předpisů o ochraně spotřebitele.
+
 **Subsidiarita OZ vůči zvláštní spotřebitelské legislativě**:
 - Zákon č. 634/1992 Sb. o ochraně spotřebitele;
 - Zákon č. 257/2016 Sb. o spotřebitelském úvěru;
@@ -50,11 +52,15 @@
 
 ### § 3017 — Rozhodčí řízení
 
+> Ustanovení tohoto zákona, která se týkají uplatnění práva u soudu nebo soudního řízení či soudního rozhodnutí, se obdobně použijí i pro uplatnění práva před rozhodcem, pro rozhodčí řízení nebo pro rozhodčí nález.
+
 Ustanovení o **uplatnění práva u soudu** se použijí **obdobně** pro:
 - **Rozhodčí řízení** (zákon č. 216/1994 Sb. o rozhodčím řízení);
 - **Mediaci** (zákon č. 202/2012 Sb. o mediaci).
 
 ### § 3018 — Zveřejnění
+
+> Povinnost zveřejnit údaje je splněna jejich zveřejněním v Obchodním věstníku, nestanoví-li jiný právní předpis jinak.
 
 **Obchodní věstník** je výchozím médiem pro publikační povinnosti — nestanoví-li jiný zákon jinak. (Praktický význam: kapitálové změny, převody závodu, fúze.)
 

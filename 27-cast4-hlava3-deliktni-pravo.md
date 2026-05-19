@@ -205,6 +205,8 @@ OZ rozlišuje **tři typy škodlivého jednání**:
 
 ### § 2919 — Obohacení po promlčení
 
+> Obohatil-li se škůdce na úkor poškozeného protiprávním činem nebo na základě jiné skutečnosti, která způsobila škodu, je škůdcovo obohacení i po promlčení práva poškozeného na náhradu škody bezdůvodné. Promlčí-li se právo poškozeného na náhradu škody, může se poškozený domáhat, aby mu škůdce vydal, co získal, podle ustanovení o bezdůvodném obohacení.
+
 Pokud se škůdce **obohatil** a právo poškozeného se promlčelo → poškozený může žádat **vydání obohacení** dle § 2991 a násl. (bezdůvodné obohacení).
 
 ---
